@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1977-02-10"
+last_updated: "1979-12-03"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -82,15 +82,7 @@ La ley podrá erigir en Departamentos las Intendencias y Comisarías, si se llen
 
 ##### **ARTÍCULO 7º.** Fuera de la división general del territorio habrá otras, dentro de los límites de cada Departamento, para arreglar el servicio público.
 
-Las divisiones relativas a lo fiscal, lo militar, la instrucción pública, la planificación y el desarrollo económico y social, podrán no coincidir con la división general.
-
-**ARTÍCULO 7º.** Fuera de la división general del territorio, habrá otras dentro de los límites de cada Departamento, para arreglar el servicio público.
-
-Las divisiones relativas a lo fiscal, lo militar, la instrucción pública y el fomento de la economía podrán no coincidir con la división general.
-
-**Artículo 7º.** Fuera de la división general del Territorio habrá otras dentro de los límites de cada Departamento, para arreglar el servicio público.
-
-Las divisiones relativas a lo fiscal, lo militar y la instrucción pública, podrán no coincidir con la división general.
+Las divisiones relativas a lo fiscal, lo militar, la instrucción pública, la administración de justicia, la planificación y el desarrollo económico y social podrán no coincidir con la división general.
 
 ## **Título II. De los habitantes: nacionales y extranjeros**
 
@@ -220,13 +212,11 @@ Las autoridades inspeccionarán las industrias y profesiones en lo relativo a la
 
 ##### **Artículo 46.** Toda parte del pueblo puede reunirse o congregarse pacíficamente. La autoridad podrá disolver toda reunión que degenere en asonada o tumulto, o que obstruya las vías públicas.
 
-##### **Artículo 47°** modificado por Artículo 34° ACTO LEGISLATIVO NUMERO 1 DE 1936.
-
-**Artículo 47.** Es permitido formar compañías o asociaciones públicas o privadas que no sean contrarias a la moralidad ni al orden legal.
+##### **Artículo 47°.**
 
 Son prohibidas las juntas políticas populares de carácter permanente.
 
-Las asociaciones religiosas deberán presentar a la autoridad civil; para que puedan quedar bajo la protección de las leyes, autorización expedida por la respectiva superioridad eclesiástica.
+Mediante ley aprobada por dos tercios de los votos de los asistentes, se podrá reglamentar el funcionamiento de los partidos políticos y disponer que el Estado asuma, total o parcialmente, sus gastos electorales. La ley podrá igualmente estimular el ejercicio de la función del sufragio y aún establecer el voto obligatorio.
 
 ##### **Artículo 48.** Sólo el Gobierno puede introducir, fabricar y poseer armas y municiones de guerra.
 
@@ -256,27 +246,23 @@ Son ramas del Poder Público la Legislativa, la Ejecutiva y la Jurisdiccional. E
 
 ##### **Artículo 57°**. Derogado.
 
-##### **Artículo 58°.** La potestad de hacer leyes reside en el Congreso.
+##### **Artículo 58°.**
 
-**Artículo 58.** La potestad de hacer leyes reside en el Congreso.
+La Corte Suprema de Justicia, el Consejo de Estado, los Tribunales Superiores de Distrito, los Tribunales y los Juzgados que establezca la ley administran justicia.
 
-El Congreso se compone del Senado y la Cámara de Representantes.
+El Senado ejerce determinadas funciones judiciales.
 
-##### **Artículo 59°.**
+La administración de justicia es un servicio público a cargo de la Nación.
+
+##### Artículo 59°.
 
 La vigilancia de la gestión fiscal de la Administración corresponde a la Contraloría General de la República y se ejercerá conforme a la ley.
 
 La Contraloría no ejercerá funciones administrativas distintas de las inherentes a su propia organización.
 
-El Contralor General de la República será elegido, para períodos de cuatro años, por la Cámara de Representantes.
+El Contralor General de la República será elegido para un período de cuatro años por la Cámara de Representantes y no podrá ser reelegido en ningún caso para el período inmediato, ni continuar en ejercicio del cargo al vencimiento de su mandato.
 
 Para ser elegido Contralor General de la República se requiere ser colombiano del nacimiento y en ejercicio de la ciudadanía; tener más de 35 años de edad; tener título universitario en derecho o en ciencias económicas o financieras. Además, haber desempeñado en propiedad alguno de los cargos de Ministro del Despacho, Magistrado de la Corte Suprema de Justicia, Consejero de Estado, Contralor General de la República; o haber sido miembro del Congreso Nacional, por lo menos durante cuatro años, o profesor universitario en las cátedras de ciencias jurídico-económicas, durante un tiempo no menor de cinco años.
-
-**Artículo 59°**. Derogado.
-
-**Artículo 59.** El Presidente de la República es el Jefe del Poder Ejecutivo, y lo ejerce con la indispensable cooperación de los Ministros.
-
-El Presidente y los Ministros, y en cada negocio particular el Presidente con el Ministro del respectivo ramo, constituyen el Gobierno.
 
 ##### **Artículo 60°.**
 
@@ -292,13 +278,9 @@ El Contralor General de la República tendrá las siguientes atribuciones:
 
 5°. Proveer los empleos de su dependencia que haya creado la ley; y,
 
-- 6° Las demás que señale la ley.
+6º. Ejercer pleno control de todo el proceso de ejecución de las leyes a que se refiere el numeral 20 del artículo 76 y de la inversión de los recursos que en desarrollo del mismo y del artículo 207 se destinen al estímulo o apoyo de empresas útiles o benéficas.
 
-**Artículo 60°.** Derogado.
-
-**Artículo 60.** Ejercen el Poder judicial la Corte Suprema, los Tribunales Superiores de Distrito, y demás Tribunales y Juzgados que establezca la ley.
-
-El Senado ejerce determinadas funciones judiciales.
+7º. Los demás que señale la ley.
 
 ##### **Artículo 61.** Ninguna persona o Corporación podrá ejercer simultáneamente, en tiempo de paz, la autoridad política o civil y la judicial o la militar.
 
@@ -316,139 +298,39 @@ El Senado ejerce determinadas funciones judiciales.
 
 ## **Título VI. De la reunión y atribuciones del Congreso**
 
-##### **Artículo 68°** sustituido por Artículo 5 ACTO LEGISLATIVO 1 de 1907.
+##### **Artículo 68°**.
 
-**Artículo 68°** sustituido por ACTO LEGISLATIVO 2 de 1905.
+En lo sucesivo las Cámaras Legislativas se reunirán por derecho propio cada dos años, el día 1.º de Febrero, en la capital de la República.
 
-**Artículo 68.** Las Cámaras legislativas se reunirán ordinariamente por derecho propio cada dos años el día 20 de julio en la capital de la República.
+Las sesiones ordinarias durarán noventa días, pasados los cuales el Gobierno podrá declarar las Cámaras en receso.
 
-Las sesiones ordinarias durarán ciento veinte días, pasados los cuales el Gobierno podrá declarar las Cámaras en receso.
+La fecha inicial para la reunión del primer Congreso constitucional será el 1.º de Febrero de 1910, sin perjuicio de que el Poder Ejecutivo pueda anticipar, ó la Asamblea -por medio de una ley- retardarla, si así lo exigen las conveniencias públicas.
 
-##### **ARTÍCULO 69°.**
+También se reunirá el Congreso por convocación del Gobierno y durante el tiempo que éste señale, en sesiones extraordinarias. En este caso se podrá ocuparse sino en los negocios que el Gobierno someta a su consideración sin perjuicio de la función del control político que le es propio, la cual podrá ejercer en cualquier clase de sesiones.
 
-El Congreso lo forman el Senado y la Cámara de Representantes. Corresponde al Congreso hacer las leyes.
+Por acuerdo mutuo las dos cámaras podrán trasladarse a otro lugar, y en caso de perturbación del orden público podrán reunirse en el punto que designe el presidente del senado.
 
-Por medio de ellas ejerce las siguientes atribuciones:
-
-- 1° Interpretar, reformar y derogar las leyes preexistentes;
-
-- 2° Expedir códigos en todos los ramos de la legislación y reformar sus disposiciones;
-
-- 3° Dictar las disposiciones para la formación del Presupuesto Nacional;
-
-- 4° Fijar los planes y programas a que debe someterse el fomento de la economía nacional, y los planes y programas de todas las obras públicas que hayan de emprenderse o continuarse;
-
-- 5° Modificar la división general del territorio, con arreglo al Artículo 5º de esta Constitución; establecer y reformar, cuando convenga, las otras divisiones territoriales de que trata el Artículo 6º; y fijar las bases y condiciones para la creación de Municipios;
-
-- 6° Dictar los reglamentos del Congreso y de cada una de las Cámaras;
-
-- 7° Conferir atribuciones especiales a las Asambleas Departamentales;
-
-- 8° Variar, en circunstancias extraordinarias y por graves motivos de conveniencia pública, la actual residencia de los altos poderes nacionales;
-
-- 9° Crear todos los empleos que demande el servicio público y fijar sus respectivas dotaciones;
-
-- 10° Regular el servicio público, determinando los puntos de que tratan los Artículos 56 y 128 y las demás prescripciones constitucionales;
-
-- 11° Conceder autorizaciones al Gobierno para celebrar contratos, negociar empréstitos, enajenar bienes nacionales, y ejercer otras funciones dentro de la órbita constitucional;
-
-- 12° Revestir, Pro Tempore, al Presidente de la República de precisas facultades extraordinarias, cuando la necesidad lo exija o las conveniencias públicas lo aconsejen;
-
-- 13° Establecer las rentas nacionales y fijar los gastos de la administración;
-
-- 14° Reconocer la deuda nacional y arreglar su servicio;
-
-- 15° Decretar impuestos extraordinarios cuando la necesidad lo exija;
-
-- 16° Aprobar o desaprobar los contratos o convenios que celebre el Presidente de la República con particulares, compañías o entidades políticas, en los cuales tenga interés la Nación, si no hubierensido previamente autorizados o si no se hubieren llenado en ellos las formalidades prescritas por el Congreso, o si algunas estipulaciones que contengan no estuvieren ajustadas a la respectiva ley de autorizaciones;
-
-- 17° Fijar la ley, peso, tipo y denominación de la moneda, y arreglar el sistema de pesas y medidas;
-
-- 18° Organizar el crédito público;
-
-- 19° Decretar las obras públicas que hayan de emprenderse o continuarse, con arreglo a los planes y programas que fijen las leyes respectivas;
-
-- 20° Fomentar las empresas útiles o benéficas dignas de estímulo y apoyo, con estricta sujeción a los planes y programas correspondientes;
-
-- 21° Decretar honores públicos a los ciudadanos que hayan prestado grandes servicios a la Patria, y señalar los monumentos que deban erigirse;
-
-- 22° Aprobar o desaprobar los tratados y convenios que el Gobierno celebre con potencias extranjeras;
-
-- 23° Conceder, por Mayoría de dos tercios de los votos en cada Cámara, y por graves motivos de conveniencia pública, amnistías o indultos generales por delitos políticos. En el caso de que los favorecidos queden eximidos de la responsabilidad civil respecto de particulares, el Estado quedará obligado a las indemnizaciones a que hubiere lugar;
-
-- 24° Limitar o regular la apropiación o adjudicación de tierras baldías.
-
-**Artículo 69.** Las Cámaras se abrirán y clausurarán pública y simultáneamente.
+##### **Artículo 69°.** Las Cámaras se abrirán y clausurarán pública y simultáneamente. Sin embargo, cuando el Congreso no se encuentre reunido podrá el Gobierno convocar únicamente a una de las Cámaras por el tiempo necesario y para el solo efecto de que ejerza cualquiera de las atribuciones especiales de que tratan los artículos 96, 98 y 102.
 
 ##### **ARTÍCULO 70°.**
 
-El Congreso elegirá cada dos años un Designado, quien reemplazará al Presidente en caso de falta de éste.
+Las Cámaras y las Comisiones Permanentes podrán abrir sus sesiones y deliberar con cualquier número plural de sus miembros, en aquellos días y horas en que deben sesionar según la Constitución y sus reglamentos internos, y en aquellos otros para los cuales las Mesas Directivas las hayan convocado, durante los períodos de sesiones, con cinco días de anticipación por lo menos.
 
 El período del Designado comienza el siete (7) de agosto del respectivo año.
 
-**Artículo 70.** Las Cámaras no podrán abrir sus sesiones ni deliberar, con menos de una tercera parte de sus miembros.
-
-El Presidente de la República en persona, o por medio de los Ministros, abrirá y cerrará las Cámaras.
-
-Esta ceremonia no es esencial para que el Congreso ejerza legítimamente sus funciones.
-
 ##### **Artículo 71.** Cuando llegado el día en que ha de reunirse el Congreso, no pudiere verificarse el acto por falta del número de miembros necesarios, los individuos concurrentes, en Junta preparatoria o provisional, apremiarán a los ausentes con las penas que los respectivos reglamentos establezcan; y se abrirán las sesiones luego que esté completo el número requerido.
 
-##### **Artículo 72°.**
+##### **Artículo 72°.** Cada Cámara elegirá, para períodos de cuatro años, comisiones permanentes que tramiten en primer debate los proyectos de acto legislativo o de ley. Las Mesas Directivas de las Comisiones serán renovadas cada año y ninguno de sus miembros podrá ser reelegido para el período inmediato. Salvo lo especialmente previsto en el artículo 80, la ley determinará el número de comisiones permanentes y el de sus miembros, lo mismo que las materias de que cada una deberá ocuparse. Las Comisiones Constitucionales Permanentes podrán realizar estudios y audiencias sobre los problemas nacionales y elaborar, como resultado de ellos, proyectos de actos legislativos o de ley, o hacer recomendaciones al Gobierno en materias en que a este corresponda la iniciativa.
 
-Cada Cámara elegirá, para períodos no menores de dos años, Comisiones Permanentes que tramitarán el primer debate de los proyectos de ley.
+**Artículo73°.** El Gobierno, el Senado y la Cámara podrán disponer que cualquiera de las Comisiones Permanentes sesione durante el período de receso legislativo y cumpla las funciones constitucionales o legales que les son propias. Durante esas sesiones podrán presentarse proyectos de acto legislativo o de ley en la forma reglamentaria para que las comisiones les den primer debate.
 
-Salvo lo especialmente previsto en la Constitución, la ley determinará el número de Comisiones Permanentes y el de sus miembros, lo mismo que las materias de que cada una deberá ocuparse.
-
-El Senado de la República y la Cámara de Representantes podrán disponer que cualquiera de las Comisiones Permanentes sesione durante el período de receso con el fin de debatir los asuntos pendientes en la legislatura anterior, de realizar los estudios que la corporación respectiva determine o de preparar los proyectos que las Cámaras les encomienden. El Gobierno podrá convocarlas para los mismos propósitos.
-
-**ARTÍCULO 72°.**
-
-Las leyes pueden tener origen en cualquiera de las dos Cámaras, a propuesta de sus respectivos miembros o de los Ministros del Despacho. Pero no serán llevadas a la discusión de la Cámara respectiva sino después de ser consideradas y aprobadas en primer debate en la correspondiente Comisión permanente.
-
-**Artículo 72.** El Congreso podrá reunirse extraordinariamente convocado por el Gobierno. En sesiones extraordinarias sólo podrá ocuparse en los negocios que el Gobierno someta a su consideración.
-
-##### **ARTÍCULO 73°.**
-
-Exceptúanse de lo dispuesto en el Artículo anterior:
-
-- 1° Las leyes sobre contribuciones u orgánicas del Ministerio Público, que deben tener origen únicamente en la Cámara de Representantes;
-
-- 2. Las leyes a que se refieren los numerales 2º, 3º, 4º, y 5º del artículo 69, que no podrán ser dictadas o reformadas sino en virtud de proyectos adoptados por las respectivas Comisiones permanentes de una u otra Cámara, o presentados por los Ministros del Despacho.
-
-En cada Cámara habrá, además de las comisiones que establezca el Reglamento, las Comisiones permanentes encargadas de elaborar o adoptar los proyectos a que se refiere el ordinal 2º de este artículo, de tramitar las modificaciones que se introduzcan a toda clase de proyectos, y de aprobar en su seno los mismos en primer debate.
-
-Cada Comisión tendrá el número de miembros que determine la ley. La elección corresponde hacerla a las Cámaras para períodos no menores de un año.
-
-**Artículo 73.** Por acuerdo mutuo las dos Cámaras podrán trasladarse a otro lugar, y en caso de perturbación del orden público podrán reunirse en el punto que designe el Presidente del Senado.
-
-##### **ARTÍCULO 74°.**
-
-Ningún proyecto será ley sin los requisitos siguientes:
-
-- 1° Haber sido aprobado en la Comisión correspondiente de cada Cámara, en primer debate, por Mayoría absoluta de votos;
-
-- 2° Haber sido aprobado en cada Cámara, en segundo debate, por Mayoría absoluta de votos;
-
-- 3° Haber obtenido la sanción del Gobierno.
-
-Para la expedición de las leyes que modifiquen, reformen o deroguen las mencionadas en los numerales 2º, 3º, 4º y 5º del artículo 69, se requiere la Mayoría absoluta de votos de los miembros que forman la Comisión permanente y, asimismo, la Mayoría absoluta de votos de los miembros que componen cada Cámara.
-
-La adopción de todo proyecto y su aprobación en primer debate en el seno de las Comisiones permanentes, deberán verificarse en días distintos.
-
-Un proyecto de ley que hubiere sido negado en primer debate podrá ser considerado por la Cámara a solicitud de su autor, de un miembro de la Comisión o del Gobierno. Si la decisión de la Comisión fuere improbada por Mayoría absoluta de votos de la Cámara correspondiente, el proyecto pasará a otra Comisión permanente para que lo apruebe en primer debate e informe sobre él para segundo.
-
-**Artículo 74°** reformado por Artículo 6° ACTO LEGISLATIVO 5 de 1905.
-
-**Artículo 74.** El Congreso se reunirá en un solo cuerpo únicamente para el acto de dar posesión de su cargo al Presidente de la República, y para ejercer la atribución determinada en el Artículo 77.
-
-En tales ocasiones el Presidente del Senado y el de la Cámara de Representantes serán, respectivamente, Presidente y Vicepresidente del Congreso.
+##### **Artículo 74°.** El Congreso se reunirá en un solo cuerpo para su instalación cuando el Presidente de la República o sus Ministros concurran a abrir sus sesiones ordinarias o extraordinarias; para dar posesión al Presidente de la República o a quien lo suceda en las faltas absolutas o temporales, así como para oirlo cuando lo solicite; para elegir Designado y para recibir a los Jefes de Estado o de Gobierno de otras naciones cuando vengan a Colombia por invitación del Gobierno. El Presidente del Senado y de la Cámara serán, respectivamente, el Presidente y el Vicepresidente del Congreso.
 
 ##### **Artículo 75°**. Toda reunión de miembros del Congreso que, con la mira de ejercer funciones propias de la Rama Legislativa del Poder Público, se efectúe fuera de las condiciones constitucionales, carecerá de validez; a los actos que realice no podrá dárseles efecto alguno, y las personas que en las deliberaciones tomen parte serán sancionadas conforme a las leyes.
 
-Corresponde al Congreso hacer las leyes.
+##### **Artículo 76.** Es función del Congreso reformar la Constitución por medio de actos legislativos, hacer las leyes y ejercer el control político sobre los actos de Gobierno y de la administración de acuerdo con los numerales 3º y 4º del artículo 103.
 
-Por medio de ellas ejercer las siguientes atribuciones:
+Por medio de las leyes ejerce las siguientes atribuciones:
 
 1a Interpretar, reformar y derogar las leyes preexistentes;
 
@@ -456,11 +338,11 @@ Por medio de ellas ejercer las siguientes atribuciones:
 
 3a Dictar las normas orgánicas del Presupuesto Nacional;
 
-4a. Fijar los planes y programas de desarrollo económico y social a que debe someterse la economía nacional, y los de las obras públicas, que hayan de emprenderse o continuarse, con la determinación de los recursos e inversiones que se autoricen para su ejecución, y de las medidas necesarias para impulsar el cumplimiento de los mismos;
+4a. Establecer el Plan de Desarrollo Económico y Social que se prevé en el artículo 80 y los de obras públicas que haya de emprenderse o continuarse, con los recursos e inversiones que se autoricen para su ejecución y de las medidas necesarias para impulsar el cumplimiento de los mismos.
 
 5a Modificar la división general del territorio, con arreglo al Artículo 5º de la Constitución; establecer y reformar las otras divisiones territoriales de que trata el Artículo 7º, y fijar las bases y las condiciones para la creación de Municipios;
 
-6a Dictar el Reglamento del Congreso y uno común para las Cámaras;
+6a. Dictar el reglamento del Congreso y uno común para las Cámaras, en los cuales deberán establecerse específicamente las causales de mala conducta de sus miembros y las respectivas sanciones.
 
 7a. Conferir atribuciones especiales a las Asambleas Departamentales;
 
@@ -470,9 +352,11 @@ Por medio de ellas ejercer las siguientes atribuciones:
 
 - 10. Regularlos otros aspectos del servicio público, tales como los contemplados en los Artículos 62, 132 y demás preceptos constitucionales; expedir los estatutos básicos de las corporaciones autónomas regionales y otros establecimientos públicos, de las sociedades de economía mixta, de las empresas industriales o comerciales del Estado, y dictar las normas correspondientes a las carreras administrativas, judicial y militar;
 
-- 11. Conceder autorizaciones al Gobierno para celebrar contratos, negociar empréstitos, enajenar bienes nacionales y ejercer otras funciones dentro de la órbita constitucional;
+- 11. Conceder autorizaciones al Gobierno para celebrar contratos, negociar empréstitos y enajenar bienes nacionales.
 
-- 12. Revestir, pro tempore, al Presidente de la República de precisas facultades extraordinarias, cuando la necesidad lo exija o las conveniencias públicas lo aconsejen;
+- 12. A solicitud del Gobierno, revestir pro- tempore, al Presidente de la República de precisas facultades extraordinarias cuando la necesidad lo exija o las conveniencias públicas lo aconsejen.
+
+El Congreso podrá en todo tiempo, y a iniciativa propia, derogar, modificar o adicionar sin limitación de materias los decretos así dictados.
 
 - 13. Establecer las rentas nacionales y fijar los gastos de la administración;
 
@@ -494,63 +378,11 @@ Por medio de tratados o convenios aprobados por el Congreso podrá el Estado obl
 
 - 21. Dictar las normas sobre apropiación o adjudicación y recuperación de tierras baldías;
 
-- 22. Dictar las normas generales a las cuales deba sujetarse el Gobierno para los siguientes efectos: organizar el crédito público; reconocer la deuda nacional y arreglar su servicio; regular el cambio internacional y el comercio exterior; modificarlos aranceles, tarifas y demás disposiciones concernientes al régimen de aduanas;
+- 22. Dictar las normas generales a las cuales deba sujetarse el Gobierno para los siguientes efectos: organizar el crédito público, reconocer la deuda nacional y arreglar su servicio, regular el cambio internacional y el comercio exterior; modificar los aranceles, tarifas y demás disposiciones concernientes al régimen de aduanas; intervenir en el Banco de Emisión y en las actividades de las personas naturales o jurídicas que tengan por objeto el manejo o aprovechamiento del ahorro privado.
 
 - 23. Crear los servicios administrativos y técnicos de las Cámaras;
 
 - 24. Unificarlas normas sobre policía de tránsito en todo el territorio de la República.
-
-**Articulo 76°** reformado por Artículo 4° ACTO LEGISLATIVO 3 de 1905
-
-**Artículo 76.** Corresponde al Congreso hacer las leyes.
-
-Por medio de ellas ejerce las siguientes atribuciones:
-
-- 1. Interpretar, reformar y derogar las leyes preexistentes;
-
-- 2. Modificar la división general del territorio con arreglo a los Artículos 5.º y 6.º, y establecer y reformar, cuando convenga, las otras divisiones territoriales de que trata el Artículo 7.º;
-
-- 3. Conferir atribuciones especiales a las Asambleas Departamentales
-
-- 4. Disponer lo conveniente para la Administración de Panamá;
-
-- 5. Variar, en circunstancias extraordinarias y por graves motivos de conveniencia pública, la actual residencia de los altos poderes nacionales;
-
-- 6. Fijar para cada bienio, en sesiones ordinarias, el pie de fuerza;
-
-- 7. Crear todos los empleos que demande el servicio público, y fijar sus respectivas dotaciones;
-
-- 8. Regular el servicio público, determinando los puntos de que trata el Artículo 62;
-
-- 9. Conceder autorizaciones al Gobierno para celebrar contratos, negociar empréstitos, enajenar bienes nacionales, y ejercer otras funciones dentro de la órbita constitucional;
-
-- 10. Revestir, pro tempore, al Presidente de la República de precisas facultades extraordinarias, cuando la necesidad lo exija o las conveniencias públicas lo aconsejen;
-
-- 11. Establecer las rentas nacionales y fijar los gastos de la administración. En cada legislatura se votará el presupuesto general de unas y otros.
-
-En el presupuesto no podrá incluirse partida alguna que no corresponda a un gasto decretado por ley anterior o a un crédito judicialmente reconocido.
-
-- 12. Reconocer la deuda nacional y arreglar su servicio;
-
-- 13. Decretar impuestos extraordinarios cuando la necesidad lo exija;
-
-- 14. Aprobar o desaprobar los contratos o convenios que celebre el Presidente de la República con particulares, compañías o entidades políticas, en los cuales tenga interés el fisco nacional, si no hubieren sido previamente autorizados, o si no se hubieren llenado en ellos las formalidades prescritas por el Congreso, o si algunas estipulaciones que contengan no estuvieren ajustadas a la respectiva ley de autorizaciones;
-
-- 15. Fijar la ley, peso, tipo y denominación de la moneda, y arreglar el sistema de pesos y medidas;
-
-- 16. Organizar el crédito público;
-
-- 17. Decretar las obras públicas que hayan de emprenderse o continuarse, y monumentos que deban erigirse;
-
-- 18. Fomentar las empresas útiles o benéficas dignas de estímulos y apoyo;
-
-- 19. Decretar honores públicos a los ciudadanos que hayan prestado grandes servicios a la Patria;
-
-- 20. Aprobar o desaprobar los Tratados que el Gobierno celebre con Potencias extranjeras;
-
-- 21. Conceder, por mayoría de dos tercios de los votos en cada Cámara, y por graves motivos de conveniencia pública, amnistías o indultos generales por delitos políticos. En el caso de que los favorecidos queden eximidos de la responsabilidad civil respecto de particulares, el Gobierno estará obligado a las indemnizaciones a que hubiere lugar;
-
-- 22. Limitar o regular la apropiación o adjudicación de tierras baldías.
 
 ##### **Artículo 77.** El Congreso elegirá en sus reuniones ordinarias y para un bienio, el Designado que ha de ejercer el Poder Ejecutivo a falta de Presidente y Vicepresidente.
 
@@ -702,11 +534,15 @@ El Senado se renovará por terceras partes en la forma que determine la ley.
 
 ##### **Artículo 105.** Los individuos de una y otra Cámara representan a la Nación entera, y deberán votar consultando únicamente la justicia y el bien común.
 
+Los congresistas que dentro de los dos años inmediatamente anteriores a su elección hayan prestado servicios remunerados a gremios o personas de derecho privado sobre cuyos intereses o negocios incidan directamente actos que se encuentren al estudio del Congreso deberán comunicarlo por escrito a la Mesa Directiva de la respectiva Corporación para que, previa publicación en los Anales, decida si los congresistas aludidos deben abstenerse de participar en el trámite y votación de dichos actos.
+
+Cualquier miembro de la respectiva Cámara podrá denunciar el impedimento en caso de que aquella comunicación no se hiciere oportunamente.
+
 ##### **Artículo 106.** Los Senadores y los Representantes son inviolables por su opiniones y votos en el ejercicio de su cargo. En el uso de la palabra sólo serán responsables ante la Cámara a que pertenezcan; podrán ser llamados al orden por el que presida la sesión y penados conforme al reglamento por las faltas que cometan.
 
-##### **Artículo 107. Derogado.**
+##### **Artículo 107.** Los miembros del Congreso gozarán de inmunidad durante el período de sesiones, treinta (30) días antes y veinte (20) días después de estas. Durante dicho tiempo no podrán ser detenidos ni privados de su libertad por motivo alguno, a menos que en su contra se dicte sentencia judicial condenatoria de primer grado.
 
-**Artículo 107.** Cuarenta días antes de principiar las sesiones y durante ellas, ningún miembro del Congreso podrá ser llamado a juicio civil o criminal sin permiso de la Cámara a que pertenezca. En caso de flagrante delito, podrá ser detenido el delincuente y será puesto inmediatamente a disposición de la Cámara respectiva.
+En caso de flagrante delito, podrán ser capturados y puestos a disposición de la Mesa Directiva de la Cámara correspondiente, para ser entregados en custodia a las autoridades de policía.
 
 ##### **Artículo 108.** El Presidente y el Vicepresidente de la República, los Ministros del Despacho y Consejeros de Estado, los Magistrados de la Corte Suprema, el Procurador de la Nación y los Gobernadores no podrán ser elegidos miembros del Congreso sino seis meses después de haber cesado en el ejercicio de sus funciones.
 
@@ -876,17 +712,13 @@ Serán responsables el Presidente y los Ministros cuando declaren el estado de e
 
 Durante el estado de emergencia económica el Gobierno no podrá desmejorar los derechos sociales de los trabajadores consagrados en leyes anteriores.
 
-**Artículo 122.** El Presidente de la República o el que en su lugar ejerza el Poder Ejecutivo, es responsable únicamente en los casos siguientes, que definirá la ley:
+El Gobierno enviará a la Corte Suprema de Justicia, el día siguiente a su expedición, los decretos legislativos que dicte para que declare, con carácter definitivo, si se han expedido con el lleno de las formalidades previstas en este artículo y si las normas que contienen se ajustan a las facultades del Gobierno durante el estado de emergencia.
 
-- 1. Por actos de violencia o coacción en elecciones;
+Si el Gobierno no cumpliere con el deber de enviarlos, la Sala aprehenderá inmediatamente y de oficio su conocimiento.
 
-- 2. Por actos que impidan la reunión constitucional de las Cámaras Legislativas, o estorben a éstas o a las demás Corporaciones o autoridades públicas que establece esta Constitución, el ejercicio de sus funciones; y,
+Los términos señalados en el artículo 215 se reducirán a una tercera parte, y su incumplimiento dará lugar a la destitución de los Magistrados responsables, la cual será decretada por el Consejo Superior de la Judicatura.
 
-- 3. Por delitos de alta traición.
-
-En los dos primeros casos la pena no podrá ser otra que la de destitución, y, si hubiere cesado en el ejercicio de sus funciones el Presidente; la de inhabilitación para ejercer nuevamente la Presidencia.
-
-Ningún acto del Presidente, excepto el de nombramiento o remoción de Ministros, tendrá valor ni fuerza alguna mientras no sea refrendado y comunicado por el Ministro del ramo respectivo, quien por el mismo hecho se constituye responsable.
+Contra los decretos así revisados, podrá ejercerse la acción pública de inconstitucionalidad contemplada en el artículo 214.
 
 ##### **Artículo 123.** El Senado concede licencia temporal al Presidente para dejar de ejercer el Poder Ejecutivo.
 
@@ -1192,9 +1024,7 @@ La vigilancia de la gestión fiscal de los Departamentos y Municipios correspond
 
 Para ser elegido Contralor Departamental se requiere ser colombiano de nacimiento y en ejercicio de la ciudadanía; tener más de 25 años y ser abogado o tener título universitario en ciencias económicas o financieras o haber ejercido el cargo de Contralor en propiedad.
 
-**Artículo 190.** Las ordenanzas de las Asambleas y los acuerdos de los Concejos Municipales son obligatorios mientras no sean anulados o suspendidos por la jurisdicción de lo Contencioso-Administrativo.
-
-**Artículo 190.** Las Asambleas departamentales, para cubrir los gastos de administración que les correspondan, podrán establecer contribuciones con las condiciones y dentro de los límites que fije la ley.
+Los Contralores Departamentales, el del Distrito Especial de Bogotá y los de las capitales de departamento, no podrán ser reelegidos en ningún caso para el período inmediato, ni continuar en ejercicio del cargo al vencimiento de su mandato.
 
 ##### **Artículo 191.** Derogado.
 
@@ -1314,23 +1144,23 @@ La ley determinará el orden y modo de satisfacer estas obligaciones.
 
 ##### **Artículo 206.** En tiempo de paz no se podrá percibir contribución o impuesto que no figure en el Presupuesto de Rentas, ni hacer erogación del Tesoro que no se halle incluida en el de Gastos.
 
-##### **Artículo 207.** Derogado.
+##### **Artículo 207.** No podrá hacerse ningún gasto público que no haya sido decretado por el Congreso, por las Asambleas Departamentales o los Concejos Municipales, ni transferirse ningún crédito a un objeto no provisto en el respectivo presupuesto.
 
-**Artículo 207.** No podrá hacerse ningún gasto público que no haya sido decretado por el Congreso, por las Asambleas departamentales, o las Municipalidades; ni transferirse ningún crédito a un objeto no previsto en el respectivo Presupuesto.
+Las partidas para el desarrollo regional sólo podrán aprobarse después de debate público en las Comisiones de Presupuesto y en las sesiones plenarias, previo anuncio de las fechas de su celebración por intermedio de los Anales del Congreso.
 
-##### **Artículo 208.** El Gobierno formará anualmente el Presupuesto de Rentas y junto con el proyecto de Ley de Apropiaciones, que deberá reflejar los planes y programas, lo presentará al Congreso en los primeros diez días de las sesiones ordinarias de julio.
+Con excepción de los aportes regionales para planteles educativos o de beneficencia pública oficialmente reconocidos o autorizados y de las juntas de acción comunal, que también vigilará el Gobierno, ninguno podrá destinarse a entidades privadas.
+
+El total de la apropiación presupuestal para dichos aportes, que cada año señale la ley con base en propuesta del Gobierno será distribuido entre los departamentos por partes iguales y una cantidad proporcional para los territorios nacionales, sin que pueda existir diferencia en las asignaciones que señalen los congresistas de una misma circunscripción electoral.
+
+##### **Artículo 208.** El Gobierno formará anualmente el presupuesto de rentas y junto con el proyecto de ley de apropiaciones, que deberá reflejar el plan de desarrollo económico y social y sus programas, lo presentará al Congreso en los primeros diez días de las sesiones ordinarias de julio.
+
+**PARÁGRAFO.** El Gobierno incorporará sin modificaciones el proyecto de ley de apropiaciones el que cada año elaboren conjuntamente las Comisiones de la Mesa de las Cámaras para el funcionamiento del Congreso, conforme a leyes preexistentes, previa consulta con las Mesas Directivas de las Comisiones Constitucionales Permanentes. El Gobierno, no obstante, podrá presentar durante el primer debate observaciones que analizarán, para decidir sobre ellas, las Comisiones de Presupuesto en sesión conjunta.
+
+Las Mesas Directivas de las Cámaras ejecutarán el presupuesto del Congreso con estricta sujeción a la ley normativa del presupuesto nacional y rendirán informe público mensual de dicha ejecución.
 
 Las Comisiones de Presupuesto de las dos Cámaras deliberarán conjuntamente para dar primer debate al proyecto de Presupuesto de Rentas y Ley de Apropiaciones. Parágrafo. El Gobierno incorporará, sin modificaciones, al proyecto de Ley de Apropiaciones, el que cada año elaboren conjuntamente las Comisiones de la Mesa de las Cámaras para el funcionamiento del Congreso, conforme a leyes preexistentes.
 
 Sin embargo, el Gobierno, durante el primer debate, podrá presentar observaciones sobre las cuales decidirá la Comisión.
-
-**Artículo 208.** Cuando haya necesidad de hacer un gasto imprescindible, a juicio del Gobierno, estando en receso las Cámaras, y no habiendo partida votada o siendo ésta insuficiente, podrá abrirse al respectivo Ministerio un crédito suplemental o extraordinario.
-
-Estos créditos se abrirán por el Consejo de Ministros, instruyendo para ello expediente y previo dictamen del Consejo de Estado.
-
-Corresponde al Congreso legalizar estos créditos.
-
-El Gobierno puede solicitar del Congreso créditos adicionales al Presupuesto de Gastos.
 
 ## **Título XX. De la reforma de esta Constitución y abrogación de la anterior**
 
@@ -1340,21 +1170,7 @@ El Gobierno puede solicitar del Congreso créditos adicionales al Presupuesto de
 
 Los cómputos de las rentas, de los recursos del crédito y los provenientes del balance del Tesoro, no podrán aumentarse por el Congreso sino con el concepto previo y favorable suscrito por el Ministro del ramo.
 
-En la Ley de Apropiaciones no podrá incluirse partida alguna que no haya sido propuesta a las respectivas Comisiones y que no corresponda a un crédito judicialmente reconocido, o a un gasto decretado conforme ley anterior, o destinado a dar cumplimiento a los planes y programas de desarrollo de qué trata el ordinal 4.ºdel Artículo 76.
-
-**Artículo 210.** Las funciones del Contralor General serán determinadas por la ley. Tendrá, además, las siguientes atribuciones especiales:
-
-- 1. Llevar las cuentas generales de la Nación, inclusive la de la deuda pública interna y externa;
-
-- 2. Prescribir los métodos de la contabilidad de todas las dependencias nacionales y la manera de rendir cuentas los empleados responsables;
-
-- 3. Exigir informes a los empleados públicos nacionales, departamentales o municipales, sobre su gestión fiscal;
-
-- 4. Revisar y fenecer las cuentas de los responsables del Erario;
-
-- 5. Proveer los empleos de su dependencia creados por la ley.
-
-**Artículo 210.** La Constitución de 8 de mayo de 1863, que cesó de regir por razón de hechos consumados, queda abolida; e igualmente derogadas todas las disposiciones de carácter legislativo contrarias a la presente Constitución.
+En la ley de apropiaciones no podrá incluirse partida alguna que no haya sido propuesta a las respectivas Comisiones y que no corresponda a un crédito judicialmente reconocido, o a un gasto decretado conforme a ley anterior, o destinado a dar cumplimiento al plan de desarrollo económico y social y a los de obras públicas de que trata el ordinal 4º del artículo 76.
 
 ## **Título XXI (adicional). Disposiciones transitorias.**
 
