@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1909-03-29"
+last_updated: "1909-04-02"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -31,6 +31,12 @@ Y con el fin de afianzar la unidad nacional y asegurar los bienes de la justicia
 ##### **Artículo 1º.** La Nación Colombiana se reconstituye en forma de República unitaria.
 
 ##### **Artículo 2º.** La soberanía reside esencial y exclusivamente en la Nación, y de ella emanan los poderes públicos, que se ejercerán en los términos que esta Constitución establece.
+
+##### **Artículo 3º.** El territorio de la República tiene por límites con el de las Naciones limítrofes los que se hubieren fijado, ó en lo sucesivo se fijaren, por Tratados públicos debidamente aprobados y ratificados conforme á la Constitución y leyes de la República y por sentencias arbitrales cumplidas y pasadas en autoridad de cosa juzgada.
+
+**Artículo 3º.** Son límites de la República los mismos que en 1810 separaban el Virreinato de Nueva Granada de las Capitanías generales de Venezuela y Guatemala, del Virreinato del Perú, y de las posesiones portuguesas del Brasil; y provisionalmente, respecto del Ecuador, los designados en el Tratado de 9 de Julio de 1856.
+
+Las líneas divisorias de Colombia con las naciones limítrofes se fijarán definitivamente por Tratados Públicos, pudiendo éstos separarse del principio de *uti possidetis* de derecho de 1810.
 
 ##### **Artículo 4º.** El Territorio, con los bienes públicos que de él forman parte, pertenece únicamente a la Nación.
 
