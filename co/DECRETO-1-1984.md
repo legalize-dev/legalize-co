@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "1998-07-08"
+last_updated: "1999-03-23"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -1596,8 +1596,6 @@ Cuando por sentencia ejecutoriada se declare la nulidad de una ordenanza o de un
 Cumplidos seis (6) meses desde la ejecutoria de la providencia que imponga o liquide una condena o de la que apruebe una conciliación, sin que los beneficiarios hayan acudido ante la entidad responsable para hacerla efectiva, acompañando la documentación exigida para el efecto, cesará la causación de intereses de todo tipo desde entonces hasta cuando se presentare la solicitud en legal forma.
 
 En asuntos de carácter laboral, cuando se condene a un reintegro y dentro del término de seis meses siguientes a la ejecutoria de la providencia que así lo disponga, éste no pudiere llevarse a cabo por causas imputables al interesado, en adelante cesará la causación de emolumentos de todo tipo.
-
-**Artículo 177.** Cuando se condene a la Nación, a una entidad territorial o descentralizada al pago o devolución de una cantidad líquida de dinero, se enviará inmediatamente copia de la sentencia a quien sea competente para ejercer las funciones del ministerio público frente a la entidad condenada. El agente del ministerio público deberá tener una lista actual de tales sentencias, y dirigirse a los funcionarios competentes cuando preparen proyectos de presupuestos básicos o los adicionales, para exigirles que incluyan partidas que permitan cumplir en forma completa las condenas, todo conforme a las normas de la ley orgánica del presupuesto. El Congreso, las asambleas, los concejos, el Contralor General de la República, los contralores departamentales, municipales y distritales, el Consejo de Estado y los tribunales contencioso administrativos y las demás autoridades del caso deberán abstenerse de aprobar o ejecutar presupuestos en los que no se hayan incluido partidas o apropiaciones suficientes para atender al pago de todas las condenas que haya relacionado el Ministerio Público. Será causal de mala conducta de los funcionarios encargados de ejecutar los presupuestos públicos, pagar las apropiaciones para cumplimiento de condenas más lentamente que el resto. Tales condenas, además, serán ejecutables ante la justicia ordinaria dieciocho (18) meses después de su ejecutoria. Las cantidades líquidas reconocidas en tales sentencias devengarán intereses comerciales durante los seis (6) meses siguientes a su ejecutoria y moratorios después de este término.
 
 ##### **Artículo 178. Ajuste de valor**. La liquidación de las condenas que se resuelvan mediante sentencias de la jurisdicción en lo contencioso administrativo deberá efectuarse en todos los casos, mediante sumas líquidas de moneda de curso legal en Colombia y cualquier ajuste de dichas condenas sólo podrá determinarse tomando como base el índice de precios al consumidor, o al por mayor.
 
