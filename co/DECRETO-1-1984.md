@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "1984-11-21"
+last_updated: "1985-11-20"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -1277,31 +1277,9 @@ Con todo, cuando se desconozca el sitio de la residencia del titular de la carta
 
 **De los procesos electorales.**
 
-##### **Artículo 224. Causales de nulidad de las actas de escrutinio de las corporaciones electorales**. Las actas de escrutinio de toda corporación electoral serán anuladas por las siguientes causas:
+##### **Artículo 224. Derogado.**
 
-- 1. Cuando aparezca que han sufrido alteraciones sustanciales en lo escrito, después de firmadas por los miembros de la corporación que las expiden.
-
-- 2. Cuando aparezca que el registro es falso o apócrifo, o falsos o apócrifos los elementos que hayan servido para su formación.
-
-- 3. Cuando se hayan computado actas de escrutinio que no fueron entregadas a los claveros municipales dentro del término señalado por la Registraduría Nacional del Estado Civil y se comprueben graves irregularidades que indiquen la alteración de los auténticos resultados electorales.
-
-- 4. Cuando injustificadamente el acta se extienda y firme en sitio distinto del lugar o local en donde debe funcionar la respectiva corporación electoral.
-
-- 5. Cuando en el acta aparezca que el número total de votos exceda al de ciudadanos hábiles para sufragar en el municipio.
-
-- 6. Cuando los votos emitidos en la respectiva elección se computen con violación del sistema electoral adoptado en la Constitución Política y leyes de la República.
-
-- 7. Cuando las listas de candidatos no se hayan inscrito o modificado en la oportunidad legal o cuando los candidatos no hubieren expresado su aceptación y prestado el juramento de afiliación política, dentro del término señalado por la ley para la inscripción.
-
-- 8. Cuando se computen votos a favor de ciudadanos o candidatos que no reúnan las calidades constitucionales o legales para ser electos.
-
-- 9. Cuando se computen votos a favor de candidatos que hubieren sido escrutadores como delegados de la Corte, de las comisiones auxiliares o como magistrados de la Corte Electoral.
-
-En este caso la nulidad se refiere al acta de escrutinio en que hubiere sido escrutador el ciudadano que aparezca como candidato.
-
-- 10. Cuando hubiere error aritmético al totalizar los resultados electorales o equivocaciones al anotar en dichas actas los nombres y apellidos de los candidatos, caso en el cual se harán las respectivas correcciones.
-
-##### **Artículo 225. Nulidad de elecciones por violación de la ley.** Será nula toda elección, hecha popularmente o por una corporación pública, cuando los votos emitidos en ella se computen con violación del sistema electoral fijado en la ley.
+##### **Artículo 225. Derogado.**
 
 ##### **Artículo 226.Consecuencias de la nulidad**. Declarada en la forma que se expresa en los artículos siguientes la nulidad de un registro o de un acta, según el caso, deberá ordenarse que se excluyan del cómputo general los votos en él contenidos.
 
@@ -1315,7 +1293,7 @@ Cuando se declare la nulidad de la elección del principal que encabezó una lis
 
 ##### **Artículo 229.Individualización del acto acusado.** Para obtener la nulidad de una elección o de un registro electoral o acta de escrutinio deberá demandarse precisamente el acto por medio del cual la elección se declara, y no los cómputos o escrutinios intermedios, aunque el vicio de nulidad afecte a estos.
 
-##### **Artículo 230. Prohibición de corregir la demanda.** En los procesos electorales no habrá lugar a corregir la demanda.
+##### **Artículo 230.** CORRECCION DE LA DEMANDA. La demanda puede ser corregida antes de que quede en firme el auto que la admita y sobre la corrección se resolverá dentro de los dos (2) días siguientes". En los procesos electorales procede la suspensión provisional.
 
 ##### **Artículo 232. Trámite de la demanda.** Recibida por el tribunal la demanda, deberá ser repartida el mismo día o a más tardar el siguiente hábil.
 
@@ -1335,9 +1313,7 @@ Si se trata de nombramiento, se ordenará la notificación al nombrado, como dem
 
 Si por virtud de la declaración de nulidad hubiere de practicarse nuevo escrutinio se entenderán demandados todos los ciudadanos declarados elegidos por el acto cuya nulidad se pretende. En este caso se les notificará mediante edicto que durará fijado diez días en la secretaría y se publicará por una sola vez en dos periódicos de amplia circulación en la respectiva circunscripción electoral. Si el demandante no comprueba la publicación en la prensa dentro de los treinta (30) días siguientes a la notificación al ministerio público del auto que la ordena, se declarará terminado el proceso por abandono y se ordenará archivar el expediente.
 
-##### **Artículo 236. Término para alegar.** Practicadas las pruebas decretadas o vencido el término probatorio, se ordenará correr traslado a las partes por el término común de cinco días, para que formulen sus legados por escrito.
-
-Si no se pidieron pruebas en la demanda o no se solicito su práctica en el término de fijación en lista se ordenará inmediatamente el traslado previsto en este artículo.
+##### **Artículo 236.** TÉRMINOS PARA ALEGAR. Practicadas las pruebas decretadas o vencido el término probatorio, se ordena correr traslado a las partes por el término común de cinco (5) días, para que formulen sus alegatos por escrito. Si no se pidieron pruebas en la demanda o en el término de fijación en lista se ordenará inmediatamente el traslado previsto en este artículo. Vencido el traslado a las partes se ordenará la entrega del expediente al Agente del Ministerio Público, por diez (10) días para que emita concepto de fondo.
 
 ##### **Artículo 236A.***Acumulación de pretensiones en la demanda electoral.* En una misma demanda electoral no pueden acumularse pretensiones de nulidad relativas a vicios en las calidades, requisitos e inhabilidades del elegido o nombrado, con las que se funden en irregularidades en el proceso de votación y en los escrutinios. La indebida acumulación de pretensiones es causal de inadmisión de la demanda para que el demandante, dentro del término legal, las separe en demandas diferentes y se proceda al reparto.
 
