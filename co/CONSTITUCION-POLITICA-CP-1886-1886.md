@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1907-04-15"
+last_updated: "1909-03-29"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -690,11 +690,23 @@ Estos Jueces son responsables por las decisiones que dicten, y serán nombrados 
 
 ##### **Artículo 182.** Los Departamentos para el servicio administrativo, se dividirán en Provincias, y éstas en distritos municipales.
 
+##### **Artículo 184.** sustituido por el **ACTO LEGISLATIVO 1 DE 1909.**
+
+**Artículo 184.** Sustituido por el **ACTO LEGISLATIVO 2 DE 1907.**
+
+**Artículo 184.** Las Asambleas se reunirán ordinariamente cada dos años en la capital del Departamento.
+
 ##### **Artículo 187.** Las Asambleas departamentales, además de sus atribuciones propias, podrán ejercer otras funciones por autorización del Congreso.
 
 ##### **Artículo 188.** Los bienes, derechos, valores y acciones que por leyes, o por decretos del Gobierno nacional, o por cualquier otro título pertenecieron a los extinguidos Estados soberanos, se adjudican a los respectivos Departamentos y les pertenecerán mientras éstos tengan existencia legal.
 
 Exceptúanse los inmuebles que se especifican en el Artículo 202.
+
+##### **Artículo 189. Sustituido por el** **ACTO LEGISLATIVO 1 DE 1909.**
+
+**Artículo 189. sustituido por el **ACTO LEGISLATIVO 2 DE 1907****
+
+**Artículo 189.** Las Asambleas votarán cada dos años el Presupuesto de rentas y gastos del respectivo Departamento, y en él apropiarán las partidas necesarias para cubrirlos gastos que les correspondan, conforme a la ley.
 
 ##### **Artículo 191.** Las ordenanzas de las Asambleas son ejecutivas y obligatorias mientras no sean suspendidas por el Gobernador o por la autoridad judicial.
 
