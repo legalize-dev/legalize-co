@@ -4,7 +4,7 @@ identifier: "DECRETO-15-1967"
 country: "co"
 rank: "decreto"
 publication_date: "1967-01-23"
-last_updated: "1967-01-23"
+last_updated: "1968-05-21"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1003599"
 department: "MINISTERIO DE HACIENDA Y CREDITO PUBLICO"
@@ -31,7 +31,7 @@ Que es deber del estado procurar que la interpretación de las normas legales se
 
 **DECRETA:**
 
-##### **Artículo 1º** Las utilidades generadas en sociedades colectivas, en comandita simple, de responsabilidad limitada y ordinarias de minas o provenientes de otras sociedades de igual o distinta naturaleza jurídica, a título de participaciones, dividendos o cualquier otra denominación que se les dé, forzosamente se computarán como renta bruta de los socios personas naturales. En consecuencia cada una de estas sociedades deberá suministrar a las oficinas liquidadoras los datos necesarios para identificar a los socios que sean personas naturales.
+##### **Artículo 1º**. Declarado Nulo.
 
 ##### **Artículo 2º.** Para efectos fiscales, los contratos sobre cesiones recíprocas que efectúen o hayan efectuado las sociedades entre sí, o con sus socios accionistas, o de éstos entre sí, de acciones, cuotas o partes de interés social, utilidades o participaciones se tendrán en cuenta siempre que con tales actos no se disminuya el monto de las verdaderas participaciones de las personas naturales que las integran.
 
