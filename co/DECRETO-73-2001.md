@@ -1,0 +1,54 @@
+---
+title: "por el cual se delegan unas funciones constitucionales"
+identifier: "DECRETO-73-2001"
+country: "co"
+rank: "decreto"
+publication_date: "2001-01-19"
+last_updated: "2001-01-19"
+status: "in_force"
+source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1016295"
+department: "PRESIDENCIA DE LA REPUBLICA"
+document_status_raw: "Vigente"
+gazette_reference: "DIARIO OFICIAL AÑO CXXXVI. N. 44297. 19, ENERO, 2001. PÁG. 1"
+gazette_number: "44297"
+gazette_page: "1"
+gazette_pdf_page: "1"
+subtype: "DECRETO ORDINARIO"
+sector: "Presidencia de la República"
+entry_into_force: "2001-01-19"
+---
+# por el cual se delegan unas funciones constitucionales
+
+El Presidente de la República de Colombia, en ejercicio de las facultades que le confiere el artículo 196 de la Constitución Política, y
+
+**CONSIDERANDO:**
+
+Que el Presidente de la República se trasladará a las ciudades de París (Francia), Estocolmo (Suecia), los días 19 al 26 de enero de 2001, con el fin de realizar una visita oficial, y a Davos (Suiza), para asistir al Foro Económico Mundial a realizarse del 16 al 30 de enero de 2001;
+
+Que de conformidad con las disposiciones constitucionales y con la precedencia establecida en las leyes, el Ministro de Relaciones Exteriores, está habilitado para ejercer las funciones constitucionales como Ministro Delegatorio,
+
+**DECRETA:**
+
+##### **Artículo 1º**. Por el tiempo que dure la ausencia del Presidente de la República, en razón del viaje a que se refieren los considerandos del presente decreto, deléganse en el Ministro de Relaciones Exteriores, doctor Guillermo Fernández de Soto, las funciones constitucionales correspondientes a los siguientes asuntos:
+
+- 1. Artículos 129; 189, con excepción de lo previsto en los numerales 1º y 2º, 304 y 314.
+
+- 2. Artículo 150, numeral 10, en cuanto se refiere al ejercicio de las facultades extraordinarias concedidas al Presidente de la República.
+
+- 3. Artículos 163, 165 y 166.
+
+- 4. Artículos 200 y 201.
+
+- 5. Artículos 213, 214 y 215
+
+##### **Artículo 2º**. El presente decreto rige a partir de la fecha de su expedición.
+
+**Publíquese y cúmplase.**
+
+**Dado en Bogotá, D. C., a 17 de enero de 2001.**
+
+**ANDRES PASTRANA ARANGO**
+
+**El Director del Departamento Administrativo de la Presidencia de la República,**
+
+**Eduardo Pizano de Narváez.**
