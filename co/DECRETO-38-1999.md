@@ -4,7 +4,7 @@ identifier: "DECRETO-38-1999"
 country: "co"
 rank: "decreto"
 publication_date: "1999-01-08"
-last_updated: "1999-01-08"
+last_updated: "2002-02-13"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1898646"
 department: "DEPARTAMENTO ADMINISTRATIVO DE LA FUNCIÓN PÚBLICA"
@@ -140,33 +140,7 @@ Las cesantías se regirán por las normas establecidas en el Decreto Extraordina
 
 ##### Artículo 6º. Los empleos de la Fiscalía General de la Nación conservarán el porcentaje de la remuneración mensual que tiene el carácter de gastos de representación fijados en las normas vigentes que regulan la materia. Dicho porcentaje se aplicará a la remuneración mensual excluyendo las primas establecidas en los artículos siguientes.
 
-##### Artículo 7º. El treinta por ciento (30%) del salario básico mensual de los siguientes servidores públicos se considera como prima especial de servicios sin carácter salarial:
-
-Fiscal Delegado ante Tribunal Nacional
-
-Fiscal Delegado ante Tribunal de Distrito
-
-Fiscal Delegado ante Jueces Regionales
-
-Fiscal Delegado ante Jueces del Circuito
-
-Secretario General
-
-Directores Nacionales
-
-Directores Regionales
-
-Directores Seccionales
-
-Jefes de Oficina
-
-Jefes de División
-
-Jefe de Unidad de Policía Judicial
-
-Fiscal Auxiliar ante la Corte Suprema de Justicia
-
-Fiscal Delegado ante Jueces Municipales y Promiscuos
+##### **Artículo 7º.** Declarado Nulo por el Consejo de Estado Sentencia**11001-03-25-000-1999-0031-00(197-99) de 2002** y **Declarado Nulo por el Consejo de Estado en Sentencia 001032500020180110100 de 21/09/2022.**
 
 ##### Artículo 8º. El Fiscal General de la Nación podrá asignar prima técnica sin carácter salarial hasta por un treinta por ciento (30%) del sueldo básico con el lleno de los requisitos que establezca mediante reglamentación interna y conforme al Decreto 1724 de 1997.
 
