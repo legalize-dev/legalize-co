@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "1993-12-14"
+last_updated: "1996-01-17"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1607,6 +1607,64 @@ No podrán ser designados funcionarios de la correspondiente entidad territorial
 Los departamentos ejercen funciones administrativas, de coordinación, de complementariedad de la acción municipal, de intermediación entre la Nación y los Municipios y de prestación de los servicios que determinen la Constitución y las leyes.
 
 La ley reglamentará lo relacionado con el ejercicio de las atribuciones que la Constitución les otorga.
+
+##### **Artículo 300.** Corresponde a las Asambleas Departamentales, por medio de ordenanzas:
+
+1°. Reglamentar el ejercicio de las funciones y la prestación de los servicios a cargo del Departamento.
+
+2°. Expedir las disposiciones relacionadas con la planeación, el desarrollo económico y social, el apoyo financiero y crediticio a los municipios, el turismo, el transporte, el ambiente, las obras públicas, las vías de comunicación y el desarrollo de sus zonas de frontera.
+
+3°. Adoptar de acuerdo con la Ley los planes y programas de desarrollo económico y social y los de obras públicas, con la determinación de las inversiones y medidas que se consideren necesarias para impulsar su ejecución y asegurar su cumplimiento.
+
+4°. Decretar, de conformidad con la Ley, los tributos y contribuciones necesarios para el cumplimiento de las funciones departamentales.
+
+5°. Expedir las normas orgánicas del presupuesto departamental y el presupuesto anual de rentas y gastos.
+
+6°. Con sujeción a los requisitos que señale la Ley, crear y suprimir municipios, segregar y agregar territorios municipales, y organizar provincias.
+
+7°. Determinar la estructura de la Administración Departamental, las funciones de sus dependencias, las escalas de remuneración correspondientes a sus distintas categorías de empleo; crear los establecimientos públicos y las empresas industriales o comerciales del departamento y autorizar la formación de sociedades de economía mixta.
+
+8°. Dictar normas de policía en todo aquello que no sea materia de disposición legal.
+
+9°. Autorizar al Gobernador del Departamento para celebrar contratos, negociar empréstitos, enajenar bienes y ejercer, pro tempore, precisas funciones de las que corresponden a las Asambleas Departamentales.
+
+10°. Regular, en concurrencia con el municipio, el deporte, la educación y la salud en los términos que determina la Ley.
+
+1l°. Solicitar informes sobre el ejercicio de sus funciones al Contralor General del Departamento, Secretarios de Gabinete, Jefes de Departamentos Administrativos y Directores de Institutos Descentralizados del orden Departamental.
+
+12°. Cumplir las demás funciones que le asignen la Constitución y la Ley.
+
+Los planes y programas de desarrollo de obras públicas, serán coordinados e integrados con los planes y programas municipales, regionales y nacionales.
+
+Las ordenanzas a que se refieren los numerales 3, 5 y 7 de este artículo, la que decretan inversiones, participaciones o cesiones de rentas y bienes departamentales y las que creen servicios a cargo del Departamento o los traspasen a él, solo podrán ser dictadas o reformadas a iniciativa del Gobernador.
+
+**Artículo 300.** Corresponde a las Asambleas Departamentales por medio de ordenanzas:
+
+- 1. Reglamentar el ejercicio de las funciones y la prestación de los servicios a cargo del departamento.
+
+- 2. Expedir las disposiciones relacionadas con la planeación, el desarrollo económico y social, el apoyo financiero y crediticio a los municipios, el turismo, el transporte, el ambiente, las obras públicas, las vías de comunicación, y el desarrollo de sus zonas de frontera.
+
+- 3. Adoptar de acuerdo con la ley los planes y programas de desarrollo económico y social y los de obras públicas, con la determinación de las inversiones y medidas que se consideren necesarias para impulsar su ejecución y asegurar su cumplimiento.
+
+- 4. Decretar, de conformidad con la ley, los tributos y contribuciones necesarios para el cumplimiento de las funciones departamentales.
+
+- 5. Expedir las normas orgánicas del presupuesto departamental y el presupuesto anual de rentas y gastos.
+
+- 6. Con sujeción a los requisitos que señale la ley, crear y suprimir municipios, segregar y agregar territorios municipales, y organizar provincias.
+
+- 7. Determinar la estructura de la administración departamental, las funciones de sus dependencias, las escalas de remuneración correspondientes a sus distintas categorías de empleo; crear los establecimientos públicos y las empresas industriales o comerciales del departamento y autorizar la formación de sociedades de economía mixta.
+
+- 8. Dictar normas de policía en todo aquello que no sea materia de disposición legal.
+
+- 9. Autorizar al gobernador para celebrar contratos, negociar empréstitos, enajenar bienes y ejercer, *pro tempore,* precisas funciones de las que corresponden a las asambleas departamentales.
+
+- 10. Regular, en concurrencia con el municipio, el deporte, la educación y la salud en los términos que determine la ley; y
+
+- 11. Cumplir las demás funciones que les asignen la Constitución y la ley. Los planes y programas de desarrollo y de obras públicas, serán coordinados e integrados con los planes y programas municipales, regionales y nacionales.
+
+- 12. Cumplir las demás funciones que le asignen la Constitución y la ley. Los planes y programas de desarrollo de obras públicas, serán coordinados e integrados con los planes y programas municipales, regionales y nacionales.
+
+Las ordenanzas a que se refieren los numerales 3, 5 y 7 de este artículo, las que decreten inversiones, participaciones o cesiones de rentas y bienes departamentales y las que creen servicios a cargo del departamento o los traspasen a él, sólo podrán ser dictadas o reformadas a iniciativa del gobernador.
 
 ##### **Artículo 301.** La ley señalará los casos en los cuales las asambleas podrán delegar en los concejos municipales las funciones que ella misma determine. En cualquier momento, las asambleas podrán reasumir el ejercicio de las funciones delegadas.
 
