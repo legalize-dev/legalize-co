@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1898-10-29"
+last_updated: "1905-03-30"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -39,6 +39,12 @@ Las secciones que componían la Unión Colombiana, denominadas Estados y Territo
 Las líneas divisorias dudosas serán determinadas por comisiones demarcadoras nombradas por el Senado.
 
 Los antiguos Territorios nacionales quedan incorporados en las secciones a que primitivamente pertenecieron.
+
+##### **Artículo 6°** reformado por Artículo 4° ACTO LEGISLATIVO 3 de 1905
+
+**Artículo 6º.** Sólo por una ley aprobada en la forma expresada en la parte final del artículo anterior, podrán ser variados los actuales límites de los Departamentos.
+
+Por medio de una ley aprobada en la forma ordinaria y sin la condición antedicha, podrá el Congreso separar de los Departamentos a que ahora se reincorporan, o al que han pertenecido, los Territorios a que se refiere el Artículo 4.º, o las Islas, y disponer respecto de unos u otras lo más conveniente.
 
 ## **Título II. De los habitantes: nacionales y extranjeros**
 
