@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1936-08-05"
+last_updated: "1945-06-17"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -58,7 +58,13 @@ Por medio de una ley aprobada en la forma ordinaria y sin la condición antedich
 
 ##### **Artículo 12°.** Derogado
 
-##### **Artículo 13.** El colombiano, aunque haya perdido la calidad de nacional, que fuere cogido con las armas en la mano en guerra contra Colombia, será juzgado y penado como traidor, Los extranjeros naturalizados y los domiciliados en Colombia, no serán obligados a tomar armas contra el país de su origen.
+##### **ARTÍCULO 13°**.
+
+Son ciudadanos los colombianos mayores de veintiún años.
+
+La ciudadanía se pierde de hecho cuando se ha perdido la nacionalidad. También se pierde o se suspende, en virtud de decisión judicial, en los casos que determinen las leyes.
+
+Los que hayan perdido la ciudadanía podrán solicitar rehabilitación.
 
 ##### **Artículo 16°.** Derogado.
 
@@ -130,9 +136,11 @@ Ofrécese la misma garantía a los propietarios de obras publicadas en países d
 
 ##### **Artículo 36°.** Derogado.
 
-##### **Artículo 37°** modificado por Artículo 34° ACTO LEGISLATIVO NUMERO 1 DE 1936.
+##### **ARTÍCULO 37°.**
 
-**Artículo 37.** No habrá en Colombia bienes raíces que no sean de libre enajenación ni obligaciones irredimibles.
+La correspondencia confiada a los Telégrafos y Correos es inviolable. Las cartas y papeles privados no podrán ser interceptados ni registrados sino por la autoridad, mediante orden del funcionario competente, en los casos y con las formalidades que establezca la ley y con el único objeto de buscar pruebas judiciales.
+
+Para la tasación de impuestos y para los casos de intervención del Estado, podrá exigirse la presentación de los libros de contabilidad y demás papeles anexos. Podrá gravarse, pero nunca prohibirse en tiempo de paz, la circulación de impresos por los correos.
 
 ##### **Artículo 38°.** Derogado.
 
@@ -172,15 +180,15 @@ Nadie podrá dentro de poblado llevar armas consigo, sin permiso de la autoridad
 
 ##### **Artículo 51.** Las leyes determinarán la responsabilidad a que quedan sometidos los funcionarios públicos de todas clases, que atenten contra los derechos garantizados en este Título.
 
-##### **Artículo 52.** Las disposiciones del presente Título se incorporarán en el Código Civil como Título preliminar, y no podrán ser alteradas sino por acto reformatorio de la Constitución.
+##### **ARTÍCULO 52**.
+
+Son ramas del Poder Público la Legislativa, la Ejecutiva y la Jurisdiccional. El Congreso, el Gobierno y los jueces tienen funciones separadas, pero colaboran armónicamente en la realización de los fines del Estado.
 
 ## **Título IV. De las relaciones entre la Iglesia y el Estado**
 
 ##### **Artículo 53°.** Derogado
 
-**Artículo 53.** La Iglesia Católica podrá libremente en Colombia administrar sus asuntos interiores y ejercer actos de autoridad espiritual y de jurisdicción eclesiástica, sin necesidad de autorización del Poder civil; y como persona jurídica, representada en cada Diócesis por el respectivo legítimo Prelado, podrá igualmente ejercer actos civiles, por derecho propio que la presente Constitución le reconoce.
-
-##### **Artículo 54.** El ministerio sacerdotal es incompatible con el desempeño de cargos públicos, Podrán, sin embargo, los sacerdotes católicos ser empleados en la instrucción o beneficencia públicas.
+##### **Artículo 54°**. Derogado.
 
 ##### **Artículo 55°**. Derogado.
 
@@ -394,7 +402,47 @@ La aceptación de cualquiera de estos empleos por un miembro del Congreso, produ
 
 ##### **Artículo 114.** El Presidente de la República será elegido por las Asambleas electorales, en un mismo día, y en la forma que determine la ley, para un período de seis años.
 
-##### **Artículo 115.** Para ser Presidente de la República se requieren las mismas calidades que para ser Senador.
+##### **Artículo 115.** Corresponde al Presidente de la República, como suprema autoridad administrativa:
+
+- 1° Nombrar y separar libremente los Ministros del Despacho y los Jefes de los Departamentos Administrativos;
+
+- 2° Promulgar las leyes sancionadas, obedecerlas y velar por su exacto cumplimiento;
+
+- 3° Ejercer la potestad reglamentaria expidiendo las órdenes, decretos y resoluciones necesarias para la cumplida ejecución de las leyes;
+
+- 4° Nombrar y separar libremente los Gobernadores;
+
+- 5° Nombrar las personas que deban desempeñar cualesquiera empleos nacionales cuya provisión no corresponda a otros funcionarios o corporaciones, según esta Constitución o leyes posteriores.
+
+En todo caso, el Presidente tiene facultad de nombrar y remover libremente sus agentes;
+
+- 6° Disponer de la fuerza pública y conferir grados militares con las restricciones estatuidas en el inciso 2º del artículo 91, y con las formalidades de la ley que regule el ejercicio de esta facultad;
+
+- 7° Conservar en todo el territorio el orden público y restablecerlo donde fuere turbado;
+
+- 8° Dirigir, cuando lo estime conveniente, las operaciones de la guerra, como Jefe de los Ejércitos de la República. Si ejerciere el mando militar fuera de la capital, quedará el Designado encargado de los otros ramos de administración;
+
+- 9° Proveer a la seguridad exterior de la República, defendiendo la independencia, y la honra de la Nación y la inviolabilidad del territorio; declarar la guerra con permiso del Senado, o hacerla sin tal autorización cuando urgiere repeler una agresión extranjera; y ajustar y ratificar el tratado de paz, habiendo de dar después cuenta documentada a la próxima legislatura;
+
+- 10. Permitir, en receso del Senado, y previo dictamen del Consejo de Estado, el tránsito de tropas extranjeras por el territorio de la República;
+
+- 11. Permitir, con el dictamen del Consejo de Estado, la estación de buques extranjeros en aguas de la Nación.
+
+- 12. Cuidar de la exacta recaudación y administración de las rentas y caudales públicos y decretar su inversión con arreglo a las leyes.
+
+- 13. Reglamentar, dirigir e inspeccionar la instrucción pública nacional.
+
+- 14. Celebrar contratos administrativos para la prestación de servicios y ejecución de obras públicas, con arreglo a las leyes fiscales y con la obligación de dar cuenta al Congreso en sus sesiones ordinarias.
+
+- 15. Ejercer la inspección necesaria sobre los Bancos de emisión y demás establecimientos de crédito y sobre las sociedades mercantiles, conforme a las leyes.
+
+- 16. Dar permiso a los empleados nacionales que lo soliciten, para admitir cargos o mercedes de Gobiernos extranjeros.
+
+- 17. Expedir cartas de naturalización conforme a las leyes.
+
+- 18. Conceder patentes de privilegio temporal a los autores de invenciones o perfeccionamientos útiles, con arreglo a las leyes.
+
+- 19. Ejercer derecho de inspección y vigilancia sobre instituciones de utilidad común para que sus rentas se conserven y sean debidamente aplicadas, y que en todo lo esencial se cumpla con la voluntad de los fundadores.
 
 ##### **Artículo 116.** El Presidente de la República electo tomará posesión de su destino ante el Presidente del Congreso, y prestará juramento en estos términos. Juro a Dios cumplir fielmente la Constitución y leyes de Colombia.
 
@@ -634,7 +682,7 @@ No podrán suprimirse ni disminuirse los sueldos de los Magistrados y Jueces, de
 
 ##### **Artículo 163.** Podrán crearse Tribunales de Comercio.
 
-##### **Artículo 164.** La ley podrá establecer la jurisdicción contencioso-administrativa, instituyendo Tribunales para conocer de las cuestiones litigiosas ocasionadas por las providencias de las autoridades administrativas de los Departamentos y atribuyendo al Consejo de Estado la resolución de las promovidas por los centros superiores de administración.
+##### **Artículo 164.** Los funcionarios de la rama Jurisdiccional y los empleados subalternos de la misma, así como los del Ministerio Público, no podrán ser miembros activos de partidos políticos ni intervenir en debates de carácter electoral, a excepción del ejercicio del sufragio. La desobediencia a este mandato es causal de mala conducta, que ocasiona la pérdida del empleo.
 
 ## **Título XVI. De la fuerza pública**
 
@@ -644,9 +692,13 @@ La ley determinará las condiciones que en todo tiempo eximen del servicio milit
 
 ##### **Artículo 166.** La Nación tendrá para su defensa un Ejército permanente. La ley determinará el sistema de reemplazos del Ejército, así como los ascensos, derechos y obligaciones de los militares.
 
-##### **Artículo 167.** Cuando no se fijare por ley expresa el pie de fuerza, subsistirá la base acordada por el Congreso para el precedente bienio.
+##### **Artículo 167.** Derogado.
 
-##### **Artículo 168.** La fuerza armada no es deliberante. No podrá reunirse sino por orden de la autoridad legítima; ni dirigir peticiones, sino sobre asuntos que se relacionen con el buen servicio y moralidad del Ejército y con arreglo a las leyes de su instituto.
+##### **Artículo 168.** La fuerza armada no es deliberante.
+
+No podrá reunirse sino por orden de la autoridad legítima, ni dirigir peticiones sino sobre asuntos que se relacionen con el buen servicio y moralidad del Ejército, y con arreglo a las leyes de su instituto.
+
+Los miembros del Ejército, de la Policía Nacional y de los Cuerpos armados de carácter permanente, no podrán ejercer la función del sufragio mientras permanezcan en servicio activo, ni intervenir en debates políticos.
 
 ##### **Artículo 169.** Los militares no pueden ser privados de sus grados, honores y pensiones, sino en los casos y del modo que determine la ley.
 
@@ -676,7 +728,7 @@ Los distritos municipales cuya población exceda de cincuenta mil almas formará
 
 Las fracciones sobrantes de población que sumadas excedan de veinticinco mil habitantes, añadirán un Representante a los que por cada cincuenta mil elige el Departamento. La ley fijará las reglas de esta elección adicional.
 
-##### **Artículo 179.** El sufragio se ejerce como función constitucional. El que sufraga o elige no impone obligaciones al candidato, ni confiere mandato al funcionario electo.
+##### **Artículo 179.** En cada uno de los Departamentos habrá un Gobernador, que será a un mismo tiempo agente del Gobierno y Jefe de la Administración Seccional.
 
 ##### **Artículo 180.** Habrá Jueces de escrutinio, encargados de decidir, con el carácter de jueces de derecho, las cuestiones que se susciten de validez o nulidad de las actas, de las elecciones mismas, o de determinados votos.
 
@@ -686,17 +738,15 @@ Estos Jueces son responsables por las decisiones que dicten, y serán nombrados 
 
 ##### **Artículo 182.** Los Departamentos para el servicio administrativo, se dividirán en Provincias, y éstas en distritos municipales.
 
-##### **Artículo 184.** sustituido por el **ACTO LEGISLATIVO 1 DE 1909.**
+##### **Artículo 184.** Habrá en cada Departamento una corporación administrativa denominada Asamblea Departamental, que se reunirá ordinariamente cada año en la capital del Departamento, por un término de dos meses.
 
-**Artículo 184.** Sustituido por el **ACTO LEGISLATIVO 2 DE 1907.**
-
-**Artículo 184.** Las Asambleas se reunirán ordinariamente cada dos años en la capital del Departamento.
+El Gobernador podrá convocarla a sesiones extraordinarias. La ley fijará la época de sesiones.
 
 ##### **Artículo 187.** Las Asambleas departamentales, además de sus atribuciones propias, podrán ejercer otras funciones por autorización del Congreso.
 
-##### **Artículo 188.** Los bienes, derechos, valores y acciones que por leyes, o por decretos del Gobierno nacional, o por cualquier otro título pertenecieron a los extinguidos Estados soberanos, se adjudican a los respectivos Departamentos y les pertenecerán mientras éstos tengan existencia legal.
+##### **Artículo 188.** Las Asambleas votarán anualmente el presupuesto de rentas y gastos del respectivo Departamento de acuerdo con las normas que establezca la ley.
 
-Exceptúanse los inmuebles que se especifican en el Artículo 202.
+La ley podrá limitar las apropiaciones departamentales destinadas a asignaciones de los Diputados, gasto del funcionamiento de las Asambleas y de las Contralorías Departamentales.
 
 ##### **Artículo 189. Sustituido por el** **ACTO LEGISLATIVO 1 DE 1909.**
 
@@ -704,31 +754,37 @@ Exceptúanse los inmuebles que se especifican en el Artículo 202.
 
 **Artículo 189.** Las Asambleas votarán cada dos años el Presupuesto de rentas y gastos del respectivo Departamento, y en él apropiarán las partidas necesarias para cubrirlos gastos que les correspondan, conforme a la ley.
 
-##### **Artículo 191.** Las ordenanzas de las Asambleas son ejecutivas y obligatorias mientras no sean suspendidas por el Gobernador o por la autoridad judicial.
+##### **Artículo 191.** Derogado.
 
-##### **Artículo 192.** Los particulares agraviados por actos de las Asambleas pueden recurrir al Tribunal competente; y éste, por pronta providencia, cuando se trate de evitar un grave perjuicio, podrá suspender el acto denunciado.
+##### **Artículo 192.** Son atribuciones del Gobernador:
+
+- 1° Cumplir y hacer que se cumplan en el Departamento las órdenes del Gobierno;
+
+- 2° Dirigirla acción administrativa en el Departamento, nombrando y separando sus agentes, reformando o revocando los actos de éstos, y dictando las providencias necesarias en todos los ramos de la Administración;
+
+- 3° Llevar la voz del Departamento y representarlo en los negocios administrativos y judiciales, pudiendo delegar esta representación conforme a la ley;
+
+- 4° Auxiliar la justicia como lo determine la ley;
+
+- 5° Ejercer el derecho de vigilancia y protección sobre las corporaciones oficiales y establecimientos públicos;
+
+- 6° Objetar, por motivos de inconstitucionalidad, ilegalidad o inconveniencia, los proyectos de ordenanzas, y sancionar y promulgar las ordenanzas en la forma legal;
+
+- 7° Revisar los actos de los Concejos Municipales y los de los Alcaldes, por motivos de inconstitucionalidad o de ilegalidad, revocar los últimos y pasar los primeros al Tribunal competente para que éste decida sobre su exequibilidad;
+
+- 8° Las demás atribuciones que por la ley le competan.
 
 ##### **Artículo 193.** En cada Departamento habrá un Gobernador que ejercerá las funciones del Poder Ejecutivo, como Agente de la Administración central por una parte, y por otra, como Jefe Superior de la Administración departamental.
 
-##### **Artículo 195.** Son atribuciones del Gobernador:
+##### **Artículo 195.** Son atribuciones de los Concejos, que ejercerán conforme a la ley, las siguientes:
 
-- 1. Cumplir y hacer que se cumplan en el Departamento las órdenes del Gobierno;
+- 1° Ordenar, por medio de acuerdos, lo conveniente para la administración del Distrito;
 
-- 2. Dirigir la acción administrativa en el Departamento, nombrando y separando sus agentes, reformando o revocando los actos de éstos y dictando las providencias necesarias en todos los ramos de la Administración;
+- 2° Votar, en conformidad con la Constitución, la ley y las ordenanzas, las contribuciones y gastos locales;
 
-- 3. Llevar la voz del Departamento y representarlo en asuntos políticos y administrativos;
+- 3° Elegir Personero y Tesorero Municipales y los demás funcionarios o empleados que la ley determine;
 
-- 4. Auxiliar la justicia en los términos que determine la ley;
-
-- 5. Ejercer el derecho de vigilancia y protección sobre las corporaciones oficiales y establecimientos públicos;
-
-- 6. Sancionar, en los términos que determine la ley, las ordenanzas que expidan las Asambleas departamentales;
-
-- 7. Suspender de oficio, o a petición de parte agraviada, por resolución motivada, dentro del término de diez días después de sus expedición, las ordenanzas de las Asambleas que no deban correr por razón de incompetencia, infracción de leyes o violación de derechos de tercero; y someter la suspensión decretada al Gobierno para que él la confirme o revoque;
-
-- 8. Revisar los actos de las Municipalidades y los de los Alcaldes, suspender los primeros y revocar los segundos por medio de resoluciones razonadas y únicamente por motivos de incompetencia o ilegalidad;
-
-Y las demás que por la ley le competan.
+- 4° Ejercer las demás funciones que la ley les señale.
 
 ##### **Artículo 199.** Corresponde a los Consejos municipales ordenar lo conveniente, por medio de acuerdos o reglamentos interiores, para la administración del Distrito; votar, en conformidad con las ordenanzas expedidas por las Asambleas, las contribuciones y gastos locales; llevar el movimiento anual de la población; formar el censo civil cuando lo determine la ley ejercer las demás funciones que le sean señaladas.
 
@@ -808,9 +864,9 @@ El Consejo Nacional constituyente, una vez que asuma el carácter de Cuerpo legi
 
 **Artículo *.** Esta Constitución empezará a regir, para los Altos Poderes nacionales, desde el día en que sea sancionada; y para la Nación, treinta días después de su publicación en el *Diario Oficial.*
 
-##### **Artículo Nuevo I.**El Presidente del Consejo será elegido por la misma corporación y durará u n año en el ejercicio de sus funciones, pero podrá ser reelegido indefinidamente.
+##### **Artículo Nuevo I**. El Presidente del Consejo será elegido por la misma corporación y durará u n año en el ejercicio de sus funciones, pero podrá ser reelegido indefinidamente.
 
-##### **Artículo Nuevo II.**Para ser elegido Consejero de Estado y desempeñar el cargo, se requieren las mismas calidades exigidas a los Magistrados de la Corte Suprema de Justicia.
+##### **Artículo Nuevo II.** Para ser elegido Consejero de Estado y desempeñar el cargo, se requieren las mismas calidades exigidas a los Magistrados de la Corte Suprema de Justicia.
 
 ##### **Artículo Nuevo III.** Son atribuciones del Consejo de Estado:
 
@@ -826,15 +882,15 @@ Los dictámenes del Consejo no son obligatorios para el Gobierno, salvo en el ca
 
 ##### **Articulo Nuevo IV.** Corresponde a la jurisdicción de lo Contencioso-Administrativo conocer de las acusaciones por inconstitucionalidad de los decretos dictados por el Gobierno, cuando no sean de los expedidos en ejercicio de las facultades de que tratan los ordinales 11 y 12 del artículo 69 y el artículo 117 de esta Constitución.
 
-##### **Artículo Nuevo V.**La jurisdicción de lo Contencioso-Administrativo podrá suspender provisionalmente los actos de la Administración por los motivos y con los requisitos que establezca la ley.
+##### **Articulo Nuevo V.** La jurisdicción de lo Contencioso-Administrativo podrá suspender provisionalmente los actos de la Administración por los motivos y con los requisitos que establezca la ley.
 
-##### **Artículo Nuevo VI.** En cada Departamento habrá un Tribunal Administrativo, cuyas funciones señalará la ley.
+##### **Articulo Nuevo VI.** En cada Departamento habrá un Tribunal Administrativo, cuyas funciones señalará la ley.
 
 El número de Magistrados que integran cada Tribunal, las calidades que deben reunir para desempeñar su cargo y el modo de su elección y separación, serán establecidos por la ley.
 
 El período de estos Magistrados será de dos años.
 
-##### **Artículo Nuevo VII.** El Fiscal del Consejo de Estado será nombrado en la forma indicada en el inciso 2º del artículo anterior. Para desempeñar este cargo se requieren las mismas condiciones exigidas a los Consejeros de Estado, y su período será de cuatro años.
+##### **Articulo Nuevo VII.** El Fiscal del Consejo de Estado será nombrado en la forma indicada en el inciso 2º del artículo anterior. Para desempeñar este cargo se requieren las mismas condiciones exigidas a los Consejeros de Estado, y su período será de cuatro años.
 
 En los Tribunales Administrativos la Fiscalía será desempeñada conforme a las reglas que establezca la ley.
 
@@ -844,7 +900,7 @@ El Senado ejerce determinadas funciones judiciales.
 
 La justicia es un servicio público de cargo de la Nación.
 
-##### **Articulo Nuevo IX.**La ley no podrá establecer en ningún caso, categorías entre los Tribunales del país.
+##### **Articulo Nuevo IX.** La ley no podrá establecer en ningún caso, categorías entre los Tribunales del país.
 
 ##### **Articulo Nuevo X.** Para los efectos del artículo 173 de la Constitución, la Corte Suprema, al elegir Magistrados de Tribunal, el Presidente, al nombrar Fiscales de Tribunales, y el Procurador, al nombrar Fiscales de los Juzgados, tendrán como base la proporción en que estén representados los partidos en la respectiva Asamblea Departamental. La ley reglamentará la manera de hacer la elección.
 
