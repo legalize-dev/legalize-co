@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2004-08-29"
+last_updated: "2004-12-28"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -670,6 +670,26 @@ La ley determinará el régimen aplicable a los particulares que temporalmente d
 
 ##### **Artículo 124.** La ley determinará la responsabilidad de los servidores públicos y la manera de hacerla efectiva.
 
+##### **Artículo 127.**Los servidores públicos no podrán celebrar, por si o por interpuesta persona, o en representación de otro, contrato alguno con entidades publicas o con personas privadas que manejen o administren recursos públicos, salvo las excepciones legales.
+
+A los empleados del Estado que se desempeñen en la Rama Judicial, en los órganos electorales, de control y de seguridad les está prohibido tomar parte en las actividades de los partidos y movimientos y en las controversias políticas, sin perjuicio de ejercer libremente el derecho al sufragio. A los miembros de la Fuerza Pública en servicio activo se les aplican las limitaciones contempladas en el artículo 219 de la Constitución.
+
+Los empleados no contemplados en esta prohibición solo podrán participar en dichas actividades y controversias en las condiciones que señale la Ley Estatutaria.
+
+La utilización del empleo para presionar a los ciudadanos a respaldar una causa o campaña política constituye causal de mala conducta.
+
+Cuando el Presidente y el Vicepresidente de la República presenten sus candidaturas, solo podrán participar en las campañas electorales desde el momento de su inscripción. En todo caso dicha participación solo podrá darse desde los cuatro (4) meses anteriores a la fecha de la primera vuelta de la elección presidencial, y se extenderá hasta la fecha de la segunda vuelta en caso de que la hubiere. La Ley Estatutaria establecerá los términos y condiciones en los cuales, antes de ese lapso, el Presidente o el Vicepresidente podrán participar en los mecanismos democráticos de selección de los candidatos de los partidos o movimientos políticos.
+
+Durante la campaña, el Presidente y el Vicepresidente de la República no podrán utilizar bienes del Estado o recursos del Tesoro Público, distintos de aquellos que se ofrezcan en igualdad de condiciones a todos los candidatos. Se exceptúan los destinados al cumplimiento de las funciones propias de sus cargos y a su protección personal, en los términos que señale la Ley Estatutaria.
+
+**Artículo 127.** Los servidores públicos no podrán celebrar, por si o por interpuesta persona, o en representación de otro, contrato alguno con entidades publicas o con personas privadas que manejen o administren recursos públicos, salvo las excepciones legales.
+
+A los empleados del Estado y de sus entidades descentralizadas que ejerzan jurisdicción, autoridad civil o política, cargos de dirección administrativa, o se desempeñen en los órganos judicial, electoral, de control, les esta prohibido tomar parte en las actividades de los partidos y movimientos y en las controversias políticas, sin perjuicio de ejercer libremente el derecho al sufragio.
+
+Los empleados no contemplados en esta prohibición podrán participar en dichas actividades y controversias en las condiciones que señale la ley.
+
+La utilización del empleo para presionar a los ciudadanos a respaldar una causa o campaña política constituye causal de mala conducta.
+
 ##### **Artículo 128.** Nadie podrá desempeñar simultáneamente más de un empleo público ni recibir más de una asignación que provenga del tesoro público, o de empresas o de instituciones en las que tenga parte mayoritaria el Estado, salvo los casos expresamente determinados por la ley.
 
 Entiéndese por tesoro público el de la Nación, el de las entidades territoriales y el de las descentralizadas.
@@ -1213,6 +1233,16 @@ El Presidente de la República podrá confiar al Vicepresidente misiones o encar
 ##### **Artículo 203.** A falta del Vicepresidente cuando estuviera ejerciendo la Presidencia, ésta será asumida por un Ministro en el orden que establezca la ley.
 
 La persona que de conformidad con este artículo reemplace al Presidente, pertenecerá a su mismo partido o movimiento y ejercerá la Presidencia hasta cuando el Congreso, por derecho propio, dentro de los treinta días siguientes a la fecha en que se produzca la vacancia presidencial, elija al Vicepresidente, quien tomará posesión de la Presidencia de la República.
+
+##### **Artículo 204.** Para ser elegido Vicepresidente se requieren las mismas calidades que para ser Presidente de la República.
+
+El Vicepresidente podrá ser reelegido para el período siguiente si integra la misma fórmula del Presidente en ejercicio.
+
+El Vicepresidente podrá ser elegido Presidente de la República para el período siguiente cuando el Presidente en ejercicio no se presente como candidato.
+
+**Artículo 204.** Para ser elegido Vicepresidente se requieren las mismas calidades que para ser Presidente de la República.
+
+El Vicepresidente no podrá ser elegido Presidente de la República, ni Vicepresidente para el período inmediatamente siguiente.
 
 ##### **Artículo 205.** En caso de falta absoluta del Vicepresidente, el Congreso se reunirá por derecho propio, o por convocatoria del Presidente de la República, a fin de elegir a quien haya de reemplazarlo para el resto del período. Son faltas absolutas del Vicepresidente: su muerte, su renuncia aceptada y la incapacidad física permanente reconocida por el Congreso.
 
