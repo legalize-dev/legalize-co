@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1905-03-30"
+last_updated: "1907-04-15"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -219,6 +219,14 @@ Nadie podrá dentro de poblado llevar armas consigo, sin permiso de la autoridad
 ##### **Artículo 67.** Ningún colombiano podrá admitir de Gobierno extranjero empleo o comisión cerca del de Colombia, sin haber obtenido previamente del último la necesaria autorización.
 
 ## **Título VI. De la reunión y atribuciones del Congreso**
+
+##### **Artículo 68°** sustituido por Artículo 5 ACTO LEGISLATIVO 1 de 1907.
+
+**Artículo 68°** sustituido por ACTO LEGISLATIVO 2 de 1905.
+
+**Artículo 68.** Las Cámaras legislativas se reunirán ordinariamente por derecho propio cada dos años el día 20 de julio en la capital de la República.
+
+Las sesiones ordinarias durarán ciento veinte días, pasados los cuales el Gobierno podrá declarar las Cámaras en receso.
 
 ##### **Artículo 71.** Cuando llegado el día en que ha de reunirse el Congreso, no pudiere verificarse el acto por falta del número de miembros necesarios, los individuos concurrentes, en Junta preparatoria o provisional, apremiarán a los ausentes con las penas que los respectivos reglamentos establezcan; y se abrirán las sesiones luego que esté completo el número requerido.
 
