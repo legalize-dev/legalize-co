@@ -4,7 +4,7 @@ identifier: "DECRETO-96-1989"
 country: "co"
 rank: "decreto"
 publication_date: "1989-01-11"
-last_updated: "1989-01-11"
+last_updated: "1990-05-30"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1704557"
 department: "MINISTERIO DE DEFENSA NACIONAL"
@@ -444,129 +444,45 @@ Parágrafo 2ºLas entidades pagadoras de la Policía Nacional que cubran las pri
 
 ##### **Artículo 68**. PRIMA DE ACTIVIDAD. Los Oficiales y Suboficiales de la Policía Nacional, en servicio activo, tendrán derecho a una prima mensual de actividad, que será equivalente al treinta y tres por ciento (33%) del respectivo sueldo básico.
 
-##### **Artículo 69**. PRIMA DE SERVICIO ANUAL. Los Oficiales y Suboficiales de la Policía Nacional en servicio activo, tendrán derecho al pago de una prima equivalente al cincuenta por ciento (50%) de la totalidad de los haberes devengados en el mes de junio del respectivo año, la cual se pagará dentro de los quince (15) primeros días del mes de julio de cada año.
+##### **Artículo 69**. Declarado Inexequible.
 
-Parágrafo 1ºA quienes se encuentren en comisión del servicio en el exterior la prima de que trata este artículo se les pagará en pesos colombianos, liquidada sobre los haberes que devengarían si estuviesen prestando sus servicios en la ciudad de Bogotá.
+##### **Artículo 70**. Declarado Inexequible.
 
-Parágrafo 2ºCuando el personal a que se refiere el presente artículo no hubiere servido el año completo, tendrá derecho al pago de esta prima a razón de una doceava (1/12) por cada mes completo de servicio, liquidada con base en los haberes devengados en el último mes.
+##### **Artículo 71**. Declarado Inexequible.
 
-##### **Artículo 70**. PRIMA DE NAVIDAD. Los Oficiales y Suboficiales de la Policía Nacional en servicio activo tendrán derecho a recibir anualmente del Tesoro Público una prima de navidad, equivalente a la totalidad de los haberes devengados en el mes de noviembre del respectivo año de acuerdo con su grado o cargo.
+##### **Artículo 72**. Declarado Inexequible.
 
-Parágrafo 1ºCuando los Oficiales o Suboficiales no hubieren servido el año completo, tendrán derecho alreconocimiento de la prima de navidad a razón de una doceava parte (1/12) por cada mes completo de servicio, liquidada con base en los últimos haberes devengados.
+##### **Artículo 73**. Declarado Inexequible.
 
-Parágrafo 2ºCuando el Oficial o Suboficial se encuentre en comisión mayor de noventa (90) días en el exterior, la prima de navidad será pagada de acuerdo con las normas legales vigentes.
+##### **Artículo 74**. Declarado Inexequible.
 
-##### **Artículo 71**. PRIMA DE ANTIGÜEDAD. Los Oficiales y Suboficiales de la Policía Nacional, a partir de la fecha en que cumplan quince (15) y diez (10) años de servicio, respectivamente, tendrán derecho a una prima mensual que se liquidará sobre el sueldo básico, así:
+##### **Artículo 75**. Declarado Inexequible.
 
---Oficiales: A los quince (15) años, el diez por ciento (10%) y por cada año que exceda de los quince (15), el uno por ciento (1%) más.
+##### **Artículo 76**. Declarado Inexequible.
 
---Suboficiales: A los diez (10) años, el diez por ciento (10%) y por cada año que exceda de los diez (10) el uno por ciento (1%).
+##### **Artículo 77**. Declarado Inexequible.
 
-##### **Artículo 72**. PRIMA DE ORDEN PUBLICO. Los Oficiales y Suboficiales de la Policía Nacional que presten sus servicios en lugares en donde se desarrollen operaciones policiales para restablecer el orden público tendrán derecho a una prima mensual de orden público, equivalente al veinticinco por ciento (25%) del sueldo básico. El Ministerio de Defensa Nacional determinará las zonas y condiciones en que debe pagarse esta prima.
+##### **Artículo 78**. Declarado Inexequible.
 
-##### **Artículo 73.** PRIMA PARA OFICIALES DE LOS SERVICIOS. A partir de la vigencia del presente Decreto los Oficiales de los Servicios de la Policía Nacional, cuando presten los servicios profesionales de su especialidad por tiempo completo, tendrán derecho a una prima mensual equivalente al cuarenta por ciento (40%) del sueldo básico correspondiente a su grado.
+##### **Artículo 79**. Declarado Inexequible.
 
-Parágrafo 1ºEl reconocimiento de esta prima se hará por resolución del Ministro de Defensa.
+##### **Artículo 80**. Declarado Inexequible.
 
-Parágrafo 2ºSe excluye de esta prima a los Oficiales que desempeñen cargos en la Justicia Penal Militar o en su Ministerio Público o devenguen remuneraciones especiales.
+##### **Artículo 81**. Declarado Inexequible.
 
-##### **Artículo 74**. PRIMA DE ESPECIALISTA. Los Suboficiales de la Policía Nacional en servicio activo, que adquieran una especialidad técnica mediante un curso cuya duración mínima sea de mil seiscientas (1.600) horas de clase o cuarenta y ocho (48) semanas de instrucción, tendrán derecho a una prima de especialista equivalente al diez por ciento (10%) del sueldo básico mensual correspondiente, siempre y cuando se desempeñen en la respectiva especialidad.
+##### **Artículo 82**. Declarado Inexequible.
 
-Los Suboficiales en el grado de Sargento Mayor, por el solo hecho de obtener este grado, tendrán derecho a la prima de especialista.
+##### **Artículo 83**. Declarado Inexequible.
 
-Parágrafo.A los Suboficiales de la Policía Nacional que con anterioridad a la vigencia del presente estatuto se les haya reconocido esta prima, se les continuará pagando en las formas en que les fue decretada siempre y cuando se desempeñen en la especialidad.
+##### **Artículo 84**. Declarado Inexequible.
 
-##### **Artículo 75**. PRIMA DE VUELO. Los Oficiales y Suboficiales de la Policía Nacional que desempeñen funciones como tripulantes de aeronaves de la Institución o de otras entidades para el servicio de la Policía, siempre que comprueben haber volado durante un tiempo mínimo de cuatro (4) horas mensuales recibirán una prima de vuelo equivalente al veinte por ciento (20%) del sueldo básico mensual, porcentaje que se aumentará en un uno por ciento (1%) por cada cien (100) horas de vuelo hasta completar tres mil (3.000) horas.
+##### **Artículo 85**. Declarado Inexequible.
 
-De tres mil (3.000) horas en adelante sólo se computará el medio por ciento (1/2%) por cada cien (100) horas adicionales, sin que el total de la prima de vuelo exceda del sueldo básico del Oficial o Suboficial.
+##### **Artículo 86**. Declarado Inexequible.
 
-##### **Artículo 76**. PRIMA DE GASTOS DE REPRESENTACION. Los Oficiales Generales de la Policía Nacional en servicio activo, tienen derecho a una prima mensual de gastos de representación equivalente al treinta por ciento (30%) del sueldo básico.
+##### **Artículo 87**. Declarado Inexequible.
 
-Parágrafo.También tienen derecho a esta prima los Oficiales que sin ser Generales desempeñen el cargo deComandante de Departamento de Policía y Director de la Escuela de Cadetes de Policía "General Santander". El personal a que se refiere este parágrafo no tendrá derecho al cómputo de los gastos de representación en la asignación de retiro o pensión y demás prestaciones sociales.
-
-##### **Artículo 77**. PRIMA DE RIESGO. El oficial o Suboficial de la Policía Nacionalque preste sus servicios en los grupos de operaciones especiales y antiexplosivos, tendrá derecho a una prima de riesgo, equivalente al veinte por ciento (20%) del sueldo básico mensual.
-
-##### **Artículo 78**. PRIMA DE ACADEMIA SUPERIOR DE POLICIA. Los Oficiales de la Policía Nacional, con título de Oficial diplomado en Academia Superior de Policía, tendrán derecho a una prima mensual equivalente al veinte por ciento (20%) del sueldo básico.
-
-##### **Artículo 79**. PRIMA DE ALOJAMIENTO EN EL EXTERIOR. Los Oficiales y Suboficiales de la Policía Nacional en servicio activo, casados o viudos con hijos, que desempeñen comisiones permanentes en el exterior, tendrán derecho mientras cumplan la comisión, siempre y cuando lleven a su familia a residir a la nueva sede, a gozar de una prima mensual de alojamiento hasta del siete por ciento (7%) del sueldo básico correspondiente a su grado, liquidado en dólares a razón de un dólar por cada peso.
-
-Los Oficiales y Suboficiales solteros y los casados o viudos que no lleven a su familia a la respectiva sede cuando desempeñen comisiones permanentes en el exterior, tendrán derecho a una prima de alojamiento hasta del cinco por ciento (5%) del sueldo básico correspondiente a su grado, que se pagará en dólares a razón de un dólar por cada peso.
-
-Parágrafo.El Ministro de Defensa Nacional determinará el porcentaje de esta prima.
-
-##### **Artículo 80**. PRIMA DE INSTALACION. Los Oficiales y Suboficiales de la Policía Nacional en servicio activo que sean trasladados o destinados en comisión permanente dentro del país y tengan por ello que cambiar de lugar de residencia, tendrán derecho, si fueren casados o viudos con hijos a su cargo, a una prima de instalación equivalente a un (1) mes de los haberes correspondientes a su grado.
-
-Esta prima se reconocerá cuando el Oficial o Suboficial lleve a su familia al sitio al que haya sido trasladado. En casos especiales cuando las exigencias del servicio impidan el traslado de la familia a la nueva sede, se reconocerá dicha prima aun cuando el Oficial o Suboficial no efectúe el traslado de aquella.
-
-Cuando el traslado o comisión permanente sean al exterior o del exterior al país, esta prima se pagará anticipadamente en dólares en cuantía que fija las disposiciones legales vigentes sobre la materia.
-
-Parágrafo 1ºLos Oficiales y Suboficiales solteros tendrán derecho a una prima de instalación equivalente a un (1) sueldo básico correspondiente a su grado; si el traslado o comisión permanente fuere al exterior o del exterior al país, la prima se pagará de acuerdo con las disposiciones legales vigentes.
-
-Parágrafo 2ºCuando la prima que se deba pagar en dólares por traslado del exterior al país no sea situada oportunamente, el Oficial o Suboficial tendrá derecho al pago de ella en pesos colombianos, al tipo de cambio oficial vigente para la fecha de su llegada al país.
-
-##### **Artículo 81**. PRIMA DE VACACIONES. Los Oficiales y Suboficiales de la Policía Nacional en servicio activo, con la excepción consagrada en el artículo 8º del Decreto 183 de 1975, tendrán derecho al pago de una prima vacacional equivalente al cincuenta por ciento (50%) de los haberes mensuales, por cada año de servicio, la cual se reconocerá para las vacaciones causadas a partir del 1º de febrero de 1975 y solamente por un período dentro de cada año fiscal.
-
-Parágrafo 1ºCuando el Oficial o Suboficial de la Policía Nacional se encuentre en comisión en el exterior e hiciere uso de vacaciones, percibirá la prima referida en pesos colombianos liquidada en las condiciones establecidas en el presente artículo.
-
-Parágrafo 2ºDe la prima de vacaciones se descontará el valor correspondiente a tres (3) días del sueldo básico, el que ingresará a la Dirección de Bienestar Social de la Policía Nacional con destino al plan de colonias vacacionales.
-
-Parágrafo 3ºLa prima de vacaciones debe liquidarse en la nómina correspondiente al mes inmediatamente anterior a aquél en que los interesados vayan a disfrutar sus vacaciones anuales.
-
-##### **Artículo 82**. SUBSIDIO FAMILIAR. Los Oficiales y Suboficiales de la Policía Nacional, que a la fecha en que entre a regir el presente Decreto se encuentren en servicio activo, tendrán derecho al pago de un subsidio familiar que se liquidará mensualmente sobre su sueldo básico, así:
-
-- a) Casados el treinta por ciento (30%), más los porcentajes a que se tenga derecho conforme al literal c) de este artículo;
-
-- b) Viudos, con hijos habidos dentro del matrimonio por los que exista el derecho a devengarlo, el treinta por ciento (30%), más los porcentajes de que trata el literal c) del presente artículo;
-
-- c) Por el primer hijo el cinco por ciento (5%) y un cuatro por ciento (4%) por cada uno de los demás, sin que se sobrepase por este concepto del diecisiete por ciento (17%).
-
-Parágrafo. El límite establecido en el literal c) de este artículo no afectará a los Oficiales y Suboficiales que por razón de hijos nacidos con anterioridad al 31 de octubre de 1969, estuviesen disfrutando o tuviesen derecho a disfrutar, de porcentajes superiores al diecisiete por ciento (17%), ya que en esa fecha tales porcentajes fueron congelados sin modificación.
-
-##### **Artículo 83**. DISMINUCION DEL SUBSIDIO FAMILIAR. Disminuye por razón de los hijos, así:
-
-- a) Por muerte;
-
-- b) Por matrimonio;
-
-- c) Por independencia económica;
-
-- d) Por haber llegado a la edad de 21 años.
-
-Parágrafo 1ºSe exceptúan de lo contemplado en el literal d) cuando se compruebe que dependen económicamente del Oficial o Suboficial: las hijas célibes, los estudiantes hasta la edad de 24 años y los hijos inválidos absolutos.
-
-Parágrafo 2ºPara los efectos de este estatuto se entiende por:
-
-Hija célibe: La que nunca ha contraído matrimonio.
-
-Estudiante: La persona que concurre regularmente a un centro de educación, capacitación o especialización, por períodos anuales o semestrales durante todos los días académicos hábiles de cada una de las semanas comprendidas en dichos períodos con una intensidad de cuatro (4) horas diarias como mínimo.
-
-Dependencia económica: Aquella situación en la persona no puede atender por sí misma a su congrua subsistencia, debiendo recurrir para ello al sostén económico que puede ofrecerle el Oficial o Suboficial del cual aparece como dependiente.
-
-##### **Artículo 84**. EXTINCION DEL SUBSIDIO FAMILIAR. El subsidio familiar se extingue por razón del cónyuge en los siguientes casos:
-
-- a) Por muerte del cónyuge.
-
-- b) Por cesación de la vida conyugal en los siguientes casos:
-
-- 1. Por declaración judicial de nulidad o inexistencia del matrimonio.
-
-- 2. Por sentencia judicial de divorcio, válida en Colombia.
-
-- 3. Por separación judicial de cuerpos.
-
-Parágrafo.Se ordenará la extinción cuando se presente algunos de los casos anteriores, siempre que no hubiere hijos a cargo, por los que exista el derecho a percibir el subsidio familiar.
-
-##### **Artículo 85**. DESCUENTO SUBSIDIO FAMILIAR. La extinción del subsidio familiar tendrá efecto desde que se presente el hecho, en caso de muerte o de la fecha de ejecutoria de la sentencia o fallo respectivo en los demás eventos; la disminución regirá a partir de la fecha en que se haya producido el hecho que la determina. En uno y otro caso, los interesados están en la obligación de dar el aviso correspondiente dentro de los noventa (90) días siguientes; si no lo hicieren, la Dirección General de la Policía Nacional ordenará el descuento de una suma igual al doble de lo que hubieren recibido en exceso.
-
-##### **Artículo 86**. PROHIBICION PAGO DOBLE SUBSIDIO FAMILIAR. En ningún caso habrá lugar al reconocimiento de doble subsidio familiar. Cuando el cónyuge del Oficial o Suboficial preste sus servicios en el Ministerio de Defensa o en la Policía Nacional, el subsidio familiar se reconocerá al cónyuge que perciba mayor asignación básica; si ésta fuere igual, recibirá el subsidio quien acredite mayor tiempo de servicio.
-
-Parágrafo. El Oficial o Suboficial de la Policía Nacional cuyo cónyuge preste servicio en otra entidad oficial, para obtener derecho al subsidio familiar, deberá acreditar que su cónyuge ha renunciado a dicha prestación en la entidad en donde trabaja, mediante certificación expedida por esta última.
-
-##### **Artículo 87**. PARTIDA DE ALIMENTACION. Los Oficiales y Suboficiales de la Policía Nacional que presten sus servicios en áreas donde se desarrollen operaciones especiales para restablecer el orden público o en aquellas otras específicamente determinadas por el Ministro de Defensa, tendrán derecho a recibir una partida diaria de alimentación igual a la establecida para los miembros de las Fuerzas Militares.
-
-##### **Artículo 88**. SUBSIDIO DE ALIMENTACION. Los Oficiales y Suboficiales de la Policía Nacional en servicio activo, tendrán derecho a un subsidio mensual de alimentación, en cuantía que en todo tiempo determinen las disposiciones legales vigentes sobre la materia.
-
-Parágrafo. El subsidio de alimentación de que trata el presente artículo es incompatible con la partida de alimentación consagrada en el artículo 87 de este estatuto.
+##### **Artículo 88**. Declarado Inexequible.
 
 ##### **Artículo 89**. ANTICIPO DE HABERES POR COMISION AL EXTERIOR. Los Oficiales y Suboficiales que sean destinados en comisión al exterior por más de treinta (30) días, tendrán derecho al anticipo de un (1) mes de sus haberes mensuales.
 
@@ -614,11 +530,11 @@ Quedan a salvo los derechos específicamente consagrados en el artículo 67 de e
 
 Parágrafo. Los Oficiales y Suboficiales en goce de asignación de retiro o sus beneficiarios en goce de pensión, contribuirán a la misma Caja con una cuota mensual equivalente al cinco por ciento (5%) de la asignación de retiro o de la pensión respectivamente.
 
-##### **Artículo 98.** CONTRIBUCION CON AUMENTO A LA CAJA DE SUELDOS DE RETIRO. Los Oficiales y Suboficiales de la Policía Nacional en servicio activo y los que se encuentren en goce de asignación de retiro y sus beneficiarios en goce de pensión pagadera por la Caja de Sueldos de Retiro de la Policía Nacional, contribuirán con destino a ésta con el monto del aumento de sus haberes, asignaciones o pensiones equivalentes a los treinta (30) días siguientes a la fecha en que se cause dicho aumento.
+##### **Artículo 98**. Declarado Inexequible.
 
-##### **Artículo 99**. DESTINO DE LOS APORTES. Los aportes de que tratan los artículos 97 y 98 se desatinarán para capitalización y obligaciones de la Caja de Sueldos de Retiro de la Policía Nacional, de acuerdo con las determinaciones que tome su Junta Directiva.
+##### **Artículo 99**. Declarado Inexequible.
 
-##### **Artículo 100**. CONTRIBUCION AL FONDO ESPECIAL DE SANIDAD. Los Oficiales y Suboficiales o sus beneficiarios, en goce de pensión pagadera por el Tesoro Público, contribuirán con el cinco por ciento (5%) del valor de la pensión, con destino al Fondo Especial de Sanidad
+##### **Artículo 100**. Declarado Inexequible.
 
 ### **CAPITULO IV**
 
@@ -892,39 +808,17 @@ Las prestaciones sociales a que haya lugar se liquidarán con base en las asigna
 
 Parágrafo. Fuera de las partidas específicamente señaladas en este artículo, ninguna de las demás primas, subsidios, auxilios y compensaciones consagradas en este estatuto, serán computables para efectos de cesantías, asignaciones de retiro, pensiones, sustituciones pensionales y demás prestaciones sociales.
 
-##### **Artículo 140**. COMPUTO PRIMA DE ACTIVIDAD. A los Oficiales y Suboficiales que se retiren o sean retirados del servicio activo a partir de la vigencia del presente Decreto, para efectos de asignación de retiro, pensión y demás prestaciones sociales, la prima de actividad se les computará de la siguiente forma:
+##### **Artículo 140**. Declarado Inexequible.
 
---Para Oficiales y Suboficiales con menos de quince (15) años de servicio, el quince por ciento del sueldo básico.
+##### **Artículo 141**. Declarado Inexequible.
 
---Para Oficiales y Suboficiales con quince (15) o más años de servicio, pero menos de veinte (20), el veinte por ciento (20%), del sueldo básico.
+##### **Artículo 142**. Declarado Inexequible.
 
---Para Oficiales y Suboficiales con veinte (20) o más años de servicio, pero menos de veinticinco (25), el veinticinco por ciento (25%), del sueldo básico.
-
---Para Oficiales y Suboficiales con veinticinco (25) o más años de servicio pero menos de treinta (30), el treinta por ciento (30%), del sueldo básico.
-
---Para Oficiales y Suboficiales con treinta (30) o más años de servicio, el treinta y tres por ciento (33%) del sueldo básico.
-
-##### **Artículo 141**. RECONOCIMIENTO PRIMA DE ACTIVIDAD. Los Oficiales y Suboficiales de la Policía Nacional en goce de asignación de retiro o pensión, cuyo retiro o separación haya ocurrido antes del 24 de agosto de 1984 se les computará la prima de actividad de acuerdo en lo dispuesto en el artículo anterior, en la forma que a continuación se expresa:
-
---En la vigencia fiscal de 1990 hasta el 18.5%.
-
---En la vigencia fiscal de 1991 hasta el 22.5%.
-
---En la vigencia fiscal de 1992 hasta el 33%.
-
-Parágrafo. Queda entendido que no habrá lugar a los reajustes establecidos en este artículo entre el 24 de agosto de 1984 y las iniciaciones de las vigencias fiscales indicadas en esta norma.
-
-##### **Artículo 142**. CESANTIA E INDEMNIZACIONES. El Oficial o Suboficial de la Policía Nacional que durante la vigencia de este Decreto se retire o sea retirado del servicio activo por cualquier causa, tendrá derecho a que el Tesoro Público le pague, por una sola vez, un auxilio de cesantía igual a un mes de haberes correspondientes a su grado por cada año de servicio o fracción de seis, (6) meses o más, tomando como base las partidas señaladas en el literal a) del artículo 139 y a las indemnizaciones que legalmente le puedan corresponder liquidadas, igualmente conforme al artículo 139 de este Decreto.
-
-##### **Artículo 143**. ASIGNACION DE RETIRO. Durante la vigencia del presente estatuto, los Oficiales y Suboficiales de la Policía Nacional que sean retirados del servicio activo después de quince (15) años, por llamamiento a calificar servicios o por voluntad del Gobierno o de la Dirección General de la Policía Nacional, o por sobrepasar la edad máxima correspondiente al grado, o por disminución de la capacidad sicofísica, o por incapacidad profesional o por inasistencia al servicio por más de cinco (5) días sin tener causa justificada o por conducta deficiente, y los que se retiren a solicitud propia después de los veinte (20) años de servicio, tendrán derecho a partir de la fecha en que terminen los tres (3) meses de alta, a que por la Caja de Sueldos de Retiro de la Policía Nacional se les pague una asignación mensual de retiro equivalente al cincuenta por ciento (50%) del monto de las partidas de que trata el artículo 139 de este estatuto, por los quince (15) primeros años de servicio y un cuatro por ciento (4%) más por cada año que exceda a los quince (15), sin que el total sobrepase del ochenta y cinco por ciento (85%) de los haberes de actividad.
-
-Parágrafo 1ºLa asignación de retiro de los Oficiales y Suboficiales que durante la vigencia de este estatuto se retiren con treinta (30) o más años de servicio será equivalente al noventa y cinco por ciento (95%) de las partidas fijadas en el literal b) del artículo 139, liquidadas en la forma prevista en este mismo Decreto.
-
-Parágrafo 2ºLos Oficiales y Suboficiales retirados antes del 17 de diciembre de 1968 con treinta (30) o más años de servicio, continuarán percibiendo la asignación de retiro reajustada al noventa y cinco por ciento (95%) de las partidas que se incluyeron en cada caso para la respectiva asignación.
+##### **Artículo 143**. Declarado Inexequible.
 
 ##### **Artículo 144**. TRES (3) MESES DE ALTA. Los Oficiales y Suboficiales de la Policía Nacional que pasen a la situación de retiro temporal o absoluto y tengan derecho a asignación de retiro o pensión, continuarán dados de alta en la respectiva pagaduría por tres (3) meses a partir de la fecha en que se cause la novedad de retiro, para la formación del expediente de prestaciones sociales. Durante dicho lapso y salvo lo dispuesto en el artículo 175 de este Decreto continuarán recibiendo la totalidad de los haberes devengados en actividad correspondientes a su grado. El lapso de los tres (3) meses de alta se considerará como de servicio activo, únicamente para efectos de prestaciones sociales.
 
-##### **Artículo 145**. RETIRO EN ESTADO DE EMBARAZO. Las Oficiales y Suboficiales de la Policía Nacional que sean retiradas del servicio activo durante el embarazo o los tres meses siguientes al parto o al aborto, tendrán derecho a que se les pague una indemnización equivalente a sus haberes de sesenta (60) días, fuera de las demás prestaciones a que hubiere lugar de conformidad con este estatuto y además al pago de la licencia remunerada, si el retiro impide el goce de dicha licencia.
+##### **Artículo 145**. Declarado Inexequible.
 
 ##### **Artículo 146**. PRESTACIONES POR RETIRO O MUERTE ENSITUACIONES ESPECIALES. Las prestaciones sociales de los Oficiales y Suboficiales de la Policía Nacional, que se retiren o sean retirados durante el desempeño de comisiones en el exterior o mientras se encuentren disfrutando de las remuneraciones especiales a que se refiere el artículo 66 de este Decreto, serán las correspondientes al grado respectivo y se liquidarán y pagarán sobre la base de los haberes que percibirían si se encontraren prestando sus servicios en la ciudad de Bogotá.
 
@@ -938,21 +832,11 @@ Si al practicarse el examen de aptitud sicofísica con posterioridad al retiro d
 
 - b) Al Oficial o Suboficial sin derecho o asignación de retiro o pensión, se le darán las prestaciones asistenciales en los mismos términos y condiciones señaladas en el literal anterior. Además, cuando por razón de la lesión o enfermedad o por imposición del tratamiento a que ha de someterse el paciente, éste quede imposibilitado para el ejercicio de toda labor remunerativa, se le darán las prestaciones económicas equivalentes a los haberes que devengaba en el momento de producirse el retiro, las cuales se pagarán por el tiempo de incapacidad que fije la Sanidad de la Policía.
 
-##### **Artículo 148**. LIQUIDACION PRESTACIONES OFICIALES GENERALES Y CORONELES. Las prestaciones sociales de los Oficiales Generales y Coroneles serán liquidadas, así:
+##### **Artículo 148**. Declarado Inexequible.
 
-Sueldo básico: Será igual al porcentaje que como tal determinen las disposiciones legales vigentes que regulan esta materia.
+##### **Artículo 149**. Declarado Inexequible.
 
-Las partidas y porcentajes correspondientes señalados en los artículos 139 y 143 de este Decreto.
-
-##### **Artículo 149**. COMPUTO PARTIDA SUBSIDIO FAMILIAR. A partir de la vigencia del presente Decreto, la partida de subsidio familiar que se haya incluido o se incluya para la liquidación de las asignaciones de retiro y pensiones a que refiere el literal b) del artículo 139 de este estatuto, no sufrirá variaciones de ninguna especie. Tampoco habrá lugar a la inclusión y modificación de dicha partida por hechos ocurridos con posterioridad al retiro del Oficial o Suboficial.
-
-Lo anterior no obsta para que en cualquier tiempo se ordene la inclusión, el aumento, disminución o extinción de la partida de subsidio familiar como factor de liquidación de la respectiva asignación de retiro o pensión, cuando se compruebe que al Oficial o Suboficial se le venía considerando un porcentaje diferente al que legalmente le correspondía.
-
-Parágrafo.Para tener derecho a la inclusión de la partida de subsidio familiar en la liquidación de asignación de retiro o pensión, es requisito indispensable que el interesado compruebe que sostiene su hogar y que sus hijos no comprendidos en las causales de disminución dependen económicamente de él, para efectos de sostenimiento y educación, de acuerdo con reglamentación que dicte el Gobierno.
-
-##### **Artículo 150.** OSCILACION DE ASIGNACIONES DE RETIRO Y PENSIONES. Las asignaciones de retiro y las pensiones de que trata el presente Decreto, se liquidarán tomando en cuenta las variaciones que en todo tiempo se introduzcan en las asignaciones de actividad para cada grado y de conformidad con lo dispuesto en el artículo 139 de este Decreto. En ningún caso aquellas serán inferiores al salario mínimo legal. Los Oficiales y Suboficiales o sus beneficiarios no podrán acogerse a normas que regulen ajustes prestacionales en otros sectores de la Administración Pública, a menos que así lodisponga expresamente la ley.
-
-Parágrafo.Para la oscilación de las asignaciones de retiro y pensiones de Oficiales Generales y Coroneles, se tendrá en cuenta como sueldo básico, el porcentaje que como tal determinen las disposiciones legales vigentes que regulen esta materia, más las partidas señaladas en el artículo 139 de este Decreto.
+##### **Artículo 150**. Declarado Inexequible.
 
 ##### **Artículo 151**. LIQUIDACION DE TIEMPO DE SERVICIO. A partir de la vigencia de este Decreto para efectos de asignación de retiro y demás prestaciones sociales, la Policía Nacional liquidará el tiempo de servicio, así:
 
@@ -976,15 +860,11 @@ Parágrafo 3ºLas fracciones mayores de seis (6) meses se consideran como año c
 
 Cuando se trate de obligaciones contraídas con el ramo de Defensa podrá ordenarse directamente los descuentos del caso por la correspondiente autoridad administrativa, los cuales tampoco excederán del cincuenta por ciento (50%) de la prestación afectada.
 
-##### **Artículo 154**. PRESCRIPCION. El derecho a reclamar las prestaciones unitarias y las mesadas de las prestaciones periódicas consagradas en este estatuto, prescriben a los cuatro (4) años, que se cuentan desde la fecha en que la respectiva prestación se hace exigible.
+##### **Artículo 154**.PRESCRIPCION. El derecho a reclamar las prestaciones unitarias y las mesadas de las prestaciones periódicas consagradas en este estatuto, prescriben a los cuatro (4) años, que se cuentan desde la fecha en que la respectiva prestación se hace exigible.
 
 El reclamo escrito recibido por autoridad competente sobre un derecho o prestación determinada interrumpe la prescripción, pero sólo por un lapso igual. El derecho al pago de los valores reconocidos, prescribe en dos (2) años, contados a partir de la ejecutoria del respectivo acto administrativo y pasarán a la Caja de Sueldos de Retiro de la Policía Nacional.
 
-##### **Artículo 155**. FORMA DE PAGO DE ASIGNACIONES DE RETIRO Y PENSIONES. Las asignaciones de retiro y pensiones policiales se pagarán por mensualidades vencidas durante la vida del agraciado y son compatibles con los sueldos provenientes del desempeño de empleos públicos, incluidos los correspondientes a la actividad policial por movilización o llamamiento colectivo al servicio.
-
-Las asignaciones de retiro y las pensiones policiales son incompatibles entre sí y no son reajustables por servicios prestados a entidades de derecho público; igualmente son incompatibles con las pensiones de invalidez o de retiro por vejez, pero el interesado puede optar por las más favorables.
-
-Las asignaciones de retiro y las pensiones policiales son compatibles con las pensiones de jubilación e invalidez provenientes de entidades de derecho público.
+##### **Artículo 155**. Declarado Inexequible.
 
 ##### **Artículo 156**. SERVICIOS MEDICO-ASISTENCIALES EN RETIRO. Los Oficiales y Suboficiales de la Policía Nacional en goce de asignación de retiro o pensión, tendrán derecho a que el Gobierno les suministre dentro del país, asistencia médica, quirúrgica, odontológica, farmacéutica, hospitalaria y demás servicios asistenciales para ellos, sus cónyuges e hijos hasta la edad de veintiún (21) años en hospitales y clínicas de la Policía o por medio de contratos con personas naturales o jurídicas.
 
@@ -1090,7 +970,7 @@ Parágrafo 1ºIgualmente tienen derecho los hijos inválidos absolutos cualquier
 
 Parágrafo 2ºEl Gobierno establecerá tarifas variables para la prestación de los servicios asistenciales a los beneficiarios de los Oficiales y Suboficiales de la Policía Nacional fallecidos en servicio activo.
 
-##### **Artículo 168**. SUSTITUCION PENSIONAL. Al cónyuge supérstite de Oficiales y Suboficiales de la Policía Nacional, a los hijos inválidos absolutos y a las hijas célibes que hayan tenido elderecho consagrado o disfrutado de la sustitución de asignación de retiro o pensión prevista en el Decreto 981 de 1946, se les restablecerá el derecho a partir del veintisiete (27) de abril de 1979, a continuar percibiendo la prestación del causante, en la forma consagrada en este Decreto.
+##### **Artículo 168**. SUSTITUCION PENSIONAL. Al cónyuge supérstite de Oficiales y Suboficiales de la Policía Nacional, a los hijos inválidos absolutos y a las hijas célibes que hayan tenido el derecho consagrado o disfrutado de la sustitución de asignación de retiro o pensión prevista en el Decreto 981 de 1946, se les restablecerá el derecho a partir del veintisiete (27) de abril de 1979, a continuar percibiendo la prestación del causante, en la forma consagrada en este Decreto.
 
 ##### **Artículo 169**. TRES (3) MESES DE ALTA POR FALLECIMIENTO. A la muerte de un Oficial o Suboficial de la Policía Nacional en servicio activo, sus beneficiarios en el orden y proporción establecido, en el presente estatuto, continuarán percibiendo durante tres (3) meses, de la entidad que se venía pagando, los haberes de actividad.
 
@@ -1104,11 +984,7 @@ Así mismo, la Policía Nacional pagará los pasajes de regreso del cónyuge e h
 
 **PRESTACIONES POR MUERTE EN RETIRO.**
 
-##### **Artículo 171**. MUERTE EN GOCE DE ASIGNACION DE RETIRO O PENSION. A la muerte de un Oficial o Suboficial de la Policía Nacional en goce de asignación de retiro o pensión, sus beneficiarios en el orden y proporción establecidos en este estatuto tendrán derecho a una pensión mensual pagadera por el Tesoro Público o por la Caja de Sueldos de Retiro de la Policía Nacional equivalente en todo caso a la totalidad de la prestación que venía gozando el causante.
-
-Así mismo, el cónyuge, los hijos hasta la edad de veintiún (21) o veinticuatro (24) años, si fueren estudiantes, las hijas célibes, los inválidos absolutos cualquiera sea su edad, tendrán derecho a que el Gobierno les suministre asistencia médica, quirúrgica, odontológica, servicios hospitalarios y farmacéuticos, mientras disfruten de pensión decretada con base en los servicios del fallecido.
-
-Parágrafo.El Gobierno establecerá tarifas variables para la prestación de los servicios asistenciales a los beneficiarios de los Oficiales y Suboficiales de la Policía Nacional, fallecidos en goce de asignación de retiro o pensión.
+##### **Artículo 171**. Declarado Inexequible.
 
 ##### **Artículo 172**. ORDEN DE BENEFICIARIOS. Las prestaciones sociales por causa de muerte de un Oficial o Suboficial de la Policía Nacional en servicio activo o en goce de asignación de retiro o pensión se pagarán según el siguiente orden preferencial:
 
@@ -1136,18 +1012,6 @@ Parágrafo.El Gobierno establecerá tarifas variables para la prestación de los
 
 --A falta de descendientes, ascendientes, hijos adoptivos, padres adoptivos, hermanos y cónyuges, la prestación corresponderá a la Caja de Sueldos de Retiro de la Policía Nacional.
 
-##### **Artículo 173**. Declarado Inexequible.
-
-**Artículo 173**. EXTINCION DE PENSIONES. A partir de la vigencia del presente Decreto, las pensiones que se otorguen por fallecimiento de un Oficial o Suboficial de la Policía Nacional en servicio activo o en goce de asignación de retiro o pensión policial, se extinguirán para el cónyuge si contrae nuevas nupcias y para los hijos por muerte, matrimonio, independencia económica, o por haber llegado a la edad de veintiún (21) años salvo las hijas célibes, los hijos inválidos absolutos y los estudiantes hasta la edad de veinticuatro (24) años, cuando hayan dependido económicamente del Oficial o Suboficial.
-
-La extinción se irá decretando a partir de la fecha del hecho que la motive y por la cuota parte correspondiente.
-
-La porción del cónyuge acrecerá a la de los hijos y la de éstos entre sí, y a la del cónyuge. En los demás casos no habrá derecho a acrecimiento.
-
-Parágrafo 1ºA partir de la vigencia de este Decreto, las hijas célibes que al entrar a regir el Decreto 3072 de 1968 se les extinguió o no consolidaron el derecho a disfrutar pensión como beneficiarias por muerte de Oficiales o Suboficiales de la Policía Nacional y se encuentren actualmente en estado de celibato, tienen derecho a los beneficios de transmisibilidad aquí consagrados, siempre y cuando no estén percibiendo la sustitución pensional otros beneficiarios del causante, salvo los reconocimientos hechos con base en el Decreto 613 de 1977.
-
-Parágrafo 2ºLas hijas célibes del personal de que trata el presente artículo, a las cuales se les extinguió o no consolidaron el derecho a disfrutar la pensión de beneficiarios durante el lapso comprendido entre el 17 de diciembre de 1968 y el 1º de julio de 1975, podrán adquirirlo cuando se extinga el derecho de todos los actuales beneficiarios, salvo los reconocimientos hechos con base en el Decreto 613 de 1977,
-
 ##### **Artículo 174.** HIJAS CELIBES. Para los efectos del presente estatuto, se entiende por hija célibe aquella que nunca ha contraído matrimonio.
 
 ### **CAPITULO VI**
@@ -1166,15 +1030,13 @@ Durante dicho tiempo los Oficiales y Suboficiales separados no tendrán derecho 
 
 **DESAPARECIDOS Y PRISIONEROS.**
 
-##### **Artículo 178.** DESAPARECIDOS. Al Oficial o Suboficial en servicio activo que desapareciere en combate con el enemigo, en naufragio de la embarcación en que navegaba, en accidente o en cualquier otra circunstancia, sin que se vuelva a tener noticia de él durante treinta (30) días, se le tendrá como provisionalmente desaparecido para los fines determinados en este Capítulo, declaración que harán las respectivas autoridades policiales, previa la investigación correspondiente y de conformidad con reglamentación que expida el Gobierno.
+##### **Artículo 178.**DESAPARECIDOS. Al Oficial o Suboficial en servicio activo que desapareciere en combate con el enemigo, en naufragio de la embarcación en que navegaba, en accidente o en cualquier otra circunstancia, sin que se vuelva a tener noticia de él durante treinta (30) días, se le tendrá como provisionalmente desaparecido para los fines determinados en este Capítulo, declaración que harán las respectivas autoridades policiales, previa la investigación correspondiente y de conformidad con reglamentación que expida el Gobierno.
 
 Parágrafo. Si de la investigación que se adelante no resultare ningún hecho que pueda considerarse como delito o falta disciplinaria, los beneficiarios en el orden establecido en el presente estatuto continuarán percibiendo de la pagaduría respectiva la totalidad de los haberes del Oficial o Suboficial hasta por un término de dos (2) años. Vencido el lapso anterior, se declarará definitivamente desaparecido, se dará de baja por presunción de muerte y se procederá a reconocer a los beneficiarios las prestaciones sociales ya consolidadas en cabeza del desaparecido, equivalentes a las de muerte en actividad, previa alta de tres (3) meses para la formación de la Hoja de Servicios.
 
-##### **Artículo 179**. PRISIONEROS. Si el Oficial o Suboficial hubiere sido hecho prisionero y esta situación resultare suficientemente comprobada mediante la respectiva investigación, los beneficiarios continuarán recibiendo el setenta y cinco por ciento (75%) de los haberes que le correspondan.
+##### **Artículo 179.** Declarado Inexequible.
 
-Cuando los beneficiarios del Oficial o Suboficial prisionero hayan recibido el setenta y cinco por ciento (75%) de que trata este artículo, el veinticinco por ciento (25%) restante será pagado al Oficial o Suboficial al ser puesto en libertad o durante su prisión, si ello fuere posible. Si el Oficial o Suboficial falleciere durante el cautiverio, sus beneficiarios, en el orden preferencial que este estatuto establece, tendrán derecho al pago de dicho veinticinco por ciento (25%) y a las demás prestaciones sociales, correspondientes al grado y tiempo de servicio del causante, previa alta por tres (3) meses para la formación del expediente de prestaciones sociales.
-
-##### **Artículo 180**. SANCIONES POR INJUSTIFICADA DESAPARICION. Si el Oficial y Suboficial apareciere en cualquier tiempo y no justificare su desaparición, tanto él como quienes hubieren recibido los sueldos o las prestaciones por muerte si fuere el caso, tendrán la obligación solidaria de reintegrar al Tesoro Público las sumas correspondientes, sin perjuicio de la acción penal a que hubiere lugar.
+##### **Artículo 180.** Declarado Inexequible.
 
 ## **TITULO VII**
 
@@ -1246,53 +1108,25 @@ Cuando el fallecimiento del alumno se produzca estando en comisión de estudios 
 
 **DEL TRAMITE PARA EL RECONOCIMIENTO DE PRESTACIONES SOCIALES.**
 
-##### **Artículo 196**. PROCEDIMIENTO OFICIOSO. El reconocimiento de las prestaciones sociales a que tienen derecho los Oficiales y Suboficiales de la Policía Nacional o sus beneficiarios, será tramitado oficiosamente por la Dirección General o por la Caja de Sueldos de Retiro de la Policía Nacional, según el caso. Cuando las oficinas de personal no puedan producir de oficio las pruebas relacionadas con este Título, corresponderá allegarlas al interesado y si no existiere la prueba principal será reemplazada por la prueba supletoria que admita la ley:
+##### **Artículo 196.** Declarado Inexequible.
 
-##### **Artículo 197**. RESOLUCIONES DE LA DIRECCION GENERAL Y DOCUMENTACION. Las prestaciones sociales del personal de Oficiales y Suboficiales de la Policía Nacional en actividad o por causa de retiro o sus beneficiarios en caso de fallecimiento, y cuyo pago deba hacerse por el Tesoro Público, será reconocidos mediante resolución de la Dirección General de la Policía, con base en los siguientes documentos:
+##### **Artículo 197.** Declarado Inexequible.
 
-- a) Hoja de servicios.
+##### **Artículo 198.** Declarado Inexequible.
 
-- b) Certificado de haberes percibidos por el interesado durante el último mes, sobre los cuales debe hacerse la liquidación correspondiente.
+##### **Artículo 199.** Declarado Inexequible.
 
-- c) Partidas de origen civil o eclesiástico, tomadas preferencialmente de la hoja de vida del Oficial o Suboficial.
+##### **Artículo 200.** Declarado Inexequible.
 
-- d) Paz y salvo por retiro del interesado.
+##### **Artículo 201.** Declarado Inexequible.
 
-- e) Certificado de supervivencia de los interesados, cuando el caso lo requiera.
+##### **Artículo 202.** Declarado Inexequible.
 
-- f) Certificado de aptitud sicofísica para retiro del interesado o constancia de su inasistencia a la práctica, de exámenes médicos expedido por la Sanidad de la Policía.
+##### **Artículo 203.** Declarado Inexequible.
 
-- g) Fotocopia autenticada de la cédula de ciudadanía, de la tarjeta de identidad o constancia de encontrarse en trámite, correspondiente al interesado o a la de los beneficiarios, según el caso.
+##### **Artículo 204.** Declarado Inexequible.
 
-- h) Disposiciones que suspenden en el ejercicio de funciones y atribuciones y las que lo restablecen cuando a ello haya lugar.
-
-- i) Las demás pruebas que sean necesarias para el reconocimiento de prestaciones.
-
-##### **Artículo 198**. RESOLUCIONES DE LA CAJA DE SUELDOS DE RETIRO DE LA POLICIA NACIONAL. El reconocimiento de asignaciones de retiro y pensiones de beneficiarios que corresponda a la Caja de Sueldos de Retiro de la Policía Nacional, se hará con base en los documentos señalados en él artículo anterior, mediante resolución del Director General de la misma, contra la cual procede el recurso de reposición ante el mismo funcionario.
-
-##### **Artículo 199**. EXPEDIENTES. Los documentos que se requieran para las reclamaciones de prestaciones sociales del personal de Oficiales y Suboficiales de la Policía Nacional, serán expedidos en papel común, pudiendo aceptarse los que produzcan equipos electrónicos o similares, siempre y cuando éstos sean refrendados con firmas autorizadas. A los interesados no se les podrá gravar con el cobro de copias, timbres, aranceles u otra clase de impuestos por este concepto.
-
-##### **Artículo 200**. HOJA DE SERVICIOS. La hoja de servicios será expedida por el Jefe de la Sección de Archivo General y aprobada por el Secretario General de la Policía Nacional.
-
-##### **Artículo 201.** LIQUIDACION TIEMPO DE SERVICIO. El tiempo de servicio será liquidado computando trescientos sesenta (360) días por cada año, treinta (30) días por mes, el residuo si lo hubiere por días de servicio, aumentando el tiempo que resulte de la aplicación del año laboral.
-
-##### **Artículo 202**. CONTROVERSIA EN LA RECLAMACION. Si se presentare controversia judicial o administrativa entre los reclamantes de una prestación por causa de muerte, el pago de la cuota en litigio se suspenderá hasta tanto se decida judicialmente a qué persona corresponde el valor de esta cuota.
-
-##### **Artículo 203**. RECONOCIMIENTO DE DEUDAS LEGALMENTE DEDUCIBLES. Si el beneficiario de una prestación no se presentare a reclamarla dentro del año siguiente a la novedad fiscal de baja y existieren deudas legalmente deducibles, el Director General de la Policía Nacional y el Director de la Caja de Sueldos de Retiro, según el caso, procederán a reconocerla, previa solicitud escrita del acreedor.
-
-##### **Artículo 204**. TRAMITE DE EXPEDIENTES. La Sección de Prestaciones Sociales de la Policía Nacional conformará expedientes administrativos de prueba, para el reconocimiento de prestaciones sociales a cargo del Tesoro Público y de la Caja de Sueldos de Retiro de la Policía Nacional, los cuales surtirán el siguiente trámite:
-
-- a) Prestaciones a cargo del Tesoro Público:
-
-El expediente se enviará a la Secretaría General de la Dirección General de la Policía Nacional para su estudio y resolución.
-
-- b) Prestaciones a cargo de la Caja de Sueldos de Retiro de la Policía Nacional:
-
-El expediente se enviará a la Caja de Sueldos de Retiro de la Policía Nacional, para su estudio y resolución
-
-Parágrafo.Ejecutoriada la providencia administrativa, se enviarán los expedientes al archivo correspondiente.
-
-##### **Artículo 205**. SUSPENSION DE TERMINOS. Los aspectos relacionados con suspensión de términos por vacancia o necesidades de tipo colectivo en las dependencias de la Policía Nacional encargadas del trámite y reconocimiento de las prestaciones sociales consagradas en este Decreto, serán reglamentadas por el Director General de la Policía Nacional.
+##### **Artículo 205.** Declarado Inexequible.
 
 ## **TITULO X**
 
@@ -1312,7 +1146,7 @@ La Caja podrá utilizar esos dineros en el desarrollo de sus actividades ordinar
 
 También se cubrirán con cargo al presupuesto de la Policía Nacional las cuotas pensionales por servicios en las extinguidas Policías Departamentales y Municipales.
 
-##### **Artículo 210**. INAPLICABILIDAD DE LA LEY 4º DE 1976. Por estar sometidos al régimen prestacional especial consagrado en este estatuto, la Ley 4º de 1976 no rige para los Oficiales y Suboficiales de la Policía Nacional en goce de asignación de retiro o pensión policial, ni para los ex alumnos de las Escuelas de Formación de Oficiales y Suboficiales en goce de pensión, ni para los beneficiarios de unos y otros.
+##### **Artículo 210.** Declarado Inexequible.
 
 ##### **Artículo 211.** FIANZAS. Los Oficiales y Suboficiales de la Policía Nacional que por razón de las funciones que le sean encomendadas deban constituir fianza tendrán derecho a que el Tesoro Público les reconozca el valor de la prima que por la garantía correspondiente cobre la entidad aseguradora.
 
