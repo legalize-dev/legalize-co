@@ -4,7 +4,7 @@ identifier: "DECRETO-52-1987"
 country: "co"
 rank: "decreto"
 publication_date: "1987-01-13"
-last_updated: "1987-11-04"
+last_updated: "1988-03-15"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1011555"
 department: "MINISTERIO DE JUSTICIA"
@@ -622,19 +622,15 @@ EN SEGUNDA INSTANCIA.
 
 De los resueltos por el Procurador General de la Nación contra los fiscales de juzgados.
 
-##### **Artículo 80**. La Corte Suprema de Justicia conoce de los procesos disciplinarios así:
+##### **Artículo 80**. La Corte Suprema de Justicia conoce de los procesos disciplinarios, así:
 
-EN UNICA INSTANCIA.
+EN UNICA INSTANCIA. De los adelantados contra sus propios empleados y contra los magistrados de los Tribunales Superiores de Distrito, Superiores de Aduanas y Superior de Orden Público.
 
-De los adelantados contra sus propios empleados y contra los magistrados de los tribunales superiores de distrito y superiores de aduanas.
-
-EN SEGUNDA INSTANCIA.
-
-De los resueltos en primera por los tribunales superiores de distrito y de aduanas contra sus propios empleados.
+EN SEGUNDA INSTANCIA. De los resueltos en primera por los Tribunales Superiores, de Aduanas y de Orden Público.
 
 ##### Artículo 81. El Consejo de Estado conoce en única instancia de los procesos disciplinarios adelantados contra sus empleados y contra los magistrados de los tribunales contencioso administrativos, y en segunda instancia de los adelantados en primera contra los empleados de los mismos tribunales.
 
-##### Artículo 82. Los tribunales superiores de distrito judicial y de aduanas conocen, así:
+##### **Artículo 82.** Los Tribunales Superiores de Distrito Judicial, de Aduanas y de Orden Público, conocen de los procesos disciplinarios, así:
 
 EN UNICA INSTANCIA.
 
@@ -642,13 +638,9 @@ EN UNICA INSTANCIA.
 
 - b) Contra los jueces cuyo nombramiento les corresponde.
 
-EN PRIMERA INSTANCIA.
+EN PRIMERA INSTANCIA. De los adelantados contra sus propios empleados cuando procede la apelación.
 
-De los adelantados contra sus propios empleados cuando procede la apelación.
-
-EN SEGUNDA INSTANCIA.
-
-De los procesos adelantados, en primera contra los empleados de los juzgados.
+EN SEGUNDA INSTANCIA. De los procesos adelantados, en primera contra los empleados de los juzgados.
 
 ##### Artículo 83. Los tribunales contencioso administrativos conocen así:
 
