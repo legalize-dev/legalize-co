@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2003-07-03"
+last_updated: "2003-12-19"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -76,6 +76,24 @@ El Estado protegerá especialmente a aquellas personas que por su condición eco
 
 ##### **Artículo 14.** Toda persona tiene derecho al reconocimiento de su personalidad jurídica.
 
+##### **Artículo 15.**Todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre, y el Estado debe respetarlos y hacerlos respetar. De igual modo, tienen derecho a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en los bancos de datos y en archivos de entidades públicas y privadas.
+
+En la recolección, tratamiento y circulación de datos se respetarán la libertad y demás garantías consagradas en la Constitución.
+
+La correspondencia y demás formas de comunicación privada son inviolables. Sólo pueden ser interceptados o registrados mediante orden judicial, en los casos y con las formalidades que establezca la ley.
+
+Con el fin de prevenir la comisión de actos terroristas, una ley estatutaria reglamentará la forma y condiciones en que las autoridades que ella señale, con fundamento en serios motivos, puedan interceptar o registrar la correspondencia y demás formas de comunicación privada, sin previa orden judicial, con aviso inmediato a la Procuraduría General de la Nación y control judicial posterior dentro de las treinta y seis (36) horas siguientes. Al iniciar cada período de sesiones el Gobierno rendirá informe al Congreso sobre el uso que se haya hecho de esta facultad. Los funcionarios que abusen de las medidas a que se refiere este artículo incurrirán en falta gravísima, sin perjuicio de las demás responsabilidades a que hubiere lugar.
+
+Para efectos tributarios judiciales y para los casos de inspección, vigilancia e intervención del Estado, podrá exigirse la presentación de libros de contabilidad y demás documentos privados, en los términos que señale la ley.(**Declarado INEXEQUIBLE el cambio introducido por Acto legislativo 02 de 2003 por sentencia 816 de 2004 )**
+
+**Artículo 15.** Todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre, y el Estado debe respetarlos y hacerlos respetar. De igual modo, tienen derecho a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bancos de datos y en archivos de entidades públicas y privadas.
+
+En la recolección, tratamiento y circulación de datos se respetarán la libertad y demás garantías consagradas en la Constitución.
+
+La correspondencia y demás formas de comunicación privada son inviolables. Sólo pueden ser interceptadas o registradas mediante orden judicial, en los casos y con las formalidades que establezca la ley.
+
+Para efectos tributarios o judiciales y para los casos de inspección, vigilancia e intervención del Estado podrá exigirse la presentación de libros de contabilidad y demás documentos privados, en los términos que señale la ley.
+
 ##### **Artículo 16.** Todas las personas tienen derecho al libre desarrollo de su personalidad sin más limitaciones que las que imponen los derechos de los demás y el orden jurídico.
 
 ##### **Artículo 17.** Se prohiben la esclavitud, la servidumbre y la trata de seres humanos en todas sus formas.
@@ -100,6 +118,12 @@ La ley regulará los tipos penales relacionados con estas conductas, así como l
 
 ##### **Artículo 23.** Toda persona tiene derecho a presentar peticiones respetuosas a las autoridades por motivos de interés general o particular y a obtener pronta resolución. El legislador podrá reglamentar su ejercicio ante organizaciones privadas para garantizar los derechos fundamentales.
 
+##### **Artículo 24.** Todo colombiano, con las limitaciones que establezca la ley, tiene derecho a circular libremente por el territorio nacional, a entrar y salir de él, y a permanecer y residenciarse en Colombia.
+
+El Gobierno Nacional podrá establecer la obligación de llevar un informe de residencia de los habitantes del territorio nacional, de conformidad con la ley estatutaria que se expida para el efecto.(**Declarado INEXEQUIBLE el cambio introducido por Acto legislativo 02 de 2003 por sentencia 816 de 2004 )**
+
+**Artículo 24.** Todo colombiano, con las limitaciones que establezca la ley, tiene derecho a circular libremente por el territorio nacional, a entrar y salir de él, y a permanecer y residenciarse en Colombia.
+
 ##### **Artículo 25.** El trabajo es un derecho y una obligación social y goza, en todas sus modalidades, de la especial protección del Estado. Toda persona tiene derecho a un trabajo en condiciones dignas y justas.
 
 ##### **Artículo 26.** Toda persona es libre de escoger profesión u oficio. La ley podrá exigir títulos de idoneidad. Las autoridades competentes inspeccionaran y vigilaran el ejercicio de las profesiones. Las ocupaciones, artes y oficios que no exijan formación académica son de libre ejercicio, salvo aquellas que impliquen un riesgo social.
@@ -107,6 +131,20 @@ La ley regulará los tipos penales relacionados con estas conductas, así como l
 Las profesiones legalmente reconocidas pueden organizarse en colegios. La estructura interna y el funcionamiento de estos deberán ser democráticos. La ley podrá asignarles funciones públicas y establecer los debidos controles.
 
 ##### **Artículo 27.** El Estado garantiza las libertades de enseñanza, aprendizaje, investigación y cátedra.
+
+##### **Artículo 28.**Toda persona es libre. Nadie puede ser molestado en su persona o familia, ni reducido a prisión o arresto, ni detenido, ni su domicilio registrado, sino en virtud de mandamiento escrito de autoridad judicial competente, con las formalidades legales y por motivo previamente definido en la ley.
+
+La persona detenida preventivamente será puesta a disposición del juez competente dentro de las treinta y seis (36) horas siguientes, para que este adopte la decisión correspondiente en el término que establezca la ley.
+
+En ningún caso podrá haber detención, prisión ni arresto por deudas, ni penas y medidas de seguridad imprescriptibles.
+
+Una ley estatutaria reglamentará la forma en que, sin previa orden judicial, las autoridades que ella señale puedan realizar detenciones, allanamientos y registros domiciliarios, con aviso inmediato a la Procuraduría General de la Nación y control judicial posterior dentro de las treinta y seis (36) horas siguientes, siempre que existan serios motivos para prevenir la comisión de actos terroristas. Al iniciar cada período de sesiones el Gobierno rendirá informe al Congreso sobre el uso que se haya hecho de esta facultad. Los funcionarios que abusen de las medidas a que se refiere este artículo incurrirán en falta gravísima, sin perjuicio de las demás responsabilidades a que hubiere lugar.(**Declarado INEXEQUIBLE el cambio introducido por Acto legislativo 02 de 2003 por sentencia 816 de 2004 )**
+
+**Artículo 28.** Toda persona es libre. Nadie puede ser molestado en su persona o familia, ni reducido a prisión o arresto, ni detenido, ni su domicilio registrado, sino en virtud de mandamiento escrito de autoridad judicial competente, con las formalidades legales y por motivo previamente definido en la ley.
+
+La persona detenida preventivamente será puesta a disposición del juez competente dentro de las treinta y seis horas siguientes, para que éste adopte la decisión correspondiente en el término que establezca la ley.
+
+En ningún caso podrá haber detención, prisión ni arresto por deudas, ni penas y medidas de seguridad imprescriptibles.
 
 ##### **Artículo 29.** El debido proceso se aplicará a toda clase de actuaciones judiciales y administrativas. Nadie podrá ser juzgado sino conforme a leyes preexistentes al acto que se le imputa, ante juez o tribunal competente y con observancia de la plenitud de las formas propias de cada juicio. En materia penal, la ley permisiva o favorable, aun cuando sea posterior, se aplicará de preferencia a la restrictiva o desfavorable.
 
