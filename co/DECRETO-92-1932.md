@@ -4,7 +4,7 @@ identifier: "DECRETO-92-1932"
 country: "co"
 rank: "decreto"
 publication_date: "1932-01-22"
-last_updated: "1932-01-24"
+last_updated: "1932-04-19"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1020768"
 department: "MINISTERIO DE HACIENDA Y CREDITO PUBLICO"
@@ -55,6 +55,36 @@ IMPUESTO DE TIMBRE NACIONAL
 ##### **Artículo 14.** Contra las resoluciones que dicten los Administradores y Recaudadores sobre imposición de multas, podrán apelar los interesados para ante el Ministerio de Hacienda y Crédito Público. Este recurso podrá interponerse dentro de los tres días siguientes a la notificación de la respectiva providencia, y será concedido en el efecto suspensivo.
 
 *Impuesto de consumo.*
+
+##### **Artículo 15.** Modificado parcialmente por el Decreto número 658 de 1932, solamente a los ordinales a) y c).
+
+**Artículo 15.** Reformado por el Decreto número 454 de 1932.
+
+**Artículo 15.** Grávase el consumo de los artículos que en seguida se expresan, con los siguientes impuestos nacionales:
+
+a). Cigarrillos de producción nacional.
+
+Con un centavo cada paquete, caja o cualquiera otra clase de empaque o envoltura, que contenga cigarrillos de producción nacional, cuyo contenido no exceda de 18 cigarrillos y un centavo más por todo exceso que no pase de 18 cigarrillos.
+
+La percepción de este impuesto por parte de la Nación, se hará en los respectivos Departamentos en donde funcionen las fábricas, el último día de cada mes, por los mismos funcionarios que hoy cobran el impuesto departamental de tabaco y sobre las ventas mensuales. La suma recaudada será entregada mes por mes al Administrador de Hacienda Nacional respectivo, en la forma y términos que se fijen por el gobierno. Los cigarrillos de producción nacional destinados a la exportación, no causan este impuesto.
+
+b). Cigarrillos de procedencia extranjera.
+
+Con un centavo cada paquete, caja o cualquiera otra clase de empaque o envoltura, que contenga cigarrillos de procedencia extranjera cuyo contenido no exceda de 18 cigarrillos y un centavo más por todo exceso que no pase de 18 cigarrillos.
+
+Este impuesto se recaudará en las Aduanas de la República por medio de estampillas de timbre nacional que deben adherirse a los respectivos manifiestos.
+
+c). bebidas gaseosas de producción nacional.
+
+Con un centavo cada botella, frasco o envase de cualquier forma, que contenga kola, limonada, ginger ale, agua mineral, naranjada y cualquiera otra bebida gaseosa que no pase de cuarenta centilitros de líquido, y un centavo más por cada cuarenta centilitros adicionales de líquido o fracción.
+
+Este impuesto nacional sobre las bebidas gaseosas se hará efectivo por las Administraciones de Hacienda Nacional, por medio de estampillas de consumo, o mediante contratos como lo prevé el artículo 5o. de la Ley 83 de 1922, teniendo en cuenta para uno y otro caso, la seriedad de la empresa productora y las garantías que otorgue.
+
+d). Fósforos de cerilla y de palo.
+
+Con un centavo cada cajita, paquete o cualquier otra clase de envoltura que contenga hasta treinta fósforos, y un centavo más por cada treinta fósforos o fracción que exceda al contenido de treinta.
+
+Este impuesto continuará recaudándose en forma de estampillas de consumo, por las Administraciones de Hacienda Nacional y en ningún caso se celebrarán contratos con los productores de tal artículo para efectuar el pago del impuesto en forma distinta de estampillas adheridas por la parte por donde se destapa la caja.
 
 ##### **Artículo 16.** Las disposiciones vigentes de los Decretos Nos. 161, 358, 617 y 1218 de 1915; 707 de 1922; 217 de 1926 y 2266 de 1928 y demás textos legales y pertinentes, se aplicarán en lo relacionado con la fiscalización, control y penas a los defraudadores de los impuestos de consumo de que trata el presente Decreto.
 
