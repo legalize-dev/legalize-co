@@ -4,7 +4,7 @@ identifier: "DECRETO-15-1967"
 country: "co"
 rank: "decreto"
 publication_date: "1967-01-23"
-last_updated: "1968-05-21"
+last_updated: "1968-05-24"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1003599"
 department: "MINISTERIO DE HACIENDA Y CREDITO PUBLICO"
@@ -33,7 +33,7 @@ Que es deber del estado procurar que la interpretación de las normas legales se
 
 ##### **Artículo 1º**. Declarado Nulo.
 
-##### **Artículo 2º.** Para efectos fiscales, los contratos sobre cesiones recíprocas que efectúen o hayan efectuado las sociedades entre sí, o con sus socios accionistas, o de éstos entre sí, de acciones, cuotas o partes de interés social, utilidades o participaciones se tendrán en cuenta siempre que con tales actos no se disminuya el monto de las verdaderas participaciones de las personas naturales que las integran.
+##### **Artículo 2º.** Declarado Nulo.
 
 ##### **Artículo 3º.** En los términos del presente Decreto queda aclarado el artículo 53 del Decreto reglamentario 437 de 1961.
 
