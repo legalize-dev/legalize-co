@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "1998-09-30"
+last_updated: "1999-08-09"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -254,15 +254,13 @@ Una comisión permanente integrada por el Gobierno, por representantes de los em
 
 ##### **Artículo 57.** La ley podrá establecer los estímulos y los medios para que los trabajadores participen en la gestión de las empresas.
 
-##### **Artículo** **58.** Se garantizan la propiedad privada y los demás derechos adquiridos con arreglo a las leyes civiles, los cuales no pueden ser desconocidos ni vulnerados por leyes posteriores. Cuando de la aplicación de una ley expedida por motivo de utilidad pública o interés social, resultaren en conflicto los derechos de los particulares con la necesidad por ella reconocida, el interés privado deberá ceder al interés público o social.
+##### **Artículo 58.** Se garantizan la propiedad privada y los demás derechos adquiridos con arreglo a las leyes civiles, los cuales no pueden ser desconocidos ni vulnerados por leyes posteriores. Cuando de la aplicación de una ley expedida por motivos de utilidad pública o interés social, resultaren en conflicto los derechos de los particulares con la necesidad por ella reconocida, el interés privado deberá ceder al interés público o social.
 
 La propiedad es una función social que implica obligaciones. Como tal, le es inherente una función ecológica.
 
 El Estado protegerá y promoverá las formas asociativas y solidarias de propiedad.
 
-Por motivos de utilidad pública o de interés social definidos por el legislador, podrá haber expropiación mediante sentencia judicial e indemnización previa. Esta se fijará consultando los intereses de la comunidad y del afectado. En los casos que determine el legislador, dicha expropiación podrá adelantarse por vía administrativa, sujeta a posterior acción contenciosa administrativa, incluso respecto del precio.
-
-Con todo, el legislador, por razones de equidad, podrá determinar los casos en que no haya lugar al pago de indemnización, mediante el voto favorable de la mayoría absoluta de los miembros de una y otra Cámara. Las razones de equidad, así como los motivos de utilidad pública o de interés social, invocados por el legislador, no serán controvertibles judicialmente.
+Por motivos de utilidad pública o de interés social definidos por el legislador, podrá haber expropiación mediante sentencia judicial e indemnización previa. Esta se fijará consultando los intereses de la comunidad y del afectado. En los casos que determine el legislador, dicha expropiación podrá adelantarse por vía administrativa, sujeta a posterior acción contenciosa-administrativa, incluso respecto del precio.
 
 ##### **Artículo 59.** En caso de guerra y sólo para atender a sus requerimientos, la necesidad de una expropiación podrá ser decretada por el Gobierno Nacional sin previa indemnización.
 
