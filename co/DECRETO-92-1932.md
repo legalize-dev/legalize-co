@@ -4,7 +4,7 @@ identifier: "DECRETO-92-1932"
 country: "co"
 rank: "decreto"
 publication_date: "1932-01-22"
-last_updated: "1932-04-19"
+last_updated: "1932-11-23"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1020768"
 department: "MINISTERIO DE HACIENDA Y CREDITO PUBLICO"
@@ -32,9 +32,55 @@ IMPUESTO DE TIMBRE NACIONAL
 
 *Documentos sujetos al impuesto*
 
+##### **Artículo 2.** Parcialmente modificado por el artículo único del Decreto 1993 de 1932, solamente al ordinal 2 del inciso primero.
+
+**Artículo 2º.** Las estampillas que deben llevar los documentos de que trata el artículo 1o. de este Decreto, deberán ser anuladas:
+
+1º. Las que deben llevar los documentos mencionados en los ordinales 1º, 2º, 3º y 9º, deben ser adheridas y anuladas en el acto de su otorgamiento, por la persona o entidad que los extienda. Se exceptúan de este precepto los giros cablegráficos, telegráficos o por aerograma que hagan las personas o entidades no bancarias, sobre el país o el Exterior, caso en el cual las estampillas deben ser anuladas por el empleado de la oficina donde se introduzca el despacho.
+
+Parágrafo. En caso de que documentos de esta naturaleza llegaren a poder los Bancos con estampillas sin anular, dichas entidades deberán anularlas tan pronto como reciban los expresados documentos.
+
+Transitorio: Las estampillas que deben llevar las solicitudes aprobadas de compra de cambios, de acuerdo con el inciso transitorio del ordinal 1o, artículo 1o, serán anuladas por uno de los empleados de la respectiva oficina de control, tal como se dispone en el parágrafo transitorio del artículo 5º.
+
+2º. Las que deben adherirse a los documentos de que tratan los ordinales 5º, 6º, 7º, 8º, 11, 12, 53, 54, 55, 58, 59 y 60, serán anuladas en cada localidad dentro de los treinta días siguientes al de su otorgamiento, sin excluir los feriados o de vacante; en las capitales de los Departamentos, las Intendencias y Comisarías, por los empleados de la Administración de Hacienda Nacional; en los Municipios, por los Administradores o Recaudadores de Hacienda Nacional, y en aquellos en que por cualquier causa no haya Recaudador de Hacienda Nacional, serán adheridas y anuladas por el tesorero o Recaudador Municipal.
+
+Los Bancos anularán las estampillas de los documentos de que trata el ordinal 5o, que sean otorgados a su favor.
+
+Las estampillas de que tratan los ordinales 11, 12, 53, 54 y 55, podrán ser anuladas también por las empresas que los expidan, siempre que permitan el control y vigilancia necesarios.
+
+Las estampillas que deben llevar los libros de comercio mencionados en el ordinal 50, serán adheridas a la primera página en blanco del libro respectivo, y anuladas por los mismos empleados de Hacienda, dentro del término de treinta días contadas desde la fecha de su registro legal. Respecto de los libros que hubiesen estado en uso el 1o. de enero de 1932, la formalidad de que aquí se trata deberá cumplirse antes del 29 de febrero del mismo año.
+
+3º. Las estampillas que deben llevar los demás documentos mencionados en el artículo 1o, serán anuladas por los empleados públicos a quienes sea presentados o que hayan de autorizarlos o expedirlos, cuando sean presentados, autorizados o expedidos.
+
+En las corporaciones y oficinas públicas donde haya Secretario, corresponde a éste hacer la anulación y en las demás oficinas, al respectivo Jefe, salvo en los Ministerios del Despacho Ejecutivo en donde la anulación se hará por los Jefes de Sección.
+
+*Como debe hacerse la anulación.*
+
 ##### **Artículo 3º.** La anulación se efectuará por medio de una nota que contenga: la designación del lugar, la fecha y la firma de la persona o empleado que la hace y el título oficial de éste y cubrirá en todo caso la estampilla y parte del documento. La anulación que por medio de sellos hagan los Bancos, sociedades anónimas y otras empresas, no requieren firma autógrafa.
 
 ##### **Artículo 4º.** Las estampillas no se adherirán a los márgenes del papel, sino al pie de los documentos que deben llevarlas, y en caso de que dada la cantidad de ellas se necesite agregar una hoja de papel, ésta será de papel sellado cuando el documento respectivo estuviere escrito en esa clase de papel.
+
+##### **Artículo 5.** Parcialmente modificado por el Artículo único del Decreto 1993 de 1932, solamente al aparte f).
+
+**Artículo 5º.** Respecto de las estampillas que deben llevar los documentos que en seguida se mencionan, se observarán las reglas siguientes:
+
+a). Las que deben llevar los giros telegráficos, cablegráficos o por inalámbrico, librados por los Bancos sobre cualquiera plaza del país o del Exterior, se adherirán al duplicado que ha de quedar en poder de la entidad giradora. Los librados por personas o entidades que no tengan carácter bancario, al original.
+
+b). Las que deben llevar los giros y órdenes en general para que los Banco entreguen sumas de dinero a terceros, cuando procedan del Exterior y sean expedidos por cable o aerograma, a los comprobantes de caja o de abono en cuenta.
+
+c). Las que deben llevar las letras de cambio, cheques, cartas de crédito o cartas órdenes de crédito que libraren los Bancos o cualesquiera personas o entidades, sobre plazas del país o del Exterior, al original.
+
+d). Las que deben llevar las cartas o notas mediante las cuales los bancos dan cuenta a sus corresponsales o sucursales, de las consignaciones hechas para abonar a firmas de otras plazas, al original.
+
+Transitorio. Las estampillas correspondientes a los documentos citados en los incisos transitorios de los artículos 1o. (ordinales 1o. y 2º, deberán adherirse al ejemplar de la solicitud que haya de ser entregada por la oficina de control al interesado).
+
+- e) Las que deben llevar los conocimientos de embarque, según los ordinales 11 y 12 y los tiquetes de pasaje, conforme a los ordinales 53 y 54, serán adheridas al duplicado o talonario, que quede en poder de la empresa.
+
+f). Las que deben llevar los títulos de las acciones de compañías anónimas, según el ordinal 55 del mismo artículo, serán adheridas al talonario a tiempo de hacerse su emisión o expedición. El Gobierno podrá en casos especiales permitir que las estampillas sean adheridas no en los talonarios sino en los respectivos títulos.
+
+En todos aquellos casos en que de acuerdo con lo dispuesto en este artículo haya de adherirse estampillas a los talonarios o duplicados, los empleados que las anulan, dejarán constancia en el original, de haberse pagado el impuesto.
+
+*Disposiciones penales.*
 
 ##### **Artículo 6º.** Ninguno de los documentos expresados en el artículo primero de este Decreto será válido o legal, ni podrá ser aceptable o admitido por ningún empleado público o corporación pública, ni podrá ser tenido como prueba, si no está provisto de las estampillas correspondientes debidamente anuladas, de acuerdo con lo prescrito en este Decreto, o carece de la constancia de que habla el artículo anterior, a menos que el interesado lo haga revalidar por el empleado recaudador respectivo, agregando y anulando estampillas sobre el documento, por valor igual al cuádruplo de las estampillas requeridas y cinco pesos más en la forma prevenida en el artículo 9º.
 
