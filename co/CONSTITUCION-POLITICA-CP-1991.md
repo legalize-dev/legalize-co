@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "1991-07-07"
+last_updated: "1993-12-14"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -896,7 +896,7 @@ Los representantes de las comunidades indígenas que aspiren a integrar el Senad
 
 - 2. Gestionar, en nombre propio o ajeno, asuntos ante las entidades públicas o ante las personas que administren tributos, ser apoderados ante las mismas, celebrar con ellas, por si o por interpuesta persona, contrato alguno. La ley establecerá las excepciones a esta disposición.
 
-- 3. Ser miembros de juntas o consejos directivos de entidades descentralizadas de cualquier nivel o de instituciones que administren tributos.
+- 3. ser miembro de juntas o consejos directivos de entidades oficiales descentralizadas de cualquier nivel o de instituciones que administren tributos.
 
 - 4. Celebrar contratos o realizar gestiones con personas naturales o jurídicas de derecho privado que administren, manejen o inviertan fondos públicos o sean contratistas del Estado o reciban donaciones de éste. Se exceptúa la adquisición de bienes o servicios que se ofrecen a los ciudadanos en igualdad de condiciones.
 
