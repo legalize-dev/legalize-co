@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2004-03-30"
+last_updated: "2004-04-27"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -719,6 +719,72 @@ Corresponde al Gobierno la creación, supresión y fusión de los círculos de n
 ##### **Artículo 133.** Los miembros de cuerpos colegiados de elección directa representan al pueblo, y deberán actuar consultando la justicia y el bien común.
 
 El elegido es responsable políticamente ante la sociedad y frente a sus electores del cumplimiento de las obligaciones propias de su investidura.
+
+##### **Artículo 135.** Son facultades de cada Cámara:
+
+- 1. Elegir sus mesas directivas.
+
+- 2. Elegir al Secretario General para períodos de cuatro (4) años, contados a partir del 20 de julio, quien deberá reunir las mismas calidades señaladas para ser miembro de la respectiva Cámara.
+
+- 2. Elegir a su Secretario General, para períodos de dos años, contados a partir del 20 de julio, quien deberá reunir las mismas calidades señaladas para ser miembro de la respectiva Cámara.
+
+- 3. Solicitar al Gobierno los informes que necesite, salvo lo dispuesto en el numeral 2 del Artículo siguiente.
+
+- 4. Determinar la celebración de sesiones reservadas en forma prioritaria a las preguntas orales que formulen los Congresistas a los Ministros y a las respuestas de éstos. El reglamento regulará la materia.
+
+- 5. Proveer los empleos creados por la ley para el cumplimiento de sus funciones.
+
+- 6. Recabar del Gobierno la cooperación de los organismos de la administración pública para el mejor desempeño de sus atribuciones.
+
+- 7. Organizar su Policía interior.
+
+- 8. Citar y requerir a los Ministros para que concurran a las sesiones. Las citaciones deberán hacerse con una anticipación no menor de cinco días y formularse en cuestionario escrito. En caso de que los Ministros no concurran, sin excusa aceptada por la respectiva Cámara, ésta podrá proponer moción de censura. Los Ministros deberán ser oídos en la sesión para la cual fueron citados, sin perjuicio de que el debate continúe en sesiones posteriores por decisión de la respectiva Cámara. El debate no podrá extenderse a asuntos ajenos al cuestionario y deberá encabezar el orden del día de la sesión.
+
+- 9. Proponer moción de censura respecto de los ministros por asuntos relacionados con funciones propias del cargo. La moción de censura, si hubiere lugar a ella, deberá proponerla por lo menos la décima parte de los miembros que componen la respectiva cámara. La votación se hará entre el tercero y el décimo día siguientes a la terminación del debate, en Congreso pleno, con audiencia de los ministros respectivos. Su aprobación requerirá la mayoría absoluta de los integrantes de cada cámara. Una vez aprobada, el ministro quedará separado de su cargo. Si fuere rechazada, no podrá presentarse otra sobre la misma materia a menos que la motiven hechos nuevos.
+
+**PARÁGRAFO TRANSITORIO.**Para efecto de lo dispuesto en el numeral 2 del presente artículo, el período comenzará a regir a partir del 20 de julio de 2002.
+
+**Artículo 135.** Son facultades de cada Cámara:
+
+- 1. Elegir sus mesas directivas.
+
+- 2. Elegir al Secretario General para períodos de cuatro (4) años, contados a partir del 20 de julio, quien deberá reunir las mismas calidades señaladas para ser miembro de la respectiva Cámara.
+
+- 3. Solicitar al Gobierno los informes que necesite, salvo lo dispuesto en el numeral 2 del Artículo siguiente.
+
+- 4. Determinar la celebración de sesiones reservadas en forma prioritaria a las preguntas orales que formulen los Congresistas a los Ministros y a las respuestas de éstos. El reglamento regulará la materia.
+
+- 5. Proveer los empleos creados por la ley para el cumplimiento de sus funciones.
+
+- 6. Recabar del Gobierno la cooperación de los organismos de la administración pública para el mejor desempeño de sus atribuciones.
+
+- 7. Organizar su Policía interior.
+
+- 8. Citar y requerir a los Ministros para que concurran a las sesiones. Las citaciones deberán hacerse con una anticipación no menor de cinco días y formularse en cuestionario escrito. En caso de que los Ministros no concurran, sin excusa aceptada por la respectiva Cámara, ésta podrá proponer moción de censura. Los Ministros deberán ser oídos en la sesión para la cual fueron citados, sin perjuicio de que el debate continúe en sesiones posteriores por decisión de la respectiva Cámara. El debate no podrá extenderse a asuntos ajenos al cuestionario y deberá encabezar el orden del día de la sesión.
+
+- 9. Proponer moción de censura respecto de los ministros por asuntos relacionados con funciones propias del cargo. La moción de censura, si hubiere lugar a ella, deberá proponerla por lo menos la décima parte de los miembros que componen la respectiva cámara. La votación se hará entre el tercero y el décimo día siguientes a la terminación del debate, en Congreso pleno, con audiencia de los ministros respectivos. Su aprobación requerirá la mayoría absoluta de los integrantes de cada cámara. Una vez aprobada, el ministro quedará separado de su cargo. Si fuere rechazada, no podrá presentarse otra sobre la misma materia a menos que la motiven hechos nuevos.
+
+**PARÁGRAFO TRANSITORIO.**Para efecto de lo dispuesto en el numeral 2 del presente artículo, el período comenzará a regir a partir del 20 de julio de 2002.
+
+**Artículo 135.** Son facultades de cada Cámara:
+
+- 1. Elegir sus mesas directivas.
+
+- 2. Elegir a su Secretario General, para períodos de dos años, contados a partir del 20 de julio, quien deberá reunir las mismas calidades señaladas para ser miembro de la respectiva Cámara.
+
+- 3. Solicitar al Gobierno los informes que necesite, salvo lo dispuesto en el numeral 2 del Artículo siguiente.
+
+- 4. Determinar la celebración de sesiones reservadas en forma prioritaria a las preguntas orales que formulen los Congresistas a los Ministros y a las respuestas de éstos. El reglamento regulará la materia.
+
+- 5. Proveer los empleos creados por la ley para el cumplimiento de sus funciones.
+
+- 6. Recabar del Gobierno la cooperación de los organismos de la administración pública para el mejor desempeño de sus atribuciones.
+
+- 7. Organizar su Policía interior.
+
+- 8. Citar y requerir a los Ministros para que concurran a las sesiones. Las citaciones deberán hacerse con una anticipación no menor de cinco días y formularse en cuestionario escrito. En caso de que los Ministros no concurran, sin excusa aceptada por la respectiva Cámara, ésta podrá proponer moción de censura. Los Ministros deberán ser oídos en la sesión para la cual fueron citados, sin perjuicio de que el debate continúe en sesiones posteriores por decisión de la respectiva Cámara. El debate no podrá extenderse a asuntos ajenos al cuestionario y deberá encabezar el orden del día de la sesión.
+
+- 9. Proponer moción de censura respecto de los ministros por asuntos relacionados con funciones propias del cargo. La moción de censura, si hubiere lugar a ella, deberá proponerla por lo menos la décima parte de los miembros que componen la respectiva cámara. La votación se hará entre el tercero y el décimo día siguientes a la terminación del debate, en Congreso pleno, con audiencia de los ministros respectivos. Su aprobación requerirá la mayoría absoluta de los integrantes de cada cámara. Una vez aprobada, el ministro quedará separado de su cargo. Si fuere rechazada, no podrá presentarse otra sobre la misma materia a menos que la motiven hechos nuevos.
 
 ##### **Artículo 136.** Se prohíbe al Congreso y a cada una de sus Cámaras:
 
