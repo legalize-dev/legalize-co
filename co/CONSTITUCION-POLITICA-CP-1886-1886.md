@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1909-04-02"
+last_updated: "1917-11-22"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -181,6 +181,16 @@ La instrucción primaria costeada con fondos públicos, será gratuita y no obli
 ##### **Artículo 43.** La correspondencia confiada a los telégrafos y correos es inviolable. Las cartas y papeles privados no podrán ser interceptados ni registrados, sino por la autoridad, mediante orden de funcionario competente, en los casos y con las formalidades que establezca la ley, y con el único objeto de buscar pruebas judiciales.
 
 Podrá gravarse, pero nunca prohibirse en tiempo de paz, la circulación de impresos por los correos.
+
+##### **Artículo 44°**. Toda persona podrá abrazar cualquier oficio u ocupación honesta sin necesidad de pertenecer a gremio de maestros o doctores.
+
+Las autoridades inspeccionarán las industrias y profesiones en lo relativo a la moralidad, la seguridad y la salubridad públicas. La Ley podrá ordenar la revisión y fiscalización de las tarifas y reglamentos de las empresas públicas de transportes o conducciones y exigir títulos de idoneidad para el ejercicio de las profesiones médicas y de sus auxiliares y de la de abogado.
+
+**Artículo 44.** Toda persona podrá abrazar cualquier oficio u ocupación honesta sin necesidad de pertenecer a gremio de maestros o doctores.
+
+Las autoridades inspeccionarán las industrias y profesiones en lo relativo a la moralidad, la seguridad y la salubridad públicas.
+
+La ley podrá exigir títulos de idoneidad para el ejercicio de las profesiones médicas y de sus auxiliares.
 
 ##### **Artículo 45.** Toda persona tiene derecho de presentar peticiones respetuosas a las autoridades, ya sea por motivos de interés general, ya de interés particular, y el de obtener pronta resolución.
 
