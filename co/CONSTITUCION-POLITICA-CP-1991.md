@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2000-08-17"
+last_updated: "2001-12-30"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -423,6 +423,10 @@ Los militares en servicio quedan exceptuados de esta disposición. Respecto de e
 ##### **Artículo 93.** Los tratados y convenios internacionales ratificados por el Congreso, que reconocen los derechos humanos y que prohíben su limitación en los estados de excepción, prevalecen en el orden interno.
 
 Los derechos y deberes consagrados en esta Carta, se interpretarán de conformidad con los tratados internacionales sobre derechos humanos ratificados por Colombia.
+
+El Estado Colombiano puede reconocer la jurisdicción de la Corte Penal Internacional en los términos previstos en el Estatuto de Roma adoptado el 17 de julio de 1998 por la Conferencia de Plenipotenciarios de las Naciones Unidas y, consecuentemente, ratificar este tratado de conformidad con el procedimiento establecido en esta Constitución.
+
+La admisión de un tratamiento diferente en materias sustanciales por parte del Estatuto de Roma con respecto a las garantías contenidas en la Constitución tendrá efectos exclusivamente dentro del ámbito de la materia regulada en él.
 
 ##### **Artículo 94.** La enunciación de los derechos y garantías contenidos en la Constitución y en los convenios internacionales vigentes, no debe entenderse como negación de otros que, siendo inherentes a la persona humana, no figuren expresamente en ellos.
 
