@@ -4,7 +4,7 @@ identifier: "DECRETO-8-1971"
 country: "co"
 rank: "decreto"
 publication_date: "1971-02-09"
-last_updated: "1976-08-23"
+last_updated: "1978-02-01"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1001963"
 department: "MINISTERIO DE HACIENDA Y CREDITO PUBLICO"
@@ -29,9 +29,7 @@ en uso de sus facultades atribuciones legales,
 
 ##### **Artículo 1º.** Para efectos de la Ley 19 de 1970 se atenderán las normas que se fijan en el presente Decreto.
 
-##### **Artículo 2º.** El impuesto de consumo de que trata la mencionada ley será equivalente a un peso con cincuenta centavos ($ 1.50) por cajetilla, que es en la actualidad el gravamen que pagan los cigarrillos de producción nacional de mayor previo.
-
-**Artículo 2º.** El impuesto de consumo de que trata la mencionada ley será equivalente a un peso con cincuenta centavos ($ 1.50) por cajetilla, que es en la actualidad el gravamen que pagan los cigarrillos de producción nacional de mayor previo.
+##### **Artículo 2º.** Declarado nulo
 
 ##### **Artículo 3º.** El citado impuesto se causa en el momento en que el artículo sea entregado por el importador para su distribución, venta o consumo dentro del país.
 
@@ -73,9 +71,7 @@ Vencido en término de validez de la guía, las autoridades de la entidad en la 
 
 **Parágrafo.** Ninguno de los beneficiarios del gravamen podrá estorbar o gravar el tránsito de los cigarrillos amparados con las guías de que trata este artículo.
 
-##### **Artículo 14.** La cuantía del gravamen de que trata el artículo 2º. del presente Decreto se modificará por resolución de carácter general que la Dirección General de Impuestos Nacionales dictará cada vez que compruebe que los cigarrillos de producción nacional de mayor precio tienen un gravamen destinto al fijado en el mencionado artículo, siempre que se trate de marcas destinadas a atender una demanda normal, que sea de carácter permanente y que garanticen el abastecimiento adecuado del mercado.
-
-**Artículo 14.** La cuantía del gravamen de que trata el artículo 2º. del presente Decreto se modificará por resolución de carácter general que la Dirección General de Impuestos Nacionales dictará cada vez que compruebe que los cigarrillos de producción nacional de mayor precio tienen un gravamen destinto al fijado en el mencionado artículo, siempre que se trate de marcas destinadas a atender una demanda normal, que sea de carácter permanente y que garanticen el abastecimiento adecuado del mercado.
+##### **Artículo 14.** Declarado nulo
 
 ##### **Artículo 15.** El presente Decreto rige des de la fecha de su expedición.
 
