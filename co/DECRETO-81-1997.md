@@ -4,7 +4,7 @@ identifier: "DECRETO-81-1997"
 country: "co"
 rank: "decreto"
 publication_date: "1997-01-13"
-last_updated: "1997-01-13"
+last_updated: "1997-02-03"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1691277"
 department: "MINISTERIO DE HACIENDA Y CREDITO PUBLICO"
@@ -58,7 +58,23 @@ Hacienda y Crédito Público;
 
 - f) Los créditos destinados a sustituir otra financiación en moneda extranjera sobre la cual ya se haya causado el impuesto previsto en el presente Decreto.
 
-##### **Artículo 2.** *Causación del impuesto.* El impuesto establecido en este Decreto se causa en el momento en que se realiza el desembolso del crédito, bajo cualquier modalidad. En el caso de financiación de importaciones de bienes, el impuesto se causará en el momento de la introducción de los mismos al territorio nacional.
+- g) Los obtenidos para atender gastos personales a través del sistema de tarjetas de crédito internacionales;
+
+- h) Los obtenidos para financiar inversiones colombianas en el exterior;
+
+- i) Los obtenidos por entidades públicas de redescuento destinados a operaciones activas de crédito en moneda extranjera;
+
+- j) Los obtenidos para financiar las importaciones con destino al Departamento Archipiélago de San Andrés, Providencia y Santa Catalina, siempre que los bienes importados sean destinados para ser consumidos, utilizados o vendidos en el departamento;
+
+- k) Los créditos concesionales con componente de ayuda, otorgados por gobiernos extranjeros
+
+##### **Artículo 2.** *Causación del impuesto.**Causación del impuesto.* El impuesto establecido en este Decreto se causa en el momento en que se realiza el desembolso del crédito, bajo cualquier modalidad.
+
+En el caso de financiación de importaciones reembolsables de bienes, el impuesto se causará cuando, transcurridos diez (10) días hábiles desde la fecha de llegada de los bienes al territorio nacional, la importación no ha sido pagada o, en todo caso, con anterioridad a su autorización de levante, si esta última se produce dentro del plazo señalado sin que se hubiere pagado la importación.
+
+Si se presenta un cambio de importación no reembolsable a reembolsable, el impuesto previsto en este Decreto se causará en el momento de la autorización correspondiente por parte de la autoridad aduanera, cuando a ella hubiere lugar.
+
+**Parágrafo transitorio**. El plazo previsto en el presente artículo se aplicará a los bienes que hubieren sido introducidos al territorio nacional en vigencia del Decreto 81 de 1997, en cuyo caso se podrá cancelar la importación dentro de este plazo, sin sujeción al pago del impuesto sobre la financiación en moneda extranjera.
 
 ##### **Artículo 3.** *Base gravable.* La base gravable del impuesto establecido en este Decreto, está constituida por el valor del desembolso del crédito. En el caso de financiación de importaciones, la base gravable será el valor FOB de la mercancía, siempre y cuando la respectiva importación sea reembolsable y no haya sido pagada, según lo determina el artículo 5 de este Decreto.
 
@@ -92,7 +108,7 @@ Parágrafo. Para realizar los cálculos previstos en este artículo se utilizar�
 
 Parágrafo transitorio. Para el mes de enero de 1997, los cálculos previstos en el primer inciso de este artículo se realizarán con base en la tasa DTF, la tasa Libor y la tasa de devaluación anual observadas en las cuatro (4) semanas anteriores a la fecha de publicación del presente Decreto.
 
-##### **Artículo 5.***Liquidación y pago del impuesto*. La liquidación y pago del impuesto sobre la financiación en moneda extranjera, deberá realizarla el obligado en la fecha de su causación, de acuerdo con el artículo 2 del presente Decreto, ante las entidades financieras autorizadas para recaudar los impuestos administrados por la Dirección de Impuestos y Aduanas Nacionales.
+##### **Artículo 5.***Liquidación y pago del impuesto*. La liquidación del impuesto sobre la financiación en moneda extranjera, deberá analizarla el obligado en la fecha de su pago a la tarifa vigente en dicho momento. El pago del impuesto deberá realizarse en las entidades financieras autorizadas para recaudar los impuestos administrados por la Dirección de Impuestos y Aduanas Nacionales.
 
 En el caso de desembolso de créditos a través de intermediarios del mercado cambiario, el intermediario, previa a la canalización de las divisas correspondientes, verificará el pago del impuesto de que trata este decreto.
 
@@ -104,9 +120,17 @@ En el caso de la financiación de importaciones de bienes, para proceder a su le
 
 Dicho pago del impuesto deberá demostrarse sobre la porción del valor de todas las importaciones reembolsables sobre las cuales no se haya realizado el giro de las divisas y exista la correspondiente Declaración de Cambio. En el caso de las importaciones financiadas a través de arrendamiento financiero, el pago del impuesto también deberá demostrarse como paso previo al levante de la mercancía.
 
+**Parágrafo 1°.** En el caso de desembolsos de créditos en moneda extranjera, la base gravable deberá reexpresarse en moneda legal colombiana convirtiendo su valor en dólares de los Estados Unidos de América, o su equivalente en dólares en el caso de otras monedas, a la tasa de cambio representativa del mercado vigente el día en que se realice el pago del impuesto.
+
+En el caso de la financiación de importaciones de bienes, para efectos de la conversión a moneda legal colombiana de la base gravable, se utilizará el mecanismo establecido en el artículo 33 del Decreto 1220 de 1996.
+
+**Parágrafo 2°.** Las personas jurídicas reconocidas e inscritas por la Dirección de Impuestos y Aduanas Nacionales como usuarios aduaneros permanentes, podrán cancelar este impuesto de conformidad con lo establecido en el artículo 6 del Decreto 197 de 1995 modificado por el Decreto 1039 del mismo año.
+
 ##### **Artículo 6.***Administración y control.* La Dirección de Impuestos y Aduanas Nacionales será la competente para adelantar los procesos de determinación, cobro, recaudo y discusión, de conformidad con las normas establecidas en el Estatuto Tributario.
 
 Las personas o entidades que no cancelen en forma oportuna el impuesto establecido en este decreto, deberán liquidar y pagar intereses moratorios, de conformidad con lo establecido en el artículo 634 del Estatuto Tributario.
+
+**Parágrafo.** Cuando la Administración de Impuestos y Aduanas Nacionales establezca el incumplimiento de la obligación tributaria prevista en este Decreto, proferirá resolución motivada previo traslado de cargos por el término de diez (10) días para responder. Contra la citada resolución procede únicamente el recurso de reposición el cual deberá fallarse dentro de los dos (2) meses siguientes a su interposición en debida forma, la cual una vez en firme prestará mérito ejecutivo.
 
 **Artículo 7.***Vigencia*. El presente Decreto rige a partir de la fecha de su publicación.
 
