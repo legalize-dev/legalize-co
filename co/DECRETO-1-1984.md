@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "1990-06-14"
+last_updated: "1993-08-26"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -966,6 +966,156 @@ A la Sala Plena de lo Contencioso Administrativo le corresponde decidir los asun
 ### **CAPITULO II**
 
 **Competencia de los Tribunales Administrativos.**
+
+##### **Artículo 131. En única instancia**. Los Tribunales Administrativos conocerán de los siguientes procesos privativamente y en única instancia:
+
+- 1. De los de nulidad de los actos administrativos, distintos de los electorales, proferidos por los funcionarios y organismos administrativos del orden municipal cuando el municipio no sea capital de departamento o su presupuesto anual ordinario no exceda de treinta millones de pesos ($ 30.000.000).
+
+- 2. De los de restablecimientos del derecho, que carezcan de cuantía, y en los cuales se controviertan actos administrativos del orden municipal, cuando el municipio no sea capital de departamento, o su presupuesto anual ordinario no exceda treinta millones de pesos ($ 30.000.000.00).
+
+- 3. De los de nulidad de las elecciones de miembros de los concejos municipales, así como de los que se susciten con motivo de las elecciones o nombramientos hechos por estas corporaciones o por cualquier funcionario u organismo administrativo del orden municipal, cuando el municipio no sea capital de departamento o su presupuesto anual ordinario no exceda de treinta millones de pesos ($ 30.000.000.00).
+
+- 4. De los que se promuevan sobre el monto, distribución o asignación de impuestos, tasas y contribuciones nacionales, departamentales, intendenciales, comisariales, municipales o distritales, cuando la cuantía no exceda de quinientos mil pesos ($ 500.000.00).
+
+La competencia, por razón del territorio, se determinará por el lugar donde se presentó o debió presentarse la declaración, en los casos en que ésta proceda; en los demás casos, donde se practicó la liquidación.
+
+- 5. De los incidentes de excepciones en los procesos por jurisdicción coactiva de que conozcan los funcionarios de los distintos órdenes, cuando la cuantía no exceda de quinientos mil pesos ($ 500.000.00).
+
+- 6. De los de restablecimiento del derecho de carácter laboral, que no provengan de un contrato de trabajo, en los cuales se controviertan actos de cualquier autoridad, cuando la cuantía no exceda de trescientos mil pesos ($ 300.000.00).
+
+En este caso, la cuantía para efectos de la competencia se determinará así:
+
+- a) Cuando se reclame el pago de sueldos o salarios de un período preciso o determinable, y prestaciones sociales de cuantía determinada o periódica de término definido, por el valor de lo reclamado o de la suma de los derechos demandados;
+
+- b) Cuando se reclame el pago de prestaciones periódicas de término indefinido, como pensiones de jubilación o de invalidez, por lo que se pretenda, según la demanda, desde cuando se causaron hasta la presentación de la misma, sin pasar de tres (3) años.
+
+Sin embargo, de los procesos sobre actos de destitución, declaración de insubsistencia, revocación de nombramiento o cualesquiera otros que impliquen retiro del servicio, conocerán en única instancia los Tribunales Administrativos cuando la asignación mensual correspondiente al cargo no exceda de cincuenta mil pesos ($ 50.000.00).
+
+La competencia por razón del territorio en todo caso se determinará por el último lugar donde se prestaron o debieron prestarse los servicios personales.
+
+- 7. **Derogado**.
+
+- 8. De los referentes a contratos administrativos, interadministrativos y de los de derecho privado de la administración en los que se haya incluido la cláusula de caducidad, celebrados por la Nación, las entidades territoriales o descentralizadas de los distintos órdenes, cuando la cuantía no exceda de dos millones de pesos ($ 2.000.000.00).
+
+La competencia por razón del territorio se determinará por el lugar donde se ejecutó o debió ejecutarse el contrato; si éste comprendiere varios departamentos será tribunal competente, a prevención, el escogido por el demandante.
+
+- 9. De los de restablecimientos del derecho en que se controviertan actos del orden nacional, de las entidades territoriales o de las entidades descentralizadas de los distintos órdenes por sus actos o hechos, cuando la cuantía no exceda de quinientos mil pesos ($ 500.000.00).
+
+Cuando sea el caso, la cuantía, para efectos de la competencia, se determinará por el valor de los perjuicios causados, estimados en la demanda por el actor en forma razonada, conforme al artículo 20, numeral 1º del Código de Procedimiento Civil.
+
+La competencia por razón del territorio se determinará por el lugar donde se produjo el acto.
+
+- 10. De los de reparación directa y cumplimiento que se promuevan contra la Nación, las entidades territoriales o las entidades descentralizadas de los diferente órdenes, cuando la cuantía no exceda de dos millones de pesos ($ 2.000.000.00).
+
+La competencia por razón del territorio se determinará por el lugar donde se produjo o debió producirse el acto o se realizó el hecho; si comprendiere varios departamentos será tribunal competente, a prevención, el escogido por el demandante.
+
+Cuando sea del caso la cuantía para efectos de la competencia se determinará por el valor de los perjuicios causados, estimados en la demanda por el actor en forma razonada, conforme al artículo 20, numeral 1°, del Código de Procedimiento Civil.
+
+- 11. De los de definición de competencias administrativas entre entidades territoriales y descentralizadas del orden departamental, intendencial, comisarial, distrital, municipal o entre cualquiera de ellas, cuando estén comprendidas en el territorio de su jurisdicción.
+
+- 12. De los de nulidad de los actos del Instituto Colombiano de la Reforma Agraria que dispongan la expropiación de un fundo rural.
+
+Conocerán también de las observaciones de los gobernadores a los acuerdos municipales, por motivos de inconstitucionalidad o ilegalidad, de conformidad con la constitución Política, y de las objeciones a los proyectos de ordenanza y de acuerdo en los casos previstos por la ley.
+
+**Artículo 131. En única instancia**. Los Tribunales Administrativos conocerán de los siguientes procesos privativamente y en única instancia:
+
+- 1. De los de nulidad de los actos administrativos, distintos de los electorales, proferidos por los funcionarios y organismos administrativos del orden municipal cuando el municipio no sea capital de departamento o su presupuesto anual ordinario no exceda de treinta millones de pesos ($ 30.000.000).
+
+- 2. De los de restablecimientos del derecho, que carezcan de cuantía, y en los cuales se controviertan actos administrativos del orden municipal, cuando el municipio no sea capital de departamento, o su presupuesto anual ordinario no exceda treinta millones de pesos ($ 30.000.000.00).
+
+- 3. De los de nulidad de las elecciones de miembros de los concejos municipales, así como de los que se susciten con motivo de las elecciones o nombramientos hechos por estas corporaciones o por cualquier funcionario u organismo administrativo del orden municipal, cuando el municipio no sea capital de departamento o su presupuesto anual ordinario no exceda de treinta millones de pesos ($ 30.000.000.00).
+
+- 4. De los que se promuevan sobre el monto, distribución o asignación de impuestos, tasas y contribuciones nacionales, departamentales, intendenciales, comisariales, municipales o distritales, cuando la cuantía no exceda de quinientos mil pesos ($ 500.000.00).
+
+La competencia, por razón del territorio, se determinará por el lugar donde se presentó o debió presentarse la declaración, en los casos en que ésta proceda; en los demás casos, donde se practicó la liquidación.
+
+- 5. De los incidentes de excepciones en los procesos por jurisdicción coactiva de que conozcan los funcionarios de los distintos órdenes, cuando la cuantía no exceda de quinientos mil pesos ($ 500.000.00).
+
+- 6. De los de restablecimiento del derecho de carácter laboral, que no provengan de un contrato de trabajo, en los cuales se controviertan actos de cualquier autoridad, cuando la cuantía no exceda de trescientos mil pesos ($ 300.000.00).
+
+En este caso, la cuantía para efectos de la competencia se determinará así:
+
+- a) Cuando se reclame el pago de sueldos o salarios de un período preciso o determinable, y prestaciones sociales de cuantía determinada o periódica de término definido, por el valor de lo reclamado o de la suma de los derechos demandados;
+
+- b) Cuando se reclame el pago de prestaciones periódicas de término indefinido, como pensiones de jubilación o de invalidez, por lo que se pretenda, según la demanda, desde cuando se causaron hasta la presentación de la misma, sin pasar de tres (3) años.
+
+Sin embargo, de los procesos sobre actos de destitución, declaración de insubsistencia, revocación de nombramiento o cualesquiera otros que impliquen retiro del servicio, conocerán en única instancia los Tribunales Administrativos cuando la asignación mensual correspondiente al cargo no exceda de cincuenta mil pesos ($ 50.000.00).
+
+La competencia por razón del territorio en todo caso se determinará por el último lugar donde se prestaron o debieron prestarse los servicios personales.
+
+- 7. **Derogado**.
+
+- 8. De los referentes a contratos administrativos, interadministrativos y de los de derecho privado de la administración en los que se haya incluido la cláusula de caducidad, celebrados por la Nación, las entidades territoriales o descentralizadas de los distintos órdenes, cuando la cuantía no exceda de dos millones de pesos ($ 2.000.000.00).
+
+La competencia por razón del territorio se determinará por el lugar donde se ejecutó o debió ejecutarse el contrato; si éste comprendiere varios departamentos será tribunal competente, a prevención, el escogido por el demandante.
+
+- 9. De los de restablecimientos del derecho en que se controviertan actos del orden nacional, de las entidades territoriales o de las entidades descentralizadas de los distintos órdenes por sus actos o hechos, cuando la cuantía no exceda de quinientos mil pesos ($ 500.000.00).
+
+Cuando sea el caso, la cuantía, para efectos de la competencia, se determinará por el valor de los perjuicios causados, estimados en la demanda por el actor en forma razonada, conforme al artículo 20, numeral 1º del Código de Procedimiento Civil.
+
+La competencia por razón del territorio se determinará por el lugar donde se produjo el acto.
+
+- 10. De los de reparación directa y cumplimiento que se promuevan contra la Nación, las entidades territoriales o las entidades descentralizadas de los diferente órdenes, cuando la cuantía no exceda de dos millones de pesos ($ 2.000.000.00).
+
+La competencia por razón del territorio se determinará por el lugar donde se produjo o debió producirse el acto o se realizó el hecho; si comprendiere varios departamentos será tribunal competente, a prevención, el escogido por el demandante.
+
+Cuando sea del caso la cuantía para efectos de la competencia se determinará por el valor de los perjuicios causados, estimados en la demanda por el actor en forma razonada, conforme al artículo 20, numeral 1°, del Código de Procedimiento Civil.
+
+- 11. De los de definición de competencias administrativas entre entidades territoriales y descentralizadas del orden departamental, intendencial, comisarial, distrital, municipal o entre cualquiera de ellas, cuando estén comprendidas en el territorio de su jurisdicción.
+
+- 12. De los de nulidad de los actos del Instituto Colombiano de la Reforma Agraria que dispongan la expropiación de un fundo rural.
+
+Conocerán también de las observaciones de los gobernadores a los acuerdos municipales, por motivos de inconstitucionalidad o ilegalidad, de conformidad con la constitución Política, y de las objeciones a los proyectos de ordenanza y de acuerdo en los casos previstos por la ley.
+
+**Artículo 131. En única instancia**. Los Tribunales Administrativos conocerán de los siguientes procesos privativamente y en única instancia:
+
+- 1. De los de nulidad de los actos administrativos, distintos de los electorales, proferidos por los funcionarios y organismos administrativos del orden municipal cuando el municipio no sea capital de departamento o su presupuesto anual ordinario no exceda de treinta millones de pesos ($ 30.000.000).
+
+- 2. De los de restablecimientos del derecho, que carezcan de cuantía, y en los cuales se controviertan actos administrativos del orden municipal, cuando el municipio no sea capital de departamento, o su presupuesto anual ordinario no exceda treinta millones de pesos ($ 30.000.000.00).
+
+- 3. De los de nulidad de las elecciones de miembros de los concejos municipales, así como de los que se susciten con motivo de las elecciones o nombramientos hechos por estas corporaciones o por cualquier funcionario u organismo administrativo del orden municipal, cuando el municipio no sea capital de departamento o su presupuesto anual ordinario no exceda de treinta millones de pesos ($ 30.000.000.00).
+
+- 4. De los que se promuevan sobre el monto, distribución o asignación de impuestos, tasas y contribuciones nacionales, departamentales, intendenciales, comisariales, municipales o distritales, cuando la cuantía no exceda de quinientos mil pesos ($ 500.000.00).
+
+La competencia, por razón del territorio, se determinará por el lugar donde se presentó o debió presentarse la declaración, en los casos en que ésta proceda; en los demás casos, donde se practicó la liquidación.
+
+- 5. De los incidentes de excepciones en los procesos por jurisdicción coactiva de que conozcan los funcionarios de los distintos órdenes, cuando la cuantía no exceda de quinientos mil pesos ($ 500.000.00).
+
+- 6. De los de restablecimiento del derecho de carácter laboral, que no provengan de un contrato de trabajo, en los cuales se controviertan actos de cualquier autoridad, cuando la cuantía no exceda de trescientos mil pesos ($ 300.000.00).
+
+En este caso, la cuantía para efectos de la competencia se determinará así:
+
+- a) Cuando se reclame el pago de sueldos o salarios de un período preciso o determinable, y prestaciones sociales de cuantía determinada o periódica de término definido, por el valor de lo reclamado o de la suma de los derechos demandados;
+
+- b) Cuando se reclame el pago de prestaciones periódicas de término indefinido, como pensiones de jubilación o de invalidez, por lo que se pretenda, según la demanda, desde cuando se causaron hasta la presentación de la misma, sin pasar de tres (3) años.
+
+Sin embargo, de los procesos sobre actos de destitución, declaración de insubsistencia, revocación de nombramiento o cualesquiera otros que impliquen retiro del servicio, conocerán en única instancia los Tribunales Administrativos cuando la asignación mensual correspondiente al cargo no exceda de cincuenta mil pesos ($ 50.000.00).
+
+La competencia por razón del territorio en todo caso se determinará por el último lugar donde se prestaron o debieron prestarse los servicios personales.
+
+- 7. De los de nulidad absoluta de los contratos administrativos, interadministrativos y de los de derecho privado de la administración en los que se haya incluido la cláusula de caducidad, celebrados por entidades del orden municipal, cuando el municipio no sea capital de departamento, o su presupuesto anual ordinario no exceda de treinta millones de pesos ($ 30.000.000.00).
+
+- 8. De los referentes a contratos administrativos, interadministrativos y de los de derecho privado de la administración en los que se haya incluido la cláusula de caducidad, celebrados por la Nación, las entidades territoriales o descentralizadas de los distintos órdenes, cuando la cuantía no exceda de dos millones de pesos ($ 2.000.000.00).
+
+La competencia por razón del territorio se determinará por el lugar donde se ejecutó o debió ejecutarse el contrato; si éste comprendiere varios departamentos será tribunal competente, a prevención, el escogido por el demandante.
+
+- 9. De los de restablecimientos del derecho en que se controviertan actos del orden nacional, de las entidades territoriales o de las entidades descentralizadas de los distintos órdenes por sus actos o hechos, cuando la cuantía no exceda de quinientos mil pesos ($ 500.000.00).
+
+Cuando sea el caso, la cuantía, para efectos de la competencia, se determinará por el valor de los perjuicios causados, estimados en la demanda por el actor en forma razonada, conforme al artículo 20, numeral 1º del Código de Procedimiento Civil.
+
+La competencia por razón del territorio se determinará por el lugar donde se produjo el acto.
+
+- 10. De los de reparación directa y cumplimiento que se promuevan contra la Nación, las entidades territoriales o las entidades descentralizadas de los diferente órdenes, cuando la cuantía no exceda de dos millones de pesos ($ 2.000.000.00).
+
+La competencia por razón del territorio se determinará por el lugar donde se produjo o debió producirse el acto o se realizó el hecho; si comprendiere varios departamentos será tribunal competente, a prevención, el escogido por el demandante.
+
+Cuando sea del caso la cuantía para efectos de la competencia se determinará por el valor de los perjuicios causados, estimados en la demanda por el actor en forma razonada, conforme al artículo 20, numeral 1°, del Código de Procedimiento Civil.
+
+- 11. De los de definición de competencias administrativas entre entidades territoriales y descentralizadas del orden departamental, intendencial, comisarial, distrital, municipal o entre cualquiera de ellas, cuando estén comprendidas en el territorio de su jurisdicción.
+
+- 12. De los de nulidad de los actos del Instituto Colombiano de la Reforma Agraria que dispongan la expropiación de un fundo rural.
+
+Conocerán también de las observaciones de los gobernadores a los acuerdos municipales, por motivos de inconstitucionalidad o ilegalidad, de conformidad con la constitución Política, y de las objeciones a los proyectos de ordenanza y de acuerdo en los casos previstos por la ley.
 
 ##### **Artículo 133. Competencia de los tribunales administrativos en segunda instancia**. Los tribunales administrativos conocen, en segunda instancia de las apelaciones y recursos de queja que se interpongan en los procesos por jurisdicción coactiva de que conozcan los funcionarios de los distintos órdenes, cuando la cuantía no exceda de quinientos mil pesos ($ 500.000.00), y de las consultas de las sentencias dictadas en estos mismos procesos cuando fueren adversas a quien estuvo representado por curador ad-litem.
 
