@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1968-12-10"
+last_updated: "1968-12-11"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -79,6 +79,18 @@ Las Intendencias y Comisarías quedan bajo la inmediata administración del Gobi
 La ley podrá crear y suprimir Intendencias y Comisarías; anexarlas total o parcialmente entre sí o a los Departamentos, y darles estatutos especiales.
 
 La ley podrá erigir en Departamentos las Intendencias y Comisarías, si se llenan las condiciones que establezca el Artículo anterior, pero en tal caso bastará la mitad de la población y renta por él señaladas.
+
+##### **ARTÍCULO 7º.** Fuera de la división general del territorio habrá otras, dentro de los límites de cada Departamento, para arreglar el servicio público.
+
+Las divisiones relativas a lo fiscal, lo militar, la instrucción pública, la planificación y el desarrollo económico y social, podrán no coincidir con la división general.
+
+**ARTÍCULO 7º.** Fuera de la división general del territorio, habrá otras dentro de los límites de cada Departamento, para arreglar el servicio público.
+
+Las divisiones relativas a lo fiscal, lo militar, la instrucción pública y el fomento de la economía podrán no coincidir con la división general.
+
+**Artículo 7º.** Fuera de la división general del Territorio habrá otras dentro de los límites de cada Departamento, para arreglar el servicio público.
+
+Las divisiones relativas a lo fiscal, lo militar y la instrucción pública, podrán no coincidir con la división general.
 
 ## **Título II. De los habitantes: nacionales y extranjeros**
 
@@ -260,6 +272,44 @@ Son ramas del Poder Público la Legislativa, la Ejecutiva y la Jurisdiccional. E
 
 El Congreso se compone del Senado y la Cámara de Representantes.
 
+##### **Artículo 59°.**
+
+La vigilancia de la gestión fiscal de la Administración corresponde a la Contraloría General de la República y se ejercerá conforme a la ley.
+
+La Contraloría no ejercerá funciones administrativas distintas de las inherentes a su propia organización.
+
+El Contralor General de la República será elegido, para períodos de cuatro años, por la Cámara de Representantes.
+
+Para ser elegido Contralor General de la República se requiere ser colombiano del nacimiento y en ejercicio de la ciudadanía; tener más de 35 años de edad; tener título universitario en derecho o en ciencias económicas o financieras. Además, haber desempeñado en propiedad alguno de los cargos de Ministro del Despacho, Magistrado de la Corte Suprema de Justicia, Consejero de Estado, Contralor General de la República; o haber sido miembro del Congreso Nacional, por lo menos durante cuatro años, o profesor universitario en las cátedras de ciencias jurídico-económicas, durante un tiempo no menor de cinco años.
+
+**Artículo 59°**. Derogado.
+
+**Artículo 59.** El Presidente de la República es el Jefe del Poder Ejecutivo, y lo ejerce con la indispensable cooperación de los Ministros.
+
+El Presidente y los Ministros, y en cada negocio particular el Presidente con el Ministro del respectivo ramo, constituyen el Gobierno.
+
+##### **Artículo 60°.**
+
+El Contralor General de la República tendrá las siguientes atribuciones:
+
+- 1° Llevar el libro de la deuda pública del Estado;
+
+- 2° Prescribir los métodos de la contabilidad de la Administración Nacional y sus entidades descentralizadas, y la manera de rendir cuentas los responsables del manejo de fondos o bienes nacionales;
+
+- 3° Exigir informes a los empleados públicos nacionales, departamentales o municipales, sobre su gestión fiscal;
+
+- 4° Revisar y fenecer las cuentas de los responsables del Erario;
+
+5°. Proveer los empleos de su dependencia que haya creado la ley; y,
+
+- 6° Las demás que señale la ley.
+
+**Artículo 60°.** Derogado.
+
+**Artículo 60.** Ejercen el Poder judicial la Corte Suprema, los Tribunales Superiores de Distrito, y demás Tribunales y Juzgados que establezca la ley.
+
+El Senado ejerce determinadas funciones judiciales.
+
 ##### **Artículo 61.** Ninguna persona o Corporación podrá ejercer simultáneamente, en tiempo de paz, la autoridad política o civil y la judicial o la militar.
 
 ##### **Artículo 62.** La ley determinará los casos particulares de incompatibilidad de funciones; los de responsabilidad de los funcionarios y modo de hacerla efectiva; las calidades y antecedentes necesarios para el desempeño de ciertos empleos, en los casos no previstos por la Constitución; las condiciones de ascenso y de jubilación; y la serie o clase de servicios civiles o militares que dan derecho a pensión del Tesoro público.
@@ -354,6 +404,20 @@ Esta ceremonia no es esencial para que el Congreso ejerza legítimamente sus fun
 
 ##### **Artículo 71.** Cuando llegado el día en que ha de reunirse el Congreso, no pudiere verificarse el acto por falta del número de miembros necesarios, los individuos concurrentes, en Junta preparatoria o provisional, apremiarán a los ausentes con las penas que los respectivos reglamentos establezcan; y se abrirán las sesiones luego que esté completo el número requerido.
 
+##### **Artículo 72°.**
+
+Cada Cámara elegirá, para períodos no menores de dos años, Comisiones Permanentes que tramitarán el primer debate de los proyectos de ley.
+
+Salvo lo especialmente previsto en la Constitución, la ley determinará el número de Comisiones Permanentes y el de sus miembros, lo mismo que las materias de que cada una deberá ocuparse.
+
+El Senado de la República y la Cámara de Representantes podrán disponer que cualquiera de las Comisiones Permanentes sesione durante el período de receso con el fin de debatir los asuntos pendientes en la legislatura anterior, de realizar los estudios que la corporación respectiva determine o de preparar los proyectos que las Cámaras les encomienden. El Gobierno podrá convocarlas para los mismos propósitos.
+
+**ARTÍCULO 72°.**
+
+Las leyes pueden tener origen en cualquiera de las dos Cámaras, a propuesta de sus respectivos miembros o de los Ministros del Despacho. Pero no serán llevadas a la discusión de la Cámara respectiva sino después de ser consideradas y aprobadas en primer debate en la correspondiente Comisión permanente.
+
+**Artículo 72.** El Congreso podrá reunirse extraordinariamente convocado por el Gobierno. En sesiones extraordinarias sólo podrá ocuparse en los negocios que el Gobierno someta a su consideración.
+
 ##### **ARTÍCULO 73°.**
 
 Exceptúanse de lo dispuesto en el Artículo anterior:
@@ -391,6 +455,112 @@ Un proyecto de ley que hubiere sido negado en primer debate podrá ser considera
 En tales ocasiones el Presidente del Senado y el de la Cámara de Representantes serán, respectivamente, Presidente y Vicepresidente del Congreso.
 
 ##### **Artículo 75°**. Toda reunión de miembros del Congreso que, con la mira de ejercer funciones propias de la Rama Legislativa del Poder Público, se efectúe fuera de las condiciones constitucionales, carecerá de validez; a los actos que realice no podrá dárseles efecto alguno, y las personas que en las deliberaciones tomen parte serán sancionadas conforme a las leyes.
+
+Corresponde al Congreso hacer las leyes.
+
+Por medio de ellas ejercer las siguientes atribuciones:
+
+1a Interpretar, reformar y derogar las leyes preexistentes;
+
+2a Expedir Códigos en todos los ramos de la legislación y reformar sus disposiciones;
+
+3a Dictar las normas orgánicas del Presupuesto Nacional;
+
+4a. Fijar los planes y programas de desarrollo económico y social a que debe someterse la economía nacional, y los de las obras públicas, que hayan de emprenderse o continuarse, con la determinación de los recursos e inversiones que se autoricen para su ejecución, y de las medidas necesarias para impulsar el cumplimiento de los mismos;
+
+5a Modificar la división general del territorio, con arreglo al Artículo 5º de la Constitución; establecer y reformar las otras divisiones territoriales de que trata el Artículo 7º, y fijar las bases y las condiciones para la creación de Municipios;
+
+6a Dictar el Reglamento del Congreso y uno común para las Cámaras;
+
+7a. Conferir atribuciones especiales a las Asambleas Departamentales;
+
+8a Variar, en circunstancias extraordinarias y por graves motivos de conveniencia pública, la actual residencia de los altos poderes nacionales;
+
+9a Determinar la estructura de la administración nacional mediante la creación de Ministerios,Departamentos Administrativos y Establecimientos Públicos, y fijar las escalas de remuneración correspondientes a las distintas categorías de empleos, así como el régimen de sus prestaciones sociales;
+
+- 10. Regularlos otros aspectos del servicio público, tales como los contemplados en los Artículos 62, 132 y demás preceptos constitucionales; expedir los estatutos básicos de las corporaciones autónomas regionales y otros establecimientos públicos, de las sociedades de economía mixta, de las empresas industriales o comerciales del Estado, y dictar las normas correspondientes a las carreras administrativas, judicial y militar;
+
+- 11. Conceder autorizaciones al Gobierno para celebrar contratos, negociar empréstitos, enajenar bienes nacionales y ejercer otras funciones dentro de la órbita constitucional;
+
+- 12. Revestir, pro tempore, al Presidente de la República de precisas facultades extraordinarias, cuando la necesidad lo exija o las conveniencias públicas lo aconsejen;
+
+- 13. Establecer las rentas nacionales y fijar los gastos de la administración;
+
+- 14. Decretar impuestos extraordinarios cuando la necesidad lo exija;
+
+- 15. Fijar la ley, peso, tipo y denominación de la moneda y arreglar el sistema de pesas y medidas;
+
+- 16. Aprobar o improbar los contratos o convenios que celebre el Presidente de la República con particulares, compañías o entidades públicas en los cuales tenga interés la Nación, si no hubieran sido previamente autorizados o si no se hubieren llenado en ellos las formalidades prescritas por el Congreso o si algunas de sus estipulaciones no estuvieren ajustadas a la respectiva ley de autorizaciones;
+
+- 17. Decretar honores públicos a los ciudadanos que hayan prestado grandes servicios a la Patria y señalar los monumentos que deban erigirse;
+
+- 18. Aprobar o improbar los tratados o convenios que el Gobierno celebre con otros Estados o con entidades de derecho internacional.
+
+Por medio de tratados o convenios aprobados por el Congreso podrá el Estado obligarse para que, sobre bases de igualdad y reciprocidad, sean creadas instituciones supranacionales que tengan por objeto promover o consolidar la integración económica con otros Estados;
+
+- 19. Conceder, por Mayoría de dos tercios de los votos de los miembros que componen cada Cámara y por graves motivos de conveniencia pública, amnistías o indultos generales por delitos políticos. En el caso de que los favorecidos fueren eximidos de la responsabilidad civil respecto de particulares, el Estado quedará obligado a las indemnizaciones a que hubiere lugar;
+
+- 20. Fomentar las empresas útiles o benéficas dignas de estímulo o apoyo, con estricta sujeción a los planes y programas correspondientes;
+
+- 21. Dictar las normas sobre apropiación o adjudicación y recuperación de tierras baldías;
+
+- 22. Dictar las normas generales a las cuales deba sujetarse el Gobierno para los siguientes efectos: organizar el crédito público; reconocer la deuda nacional y arreglar su servicio; regular el cambio internacional y el comercio exterior; modificarlos aranceles, tarifas y demás disposiciones concernientes al régimen de aduanas;
+
+- 23. Crear los servicios administrativos y técnicos de las Cámaras;
+
+- 24. Unificarlas normas sobre policía de tránsito en todo el territorio de la República.
+
+**Articulo 76°** reformado por Artículo 4° ACTO LEGISLATIVO 3 de 1905
+
+**Artículo 76.** Corresponde al Congreso hacer las leyes.
+
+Por medio de ellas ejerce las siguientes atribuciones:
+
+- 1. Interpretar, reformar y derogar las leyes preexistentes;
+
+- 2. Modificar la división general del territorio con arreglo a los Artículos 5.º y 6.º, y establecer y reformar, cuando convenga, las otras divisiones territoriales de que trata el Artículo 7.º;
+
+- 3. Conferir atribuciones especiales a las Asambleas Departamentales
+
+- 4. Disponer lo conveniente para la Administración de Panamá;
+
+- 5. Variar, en circunstancias extraordinarias y por graves motivos de conveniencia pública, la actual residencia de los altos poderes nacionales;
+
+- 6. Fijar para cada bienio, en sesiones ordinarias, el pie de fuerza;
+
+- 7. Crear todos los empleos que demande el servicio público, y fijar sus respectivas dotaciones;
+
+- 8. Regular el servicio público, determinando los puntos de que trata el Artículo 62;
+
+- 9. Conceder autorizaciones al Gobierno para celebrar contratos, negociar empréstitos, enajenar bienes nacionales, y ejercer otras funciones dentro de la órbita constitucional;
+
+- 10. Revestir, pro tempore, al Presidente de la República de precisas facultades extraordinarias, cuando la necesidad lo exija o las conveniencias públicas lo aconsejen;
+
+- 11. Establecer las rentas nacionales y fijar los gastos de la administración. En cada legislatura se votará el presupuesto general de unas y otros.
+
+En el presupuesto no podrá incluirse partida alguna que no corresponda a un gasto decretado por ley anterior o a un crédito judicialmente reconocido.
+
+- 12. Reconocer la deuda nacional y arreglar su servicio;
+
+- 13. Decretar impuestos extraordinarios cuando la necesidad lo exija;
+
+- 14. Aprobar o desaprobar los contratos o convenios que celebre el Presidente de la República con particulares, compañías o entidades políticas, en los cuales tenga interés el fisco nacional, si no hubieren sido previamente autorizados, o si no se hubieren llenado en ellos las formalidades prescritas por el Congreso, o si algunas estipulaciones que contengan no estuvieren ajustadas a la respectiva ley de autorizaciones;
+
+- 15. Fijar la ley, peso, tipo y denominación de la moneda, y arreglar el sistema de pesos y medidas;
+
+- 16. Organizar el crédito público;
+
+- 17. Decretar las obras públicas que hayan de emprenderse o continuarse, y monumentos que deban erigirse;
+
+- 18. Fomentar las empresas útiles o benéficas dignas de estímulos y apoyo;
+
+- 19. Decretar honores públicos a los ciudadanos que hayan prestado grandes servicios a la Patria;
+
+- 20. Aprobar o desaprobar los Tratados que el Gobierno celebre con Potencias extranjeras;
+
+- 21. Conceder, por mayoría de dos tercios de los votos en cada Cámara, y por graves motivos de conveniencia pública, amnistías o indultos generales por delitos políticos. En el caso de que los favorecidos queden eximidos de la responsabilidad civil respecto de particulares, el Gobierno estará obligado a las indemnizaciones a que hubiere lugar;
+
+- 22. Limitar o regular la apropiación o adjudicación de tierras baldías.
 
 ##### **Artículo 77.** El Congreso elegirá en sus reuniones ordinarias y para un bienio, el Designado que ha de ejercer el Poder Ejecutivo a falta de Presidente y Vicepresidente.
 
@@ -702,6 +872,32 @@ Mediante tal declaración quedará el Presidente investido de las facultades que
 
 El Gobierno declarará restablecido el orden público luego que haya cesado la perturbación o el peligro exterior; y pasará al Congreso una exposición motivada de sus providencias. Serán responsables cualesquiera autoridades por los abusos que hubieren cometido en el ejercicio de facultades extraordinarias.
 
+##### **Artículo 122.**
+
+Cuando sobrevengan hechos distintos de los previstos en el Artículo 121, que perturben o amenacen perturbar en forma grave e inminente el orden económico o social del país o que constituyan también grave calamidad pública, podrá el Presidente, con la firma de todos los Ministros, declarar el estado de emergencia por períodos que sumados no podrán exceder de noventa días al año.
+
+Mediante tal declaración, que deberá ser motivada, podrá el Presidente con la firma de todos los Ministros, dictar decretos con fuerza de ley destinados exclusivamente a conjurar la crisis y a impedir la extensión de sus efectos. Tales decretos solamente podrán referirse a materias que tengan relación directa y específica con la situación que determine el estado de emergencia.
+
+El Gobierno en el Decreto en que declare el estado de emergencia señalará el término dentro del cual va a hacer uso de las facultades extraordinarias a que se refiere este artículo, y convocará al Congreso, si éste no se hallare reunido, para los diez días siguientes al vencimiento de dicho término. El Congreso examinará hasta por un lapso de treinta días, prorrogables por acuerdo de las dos Cámaras, el informe motivado que le presente el Gobierno sobre las causas que determinaron el estado de emergencia y las medidas adoptadas. El Congreso podrá en todo tiempo y a iniciativa propia, derogar, modificar o adicionar las materias específicas de los decretos a que se refiere este artículo.
+
+En las condiciones y para los efectos previstos en este artículo, el Congreso se reunirá por derecho propio, si no fuere convocado.
+
+Serán responsables el Presidente y los Ministros cuando declaren el estado de emergencia sin haber ocurrido los hechos a que se refiere el inciso 1º; lo serán también por cualquier abuso que hubieren cometido en el ejercicio de las facultades a que se refiere el presente artículo.
+
+Durante el estado de emergencia económica el Gobierno no podrá desmejorar los derechos sociales de los trabajadores consagrados en leyes anteriores.
+
+**Artículo 122.** El Presidente de la República o el que en su lugar ejerza el Poder Ejecutivo, es responsable únicamente en los casos siguientes, que definirá la ley:
+
+- 1. Por actos de violencia o coacción en elecciones;
+
+- 2. Por actos que impidan la reunión constitucional de las Cámaras Legislativas, o estorben a éstas o a las demás Corporaciones o autoridades públicas que establece esta Constitución, el ejercicio de sus funciones; y,
+
+- 3. Por delitos de alta traición.
+
+En los dos primeros casos la pena no podrá ser otra que la de destitución, y, si hubiere cesado en el ejercicio de sus funciones el Presidente; la de inhabilitación para ejercer nuevamente la Presidencia.
+
+Ningún acto del Presidente, excepto el de nombramiento o remoción de Ministros, tendrá valor ni fuerza alguna mientras no sea refrendado y comunicado por el Ministro del ramo respectivo, quien por el mismo hecho se constituye responsable.
+
 ##### **Artículo 123.** El Senado concede licencia temporal al Presidente para dejar de ejercer el Poder Ejecutivo.
 
 Por motivo de enfermedad el Presidente puede, por el tiempo necesario, dejar de ejercer el Poder Ejecutivo dando previo aviso al Senado, o, en receso de éste, a la Corte Suprema.
@@ -952,6 +1148,16 @@ El Gobernador, como agente del Gobierno, dirigirá y coordinará, además, en el
 
 El treinta por ciento de esta asignación se distribuirá por partes iguales entre los Departamentos, Intendencias y Comisarías y el Distrito Especial de Bogotá, y el resto proporcionalmente a su población.
 
+##### **Artículo 183.** Los bienes y rentas de las entidades territoriales son de su propiedad exclusiva; gozan de las mismas garantías que la propiedad y rentas de los particulares y no podrán ser ocupados sino en los mismos términos en que lo sea la propiedad privada. El Gobierno Nacional no podrá conceder exenciones respecto de derechos o impuestos de tales entidades.
+
+**Artículo 183.** Sustituido por el **ACTO LEGISLATIVO 1 DE 1909.**
+
+**Artículo 183.** sustituido por el **ACTO LEGISLATIVO 1 DE 1909.**
+
+**Artículo 183.** Habrá en cada Departamento una Corporación administrativa denominada Asamblea departamental, compuesta de los Diputados que correspondan a la población a razón de uno por cada doce mil habitantes.
+
+La ley podrá variar la anterior base numérica de Diputados.
+
 ##### **Artículo 184.** Habrá en cada Departamento una corporación administrativa denominada Asamblea Departamental, que se reunirá ordinariamente cada año en la capital del Departamento, por un término de dos meses.
 
 El Gobernador podrá convocarla a sesiones extraordinarias. La ley fijará la época de sesiones.
@@ -996,6 +1202,16 @@ Igualmente, a iniciativa del Gobierno, la ley determinará lo relativo a los pla
 
 **Parágrafo.** En el Distrito Especial de Bogotá, la iniciativa para los proyectos de acuerdo sobre las materias a que se refieren los ordinales 2º y 7º del Artículo 187 corresponde al Alcalde.
 
+##### **Artículo 190.** La ley podrá limitarlas apropiaciones departamentales destinadas a asignaciones de los Diputados, gastos de funcionamiento de las Asambleas y de las Contralorías Departamentales.
+
+La vigilancia de la gestión fiscal de los Departamentos y Municipios corresponde a las Contralorías Departamentales, salvo lo que la ley determine respecto a Contralorías Municipales.
+
+Para ser elegido Contralor Departamental se requiere ser colombiano de nacimiento y en ejercicio de la ciudadanía; tener más de 25 años y ser abogado o tener título universitario en ciencias económicas o financieras o haber ejercido el cargo de Contralor en propiedad.
+
+**Artículo 190.** Las ordenanzas de las Asambleas y los acuerdos de los Concejos Municipales son obligatorios mientras no sean anulados o suspendidos por la jurisdicción de lo Contencioso-Administrativo.
+
+**Artículo 190.** Las Asambleas departamentales, para cubrir los gastos de administración que les correspondan, podrán establecer contribuciones con las condiciones y dentro de los límites que fije la ley.
+
 ##### **Artículo 191.** Derogado.
 
 ##### **Artículo 192.** Son atribuciones del Gobernador:
@@ -1018,6 +1234,32 @@ Igualmente, a iniciativa del Gobierno, la ley determinará lo relativo a los pla
 
 ##### **Artículo 193.** En cada Departamento habrá un Gobernador que ejercerá las funciones del Poder Ejecutivo, como Agente de la Administración central por una parte, y por otra, como Jefe Superior de la Administración departamental.
 
+##### **Artículo 194.** 1º. Cumplir, hacer que se cumplan en el Departamento los decretos y órdenes del Gobierno y las ordenanzas de las Asambleas;
+
+2º. Dirigir la acción administrativa en el Departamento nombrando y separando sus agentes,reformando o revocando los actos de éstos, y dictando las providencias necesarias en todos los ramos de la Administración;
+
+3º. Presentar oportunamente a las Asambleas los proyectos de ordenanzas sobre planes y programas de desarrollo económico y social, los de obras públicas y presupuesto de rentas y gastos;
+
+4º. Llevar la voz del Departamento y representarlo en los negocios administrativos y judiciales, pudiendo delegar esta representación conforme a la ley;
+
+5º. Auxiliar la justicia como lo determine la ley;
+
+6º. Coordinar las actividades y servicios de los establecimientos públicos, sociedades de economía mixta y empresas industriales y comerciales del orden departamental.
+
+Los representantes del Departamento en las Juntas Directivas de tales organismos y los Directores o Gerentes de los mismos, son agentes del Gobernador, con excepción de los representantes designados por las Asambleas;
+
+7º. Objetar por motivos de inconstitucionalidad, ilegalidad o inconveniencia, los proyectos de ordenanzas, y sancionar y promulgar las ordenanzas en la forma legal;
+
+8º. Revisar los actos de los Concejos Municipales y los de los Alcaldes, por motivos de inconstitucionalidad o ilegalidad, revocar los últimos y pasar los primeros al Tribunal competente para que éste decida sobre su exequibilidad;
+
+9º. Crear, suprimir y fusionar los empleos que demanden los servicios departamentales, y señalar sus funciones especiales, lo mismo que fijar sus emolumentos, con sujeción a las normas del ordinal 5º del Artículo 187.
+
+El Gobernador no podrá crear con cargo al Tesoro Departamental obligaciones que excedan el monto global fijado para el respectivo servicio en el presupuesto que adopte la Asamblea;
+
+- 10. Las demás que la Constitución y las leyes establezcan.
+
+**Artículo 194.** Los Gobernadores serán nombrados para un período de tres años y pueden continuar en su puesto por nuevo nombramiento.
+
 ##### **Artículo 195.** Son atribuciones de los Concejos, que ejercerán conforme a la ley, las siguientes:
 
 - 1° Ordenar, por medio de acuerdos, lo conveniente para la administración del Distrito;
@@ -1033,6 +1275,28 @@ Igualmente, a iniciativa del Gobierno, la ley determinará lo relativo a los pla
 La ley determinará las calidades e incompatibilidades de los Concejales y la época de sesiones ordinarias de los Concejos.
 
 Los Concejos podrán crear juntas Administradoras locales para sectores del territorio municipal, asignándoles algunas de sus funciones y señalando su organización, dentro de los límites que determine le ley.
+
+##### **Artículo 197.** Son atribuciones de los Concejos, que ejercerán conforme a la ley, las siguientes:
+
+1º. Ordenar, por medio de acuerdos, lo conveniente para la administración del distrito;
+
+2º. Votar, en conformidad con la Constitución, la ley y las ordenanzas, las contribuciones y gastos locales;
+
+3º. Determinar la estructura de la administración municipal, las funciones de las diferentes dependencias y las escalas de remuneración correspondientes a las distintas categorías de empleos;
+
+4º. Crear, a iniciativa del Alcalde, los establecimientos públicos, sociedades de economía mixta y empresas industriales y comerciales, conforme a las normas que determine la ley;
+
+5º. Expedir anualmente el presupuesto de rentas y gastos del Municipio, con base en el proyecto presentado por el Alcalde;
+
+6º. Elegir Personeros y Tesoreros Municipales y los demás funcionarios o empleados que la ley determine;
+
+7º. Autorizar al Alcalde para celebrar contratos, negociar empréstitos, enajenar bienes municipales y ejercer, pro tempore, precisas funciones de las que corresponden a los Concejos; y,
+
+8º. Ejercer las demás funciones que la ley le señale.
+
+**Artículo 197.** Derogado.
+
+**Artículo 197.** El Gobernador podrá requerir el auxilio de la fuerza armada, y el Jefe militar obedecerá sus instrucciones, salvo las disposiciones especiales que dicte el Gobierno.
 
 ##### **Artículo 198.** La ley podrá establecer diversas categorías de Municipios de acuerdo con su población, recursos fiscales e importancia económica, y señalar distinto régimen para su administración.
 
@@ -1070,9 +1334,43 @@ La ley determinará el orden y modo de satisfacer estas obligaciones.
 
 **Artículo 207.** No podrá hacerse ningún gasto público que no haya sido decretado por el Congreso, por las Asambleas departamentales, o las Municipalidades; ni transferirse ningún crédito a un objeto no previsto en el respectivo Presupuesto.
 
+##### **Artículo 208.** El Gobierno formará anualmente el Presupuesto de Rentas y junto con el proyecto de Ley de Apropiaciones, que deberá reflejar los planes y programas, lo presentará al Congreso en los primeros diez días de las sesiones ordinarias de julio.
+
+Las Comisiones de Presupuesto de las dos Cámaras deliberarán conjuntamente para dar primer debate al proyecto de Presupuesto de Rentas y Ley de Apropiaciones. Parágrafo. El Gobierno incorporará, sin modificaciones, al proyecto de Ley de Apropiaciones, el que cada año elaboren conjuntamente las Comisiones de la Mesa de las Cámaras para el funcionamiento del Congreso, conforme a leyes preexistentes.
+
+Sin embargo, el Gobierno, durante el primer debate, podrá presentar observaciones sobre las cuales decidirá la Comisión.
+
+**Artículo 208.** Cuando haya necesidad de hacer un gasto imprescindible, a juicio del Gobierno, estando en receso las Cámaras, y no habiendo partida votada o siendo ésta insuficiente, podrá abrirse al respectivo Ministerio un crédito suplemental o extraordinario.
+
+Estos créditos se abrirán por el Consejo de Ministros, instruyendo para ello expediente y previo dictamen del Consejo de Estado.
+
+Corresponde al Congreso legalizar estos créditos.
+
+El Gobierno puede solicitar del Congreso créditos adicionales al Presupuesto de Gastos.
+
 ## **Título XX. De la reforma de esta Constitución y abrogación de la anterior**
 
 **Artíclo 209.** Si el Congreso no expidiere el Presupuesto, regirá el presentado por el Gobierno dentro de los términos del Artículo precedente; si el Presupuesto no hubiere sido presentado dentro de dicho plazo, regirá el del año anterior, pero el Gobierno podrá reducir gastos, y, en consecuencia, suprimir o refundir empleos, cuando así lo aconsejen los cálculos de rentas del nuevo ejercicio.
+
+##### **Artículo 210.** El Congreso establecerá las rentas nacionales y fijará los gastos de la Administración. En cada legislatura, y estrictamente de acuerdo con las reglas de la ley normativa, se expedirá el Presupuesto General de Rentas y Ley de Apropiación.
+
+Los cómputos de las rentas, de los recursos del crédito y los provenientes del balance del Tesoro, no podrán aumentarse por el Congreso sino con el concepto previo y favorable suscrito por el Ministro del ramo.
+
+En la Ley de Apropiaciones no podrá incluirse partida alguna que no haya sido propuesta a las respectivas Comisiones y que no corresponda a un crédito judicialmente reconocido, o a un gasto decretado conforme ley anterior, o destinado a dar cumplimiento a los planes y programas de desarrollo de qué trata el ordinal 4.ºdel Artículo 76.
+
+**Artículo 210.** Las funciones del Contralor General serán determinadas por la ley. Tendrá, además, las siguientes atribuciones especiales:
+
+- 1. Llevar las cuentas generales de la Nación, inclusive la de la deuda pública interna y externa;
+
+- 2. Prescribir los métodos de la contabilidad de todas las dependencias nacionales y la manera de rendir cuentas los empleados responsables;
+
+- 3. Exigir informes a los empleados públicos nacionales, departamentales o municipales, sobre su gestión fiscal;
+
+- 4. Revisar y fenecer las cuentas de los responsables del Erario;
+
+- 5. Proveer los empleos de su dependencia creados por la ley.
+
+**Artículo 210.** La Constitución de 8 de mayo de 1863, que cesó de regir por razón de hechos consumados, queda abolida; e igualmente derogadas todas las disposiciones de carácter legislativo contrarias a la presente Constitución.
 
 ## **Título XXI (adicional). Disposiciones transitorias.**
 
