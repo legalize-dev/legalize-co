@@ -4,7 +4,7 @@ identifier: "DECRETO-47-2000"
 country: "co"
 rank: "decreto"
 publication_date: "2000-02-07"
-last_updated: "2000-01-19"
+last_updated: "2000-02-07"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1010325"
 department: "MINISTERIO DE SALUD"
@@ -39,54 +39,6 @@ Las Entidades Promotoras de Salud deberán realizar las acciones pertinentes par
 
 Parágrafo. Para todos los efectos contemplados en el presente decreto, cuando se aluda a las Entidades Promotoras de Salud, se entenderán incluidas todas aquellas entidades que se encuentran autorizadas para administrar el régimen contributivo del Sistema General de Seguridad Social en Salud.
 
-##### **Artículo 2º.** Régimen para los cotizantes dependientes. Se establecen las siguientes reglas para los afiliados adicionales o cotizantes dependientes definidos en el artículo 40 del Decreto 806 de 1998:
-
-- 1. Sólo podrán incluir nuevos afiliados adicionales aquellos cotizantes que hubieran cancelado en forma oportuna y completa sus obligaciones al sistema durante el trimestre inmediatamente anterior a la inclusión del afiliado adicional.
-
-- 2. Cuando el afiliado cotizante incluya a un afiliado adicional e incurra en mora superior a treinta (30) días, el afiliado adicional será desafiliado. Para este efecto, se entiende que la representación del afiliado adicional está en cabeza del afiliado cotizante. Por ser la afiliación adicional inseparable de la afiliación del cotizante principal, el pago que se realice frente al afiliado adicional no tendrá valor si el afiliado cotizante no se encuentra al día con sus obligaciones.
-
-- 3. Los afiliados cotizantes a quienes se les hubiera cancelado su afiliación por falta de pago, sólo podrán afiliar personas adicionales, una vez transcurridos doce meses de pagos continuos contados a partir de la fecha de su reingreso al sistema.
-
-- 4. Los afiliados adicionales estarán sujetos a períodos mínimos de cotización, los cuales se contarán a partir de la fecha de su inclusión. Cuando se afilien adicionales con tratamientos en curso, sujetos a períodos mínimos de cotización es deber del afiliado cotizante cancelar en forma directa a la Entidad Promotora de Salud los recursos necesarios para costear íntegramente este tratamiento, hasta el momento en que cumpla con las semanas requeridas.
-
-- 5. Por los afiliados, adicionales se deberá cancelar la Unidad de Pago por Capitación que corresponda a su grupo etáreo, el valor que el Consejo Nacional de Seguridad Nacional en Salud defina para promoción y prevención, más un 10% destinado este último porcentaje a la subcuenta de solidaridad.
-
-- 6. No se podrán incluir como afiliados adicionales a personas que se encuentren afiliados al régimen subsidiado o a un régimen de excepción salvo que demuestren su desafiliación a dicho sistema o personas que tengan capacidad de pago. El cotizante que incurra en esta conducta deberá reembolsar todos los gastos en que hubiera incurrido la Entidad Promotora de Salud frente al afiliado adicional.
-
-- 7. El afiliado cotizante que incurra en mora frente a los pagos continuos de su afiliado adicional, no podrá afiliar a nuevas personas adicionales durante los dos (2) años siguientes a la verificación de la conducta, manteniendo lo señalado en los numerales 1 y 3 del presente artículo. Esta disposición no será aplicable para el trabajador dependiente cuando el incumplimiento en los pagos sea imputable al empleador
-
-- 8. No se podrán incluir como afiliados adicionales, por el mismo cotizante o su cónyuge o compañero permanente, aquellas personas que hubieran afiliado en calidad de adicionales durante los tres (3) años anteriores y respecto de las cuales no hubiera mantenido pagos continuos. El incumplimiento de esta disposición dará derecho a la cancelación inmediata de la afiliación.
-
-- 9. Los pagos frente a los afiliados adicionales se deberán realizar en forma anticipada por períodos mensuales.
-
-- 10. La inclusión en el núcleo familiar de otros miembros adicionales dependientes, sólo procederá si el afiliado cotizante garantiza la afiliación de estos por un período mínimo de dos años. Para tal efecto deberá convenir con la EPS el mecanismo de garantía correspondiente, que podrá consistir en la suscripción de un título valor o el compromiso de permanencia. La pérdida de la condición de trabajador cotizante deriva en la desafiliación del afiliado adicional .
-
-Lo dispuesto en esta norma se aplicará a partir del 1º de marzo del año 2000, siendo deber de todos los afiliados adicionales vinculados al sistema ajustarse plenamente a sus previsiones a partir de la fecha mencionada.
-
-**Artículo 2º.** Régimen para los cotizantes dependientes. Se establecen las siguientes reglas para los afiliados adicionales o cotizantes dependientes definidos en el artículo 40 del Decreto 806 de 1998:
-
-- 1. Sólo podrán incluir nuevos afiliados adicionales aquellos cotizantes que hubieran cancelado en forma oportuna y completa sus obligaciones al sistema durante el trimestre inmediatamente anterior a la inclusión del afiliado adicional.
-
-- 2. Cuando el afiliado cotizante incluya a un afiliado adicional e incurra en mora superior a treinta (30) días, el afiliado adicional será desafiliado. Para este efecto, se entiende que la representación del afiliado adicional está en cabeza del afiliado cotizante. Por ser la afiliación adicional inseparable de la afiliación del cotizante principal, el pago que se realice frente al afiliado adicional no tendrá valor si el afiliado cotizante no se encuentra al día con sus obligaciones.
-
-- 3. Los afiliados cotizantes a quienes se les hubiera cancelado su afiliación por falta de pago, sólo podrán afiliar personas adicionales, una vez transcurridos doce meses de pagos continuos contados a partir de la fecha de su reingreso al sistema.
-
-- 4. Los afiliados adicionales estarán sujetos a períodos mínimos de cotización, los cuales se contarán a partir de la fecha de su inclusión. Cuando se afilien adicionales con tratamientos en curso, sujetos a períodos mínimos de cotización es deber del afiliado cotizante cancelar en forma directa a la Entidad Promotora de Salud los recursos necesarios para costear íntegramente este tratamiento, hasta el momento en que cumpla con las semanas requeridas.
-
-- 5. Por los afiliados, adicionales se deberá cancelar la Unidad de Pago por Capitación que corresponda a su grupo etáreo, el valor que el Consejo Nacional de Seguridad Nacional en Salud defina para promoción y prevención, más un 10% destinado este último porcentaje a la subcuenta de solidaridad.
-
-- 6. No se podrán incluir como afiliados adicionales a personas que se encuentren afiliados al régimen subsidiado o a un régimen de excepción salvo que demuestren su desafiliación a dicho sistema o personas que tengan capacidad de pago. El cotizante que incurra en esta conducta deberá reembolsar todos los gastos en que hubiera incurrido la Entidad Promotora de Salud frente al afiliado adicional.
-
-- 7. El afiliado cotizante que incurra en mora frente a los pagos continuos de su afiliado adicional, no podrá afiliar a nuevas personas adicionales durante los dos (2) años siguientes a la verificación de la conducta, manteniendo lo señalado en los numerales 1 y 3 del presente artículo.
-
-- 8. No se podrán incluir como afiliados adicionales, por el mismo cotizante o su cónyuge o compañero permanente, aquellas personas que hubieran afiliado en calidad de adicionales durante los tres (3) años anteriores y respecto de las cuales no hubiera mantenido pagos continuos. El incumplimiento de esta disposición dará derecho a la cancelación inmediata de la afiliación.
-
-- 9. Los pagos frente a los afiliados adicionales se deberán realizar en forma anticipada por períodos mensuales.
-
-- 10. Los afiliados que pretendan afiliar personas adicionales deberán suscribir un título valor mediante el cual se obliguen a cancelar en forma ininterrumpida la suma correspondiente a la afiliación respectiva, hasta por un período mínimo de dos años.
-
-Lo dispuesto en esta norma se aplicará a partir del 1º de marzo del año 2000, siendo deber de todos los afiliados adicionales vinculados al sistema ajustarse plenamente a sus previsiones a partir de la fecha mencionada.
-
 ##### **Artículo 3º.** Períodos mínimos de cotización.Para el acceso a las prestaciones económicas se estará sujeto a los siguientes períodos mínimos de cotización:
 
 - 1. Incapacidad por enfermedad general. Para acceder a las prestaciones económicas generadas por incapacidad por enfermedad general, los trabajadores dependientes deberán haber cotizado ininterrumpidamente un mínimo de cuatro (4) semanas y los independientes veinticuatro (24) semanas en forma ininterrumpida, sin perjuicio de las normas previstas para el reconocimiento de prestaciones económicas, conforme las reglas de control a la evasión.
@@ -100,28 +52,6 @@ Parágrafo. No habrá lugar a reconocimiento de prestaciones económicas por con
 ##### **Artículo 4º.** Información de la Entidad Promotora de Salud al afiliado cotizante. Cuando se suspenda la prestación de servicios de salud por el no pago de las cotizaciones, la Entidad Promotora de Salud deberá informar al empleado cotizante o trabajador independiente este hecho indicándole su posible desafiliación al Sistema de Seguridad Social en Salud, en concordancia con lo dispuesto en el artículo 58, literal a) del Decreto 806 de 1998.
 
 Esta información deberá remitirse a través de correo certificado o cualquier otro correo legalmente autorizado, dirigido al último domicilio registrado en la Entidad Promotora de Salud.
-
-##### **Artículo 5º.** Afiliación excepcional. Cuando una entidad promotora de salud no cumpla con el margen de solvencia establecido en el Decreto 882 de 1998 o normas que lo modifiquen, podrá afiliar a nuevos beneficiarios siempre y cuando se encuentre en una de las siguientes situaciones:
-
-- 1. Cuando la Entidad Promotora de Salud sea la única entidad autorizada por la Superintendencia Nacional de Salud, para operar en la región o que existiendo otras entidades autorizadas no estén afiliando en forma efectiva al no haber iniciado operaciones o tener su capacidad de afiliación limitada.
-
-- 2. Cuando existan varias Entidades Promotoras de Salud y ninguna de ellas acredite el margen de solvencia, podrá afiliar aquella que tenga un mayor número de afiliados en ese municipio y garantice la red de prestadores, conforme concepto de la Superintendencia Nacional de Salud, quien autorizará un cupo de afiliación especial para operar en esa región.
-
-En cualquiera de estos casos, la afiliación podrá efectuarse previo compromiso por parte de la Entidad Promotora de Salud de cancelar a la red de prestación de servicios, contratada en el o los municipios en los cuales se autoriza el aumento de afiliación, sus obligaciones dentro de los cuarenta y cinco (45) días siguientes contados a partir de la fecha de la presentación oportuna de la cuenta. Las instituciones prestadoras de servicios deberán presentar las respectivas facturas o cuentas de cobro dentro de los sesenta (60) días calendario siguientes a la prestación efectiva del servicio, no siendo válido el pacto en contrario. La autorización excepcional deberá ser suspendida en forma automática por los administradores de la entidad, cuando no esté en capacidad de cumplir con las previsiones aquí establecidas.
-
-Parágrafo. En aquellos eventos en que la Entidad Promotora de Salud que tenga un mayor número de afiliados en el municipio manifieste ante la Superintendencia su incapacidad para realizar estas afiliaciones excepcionales, la Superintendencia podrá autorizar a aquella que quedó en segundo lugar y así sucesivamente.
-
-**Parágrafo 2º**. A efecto de garantizar la antigüedad en el Sistema de Seguridad Social en Salud a los trabajadores que hayan estado desafiliados por inexistencia de oferta de Entidad Promotora de Salud, una vez efectuada la afiliación según, lo establecido en el presente artículo, los empleadores deberán pagar los aportes correspondientes a los períodos de no afiliación, debiendo las entidades promotoras de salud proceder a efectuar la compensación por estos periodos. Los periodos compensados se contabilizarán para efectos de la aplicación de periodos de carencia. **Parágrafo 3º.** Las entidades promotoras de salud que operen en el régimen contributivo podrán realizar la cesión obligatoria de afiliados frente a sucursales o agencias que acrediten menos de cinco mil usuarios, cuando garanticen el traslado efectivo de los usuarios a otra entidad que se encuentre autorizada en la región. Para el efecto se informará a los usuarios en un medio amplio de comunicación sobre la cesión, la cual se hará efectiva vencido un plazo de treinta días a partir de la fecha de publicación del aviso. El usuario dentro de los cuarenta y cinco (45) días siguientes a la cesión podrá ejercer su derecho, de elección en los términos previstos en las disposiciones legales. La entidad que realice la cesión no podrá realizar nuevas operaciones dentro de la región cubierta por la sucursal o agencia que realizó la cesión durante los cuatro (4) años siguientes."
-
-**Artículo 5º.** Afiliación excepcional. Cuando una entidad promotora de salud no cumpla con el margen de solvencia establecido en el Decreto 882 de 1998 o normas que lo modifiquen, podrá afiliar a nuevos beneficiarios siempre y cuando se encuentre en una de las siguientes situaciones:
-
-- 1. Cuando la Entidad Promotora de Salud sea la única entidad autorizada por la Superintendencia Nacional de Salud, para operar en la región o que existiendo otras entidades autorizadas no estén afiliando en forma efectiva al no haber iniciado operaciones o tener su capacidad de afiliación limitada.
-
-- 2. Cuando existan varias Entidades Promotoras de Salud y ninguna de ellas acredite el margen de solvencia, podrá afiliar aquella que tenga un mayor número de afiliados en ese municipio y garantice la red de prestadores, conforme concepto de la Superintendencia Nacional de Salud, quien autorizará un cupo de afiliación especial para operar en esa región.
-
-En cualquiera de estos casos, la afiliación podrá efectuarse previo compromiso por parte de la Entidad Promotora de Salud de cancelar a la red de prestación de servicios, contratada en el o los municipios en los cuales se autoriza el aumento de afiliación, sus obligaciones dentro de los cuarenta y cinco (45) días siguientes contados a partir de la fecha de la presentación oportuna de la cuenta. Las instituciones prestadoras de servicios deberán presentar las respectivas facturas o cuentas de cobro dentro de los sesenta (60) días calendario siguientes a la prestación efectiva del servicio, no siendo válido el pacto en contrario. La autorización excepcional deberá ser suspendida en forma automática por los administradores de la entidad, cuando no esté en capacidad de cumplir con las previsiones aquí establecidas.
-
-Parágrafo. En aquellos eventos en que la Entidad Promotora de Salud que tenga un mayor número de afiliados en el municipio manifieste ante la Superintendencia su incapacidad para realizar estas afiliaciones excepcionales, la Superintendencia podrá autorizar a aquella que quedó en segundo lugar y así sucesivamente.
 
 ##### **Artículo 6º.** Responsabilidad de los representantes legales. La suspensión de realizar nuevas afiliaciones es responsabilidad de los representantes legales y administradores de las Entidades Promotoras de Salud cuando se encuentren incumpliendo las exigencias del Decreto 882 de 1998 o demás normas que lo adicionen, modifiquen o sustituyan o lo previsto en el artículo precedente. La Superintendencia Nacional de Salud, deberá establecer la responsabilidad de los administradores o representantes legales e imponer las sanciones a que haya lugar, cuando se presente incumplimiento en la norma.
 
