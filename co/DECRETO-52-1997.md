@@ -4,7 +4,7 @@ identifier: "DECRETO-52-1997"
 country: "co"
 rank: "decreto"
 publication_date: "1997-01-17"
-last_updated: "1997-01-17"
+last_updated: "2005-03-02"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1899860"
 department: "DEPARTAMENTO ADMINISTRATIVO DE LA FUNCIÓN PÚBLICA"
@@ -147,43 +147,7 @@ Las cesantías se regirán por las normas establecidas en el Decreto extraordina
 
 ##### **Artículo 6º.** Los empleos de la Fiscalía General de la Nación conservarán el porcentaje de la remuneración mensual que tiene el carácter de gastos de representación fijados en las normas vigentes que regulan la materia. Dicho porcentaje se aplicará a la remuneración mensual excluyendo las primas establecidas en los artículos siguientes:
 
-##### **Artículo 7º.** El treinta por ciento (30%) del salario básico mensual de los siguientes servidores públicos se considera como prima especial de servicios sin carácter salarial.
-
-Jefe Unidad de Fiscalía ante Tribunal Nacional.
-
-Jefe Unidad de Fiscalía ante Tribunal de Distrito.
-
-Fiscal ante Tribunal Nacional.
-
-Jefe Unidad Regional de Fiscalía.
-
-Fiscal ante Tribunal de Distrito.
-
-Fiscal Regional.
-
-Jefe Unidad Seccional de Fiscalía.
-
-Fiscal Seccional.
-
-Secretario General.
-
-Directores Nacionales.
-
-Directores Regionales.
-
-Directores Seccionales
-
-Jefes de Oficina.
-
-Jefes de División.
-
-Jefe de Unidad de Policía Judicial.
-
-Jefe de Unidad Local de Fiscalía.
-
-Fiscal Auxiliar ante la Corte Suprema de Justicia.
-
-Fiscal Local.
+##### **Artículo 7º.Declarado nulo por el Consejo de Estado en SENTENCIA 11001032500019971702101(17021) de 2005 y Declarado Nulo por el Consejo de Estado en Sentencia 001032500020180110100 de 21/09/2022.**
 
 ##### **Artículo 8º.** El Fiscal General de la Nación podrá asignar primastécnicas sin carácter salarial hasta por un treinta por ciento (30%) del sueldo básico con el lleno de los requisitos que establezca mediante reglamentación interna y previa viabilidad presupuestal, en los términos del Decreto 2573 de 1991.
 
