@@ -1,0 +1,38 @@
+---
+title: "Por el cual se da una autorización en el ramo Postal"
+identifier: "DECRETO-31-1918"
+country: "co"
+rank: "decreto"
+publication_date: "1918-01-11"
+last_updated: "1918-01-11"
+status: "in_force"
+source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1007331"
+department: "MINISTERIO DE GOBIERNO"
+document_status_raw: "Vigente"
+gazette_reference: "DIARIO OFICIAL. AÑO LIV. N.16289. 11, ENERO, 1918. PAG. 1."
+gazette_number: "16289"
+gazette_page: "41"
+gazette_pdf_page: "1"
+subtype: "DECRETO ORDINARIO"
+sector: "Interior"
+entry_into_force: "1918-01-11"
+---
+# Por el cual se da una autorización en el ramo Postal
+
+**El Presidente de la República de Colombia,**
+
+en ejercicio de sus atribuciones legales,
+
+**DECRETA:**
+
+##### **Artículo 1°** Autorizase al señor Intendente del Archipiélago de San Andrés y Providencia para que, de acuerdo con las instrucciones que reciba del señor Administrador General de Correos, organice el servicio de conducción de correos entre Cartagena y San Andrés.
+
+##### **Artículo 2°** Queda suprimida la plaza de Mensajero de correos entre Cartagena y San Andrés.,
+
+**Comuníquese y publíquese.**
+
+**Dado en Bogotá a 8 de enero de 1918.**
+
+**JOSE VICENTE CONCHA-El Ministro de Gobierno,**
+
+**Miguel ABADIA MÉNDEZ.**
