@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "1998-07-06"
+last_updated: "1998-07-07"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -575,6 +575,36 @@ Lo dispuesto en este artículo se entenderá sin perjuicio de las facultades y d
 
 **Objeto de la jurisdicción en lo contencioso administrativo.**
 
+##### **Artículo 82**. *Objeto de la jurisdicción de lo contencioso administrativo.*
+
+La Jurisdicción de lo Contencioso Administrativo está instituida para juzgar las controversias y litigios administrativos originados en la actividad de las Entidades Públicas y de las personas privadas que desempeñen funciones propias de los distintos órganos del Estado. Se ejerce por el Consejo de Estado, los Tribunales Administrativos y los Juzgados Administrativos de conformidad con la Constitución y la ley.
+
+Esta jurisdicción podrá juzgar, inclusive, las controversias que se originen en actos políticos o de Gobierno.
+
+La Jurisdicción de lo Contencioso Administrativo no juzga las decisiones proferidas en juicios de policía regulados especialmente por la ley.
+
+Las decisiones jurisdiccionales adoptadas por las Salas Jurisdiccionales Disciplinarias del Consejo Superior de la Judicatura y de los Consejos Seccionales de la Judicatura, no tendrán control jurisdiccional.
+
+Artículo 82. OBJETO DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO. La Jurisdicción de lo Contencioso Administrativo está instituida por la Constitución para juzgar las controversias y litigios administrativos originados en la actividad de las entidades públicas y de las personas privadas que desempeñen funciones administrativas.
+
+Se ejerce por el Consejo de Estado y los Tribunales Administrativos de conformidad con la Constitución y la Ley.
+
+Esta Jurisdicción podrá juzgar, inclusive, las controversias que se originen en actos políticos; o de gobierno.
+
+La Jurisdicción de lo Contencioso Administrativo no juzga las decisiones proferidas en juicios civiles o penales de policía regulados especialmente por la Ley.
+
+**Artículo 82. Objeto de la jurisdicción en lo contencioso administrativo.** La jurisdicción en lo contencioso administrativo está instituida para juzgar las controversias originadas en actos y hechos administrativos de las entidades públicas, y de las privadas cuando cumplan funciones públicas. Se ejercerá por el Consejo de Estado y los Tribunales Administrativos de conformidad con la Constitución Política y la ley.
+
+Esta jurisdicción podrá juzgar, inclusive, las controversias que se origen en los actos políticos o de gobierno, pero sólo por vicios de forma.
+
+La jurisdicción en lo contencioso administrativo no juzgará las providencias dictadas en juicios de policía de carácter penal o civil, ni las sanciones que imponga el Tribunal Disciplinario.
+
+**Artículo 82. Objeto de la jurisdicción en lo contencioso administrativo.** La jurisdicción en lo contencioso administrativo está instituida para juzgar las controversias originadas en actos y hechos administrativos de las entidades públicas, y de las privadas cuando cumplan funciones públicas. Se ejercerá por el Consejo de Estado y los Tribunales Administrativos de conformidad con la Constitución Política y la ley.
+
+Esta jurisdicción podrá juzgar, inclusive, las controversias que se origen en los actos políticos o de gobierno, pero sólo por vicios de forma.
+
+La jurisdicción en lo contencioso administrativo no juzgará las providencias dictadas en juicios de policía de carácter penal o civil, ni las sanciones que imponga el Tribunal Disciplinario.
+
 ## **TITULO XI**
 
 **MEDIOS DE CONTROL**
@@ -937,6 +967,120 @@ Contra las sentencias que pongan fin a estas controversias sólo procederá el r
 
 - 9. De las acciones de nulidad y restablecimiento contra los actos de expropiación de que tratan las leyes sobre Reforma Urbana.
 
+##### **Artículo 132**. *Competencia de los tribunales administrativos en primera instancia.* Los Tribunales Administrativos conocerán en primera instancia de los siguientes asuntos:
+
+- 1. De los de nulidad de los Actos Administrativos proferidos por funcionarios u organismos del orden Departamental, Distrital y Municipal, o por las personas o entidades de derecho privado cuando cumplan funciones administrativas de los citados órdenes.
+
+- 2. De los de nulidad y restablecimiento del derecho de carácter laboral que no provengan de un contrato de trabajo, en los cuales se controviertan Actos Administrativos de cualquier autoridad, cuando la cuantía exceda de cien (100) salarios mínimos legales mensuales.
+
+- 3. De los de nulidad y restablecimiento del derecho en que se controviertan Actos Administrativos de cualquier autoridad, cuando la cuantía exceda de trescientos (300) salarios mínimos legales mensuales.
+
+- 4. De los que se promuevan sobre el monto, distribución o asignación de impuestos, contribuciones y tasas nacionales, departamentales, municipales o Distritales, cuando la cuantía sea superior a trescientos (300) salarios mínimos legales mensuales.
+
+- 5. De los referentes a contratos de las entidades estatales en sus distintos órdenes y de los contratos celebrados por entidades prestadoras de servicios públicos domiciliarios, cuando su finalidad esté vinculada directamente a la prestación del servicio, cuando la cuantía exceda de quinientos (500) salarios mínimos legales mensuales.
+
+- 6. De los de reparación directa cuando la cuantía exceda de quinientos (500) salarios mínimos legales mensuales.
+
+- 7. De los procesos ejecutivos derivados de condenas impuestas por la jurisdicción contencioso-administrativa, cuando la cuantía exceda de mil quinientos (1.500) salarios mínimos legales mensuales.
+
+- 8. De los relativos a la acción de nulidad electoral de los Gobernadores, de los Diputados a las Asambleas Departamentales, de cualquier otra elección celebrada dentro del respectivo Departamento, de los Alcaldes y miembros de los Concejos de los municipios capital de Departamento o poblaciones de más de setenta mil (70.000) habitantes de acuerdo con la certificación que expida el Departamento Administrativo Nacional de Estadística, DANE, del Alcalde Mayor, Concejales y Ediles de Santa Fe de Bogotá. Cuando se trate de elecciones nacionales, la competencia será del Tribunal correspondiente al lugar donde se haga la declaratoria de elección.
+
+Igualmente de los relativos a la acción de nulidad electoral que se promuevan con motivo de las elecciones o nombramientos hechos por estas corporaciones o funcionarios de que trata el inciso anterior o por cualquier organismo o servidor de los departamentos, de los citados municipios o del Distrito Capital.
+
+- 9. De los de nulidad de los Actos Administrativos de las entidades territoriales y descentralizadas de carácter departamental, distrital o municipal que deban someterse para su validez a la aprobación de autoridad superior, o que hayan sido dictados en virtud de delegación de funciones hecha por la misma
+
+- 10. De las acciones de repetición que el Estado ejerza contra los servidores o ex servidores públicos y personas privadas que de conformidad con la ley cumplan funciones públicas, cuando la cuantía exceda de quinientos (500) salarios mínimos legales mensuales, y cuya competencia no estuviere asignada al Consejo de Estado en única instancia.
+
+- 11. De las acciones de nulidad contra las resoluciones de adjudicación de baldíos.
+
+- 12. De las acciones de expropiación de que tratan las Leyes Agrarias.
+
+- 13. De las acciones contra los actos de expropiación por vía administrativa.
+
+**Artículo 132. En primera instancia**. Los Tribunales Administrativos conocerán en primera instancia de los siguientes procesos:
+
+- 1. De los de nulidad de los actos administrativos proferidos por funcionarios y organismos administrativos del orden departamental, intendencial, comisarial o distrital.
+
+- 2. De los de nulidad de los actos administrativos proferidos por funcionarios y organismos administrativos del orden municipal, cuando no sean de única instancia.
+
+- 3. De los de restablecimiento del derecho que carezcan de cuantía y en los cuales se controviertan actos administrativos del orden departamental, intendencial, comisarial y distrital, o municipal, cuando en este último caso no sean de única instancia.
+
+- 4. De los de nulidad de las elecciones de diputados a las asambleas, miembros de los concejos municipales o distritales, así como de los que se susciten con motivo de las elecciones o nombramientos hechos por estas corporaciones o por cualquiera autoridad, funcionario u organismo administrativo del orden departamental, intendencial, comisarial y distrital, o municipal, siempre que en este último caso no sean de única instancia.
+
+- 5. De los que se promuevan sobre el monto, distribución o asignación de impuestos, tasas y contribuciones, nacionales, departamentales, intendenciales, comisariales, municipales o distritales, cuando la cuantía exceda de quinientos mil pesos ($ 500.000.00).
+
+La competencia por razón del territorio se determinará por el lugar donde se presentó o debió presentarse la declaración, en los casos en que ésta proceda; en los demás casos, donde se practicó la liquidación.
+
+En este caso, la competencia, por razón del territorio, se determinará por el lugar donde se realizò el acto o el hecho que dio origen a la sanción.
+
+- 6. De los de restablecimiento del derecho de carácter laboral, de que trata el numeral 6° del artículo 131, cuando la cuantía exceda de trescientos mil pesos ($ 300.000.00).
+
+En este caso, la cuantía se determinará en la forma prevista en los ordinales a) y b) de la misma norma.
+
+Sin embargo, de los procesos en los cuales se controviertan actos que impliquen destitución, declaración de insubsistencia, revocación de nombramiento o cualesquiera otros que impliquen retiro del servicio, conocerán los Tribunales Administrativos en primera instancia, cuando la asignación mensual correspondiente al cargo exceda de cincuenta mil pesos ($ 50.000.00).
+
+La competencia por razón del territorio se determinará en todo caso por el último lugar donde se prestaron o debieron prestarse los servicios personales.
+
+- 7. **Derogado.**
+
+- 8. De los referentes a contratos administrativos, interadministrativos, y de los de derecho privado de la administración en que se haya incluido la cláusula de caducidad, celebrados por la Nación, las entidades territoriales o descentralizadas de los distintos órdenes, cuando la cuantía exceda de dos millones de pesos ($2.000.000.00).
+
+La competencia por razón del territorio se determinará por el lugar donde se ejecutó o debía ejecutarse el contrato; si este comprendiere varios departamentos será tribunal competente, a prevención, el escogido por el demandante;
+
+- 9. De los de restablecimiento del derecho en que se controviertan actos del orden nacional, de las entidades territoriales o de las entidades descentralizadas de los distintos órdenes, cuando la cuantía exceda de quinientos mil pesos ($ 500.000).
+
+Cuando sea del caso, la cuantía para efectos de la competencia se determinará por el valor de los perjuicios causados, estimados en la demanda por el actor en forma razonada, conforme al artículo 20, numeral 1°, del Código de Procedimiento Civil.
+
+La competencia por razón de territorio se determinará por el lugar donde se produjo el acto;
+
+- 10. De los de reparación directa y cumplimiento que se promuevan contra la Nación, las entidades territoriales o las entidades descentralizadas de los diferentes órdenes, cuando la cuantía exceda de dos millones de pesos ($ 2.000.000.00).
+
+La competencia por razón del territorio y la cuantía, se determinará de conformidad con lo prescrito por el artículo 131, numeral 10, incisos segundo y tercero de este Código;
+
+- 11. De los de nulidad de los actos administrativos de las entidades territoriales y descentralizadas de carácter local que deban someterse para su validez a la aprobación de autoridad superior, o que hayan sido dictados en virtud de delegación de funciones hecha por la misma.
+
+**Artículo 132. En primera instancia**. Los Tribunales Administrativos conocerán en primera instancia de los siguientes procesos:
+
+- 1. De los de nulidad de los actos administrativos proferidos por funcionarios y organismos administrativos del orden departamental, intendencial, comisarial o distrital.
+
+- 2. De los de nulidad de los actos administrativos proferidos por funcionarios y organismos administrativos del orden municipal, cuando no sean de única instancia.
+
+- 3. De los de restablecimiento del derecho que carezcan de cuantía y en los cuales se controviertan actos administrativos del orden departamental, intendencial, comisarial y distrital, o municipal, cuando en este último caso no sean de única instancia.
+
+- 4. De los de nulidad de las elecciones de diputados a las asambleas, miembros de los concejos municipales o distritales, así como de los que se susciten con motivo de las elecciones o nombramientos hechos por estas corporaciones o por cualquiera autoridad, funcionario u organismo administrativo del orden departamental, intendencial, comisarial y distrital, o municipal, siempre que en este último caso no sean de única instancia.
+
+- 5. De los que se promuevan sobre el monto, distribución o asignación de impuestos, tasas y contribuciones, nacionales, departamentales, intendenciales, comisariales, municipales o distritales, cuando la cuantía exceda de quinientos mil pesos ($ 500.000.00).
+
+La competencia por razón del territorio se determinará por el lugar donde se presentó o debió presentarse la declaración, en los casos en que ésta proceda; en los demás casos, donde se practicó la liquidación.
+
+En este caso, la competencia, por razón del territorio, se determinará por el lugar donde se realizò el acto o el hecho que dio origen a la sanción.
+
+- 6. De los de restablecimiento del derecho de carácter laboral, de que trata el numeral 6° del artículo 131, cuando la cuantía exceda de trescientos mil pesos ($ 300.000.00).
+
+En este caso, la cuantía se determinará en la forma prevista en los ordinales a) y b) de la misma norma.
+
+Sin embargo, de los procesos en los cuales se controviertan actos que impliquen destitución, declaración de insubsistencia, revocación de nombramiento o cualesquiera otros que impliquen retiro del servicio, conocerán los Tribunales Administrativos en primera instancia, cuando la asignación mensual correspondiente al cargo exceda de cincuenta mil pesos ($ 50.000.00).
+
+La competencia por razón del territorio se determinará en todo caso por el último lugar donde se prestaron o debieron prestarse los servicios personales.
+
+- 7. De los de nulidad absoluta de los contratos administrativos, interadministrativos y de los de derecho privado de la administración en que se haya incluido la cláusula de caducidad, celebrados por entidades del orden departamental, intendencial, comisarial y distrital, o municipal, cuando en este último caso no sean de única instancia.
+
+- 8. De los referentes a contratos administrativos, interadministrativos, y de los de derecho privado de la administración en que se haya incluido la cláusula de caducidad, celebrados por la Nación, las entidades territoriales o descentralizadas de los distintos órdenes, cuando la cuantía exceda de dos millones de pesos ($2.000.000.00).
+
+La competencia por razón del territorio se determinará por el lugar donde se ejecutó o debía ejecutarse el contrato; si este comprendiere varios departamentos será tribunal competente, a prevención, el escogido por el demandante;
+
+- 9. De los de restablecimiento del derecho en que se controviertan actos del orden nacional, de las entidades territoriales o de las entidades descentralizadas de los distintos órdenes, cuando la cuantía exceda de quinientos mil pesos ($ 500.000).
+
+Cuando sea del caso, la cuantía para efectos de la competencia se determinará por el valor de los perjuicios causados, estimados en la demanda por el actor en forma razonada, conforme al artículo 20, numeral 1°, del Código de Procedimiento Civil.
+
+La competencia por razón de territorio se determinará por el lugar donde se produjo el acto;
+
+- 10. De los de reparación directa y cumplimiento que se promuevan contra la Nación, las entidades territoriales o las entidades descentralizadas de los diferentes órdenes, cuando la cuantía exceda de dos millones de pesos ($ 2.000.000.00).
+
+La competencia por razón del territorio y la cuantía, se determinará de conformidad con lo prescrito por el artículo 131, numeral 10, incisos segundo y tercero de este Código;
+
+- 11. De los de nulidad de los actos administrativos de las entidades territoriales y descentralizadas de carácter local que deban someterse para su validez a la aprobación de autoridad superior, o que hayan sido dictados en virtud de delegación de funciones hecha por la misma.
+
 ##### **Artículo 133**. *Competencia de los tribunales administrativos en segunda instancia.* Los Tribunales Administrativos conocerán en segunda instancia:
 
 - 1. De las apelaciones y consultas de las sentencias dictadas en primera instancia por los Jueces Administrativos y de las apelaciones de autos susceptibles de este medio de impugnación, así como de los recursos de queja cuando no se conceda el de apelación o se conceda en un efecto distinto del que corresponda.
@@ -1012,6 +1156,82 @@ Para efectos laborales, la cuantía se determinará por el valor de las pretensi
 El silencio negativo, en relación con la primera petición, también agota la vía gubernativa.
 
 Sin embargo, si las autoridades administrativas no hubieran dado oportunidad de interponer los recursos procedentes, los interesados podrán demandar directamente los correspondientes actos
+
+##### **Artículo 136**. *Caducidad de las acciones.*
+
+- 1. La acción de nulidad podrá ejercitarse en cualquier tiempo a partir de la expedición del acto.
+
+- 2. La de restablecimiento del derecho caducará al cabo de cuatro (4) meses, contados a partir del día siguiente al de la publicación, notificación, comunicación o ejecución del acto, según el caso. Sin embargo, los actos que reconozcan prestaciones periódicas podrán demandarse en cualquier tiempo por la administración o por los interesados, pero no habrá lugar a recuperar las prestaciones pagadas a particulares de buena fe.
+
+- 3. La acción sobre los actos presuntos que resuelvan un recurso podrá interponerse en cualquier tiempo
+
+- 4. Sin perjuicio de lo dispuesto en la Ley Agraria, la acción de nulidad y restablecimiento del derecho contra los actos de adjudicación de baldíos proferidos por el Instituto Colombiano de la Reforma Agraria, Incora, caducará en dos (2) años, contados desde el día siguiente al de su publicación, cuando ella sea necesaria, o desde su ejecutoria, en los demás casos. Para los terceros, el término de caducidad se contará a partir del día siguiente de la inscripción del acto en la correspondiente Oficina de Instrumentos Públicos.
+
+- 5. La acción de revisión contra los actos de extinción del dominio agrario o contra las resoluciones que decidan de fondo los procedimientos de clarificación, deslinde y recuperación de los baldíos deberá interponerse dentro de los quince (15) días, contados a partir del día siguiente de su ejecutoria. Para los terceros, el término de caducidad será de treinta (30) días y se contará a partir del día siguiente a la inscripción del acto en la correspondiente Oficina de Instrumentos Públicos.
+
+- 6. La acción de expropiación de un inmueble agrario deberá presentarse por el Incora dentro de los dos (2) meses, contados a partir del día siguiente al de la ejecutoria de la resolución que ordene adelantar la expropiación.
+
+- 7. Cuando una persona de derecho público demande su propio acto la caducidad será de dos (2) años, contados a partir del día siguiente al de su expedición.
+
+- 8. La de reparación directa caducará al vencimiento del plazo de dos (2) años, contados a partir del día siguiente del acaecimiento del hecho, omisión u operación administrativa o de ocurrida la ocupación temporal o permanente del inmueble de propiedad ajena por causa de trabajo público o por cualquiera otra causa.
+
+- 9. La de repetición caducará al vencimiento del plazo de dos (2) años, contados a partir del día siguiente de la fecha del pago total efectuado por la entidad.
+
+- 10. En las relativas a contratos, el término de caducidad será de dos (2) años que se contará a partir del día siguiente a la ocurrencia de los motivos de hecho o de derecho que les sirvan de fundamento.
+
+En los siguientes contratos, el término de caducidad se contará así:
+
+- a) En los de ejecución instantánea, a más tardar dentro de los dos (2) años siguientes a cuando se cumplió o debió cumplirse el objeto del contrato;
+
+- b) En los que no requieran de liquidación, a más tardar dentro de los dos (2) años siguientes, contados desde la terminación del contrato por cualquier causa;
+
+- c) En los que requieran de liquidación y ésta sea efectuada de común acuerdo por las partes, a más tardar dentro de los dos (2) años, contados desde la firma del acta;
+
+- d) En los que requieran de liquidación y ésta sea efectuada unilateralmente por la administración, a más tardar dentro de los dos (2) años, contados desde la ejecutoria del acto que la apruebe. Si la administración no lo liquidare durante los dos (2) meses siguientes al vencimiento del plazo convenido por las partes o, en su defecto del establecido por la ley, el interesado podrá acudir a la jurisdicción para obtener la liquidación en sede judicial a más tardar dentro de los dos (2) años siguientes al incumplimiento de la obligación de liquidar;
+
+- e) La nulidad absoluta del contrato podrá ser alegada por las partes contratantes, por el Ministerio Público o cualquier persona interesada, dentro de los dos (2) años siguientes a su perfeccionamiento. Si el término de vigencia del contrato fuere superior a dos (2) años, el término de caducidad será igual al de su vigencia, sin que en ningún caso exceda de cinco (5) años, contados a partir de su perfeccionamiento. En ejercicio de esta acción se dará estricto cumplimiento al artículo 22 de la Ley “por la cual se adoptan como legislación permanente algunas normas del Decreto 2651 de 1991, se modifican algunas del Código de Procedimiento Civil, se derogan otras de la Ley 23 de 1991 y del Decreto 2279 de 1989, se modifican y expiden normas del Código Contencioso Administrativo y se dictan otras disposiciones sobre descongestión, eficiencia y acceso a la justicia.”
+
+- f) La nulidad relativa del contrato, deberá ser alegada por las partes dentro de los dos (2) años, contados a partir de su perfeccionamiento.
+
+- 11. La acción ejecutiva derivada de decisiones judiciales proferidas por esta jurisdicción, caducará al cabo de cinco (5) años, contados a partir de la exigibilidad del respectivo derecho. La exigibilidad será la señalada por la ley o la prevista por la respectiva decisión judicial.
+
+- 12. La acción electoral caducará en veinte (20) días, contados a partir del siguiente a aquél en el cual se notifique legalmente el acto por medio del cual se declara la elección o se haya expedido el nombramiento de cuya nulidad se trata.
+
+Frente a los actos de confirmación, el término de caducidad de la acción se contará a partir del día siguiente a la fecha en la cual se confirme la designación o nombramiento.
+
+Parágrafo 1°. Cuando el objeto del litigio lo constituyan bienes estatales imprescriptibles e inenajenables la acción no caducará.
+
+Parágrafo 2°. Los actos de extinción del dominio de bienes distintos a los regulados por la Ley Agraria deberán ser demandados dentro de los mismos término señalado para éstos.
+
+**Artículo 136.** CADUCIDAD DE LAS ACCIONES. La de nulidad absoluta podrá ejercitarse en cualquier tiempo a partir de la expedición del acto.
+
+La de restablecimiento del derecho caducará al cabo de cuatro (4) meses, contados a partir del día de la publicación, notificación o ejecución del acto, según el caso. Si el demandante es una entidad pública, la caducidad será de dos (2) años. Si se demanda un acto presunto, el término de caducidad será de cuatro (4) meses, contados a partir del día siguiente a aquel en que se configure el silencio negativo.
+
+Sin embargo, los actos que reconozcan prestaciones periódicas podrán demandarse en cualquier tiempo, pero no habrá lugar a recuperar las prestaciones pagadas a particulares de buena fe.
+
+La de reparación directa caducará al vencimiento del plazo de dos (2) años, contados a partir del acaecimiento del hecho, omisión u operación administrativa o de ocurrida la ocupación temporal o permanente del inmueble de propiedad ajena por causa de trabajos públicos.
+
+La de nulidad y restablecimiento del derecho contra los actos de adjudicación de baldíos proferidos por el Instituto Colombiano de la Reforma Agraria -Incora-, caducarán en dos (2) años, contados desde la publicación, cuando ella sea necesaria, o desde su ejecutoria, en los demás casos.
+
+Las relativas a contratos caducarán en dos (2) años de ocurridos los motivos de hecho o de derecho que le sirvan de fundamento
+
+**Artículo 136. Caducidad de las acciones**. La de nulidad podrá ejercitarse en cualquier tiempo a partir de la expedición del acto o después de su publicación, si necesita de este requisito para entrar a regir.
+
+La de restablecimiento del derecho caducará al cabo de cuatro (4) meses contados a partir del día de la publicación, comunicación, notificación o ejecución del acto, según el caso. Si el demandante es una entidad pública, la caducidad será de dos (2) años.
+
+Sin embargo, cuando se demanden actos que reconozcan prestaciones periódicas la acción podrá proponerse en cualquier tiempo, pero no habrá lugar a recuperar las prestaciones pagadas a particulares de buena fe.
+
+La de reparación directa y cumplimiento y la de definición de competencias caducarán al vencimiento del plazo de dos (2) años contados a partir de la producción del acto o hecho.
+
+La acción sobre los actos presuntos que resuelvan un recurso podrá interponerse en cualquier tiempo.
+
+Las de nulidad y de restablecimiento del derecho contra los actos de adjudicación de baldíos, proferidos por el Incora, caducarán en dos (2) años contados desde la publicación cuando ella sea necesaria, o desde su ejecutoria en los demás casos.
+
+Las relativas a contratos caducarán a los dos (2) años de expedidos los actos u ocurridos los hechos que den lugar a ella.
+
+Los actos separables distintos del de adjudicación de una licitación sólo serán impugnables jurisdiccionalmente una vez terminado o liquidado el contrato.
+
+La acción electoral caducará en veinte (20) días contados a partir del siguiente a aquel en el que se verifique el acto por medio del cual se declara la elección o se expida el nombramiento.
 
 ##### **Artículo 137. Contenido de la demanda**. Toda demanda ante la jurisdicción administrativa deberá dirigirse al tribunal competente y contendrá:
 
@@ -1100,6 +1320,18 @@ Los recursos podrán fundarse también en las causales de que trata el artículo
 - 5. La indicación del lugar donde podrán hacerse las notificaciones personales al demandado y a su representante o apoderado.
 
 Parágrafo. Con la contestación se acompañarán los documentos que se pretendan hacer valer como prueba y que se encuentren en su poder.
+
+##### **Artículo 145**. *Acumulación de pretensiones y de procesos en materia contencioso administrativa.* En todos los procesos Contencioso Administrativos procederá la acumulación de pretensiones en la forma establecida en el Código de Procedimiento Civil, así como la acumulación de procesos a instancia de cualquiera de las partes o de oficio, en los casos establecidos por el mismo Código.
+
+*Demanda de reconvención.* Durante el término de fijación en lista, el demandado podrá proponer demanda de reconvención contra uno o varios de los demandantes, siempre que sea de competencia del mismo juez y pueda tramitarse por la vía ordinaria. Sin embargo, se podrá reconvenir sin consideración a la cuantía y al factor territorial. Si se reconviniere por una cuantía superior al límite de la competencia del juez, éste ordenará remitir el expediente al Tribunal para que resuelva sobre la admisión y continúe su trámite si fuere el caso.
+
+La reconvención deberá reunir los requisitos de toda demanda y será admisible cuando de formularse en proceso separado procedería la acumulación.
+
+Vencido el término de fijación en lista, se resolverá sobre la admisión de la reconvención y, si fuere el caso, se aplicará el artículo 143 de este Código. Si la admite, la fijará en lista. En lo sucesivo ambas se sustanciarán conjuntamente y se decidirán en la misma sentencia.
+
+**Artículo 145. Derogado.**
+
+**Artículo 145.Falta de contestación de la demanda**. La falta de contestación de la demanda será apreciada como indicio en contra del demandado, siempre que éste no sea una entidad de derecho público.
 
 ##### **Artículo 146**. *Intervención de terceros.* En los procesos de simple nulidad cualquier persona podrá pedir que se lo tenga como parte coadyuvante o impugnadora, hasta el vencimiento del término de traslado para alegar en primera o en única instancia.
 
@@ -1411,6 +1643,22 @@ Si la demanda no se admite, en el mismo auto se debe ordenar la devolución de l
 
 (Modificado por: Art. 57 Ley 446 de 1998)
 
+##### **Artículo 194**. *Del recurso extraordinario de súplica.* El recurso extraordinario de súplica, procede contra las sentencias ejecutoriadas dictadas por cualquiera de las Secciones o Subsecciones del Consejo de Estado. Es causal del recurso extraordinario de súplica la violación directa de normas sustanciales, ya sea por aplicación indebida, falta de aplicación o interpretación errónea de las mismas. Los miembros de la Sección o Subsección falladora estarán excluidos de la decisión, pero podrán ser oídos si la Sala así lo determina.
+
+En el escrito que contenga el recurso se indicará en forma precisa la norma o normas sustanciales infringidas y los motivos de la infracción; y deberá interponerse dentro de los veinte (20) días siguientes al de la ejecutoria de la sentencia impugnada, ante la Sección o Subsección falladora que lo concederá o rechazará.
+
+Admitido el recurso por el ponente en Sala Plena, se ordenará el traslado a las demás partes para alegar por el término común de diez (10) días. Vencido el término de traslado, dentro de los treinta (30) días siguientes se registrará el proyecto de fallo. Si la Sala hallare procedente la causal invocada, infirmará la sentencia recurrida y dictará la que deba reemplazarla. Si la sentencia recurrida tuvo cumplimiento, declarará sin efectos los actos procesales realizados con tal fin y dispondrá que el Juez de conocimiento proceda a las restituciones y adopte las demás medidas a que hubiere lugar.
+
+Si el recurso es desestimado, la parte recurrente será condenada en costas, para lo cual se aplicarán las normas previstas en el Código de Procedimiento Civil.
+
+La interposición de este recurso no impide la ejecución de la sentencia.
+
+Con todo, cuando se trate de sentencia condenatoria de contenido económico, el recurrente podrá solicitar que se suspenda el cumplimiento de la misma, prestando caución para responder por los perjuicios que dicha suspensión cause a la parte contraria, incluyendo los frutos civiles y naturales que puedan percibirse durante aquella. El ponente fijará el monto, naturaleza y término para constituir la caución, cuyo incumplimiento por parte del recurrente implica que se declare desierto el recurso. Los efectos de la sentencia quedan suspendidos hasta cuando se decida.
+
+**Artículo 194. Derogado.**
+
+**Artículo 194. Procedencia**. El recurso extraordinario de anulación procederá contra las sentencias ejecutoriadas de única o segunda instancia dictadas por las secciones del Consejo de Estado y contra las de única dictadas por los tribunales administrativos.
+
 ##### **Artículo Transitorio 194A.***Del recurso extraordinario de súplica*. Los procesos por recursos extraordinarios de súplica que están en trámite y pendientes de fallo en la Sala Plena de lo Contencioso Administrativo, pasarán al conocimiento y decisión de las Salas Especiales Transitorias de Decisión previstas en la Ley 954 de 2005.
 
 ##### **Artículo 195. Derogado.**
@@ -1442,6 +1690,54 @@ Si la demanda no se admite, en el mismo auto se debe ordenar la devolución de l
 **DEL PROCEDIMIENTO ORDINARIO**
 
 ##### **Artículo 206.** AMBITO. Los procesos relativos a nulidad de actos administrativos y cartas de naturaleza, nulidad y restablecimiento del derecho, reparación directa, a controversia sobre contratos administrativos y privados con cláusulas de caducidad y a nulidad de laudos arbitrales proferidos en conflictos originados en los contratos mencionados, se tramitaran por el procedimiento ordinario. Este procedimiento también debe observarse para adelantar y decidir todos los litigios para los cuales la Ley no señale un trámite especial.
+
+##### **Artículo 207.** AUTO ADMISORIO DE LA DEMANDA. Recibida la demanda y efectuado el reparto, si aquélla reúne los requisitos legales, el Ponente debe admitirla y además disponer lo siguiente:
+
+- 1. Que se notifique al representante legal de la entidad demandada, o a su delegado, conforme a lo dispuesto por el artículo 150 del Código Contencioso Administrativo.
+
+- 2. Que se notifique personalmente al Ministerio Público.
+
+- 3. Que se notifique personalmente a la persona o personas que, según la demanda o los actos acusados, tengan interés directo en el resultado del proceso. Si no fuere posible hacerles la notificación personal en el término de cinco (5) días, contados desde el siguiente a aquel en que el interesado haga el depósito que prescribe esta disposición, sin necesidad de orden especial, se las emplazará por edicto para que en el término de cinco (5) días se presenten a notificarse del auto admisorio de la demanda. El edicto determinará, con toda claridad, el asunto de que se trate, se fijará en la Secretaría durante el término indicado y se publicará dos (2) veces en días distintos dentro del mismo lapso en un periódico de amplia circulación nacional o local, según el caso. El edicto y las publicaciones se agregarán al expediente. Copia del edicto se enviará por correo certificado a la dirección indicada en la demanda y a la que figure en el directorio telefónico del lugar, de lo cual se dejará constancia en el expediente.
+
+Si la persona emplazada no compareciere al proceso, se designará curador ad litem para que la represente en él.
+
+- 4. Que el demandante deposite, en el término que al efecto se le señale, la suma que prudencialmente se considere necesarias para pagar los gastos ordinarios del proceso, cuando hubiere lugar a ellos. El remanente, si existiere, se devolverá al interesado, cuando el proceso finalice.
+
+- 5. Que se fije en lista, por el término de diez (10) días, para que los demandados puedan contestar la demanda, proponer excepciones y solicitar pruebas y para que los terceros intervinientes la impugnen o coadyuven.
+
+- 6. Que se solicite al correspondiente funcionario el envío de los antecedentes administrativos, dentro del término que al efecto se le señale. El desacato a esta solicitud o la inobservancia del plazo indicado constituye falta disciplinaria.
+
+Cuando se pida la suspensión provisional, ésta se resolverá en el auto que admita la demanda, el cual debe ser proferido por la Sala, Sección o Subsección y contra este auto sólo procede, en los procesos de única instancia, el recurso de reposición y, en los de primera instancia, el de apelación.
+
+**Artículo 207.** AUTO ADMISORIO DE LA DEMANDA. Recibida la demanda y efectuado el reparto, si aquélla reúne los requisitos legales, el Ponente debe admitirla y además disponer lo siguiente:
+
+- 1. Que se notifique al representante legal de la entidad demandada, o a su delegado, conforme a lo dispuesto por el artículo 150 del Código Contencioso Administrativo.
+
+- 2. Que se notifique personalmente al Ministerio Público.
+
+- 3. Que se notifique personalmente a la persona o personas que, según la demanda o los actos acusados, tengan interés directo en el resultado del proceso. Si no fuere posible hacerles la notificación personal en el término de cinco (5) días, contados desde el siguiente a aquel en que el interesado haga el depósito que prescribe esta disposición, sin necesidad de orden especial, se las emplazará por edicto para que en el término de cinco (5) días se presenten a notificarse del auto admisorio de la demanda. El edicto determinará, con toda claridad, el asunto de que se trate, se fijará en la Secretaría durante el término indicado y se publicará dos (2) veces en días distintos dentro del mismo lapso en un periódico de amplia circulación nacional o local, según el caso. El edicto y las publicaciones se agregarán al expediente. Copia del edicto se enviará por correo certificado a la dirección indicada en la demanda y a la que figure en el directorio telefónico del lugar, de lo cual se dejará constancia en el expediente.
+
+Si la persona emplazada no compareciere al proceso, se designará curador ad litem para que la represente en él.
+
+- 4. Que el demandante deposite, en el término que al efecto se le señale, la suma que prudencialmente se considere necesarias para pagar los gastos ordinarios del proceso, cuando hubiere lugar a ellos. El remanente, si existiere, se devolverá al interesado, cuando el proceso finalice.
+
+- 5. Que se fije en lista, por el término de cinco (5) días, para que los demandados o los intervinientes puedan contestar la demanda, proponer excepciones y solicitar la práctica de pruebas.
+
+- 6. Que se solicite al correspondiente funcionario el envío de los antecedentes administrativos, dentro del término que al efecto se le señale. El desacato a esta solicitud o la inobservancia del plazo indicado constituye falta disciplinaria.
+
+Cuando se pida la suspensión provisional, ésta se resolverá en el auto que admita la demanda, el cual debe ser proferido por la Sala, Sección o Subsección y contra este auto sólo procede, en los procesos de única instancia, el recurso de reposición y, en los de primera instancia, el de apelación.
+
+**Artículo 207. Auto admisorio de la demanda.** Recibida la demanda y verificado el reparto, el ponente dispondrá, en el auto que la admita, lo siguiente:
+
+- 1. Que se notifique personalmente a los funcionarios señalados y en la forma prevista en los artículos 149 y 150.
+
+- 2. Que se notifique personalmente al agente del ministerio público y a los particulares que, según la demanda o los actos acusados, puedan tener interés directo en los resultados del proceso. En el caso de que no sea posible notificar personalmente a los particulares afectados dentro de los diez (10) días siguientes a aquél en que el interesado suministre lo necesario, a solicitud de parte, se procederá a su emplazamiento por edicto en el cual se expresará la naturaleza del proceso y el nombre del demandante. El edicto se fijará en la secretaría por el término de diez (10) días y se aplicará dos veces en días distintos dentro del mismo término en un periódico de amplia circulación nacional o local según el caso. El edicto y las publicaciones se incorporarán al expediente.
+
+Copia del edicto se enviará por correo certificado a la dirección indicada en la demanda o en la solicitud de emplazamiento y a la que figure en el directorio telefónico del lugar, de lo cual se dejará constancia en el expediente.
+
+- 3. Que se fije en lista por el término de diez (10) días, para que los demandados y los intervinientes puedan contestar la demanda, proponer excepciones o solicitar la práctica de pruebas.
+
+- 4. Que se solicite a la autoridad correspondiente el envío de los antecedentes administrativos.
 
 ##### **Artículo 208.** ACLARACIÓN O CORRECCIÓN DE LA DEMANDA. Hasta el último día de fijación en lista podrá aclararse o corregirse la demanda.
 
