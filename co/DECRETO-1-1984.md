@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "1993-10-27"
+last_updated: "1996-01-17"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -1806,16 +1806,6 @@ La Sección Quinta de la Sala de lo Contencioso Administrativo tendrá su propia
 Cada Consejero de Estado de la Sección Quinta tendrá un Magistrado Auxiliar de su libre nombramiento y remoción.
 
 **Parágrafo**. La elección de los miembros del Consejo Nacional Electoral podrá ser demandada ante la Corte Suprema de Justicia. El procedimiento para seguir en estos procesos es el señalado en los artículos 223 a 251 y concordantes del Código de lo Contencioso Administrativo.
-
-**Artículo 231**. REPARTO EN EL CONSEJO DE ESTADO.
-
-El Consejo de Estado tramitará y decidirá los procesos electorales mediante una Sala Contenciosa Electoral integrada por dos consejeros de cada una de las secciones de la Sala Contenciosa. A estos consejeros se les abonarán en la respectiva sección los negocios que se les repartan en la Sala Electoral. La designación de los consejeros que deben integrar la Sala Electoral se hará por la Sala Plena del Consejo de Estado y será de forzosa aceptación. Contra la sentencia de la Sala Electoral no cabrá recurso alguno. El Secretario General del Consejo actuará como Secretario de esta Sala".
-
-Parágrafo. La elección de miembros del Consejo Nacional Electoral podrá ser demandada ante la Corte Suprema de Justicia.
-
-**Artículo 231. Reparto en el Consejo de Estado.** El Presidente del Consejo de Estado repartirá los procesos electorales entre todas las secciones de la sala de lo contencioso administrativo, manteniendo el equilibrio entre ellas pero en forma que correspondan a una misma sección todas las demandas provenientes de una sola circunscripción electoral.
-
-Cada sección tramitará y decidirá los procesos electorales que le correspondan.
 
 ##### **Artículo 232. Trámite de la demanda.** Recibida por el tribunal la demanda, deberá ser repartida el mismo día o a más tardar el siguiente hábil.
 
