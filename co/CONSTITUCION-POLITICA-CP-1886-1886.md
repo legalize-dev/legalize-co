@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1945-06-17"
+last_updated: "1945-06-18"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -39,6 +39,42 @@ Y con el fin de afianzar la unidad nacional y asegurar los bienes de la justicia
 Las líneas divisorias de Colombia con las naciones limítrofes se fijarán definitivamente por Tratados Públicos, pudiendo éstos separarse del principio de *uti possidetis* de derecho de 1810.
 
 ##### **Artículo 4º.** El Territorio, con los bienes públicos que de él forman parte, pertenece únicamente a la Nación.
+
+##### **ARTÍCULO 5º.**
+
+El territorio nacional se divide en Departamentos, Intendencias y Comisarías; aquéllos y éstas, en Municipios o Distritos Municipales.
+
+La ciudad de Bogotá, capital de la República, será organizada como un Distrito especial, sin sujeción al régimen municipal ordinario, dentro de las condiciones que fije la ley. La ley podrá agregar otro u otros Municipios circunvecinos al territorio de la capital de la República, siempre que sea solicitada la anexión por las tres cuartas partes de los concejales del respectivo Municipio.
+
+Sobre las rentas departamentales que se causen en Bogotá, la ley determinará la participación que le corresponde a la capital de la República.
+
+La ley podrá decretar la formación de nuevos Departamentos, desmembrando o no las entidades existentes, siempre que se llenen estas condiciones.
+
+- 1° Que haya sido solicitada por las tres cuartas partes de los concejales de la comarca que ha de formar el nuevo Departamento;
+
+- 2° Que el nuevo Departamento tenga por lo menos doscientos cincuenta mil habitantes y quinientos mil pesos de renta anual;
+
+- 3° Que aquel o aquellos de que fuere segregado, quede cada uno con una población de doscientos cincuenta mil habitantes por lo menos, y con una renta anual de quinientos mil pesos.
+
+La ley podrá segregar territorio de un Departamento para agregarlo a otro u otros limítrofes, teniendo en cuenta la opinión de los habitantes del respectivo territorio y el concepto previo de los Gobernadores de los Departamentos interesados.
+
+La ley reglamentará lo relacionado con esta disposición.
+
+Las líneas divisorias dudosas serán determinadas por comisiones demarcadoras nombradas por el Senado.
+
+Las Intendencias y Comisarías quedan bajo la inmediata administración del Gobierno, y corresponde al legislador proveer a su organización administrativa y al régimen especial de los Municipios que las integran.
+
+La ley podrá crear y suprimir Intendencias y Comisarías, anexarlas total o parcialmente a los Departamentos, darles estatutos especiales y reglamentar su organización electoral, judicial y contencioso-administrativa.
+
+**Articulo 5°** reformado por Artículo 4° ACTO LEGISLATIVO 3 de 1905
+
+**Artículo 5º.** La ley Puede decretar la formación de nuevos Departamentos desmembrando los existentes, cuando haya sido solicitada por las cuatro quintas partes de los Consejos municipales de la comarca que ha de formar el nuevo Departamento, y siempre que se llenen estas condiciones:
+
+- 1. Que el nuevo Departamento tenga por lo menos doscientas mil almas;
+
+- 2. Que aquél o aquéllos de que fuere segregado, queden cada uno con una población de doscientos cincuenta mil habitantes, por lo menos;
+
+- 3. Que la creación sea decretada por una ley aprobada en dos Legislaturas ordinarias sucesivas.
 
 ##### **Artículo 6°** reformado por Artículo 4° ACTO LEGISLATIVO 3 de 1905
 
@@ -105,6 +141,16 @@ En materia criminal, la ley permisiva o favorable, aun cuando sea posterior, se 
 - 2. Los jefes militares, los cuales podrán imponer penas incontinenti, para contener una insubordinación o motín militar, o para mantener el orden hallándose enfrente del enemigo;
 
 - 3. Los Capitanes de buque, que tienen, no estando en puerto, la misma facultad para reprimir delitos cometidos a bordo.
+
+##### **ARTÍCULO 28°.**
+
+El Estado puede intervenir por mandato de la ley en la explotación de industrias o empresas públicas y privadas, con el fin de racionalizar la producción, distribución y consumo de las riquezas, o de dar al trabajador la justa protección a que tiene derecho.
+
+Esta función no podrá ejercerse en uso de las facultades del Artículo 69, ordinal 12, de la Constitución.
+
+**Artículo 28.** Aun en tiempo de guerra, nadie podrá ser penado ex-post facto, sino con arreglo a ley, orden o decreto en que previamente se haya prohibido el hecho y determinándose en pena correspondiente.
+
+Esta disposición no impide que aun en tiempo de paz, pero habiendo graves motivos para temer perturbación del orden público, sean aprehendidas y retenidas, de orden del Gobierno y previo dictamen de los Ministros, las personas contra quienes haya graves indicios de que atentan contra la paz pública.
 
 ##### **Artículo 29.** Sólo impondrá el Legislador la pena capital para castigar, en los casos que se definan como más graves, los siguientes delitos, jurídicamente comprobados, a saber: traición a la Patria en guerra extranjera, parricidio, asesinato, incendio, asalto en cuadrilla de malhechores, piratería, y ciertos delitos militares definidos por las leyes del ejército.
 
@@ -228,7 +274,117 @@ El Congreso se compone del Senado y la Cámara de Representantes.
 
 Las sesiones ordinarias durarán ciento veinte días, pasados los cuales el Gobierno podrá declarar las Cámaras en receso.
 
+##### **ARTÍCULO 69°.**
+
+El Congreso lo forman el Senado y la Cámara de Representantes. Corresponde al Congreso hacer las leyes.
+
+Por medio de ellas ejerce las siguientes atribuciones:
+
+- 1° Interpretar, reformar y derogar las leyes preexistentes;
+
+- 2° Expedir códigos en todos los ramos de la legislación y reformar sus disposiciones;
+
+- 3° Dictar las disposiciones para la formación del Presupuesto Nacional;
+
+- 4° Fijar los planes y programas a que debe someterse el fomento de la economía nacional, y los planes y programas de todas las obras públicas que hayan de emprenderse o continuarse;
+
+- 5° Modificar la división general del territorio, con arreglo al Artículo 5º de esta Constitución; establecer y reformar, cuando convenga, las otras divisiones territoriales de que trata el Artículo 6º; y fijar las bases y condiciones para la creación de Municipios;
+
+- 6° Dictar los reglamentos del Congreso y de cada una de las Cámaras;
+
+- 7° Conferir atribuciones especiales a las Asambleas Departamentales;
+
+- 8° Variar, en circunstancias extraordinarias y por graves motivos de conveniencia pública, la actual residencia de los altos poderes nacionales;
+
+- 9° Crear todos los empleos que demande el servicio público y fijar sus respectivas dotaciones;
+
+- 10° Regular el servicio público, determinando los puntos de que tratan los Artículos 56 y 128 y las demás prescripciones constitucionales;
+
+- 11° Conceder autorizaciones al Gobierno para celebrar contratos, negociar empréstitos, enajenar bienes nacionales, y ejercer otras funciones dentro de la órbita constitucional;
+
+- 12° Revestir, Pro Tempore, al Presidente de la República de precisas facultades extraordinarias, cuando la necesidad lo exija o las conveniencias públicas lo aconsejen;
+
+- 13° Establecer las rentas nacionales y fijar los gastos de la administración;
+
+- 14° Reconocer la deuda nacional y arreglar su servicio;
+
+- 15° Decretar impuestos extraordinarios cuando la necesidad lo exija;
+
+- 16° Aprobar o desaprobar los contratos o convenios que celebre el Presidente de la República con particulares, compañías o entidades políticas, en los cuales tenga interés la Nación, si no hubierensido previamente autorizados o si no se hubieren llenado en ellos las formalidades prescritas por el Congreso, o si algunas estipulaciones que contengan no estuvieren ajustadas a la respectiva ley de autorizaciones;
+
+- 17° Fijar la ley, peso, tipo y denominación de la moneda, y arreglar el sistema de pesas y medidas;
+
+- 18° Organizar el crédito público;
+
+- 19° Decretar las obras públicas que hayan de emprenderse o continuarse, con arreglo a los planes y programas que fijen las leyes respectivas;
+
+- 20° Fomentar las empresas útiles o benéficas dignas de estímulo y apoyo, con estricta sujeción a los planes y programas correspondientes;
+
+- 21° Decretar honores públicos a los ciudadanos que hayan prestado grandes servicios a la Patria, y señalar los monumentos que deban erigirse;
+
+- 22° Aprobar o desaprobar los tratados y convenios que el Gobierno celebre con potencias extranjeras;
+
+- 23° Conceder, por Mayoría de dos tercios de los votos en cada Cámara, y por graves motivos de conveniencia pública, amnistías o indultos generales por delitos políticos. En el caso de que los favorecidos queden eximidos de la responsabilidad civil respecto de particulares, el Estado quedará obligado a las indemnizaciones a que hubiere lugar;
+
+- 24° Limitar o regular la apropiación o adjudicación de tierras baldías.
+
+**Artículo 69.** Las Cámaras se abrirán y clausurarán pública y simultáneamente.
+
+##### **ARTÍCULO 70°.**
+
+El Congreso elegirá cada dos años un Designado, quien reemplazará al Presidente en caso de falta de éste.
+
+El período del Designado comienza el siete (7) de agosto del respectivo año.
+
+**Artículo 70.** Las Cámaras no podrán abrir sus sesiones ni deliberar, con menos de una tercera parte de sus miembros.
+
+El Presidente de la República en persona, o por medio de los Ministros, abrirá y cerrará las Cámaras.
+
+Esta ceremonia no es esencial para que el Congreso ejerza legítimamente sus funciones.
+
 ##### **Artículo 71.** Cuando llegado el día en que ha de reunirse el Congreso, no pudiere verificarse el acto por falta del número de miembros necesarios, los individuos concurrentes, en Junta preparatoria o provisional, apremiarán a los ausentes con las penas que los respectivos reglamentos establezcan; y se abrirán las sesiones luego que esté completo el número requerido.
+
+##### **ARTÍCULO 73°.**
+
+Exceptúanse de lo dispuesto en el Artículo anterior:
+
+- 1° Las leyes sobre contribuciones u orgánicas del Ministerio Público, que deben tener origen únicamente en la Cámara de Representantes;
+
+- 2. Las leyes a que se refieren los numerales 2º, 3º, 4º, y 5º del artículo 69, que no podrán ser dictadas o reformadas sino en virtud de proyectos adoptados por las respectivas Comisiones permanentes de una u otra Cámara, o presentados por los Ministros del Despacho.
+
+En cada Cámara habrá, además de las comisiones que establezca el Reglamento, las Comisiones permanentes encargadas de elaborar o adoptar los proyectos a que se refiere el ordinal 2º de este artículo, de tramitar las modificaciones que se introduzcan a toda clase de proyectos, y de aprobar en su seno los mismos en primer debate.
+
+Cada Comisión tendrá el número de miembros que determine la ley. La elección corresponde hacerla a las Cámaras para períodos no menores de un año.
+
+**Artículo 73.** Por acuerdo mutuo las dos Cámaras podrán trasladarse a otro lugar, y en caso de perturbación del orden público podrán reunirse en el punto que designe el Presidente del Senado.
+
+##### **ARTÍCULO 74°.**
+
+Ningún proyecto será ley sin los requisitos siguientes:
+
+- 1° Haber sido aprobado en la Comisión correspondiente de cada Cámara, en primer debate, por Mayoría absoluta de votos;
+
+- 2° Haber sido aprobado en cada Cámara, en segundo debate, por Mayoría absoluta de votos;
+
+- 3° Haber obtenido la sanción del Gobierno.
+
+Para la expedición de las leyes que modifiquen, reformen o deroguen las mencionadas en los numerales 2º, 3º, 4º y 5º del artículo 69, se requiere la Mayoría absoluta de votos de los miembros que forman la Comisión permanente y, asimismo, la Mayoría absoluta de votos de los miembros que componen cada Cámara.
+
+La adopción de todo proyecto y su aprobación en primer debate en el seno de las Comisiones permanentes, deberán verificarse en días distintos.
+
+Un proyecto de ley que hubiere sido negado en primer debate podrá ser considerado por la Cámara a solicitud de su autor, de un miembro de la Comisión o del Gobierno. Si la decisión de la Comisión fuere improbada por Mayoría absoluta de votos de la Cámara correspondiente, el proyecto pasará a otra Comisión permanente para que lo apruebe en primer debate e informe sobre él para segundo.
+
+**Artículo 74°** reformado por Artículo 6° ACTO LEGISLATIVO 5 de 1905.
+
+**Artículo 74.** El Congreso se reunirá en un solo cuerpo únicamente para el acto de dar posesión de su cargo al Presidente de la República, y para ejercer la atribución determinada en el Artículo 77.
+
+En tales ocasiones el Presidente del Senado y el de la Cámara de Representantes serán, respectivamente, Presidente y Vicepresidente del Congreso.
+
+##### **ARTÍCULO 75°.**
+
+Para la aprobación de todo proyecto de ley en primero y segundo debate, se requiere la asistencia de la Mayoría absoluta de los individuos que componen la Comisión permanente o la Cámara respectiva.
+
+**Artículo 75.** Toda reunión de miembros del Congreso que, con la mira de ejercer el Poder Legislativo, se efectúe fuera de las condiciones constitucionales, será ilegal; los actos que expida, nulos; y los individuos que en las deliberaciones tomen parte, serán castigados conforme a las leyes.
 
 ##### **Artículo 77.** El Congreso elegirá en sus reuniones ordinarias y para un bienio, el Designado que ha de ejercer el Poder Ejecutivo a falta de Presidente y Vicepresidente.
 
@@ -381,6 +537,10 @@ El Senado se renovará por terceras partes en la forma que determine la ley.
 ##### **Artículo 105.** Los individuos de una y otra Cámara representan a la Nación entera, y deberán votar consultando únicamente la justicia y el bien común.
 
 ##### **Artículo 106.** Los Senadores y los Representantes son inviolables por su opiniones y votos en el ejercicio de su cargo. En el uso de la palabra sólo serán responsables ante la Cámara a que pertenezcan; podrán ser llamados al orden por el que presida la sesión y penados conforme al reglamento por las faltas que cometan.
+
+##### **Artículo 107. Derogado.**
+
+**Artículo 107.** Cuarenta días antes de principiar las sesiones y durante ellas, ningún miembro del Congreso podrá ser llamado a juicio civil o criminal sin permiso de la Cámara a que pertenezca. En caso de flagrante delito, podrá ser detenido el delincuente y será puesto inmediatamente a disposición de la Cámara respectiva.
 
 ##### **Artículo 108.** El Presidente y el Vicepresidente de la República, los Ministros del Despacho y Consejeros de Estado, los Magistrados de la Corte Suprema, el Procurador de la Nación y los Gobernadores no podrán ser elegidos miembros del Congreso sino seis meses después de haber cesado en el ejercicio de sus funciones.
 
@@ -734,6 +894,10 @@ Las fracciones sobrantes de población que sumadas excedan de veinticinco mil ha
 
 Estos Jueces son responsables por las decisiones que dicten, y serán nombrados en la forma y por el tiempo que determine la ley.
 
+##### **Artículo 181.** La ley podrá establecer diversas categorías de Municipios, de acuerdo con su población, recursos fiscales e importancia económica, v señalar distinto régimen para su administración.
+
+**Artículo 181.** La ley determinará lo demás concerniente a elecciones y escrutinios, asegurando la independencia de unas y otras funciones; definirá los delitos que menoscaben la verdad y libertad del sufragio y establecerá la competente sanción penal.
+
 ## **Título XVIII. De la Administración departamental y municipal**
 
 ##### **Artículo 182.** Los Departamentos para el servicio administrativo, se dividirán en Provincias, y éstas en distritos municipales.
@@ -741,6 +905,12 @@ Estos Jueces son responsables por las decisiones que dicten, y serán nombrados 
 ##### **Artículo 184.** Habrá en cada Departamento una corporación administrativa denominada Asamblea Departamental, que se reunirá ordinariamente cada año en la capital del Departamento, por un término de dos meses.
 
 El Gobernador podrá convocarla a sesiones extraordinarias. La ley fijará la época de sesiones.
+
+##### **Artículo 185.** Las Asambleas Departamentales son de elección popular y se compondrán de tantos Diputados cuantos correspondan a la población del respectivo Departamento, a razón de un Diputado por cada cuarenta mil habitantes, y uno más por fracción igual o mayor a la mitad de dicha cifra. En ningún caso se elegirá un número menor de Diputados de los que hoy se eligen. El número de suplentes será el mismo de los Diputados principales y reemplazarán a éstos en caso de falta absoluta o temporal, según el orden de colocación en la respectiva lista electoral.
+
+**Artículo 185.Sustituido por el ACTO LEGISLATIVO 7 DE 1905.**
+
+**Artículo 185.** Corresponde a las Asambleas dirigir y fomentar, por medio de ordenanzas y con los recursos propios del Departamento, la instrucción primaria y la beneficencia, las industrias establecidas y la introducción de otras nuevas, la inmigración, la importación de capitales extranjeros, la colonización de tierras pertenecientes al Departamento, la apertura de caminos y de canales navegables, la construcción de vías férreas, la explotación de bosques de propiedad del Departamento, la canalización de ríos, lo relativo a la policía local, la fiscalización de las rentas y gastos de los distritos, y cuanto se refiera a los intereses seccionales y al adelantamiento interno.
 
 ##### **Artículo 187.** Las Asambleas departamentales, además de sus atribuciones propias, podrán ejercer otras funciones por autorización del Congreso.
 
@@ -786,6 +956,14 @@ La ley podrá limitar las apropiaciones departamentales destinadas a asignacione
 
 - 4° Ejercer las demás funciones que la ley les señale.
 
+##### **Artículo 196.** Derogado.
+
+**Artículo 196.** Los Gobernadores estarán sujetos a responsabilidad administrativa y judicial. Son amovibles por el Gobierno, y responsables ante la Corte Suprema por los delitos que cometieren en el ejercicio de sus funciones.
+
+##### **Artículo 198.** En todo Municipio habrá un Alcalde, que ejercerá las funciones de agente del Gobernador, y que será Jefe de la Administración municipal, conforme a las normas que la ley le señale.
+
+**Artículo 198.** En cada Distrito municipal habrá una Corporación popular que se designará con el nombre de Consejo municipal.
+
 ##### **Artículo 199.** Corresponde a los Consejos municipales ordenar lo conveniente, por medio de acuerdos o reglamentos interiores, para la administración del Distrito; votar, en conformidad con las ordenanzas expedidas por las Asambleas, las contribuciones y gastos locales; llevar el movimiento anual de la población; formar el censo civil cuando lo determine la ley ejercer las demás funciones que le sean señaladas.
 
 ##### **Artículo 200.** La acción administrativa en el distrito corresponde al Alcalde, funcionario que tiene el doble carácter de Agente del Gobernador y mandatario del pueblo.
@@ -806,6 +984,12 @@ La ley podrá limitar las apropiaciones departamentales destinadas a asignacione
 
 La ley determinará el orden y modo de satisfacer estas obligaciones.
 
+##### **Artículo 204.** Cuando el Congreso no vote la Ley de Presupuesto para el correspondiente año económico, continuará vigente el Presupuesto del año anterior, pero el Gobierno podrá reducir los gastos, y, en consecuencia, suprimir o refundir empleos, cuando así lo aconsejen los cálculos de rentas del nuevo ejercicio.
+
+**Artículo 204.** Derogado.
+
+**Artículo 204.** Ninguna contribución indirecta ni aumento de impuestos de esta clase, empezará a cobrarse sino seis meses después de promulgada la ley que establezca la contribución o el aumento.
+
 ##### **Artículo 205.** Toda variación en la Tarifa de Aduanas que tengan por objeto disminuir los derechos de importación, comenzará á ser ejecutada noventa días después de sancionada la ley que se establezca, y la rebaja se hará por décimas partes en los diez meses subsiguientes.
 
 Si la variación tiene por objeto el alza de los derechos, ésta se verificará por terceras partes en los tres meses siguientes á la sanción de la ley.
@@ -818,7 +1002,21 @@ Esta disposición y la del artículo 204 de la Constitución, no limitan las fac
 
 Cuando el Congreso no vote ley de Presupuesto para el correspondiente bienio económico, continuará vigente el Presupuesto del bienio anterior.
 
+##### **Artículo 207.** Derogado.
+
+**Artículo 207.** No podrá hacerse ningún gasto público que no haya sido decretado por el Congreso, por las Asambleas departamentales, o las Municipalidades; ni transferirse ningún crédito a un objeto no previsto en el respectivo Presupuesto.
+
 ## **Título XX. De la reforma de esta Constitución y abrogación de la anterior**
+
+##### **Artículo 209.** La vigilancia de la gestión fiscal de la Administración corresponde a la Contraloría General de la República.
+
+La Contraloría será una oficina de contabilidad y de vigilancia fiscal, y no ejercerá funciones administrativas distintas de las inherentes al desarrollo de su propia organización.
+
+El Contralor General de la República será elegido por la Cámara de Representantes para períodos de dos años.
+
+**Aetículo 209.** Sustituido por el **ACTO LEGISLATIVO 9 DE 1905.**
+
+**Artículo 209.** Esta Constitución podrá ser reformada por un acto legislativo, discutido primeramente y aprobado en tres debates por el Congreso en la forma ordinaria, transmitido por el Gobierno, para su examen definitivo, a la Legislatura subsiguiente, y por ésta nuevamente debatido, y últimamente aprobado por dos tercios de los votos en ambas Cámaras.
 
 ## **Título XXI (adicional). Disposiciones transitorias.**
 
