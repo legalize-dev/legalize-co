@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "1997-12-16"
+last_updated: "1998-09-30"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -131,10 +131,6 @@ Además, la extradición de los colombianos por nacimiento se concederá por del
 La extradición no procederá por delitos políticos.
 
 No procederá la extradición cuando se trate de hechos cometidos con anterioridad a la promulgación de la presente norma.
-
-**Artículo 35.** Se prohíbe la extradición de colombianos por nacimiento. No se concederá la extradición de extranjeros por delitos políticos o de opinión.
-
-Los colombianos que hayan cometido delitos en el exterior, considerados como tales en la legislación nacional, serán procesados y juzgados en Colombia
 
 ##### **Artículo 36.** Se reconoce el derecho de asilo en los términos previstos en la ley.
 
