@@ -4,7 +4,7 @@ identifier: "DECRETO-52-1987"
 country: "co"
 rank: "decreto"
 publication_date: "1987-01-13"
-last_updated: "1987-06-24"
+last_updated: "1987-11-04"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1011555"
 department: "MINISTERIO DE JUSTICIA"
@@ -217,7 +217,7 @@ Desfijado el aviso, cualquier concursante dentro de los tres (3) días siguiente
 
 Quienes hubieren aprobado el concurso, y se encuentren ubicados dentro de los cinco primeros puestos, si no fueren nombrados, permanecerán en lista de elegibles, en riguroso orden de méritos, por el lapso de dos (2) años y podrán ser designados en cargos de igual naturaleza y categoría en el mismo distrito.
 
-##### Artículo 30. En la calificación de antecedentes la experiencia judicial tendrá valoración preponderante, según escala de puntaje que establezca el Consejo Superior de la Administración de Justicia.
+##### **Artículo 30**. En la calificación de antecedentes la experiencia judicial tendrá valoración preponderante, según escala de puntaje que establezca el Consejo Superior de la Administración de Justicia.
 
 Realizado el concurso y en igualdad de resultados, se designará al inscrito en la carrera; en su defecto, a quien encuentre en el servicio.
 
