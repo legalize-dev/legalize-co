@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2004-04-27"
+last_updated: "2004-07-13"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1843,6 +1843,44 @@ No podrán ser designados funcionarios de la correspondiente entidad territorial
 Los departamentos ejercen funciones administrativas, de coordinación, de complementariedad de la acción municipal, de intermediación entre la Nación y los Municipios y de prestación de los servicios que determinen la Constitución y las leyes.
 
 La ley reglamentará lo relacionado con el ejercicio de las atribuciones que la Constitución les otorga.
+
+##### **Artículo 299.Inexequible .** En cada Departamento habrá una Corporación administrativa de elección popular que se denominará Asamblea Departamental, la cual estará integrada por no menos de once miembros ni más de treinta y uno. Dicha corporación gozará de autonomía administrativa y presupuesto propio.
+
+El régimen de inhabilidades e incompatibilidades de los diputados será fijado por la ley. No podrá ser menos estricto que el señalado para los congresistas en lo que corresponda. El período de los diputados será de cuatro años y tendrán la calidad de servidores públicos.
+
+Para ser elegido diputado se requiere ser ciudadano en ejercicio, no haber sido condenado a pena privativa de la libertad, con excepción de los delitos políticos o culposos y haber residido en la respectiva circunscripción electoral durante el año inmediatamente anterior a la fecha de la elección.
+
+Los miembros de la Asamblea Departamental tendrán derecho a una remuneración durante las sesiones correspondientes y estarán amparados por un régimen de prestaciones y seguridad social, en los términos que fije la Ley.
+
+**Artículo 299.**En cada departamento habrá una Corporación de elección popular que ejercerá el control político sobre los actos de los Gobernadores, Secretarios de despacho, Gerentes y Directores de Institutos Descentralizados y, que se denominará Asamblea Departamental, la cual estará integrada por siete (7) miembros para el caso de las Comisarías erigidas en departamentos por el artículo 309 de la Constitución Nacional y, en los demás departamentos por no menos de once (11) ni más de treinta y un (31) miembros. Dicha Corporación gozará de autonomía administrativa y presupuesto propio.
+
+El régimen de inhabilidades e incompatibilidades de los diputados será fijado por la ley. No podrá ser menos estricto que el señalado para los congresistas en lo que corresponda. El período de los diputados será de cuatro años y tendrán la calidad de servidores públicos.
+
+Para ser elegido diputado se requiere ser ciudadano en ejercicio, no haber sido condenado a pena privativa de la libertad, con excepción de los delitos políticos o culposos y haber residido en la respectiva circunscripción electoral durante el año inmediatamente anterior a la fecha de la elección.
+
+Los miembros de la Asamblea Departamental tendrán derecho a una remuneración durante las sesiones correspondientes y estarán amparados por un régimen de prestaciones y seguridad social, en los términos que fije la Ley.
+
+**Artículo 299.** En cada Departamento habrá una corporación administrativa de elección popular que se denominará Asamblea Departamental, la cual estará integrada por no menos de once miembros ni más de treinta y uno. Dicha corporación gozará de autonomía administrativa y presupuesto propio.
+
+El régimen de inhabilidades e incompatibilidades de los diputados será fijado por la ley. No podrá ser menos estricto que el señalado para los congresistas en lo que corresponda. El período de los diputados será de cuatro años y tendrán la calidad de servidores públicos.
+
+Para ser elegido diputado se requiere ser ciudadano en ejercicio, no haber sido condenado a pena privativa de la libertad, con excepción de los delitos políticos o culposos y haber residido en la respectiva circunscripción electoral durante el año inmediatamente anterior a la fecha de la elección.
+
+Los miembros de la Asamblea Departamental tendrán derecho a una remuneración durante las sesiones correspondientes y estarán amparados por un régimen de prestaciones y seguridad social, en los términos que fije la Ley.
+
+**Artículo 299.** En cada Departamento habrá una corporación administrativa de elección popular que se denominará Asamblea Departamental, la cual estará integrada por no menos de once miembros ni más de treinta y uno. Dicha corporación gozará de autonomía administrativa y presupuesto propio.
+
+El régimen de inhabilidades e incompatibilidades de los diputados será fijado por la Ley. No podrá ser menos estricto que el señalado para los congresistas en lo que corresponda. El período de los diputados será de tres (3) años, y tendrán la calidad de servidores públicos.
+
+Para ser elegido diputado se requiere ser ciudadano en ejercicio, no haber sido condenado a pena privativa de la libertad, con excepción de los delitos políticos o culposos y haber residido en la respectiva circunscripción electoral durante el año inmediatamente anterior a la fecha de la elección.
+
+Los miembros de la Asamblea Departamental tendrán derecho a una remuneración durante las sesiones correspondientes y estarán amparados por un régimen de prestaciones y seguridad social, en los términos que fije la Ley.
+
+**Artículo 299.** En cada departamento habrá una Corporación administrativa de elección popular que se denominará Asamblea Departamental, la cual estará integrada por no menos de once miembros ni más de treinta y uno.
+
+El Consejo Nacional Electoral podrá formar dentro de los límites de cada departamento, con base en su población, círculos para la elección de diputados, previo concepto de la Comisión de Ordenamiento Territorial. El régimen de inhabilidades e incompatibilidades de los diputados será fijado por la ley. No podrá ser menos estricto que el señalado para los congresistas en lo que corresponda. Los diputados no tendrán la calidad de funcionarios públicos. El período de los diputados será de tres años. Con las limitaciones que establezca la ley, tendrán derecho a honorarios por su asistencia a las sesiones correspondientes.
+
+Para ser elegido diputado se requiere ser ciudadano en ejercicio, tener más de veintiún años de edad, no haber sido condenado a pena privativa de la libertad, con excepción de los delitos políticos o culposos y haber residido en la respectiva circunscripción electoral durante el año inmediatamente anterior a la fecha de la elección.
 
 ##### **Artículo 300.** Corresponde a las Asambleas Departamentales, por medio de ordenanzas:
 
