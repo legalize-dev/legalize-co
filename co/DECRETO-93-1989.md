@@ -4,7 +4,7 @@ identifier: "DECRETO-93-1989"
 country: "co"
 rank: "decreto"
 publication_date: "1989-01-11"
-last_updated: "1989-01-11"
+last_updated: "1991-05-30"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1021131"
 department: "MINISTERIO DE DESARROLLO ECONOMICO"
@@ -29,7 +29,7 @@ El Presidente de la República de Colombia, en ejercicio de las facultades que l
 
 **Parágrafo.** De conformidad con lo establecido en los artículos 59 y 128 de la Ley 9ª de 1989, no se entienden incluidos dentro de la restricción consagrada en este artículo los créditos para el desarrollo de programas de construcción o subdivisión de vivienda que se estén ejecutando o se hayan ejecutado con financiación concedida o aprobada con anterioridad a la vigencia de la citada Ley y las subrogaciones aprobadas o que se aprueben a los adquirentes de nuevas unidades de vivienda o de las resultantes de la subdivisión con cuyo producto se cancelará a prorrata el crédito concedido a los constructores o enajenantes para la ejecución de tales programas.
 
-##### **Articulo 2º.** Dentro de los cinco (5) días siguientes a la aprobación de la póliza de que trata el artículo 64 de la Ley 9ª de 1989, la Superintendencia Bancaria informará tal circunstancia en un diario de amplia circulación nacional, con el objeto de que los notarios públicos exijan la protocolización de la copia de la póliza correspondiente.
+##### **Articulo 2º.** Declarado nulo.
 
 ##### **Articulo 3º.** Para los efectos del artículo 95 de la ley 9ª de 1989, se entiende por recursos del Banco Central Hipotecario, aquellos que no provienen de depósitos o inversión de terceros.
 
