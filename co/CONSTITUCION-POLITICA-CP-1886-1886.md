@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1936-08-04"
+last_updated: "1936-08-05"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -108,6 +108,14 @@ En ningún tiempo podrá aplicarse la pena capital fuera de los casos en este Ar
 
 ##### **Artículo 31°.** Derogado.
 
+##### **Artículo 32°.** Derogado.
+
+**Artículo 32°**. En tiempo de paz nadie podrá ser privado de su propiedad, en todo ni en parte, sino en los casos siguientes, con arreglo á leyes expresas: Por contribución general;
+
+Por motivos de utilidad pública definidos por el legislador, previa Indemnización, salvo el caso de la apertura y construcción de vías de comunicación, en el cual se supone que el beneficio que derivan los precios atravesados es equivalente al precio de la faja de terreno necesario para la vía; pero si se comprobare que vale más dicha faja, la diferencia será pagada.
+
+**Artículo 32.** En tiempo de paz nadie podrá ser privado de su propiedad en todo ni en parte, sino por pena, o apremio, o indemnización, o contribución general, con arreglo a las leyes. Por graves motivos de utilidad pública, definidos por el Legislador, podrá haber lugar a enajenación forzosa, mediante mandamiento judicial, y se indemnizará el valor de la propiedad, antes de verificar la expropiación.
+
 ##### **Artículo 33.** En caso de guerra y sólo para atender al restablecimiento del orden público, la necesidad de una expropiación podrá ser decretada por autoridades que no pertenezcan al orden judicial y no ser previa la indemnización.
 
 En el expresado caso la propiedad inmueble sólo podrá ser temporalmente ocupada, ya para atender a las necesidades de la guerra, ya para destinar a ella sus productos, como pena pecuniaria impuesta a sus dueños conforme a las leyes.
@@ -121,6 +129,10 @@ La Nación será siempre responsable por las expropiaciones que el Gobierno haga
 Ofrécese la misma garantía a los propietarios de obras publicadas en países de lengua española, siempre que la Nación respectiva consigne en su legislación el principio de reciprocidad y sin que haya necesidad de celebrar al efecto convenios internacionales.
 
 ##### **Artículo 36°.** Derogado.
+
+##### **Artículo 37°** modificado por Artículo 34° ACTO LEGISLATIVO NUMERO 1 DE 1936.
+
+**Artículo 37.** No habrá en Colombia bienes raíces que no sean de libre enajenación ni obligaciones irredimibles.
 
 ##### **Artículo 38°.** Derogado.
 
@@ -142,6 +154,14 @@ Las autoridades inspeccionarán las industrias y profesiones en lo relativo a la
 
 ##### **Artículo 46.** Toda parte del pueblo puede reunirse o congregarse pacíficamente. La autoridad podrá disolver toda reunión que degenere en asonada o tumulto, o que obstruya las vías públicas.
 
+##### **Artículo 47°** modificado por Artículo 34° ACTO LEGISLATIVO NUMERO 1 DE 1936.
+
+**Artículo 47.** Es permitido formar compañías o asociaciones públicas o privadas que no sean contrarias a la moralidad ni al orden legal.
+
+Son prohibidas las juntas políticas populares de carácter permanente.
+
+Las asociaciones religiosas deberán presentar a la autoridad civil; para que puedan quedar bajo la protección de las leyes, autorización expedida por la respectiva superioridad eclesiástica.
+
 ##### **Artículo 48.** Sólo el Gobierno puede introducir, fabricar y poseer armas y municiones de guerra.
 
 Nadie podrá dentro de poblado llevar armas consigo, sin permiso de la autoridad. Este permiso no podrá extenderse a los casos de concurrencia a reuniones políticas, a elecciones, o a sesiones de Asambleas o Corporaciones públicas, ya sea para actuar en ellas o para presenciarlas.
@@ -156,6 +176,10 @@ Nadie podrá dentro de poblado llevar armas consigo, sin permiso de la autoridad
 
 ## **Título IV. De las relaciones entre la Iglesia y el Estado**
 
+##### **Artículo 53°.** Derogado
+
+**Artículo 53.** La Iglesia Católica podrá libremente en Colombia administrar sus asuntos interiores y ejercer actos de autoridad espiritual y de jurisdicción eclesiástica, sin necesidad de autorización del Poder civil; y como persona jurídica, representada en cada Diócesis por el respectivo legítimo Prelado, podrá igualmente ejercer actos civiles, por derecho propio que la presente Constitución le reconoce.
+
 ##### **Artículo 54.** El ministerio sacerdotal es incompatible con el desempeño de cargos públicos, Podrán, sin embargo, los sacerdotes católicos ser empleados en la instrucción o beneficencia públicas.
 
 ##### **Artículo 55°**. Derogado.
@@ -165,6 +189,12 @@ Nadie podrá dentro de poblado llevar armas consigo, sin permiso de la autoridad
 ## **Título V. De los poderes nacionales y del servicio público**
 
 ##### **Artículo 57°**. Derogado.
+
+##### **Artículo 58°.** La potestad de hacer leyes reside en el Congreso.
+
+**Artículo 58.** La potestad de hacer leyes reside en el Congreso.
+
+El Congreso se compone del Senado y la Cámara de Representantes.
 
 ##### **Artículo 61.** Ninguna persona o Corporación podrá ejercer simultáneamente, en tiempo de paz, la autoridad política o civil y la judicial o la militar.
 
@@ -239,6 +269,10 @@ Si no lo aprobare, lo devolverá con objeciones a la Cámara en que tuvo origen.
 Si el Presidente, una vez transcurridos los indicados términos, según el caso, no hubiere devuelto el acto legislativo con objeciones, no podrá dejar de sancionarlo y promulgarlo. Pero si las Cámaras se pusieren en receso dentro de dichos términos, el Presidente tendrá el deber de publicar el proyecto sancionado u objetado, dentro de los diez días siguientes a aquél en que el Congreso haya cerrado sus sesiones.
 
 ##### **Artículo 87.** El proyecto de ley objetado en su conjunto por el Presidente, volverá en las Cámaras a tercer debate. El que fuere objetado sólo en parte, será reconsiderado en segundo debate con el único objeto de tomar en cuenta las observaciones del Gobierno.
+
+**Modificado por el Artículo 34 del ACTO LEGISLATIVO 1 DE 1936.**
+
+**Artículo 88.** El Presidente de la República sancionará, sin poder presentar nuevas objeciones, todo proyecto que, reconsiderado, fuere adoptado por dos tercios de los votos en una y otra Cámara.
 
 ##### **Artículo 89.** Si el Gobierno no cumpliere el deber que se lo impone de sancionar las leyes en los términos y según las condiciones que este Título establece, las sancionará y promulgará el Presidente del Congreso.
 
