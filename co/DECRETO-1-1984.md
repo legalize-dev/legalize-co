@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "1985-11-20"
+last_updated: "1985-11-21"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -1277,6 +1277,36 @@ Con todo, cuando se desconozca el sitio de la residencia del titular de la carta
 
 **De los procesos electorales.**
 
+##### **Artículo 223.** CAUSALES DE NULIDAD.
+
+Las actas de escrutinios de los jurados de votación y de toda corporación electoral son nulas en los siguientes casos:
+
+- 1. Cuando se haya ejercido violencia contra los escrutadores o destruido o mezclado con otras las papeletas de votación, o éstas se hayan destruido por causa de violencia.
+
+- 2. Cuando aparezca que el registro es falso o apócrifo, o falsos o apócrifos los elementos que hayan servido para su formación.
+
+- 3. Cuando aparezca que las actas han sufrido alteraciones sustanciales en lo escrito, después de firmadas por los miembros de la corporación que las expiden.
+
+- 4. Cuando los votos emitidos en la respectiva elección se computen con violación del sistema electoral adoptado en la Constitución Política y leyes de la República.
+
+- 5. Cuando se computen votos a favor de candidatos que no reúnan las calidades constitucionales o legales para ser electos.
+
+- 6. Cuando ocurra cualquiera de los eventos previstos en las causales de reclamación de que trata el artículo 42 de esta Ley.
+
+**Artículo 223. Causales de nulidad de las actas de escrutinio de los jurados de votación**. Serán nulas las actas de escrutinio de los jurados de votación en los siguientes casos:
+
+- 1. Cuando funcionen mesas de votación en lugares o sitios no autorizados conforme a la ley.
+
+- 2. Cuando la elección se verifique en días distintos de los señalados por la ley, o de los señalados por la autoridad con facultad legal para este fin.
+
+- 3. Cuando los cuatro ejemplares de las actas de escrutinio de los jurados de votación estén firmados por menos de tres de estos.
+
+- 4. Cuando se haya ejercicio violencia contra los escrutadores o destruido o mezclado con otras las papeletas de votación o éstas se hayan destruido por causa de violencia.
+
+- 5. Cuando se hayan destruido o perdido los votos emitidos en las urnas y no existiere acta de escrutinio en la que conste el resultado de las votaciones, y
+
+- 6. Cuando han sufragado en un jurado de votación mayor número de ciudadanos de los autorizados por la ley.
+
 ##### **Artículo 224. Derogado.**
 
 ##### **Artículo 225. Derogado.**
@@ -1312,6 +1342,18 @@ Si se trata de nombramiento, se ordenará la notificación al nombrado, como dem
 - 3. La prevención de que durante este término podrá contestarse la demanda y solicitarse pruebas.
 
 Si por virtud de la declaración de nulidad hubiere de practicarse nuevo escrutinio se entenderán demandados todos los ciudadanos declarados elegidos por el acto cuya nulidad se pretende. En este caso se les notificará mediante edicto que durará fijado diez días en la secretaría y se publicará por una sola vez en dos periódicos de amplia circulación en la respectiva circunscripción electoral. Si el demandante no comprueba la publicación en la prensa dentro de los treinta (30) días siguientes a la notificación al ministerio público del auto que la ordena, se declarará terminado el proceso por abandono y se ordenará archivar el expediente.
+
+##### **Artículo 234**. DECRETO DE PRUEBAS.
+
+Las pruebas que se soliciten por las partes o por el Ministerio Público se ordenará practicarlas junto con las que de oficio decrete el ponente por medio de auto que se proferirá al día siguiente de la desfijación en lista. Sin embargo el ponente conservará la facultad para decretar pruebas de oficio hasta antes de ordenar el traslado para alegar. Para la práctica de las pruebas se concederá un término de veinte (20) días que se contarán desde el siguiente a la expedición del auto que ordene practicarlas. Podrán concederse veinte (20) días más cuando hubiere de practicarse pruebas fuera del lugar de la residencia del tribunal. Este auto se notificará por estado y quedará ejecutoriado una vez notificado. Contra él no procede ningún recurso. Si se denegare alguna de las pruebas solicitadas, podrá ocurrirse en súplica contra el auto respectivo dentro del día siguiente a su notificación, y se resolverá de plano. El Consejo de Estado no podrá comisionar para la práctica de las pruebas en los procesos que se refieren a corporaciones de elección popular cuando ellas deban practicarse en el lugar de su sede; pero el Consejero Ponente podrá en todos los casos comisionar para su práctica a su Magistrado Auxiliar. Los tribunales tampoco podrán, dentro de su jurisdicción, comisionar para la práctica de pruebas.
+
+**Artículo 234.Decreto de pruebas.** Las pruebas que se soliciten por las partes o por el ministerio público se ordenará practicarlas junto con las que de oficio decrete el ponente por medio de auto que se preferirá al día siguiente de la desfijación en las lista.
+
+Para la práctica de las pruebas se concederá un término de veinte (20) días que se contarán desde el siguiente a la expedición del auto que ordene practicarlas. Podrán concederse veinte (20) días más cuando hubieren de practicarse pruebas fuera del lugar de la residencia del tribunal. Este auto se notificará por estado, quedará ejecutoriado una vez notificado y no tiene recurso.
+
+Si se denegare alguna de las pruebas solicitadas, podrá ocurrirse en súplica contra el auto respectivo dentro del día siguiente a su notificación, y se resolverá de plano.
+
+El Consejo de Estado no podrá comisionar para la práctica de las pruebas en los procesos que se refieren a corporaciones de elección popular cuando ellas deban practicarse en el lugar de su sede. Tampoco podrán hacerlo dentro de su jurisdicción, en estos mismos procesos, los tribunales administrativos.
 
 ##### **Artículo 236.** TÉRMINOS PARA ALEGAR. Practicadas las pruebas decretadas o vencido el término probatorio, se ordena correr traslado a las partes por el término común de cinco (5) días, para que formulen sus alegatos por escrito. Si no se pidieron pruebas en la demanda o en el término de fijación en lista se ordenará inmediatamente el traslado previsto en este artículo. Vencido el traslado a las partes se ordenará la entrega del expediente al Agente del Ministerio Público, por diez (10) días para que emita concepto de fondo.
 
