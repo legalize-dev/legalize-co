@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1946-12-23"
+last_updated: "1954-08-25"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -101,6 +101,22 @@ Son ciudadanos los colombianos mayores de veintiún años.
 La ciudadanía se pierde de hecho cuando se ha perdido la nacionalidad. También se pierde o se suspende, en virtud de decisión judicial, en los casos que determinen las leyes.
 
 Los que hayan perdido la ciudadanía podrán solicitar rehabilitación.
+
+##### **Artículo 14°.** Son ciudadanos los colombianos mayores de veintiún años. La ciudadanía se pierde de hecho cuando se ha perdido la nacionalidad. También se pierde o se suspende, en virtud de decisión judicial, en los casos que determinen las leyes. Los que hayan perdido la ciudadanía podrán solicitar rehabilitación.
+
+**ARTÍCULO 14°.**
+
+La calidad de ciudadano en ejercicio es condición previa indispensable para elegir y ser elegido y para desempeñar empleos públicos que lleven anexa autoridad o jurisdicción. Sin embargo, la función del sufragio y la capacidad para ser elegido popularmente, se reservan a los varones.
+
+**Artículo 14°.** Derogado.
+
+**Artículo 14.** Las sociedades o corporaciones que sean en Colombia reconocidas como personas jurídicas, no tendrán otros derechos que los correspondientes a personas colombianas.
+
+##### **Artículo 15°**. La calidad de ciudadano en ejercicio es condición previa e indispensable para elegir y ser elegido, respecto de cargos de representación política, y para desempeñar empleos públicos que lleven anexa autoridad o jurisdicción
+
+**Artículo 15°**. Derogado.
+
+**Artículo 15.** Son ciudadanos los colombianos varones mayores de veintiún años que ejerzan profesión, arte u oficio, o tengan ocupación lícita u otro medio legítimo y conocido de subsistencia.
 
 ##### **Artículo 16°.** Derogado.
 
