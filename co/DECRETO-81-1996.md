@@ -1,0 +1,353 @@
+---
+title: "por el cual se promulga el \"Acuerdo Sobre C.A.B. Internacional (Commonwealth Agricultural Bureaux)\" hecho en Londres el 8 de julio de 1986"
+identifier: "DECRETO-81-1996"
+country: "co"
+rank: "decreto"
+publication_date: "1996-01-17"
+last_updated: "1996-01-17"
+status: "in_force"
+source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1018058"
+department: "MINISTERIO DE RELACIONES EXTERIORES"
+document_status_raw: "Vigente"
+gazette_reference: "DIARIO OFICIAL. AÑO CXXXI. N. 42690. 17, ENERO, 1996. PÁG. 11"
+gazette_number: "42690"
+gazette_page: "11"
+gazette_pdf_page: "11"
+subtype: "DECRETO ORDINARIO"
+sector: "Relaciones Exteriores"
+entry_into_force: "1996-01-17"
+---
+# por el cual se promulga el "Acuerdo Sobre C.A.B. Internacional (Commonwealth Agricultural Bureaux)" hecho en Londres el 8 de julio de 1986
+
+El Presidente de la República de Colombia, en uso de las facultades que le otorga el artículo 189 ordinal 2o. de la Constitución Política de Colombia y en cumplimiento de la Ley 7a. de 1944, y
+
+**CONSIDERANDO:**
+
+Que la Ley 7a. del 30 de noviembre de 1944 en su artículo primero dispone que los tratados, convenios, convenciones, acuerdos, arreglos u otros actos internacionales aprobados por el Congreso, no se considerarán vigentes como leyes internas mientras no hayan sido perfeccionados por el Gobierno en su carácter de tales, mediante el canje de ratificaciones o el depósito de los instrumentos de ratificación, u otra formalidad equivalente;
+
+Que la misma ley en su artículo segundo ordena la promulgación de los tratados y convenios internacionales una vez sea perfeccionado el vínculo internacional que ligue a Colombia;
+
+Que el Acuerdo sobre C.A.B. Internacional (Commonwealth Agricultural Bureaux), hecho en Londres el 8 de julio de 1986, se aprobó mediante Ley 83 del 3 de noviembre de 1993 y la Corte Constitucional en Sentencia C-333/94 del 21 de julio de 1994 lo declaró exequible;
+
+Que el 9 de marzo 1995 se depositó el instrumento de adhesión, entrado en vigor para Colombia en esa fecha.
+
+**DECRETA:**
+
+##### **Artículo Primero:** Promúlgase el "Acuerdo sobre C.A.B. Internacional (Commonwealth Agricultural Bureaux), hecho en Londres el 8 de julio de 1986.
+
+(Para ser transcrito en este lugar se adjunta fotocopia del texto del Acuerdo sobre C.A.B. International (Commonwealth Agricultural Bureaux), debidamente autenticada por el Jefe de la Oficina Jurídica del Ministerio de Relaciones Exteriores).
+
+Acuerdo sobre C.A.B. Internacional.
+
+De conformidad con lo previsto en el Artículo XVII, parágrafo 3, el Acuerdo sobre C.A.B. Internacional entrado en vigencia el 4 de septiembre de 1987. El Acuerdo fue registrado en las Naciones Unidas como un tratado Internacional el 11 de enero de 1988.
+
+Acuerdo sobre C.A.B. Internacional
+
+Los Gobiernos partes de este Acuerdo
+
+Deseosos de promover el avance de la agricultura y de ciencias afines por medio del suministro de información y servicios científicos relativos sobre una base mundial; y
+
+Deseosos de reconstituir la Organización conocida como Commonwealth Agricultural Bureaux, establecida inicialmente en 1928 y reconstituida en 1981;
+
+Hemos acordado lo siguiente:
+
+**ARTICULO I**
+
+**Establecimiento**
+
+El Commonwealth Agricultural Bureaux está actualmente reconstituida bajo el nombre C.A.B. International (en adelante se llamará como la Organización).
+
+**ARTICULO II**
+
+**Objetivos y Funciones**
+
+- 1. El objetivo de la Organización será suministrar información y servicios científicos relativos sobre una base mundial.
+
+- 2. Sin perjuicio de la generalidad del parágrafo 1 de este Artículo, la Organización tendrá las siguientes funciones:
+
+- a) Recolectar y cotejar información y difundir a través de los periódicos y otros medios de comunicación;
+
+- b) Suministrar identificación servicio de control taxonómico y biológico;
+
+- c) Facilitar el intercambio de ideas e información entre los investigadores en agricultura y disciplina afines;
+
+- d) Emprender actividades de capacitación;
+
+- e) Cooperar con otras Organizaciones Internacionales así como con otras Entidades Internacionales y Nacionales tanto públicas como privadas en el suministro de sus servicios; y
+
+- f) Emprender otras actividades y proporcionar otros servicios que puedan hacer avanzar sus objetivos.
+
+**ARTICULO III**
+
+**Miembros**
+
+Los miembros de la Organización estarán conformados por:
+
+- a) Los gobiernos señalados en la lista que se anexa al presente que hayan firmado y ratificado o aceptado este Acuerdo, o los gobiernos respecto de los cuales una notificación haya sido depositada, según lo previsto en el Artículo XVII de este Acuerdo; y
+
+- b) Otros gobiernos, los cuales (i) hayan sido admitidos como miembros bajo los términos y condiciones que la Organización pueda determinar mediante el voto afirmativo de por lo menos los dos tercios de los gobiernos miembros tomados en una Conferencia de Revisión, en una reunión del Consejo Ejecutivo o mediante voto enviado por correo por los gobiernos-miembros; y (ii) hayan accedido a este Acuerdo según lo previsto en el Artículo XVII de este Acuerdo.
+
+**ARTICULO IV**
+
+**Condición Jurídica, Privilegios e Inmunidades**
+
+- 1. La Organización tendrá Personería Jurídica y, en particular, tendrá capacidad para:
+
+- a) Contratar;
+
+- b) Adquirir y disponer de propiedades muebles e inmuebles; y
+
+- c) Entablar procedimientos legales.
+
+- 2. La Organización gozará en el territorio de cada gobierno miembro de los privilegios e inmunidades que sean necesarios para permitir a la Organización cumplir sus objetivos y llevar a cabo las funciones a ella confiadas. Los privilegios e inmunidades específicos indicados en este parágrafo serán descritos en acuerdos separados los cuales serán celebrados entre la Organización y los gobiernos miembros cuando el panorama de actividades de la Organización en el territorio de tales estados miembros hagan acuerdos apropiados.
+
+**ARTICULO V**
+
+**Medidas de Facilitación**
+
+Cada gobierno miembro tomará las medidas convenientes para facilitar el movimiento de muestras, equipos, materiales, publicaciones y otros asuntos de la Organización en cumplimiento de sus funciones.
+
+**ARTICULO VI**
+
+**Estructura**
+
+La organización comprenderá:
+
+- a) La Conferencia de Revisión;
+
+- b) El Consejo Ejecutivo; y
+
+- c) La Junta Directiva, incluyendo los institutos y oficinas
+
+**ARTICULO VII**
+
+**Conferencia de Revisión**
+
+- 1. La Conferencia de Revisión será responsable de la revisión del trabajo y determinación de las políticas generales de la Organización;
+
+- 2. La Conferencia de Revisión estará compuesta por representantes de cada gobierno miembro;
+
+- 3. La Conferencia de Revisión será convocada:
+
+- a) De conformidad con una resolución de la precedente Conferencia de Revisión anterior;
+
+- b) Cada cinco años, mediante aviso de 6 meses de anticipación a los miembros de parte del Director General.
+
+- c) Cuando dos tercios de los miembros del Consejo Ejecutivo soliciten una reunión de la Conferencia de Revisión por convocación del Director General a los gobiernos miembros con una anticipación de tres meses, indicando los asuntos a tratar.
+
+- 4. La Conferencia de Revisión establecerá sus propias reglas de procedimientos.
+
+**ARTICULO VIII**
+
+**Consejo Ejecutivo**
+
+- 1. El Consejo Ejecutivo será responsable de la dirección y del funcionamiento general de la Organización. Dentro de las reuniones de la Conferencia de Revisión, el Consejo Ejecutivo conducirá la implementación de las políticas y decisiones de la Conferencia de Revisión.
+
+- 2. Sin perjuicio de las generalidades del parágrafo 1 de este Artículo, el Consejo Ejecutivo tendrá las siguientes funciones:
+
+- a) Nombrar el Director General de la Organización
+
+- b) Nombrar por recomendación del Director General, los Directores dentro de la Organización incluyendo los de los institutos y oficinas;
+
+- c) Nombrar, mediante recomendación del Director General, los auditores externos;
+
+- d) Revisar y aprobar las cuentas y presupuesto anuales de la Organización, preparadas por el Director General;
+
+- e) Autorizar préstamos que haga la organización y garantizar la seguridad de esos préstamos contra la propiedad de la Organización; y
+
+- f) Autorizar las conclusiones de los acuerdos y arreglos con otras organizaciones internacionales.
+
+- 3. Salvo lo previsto en el Artículo III de este Acuerdo, el Consejo Ejecutivo podrá delegar cualquiera de sus funciones y responsabilidades a los Comités o al Director General. El Consejo Ejecutivo actuará a través del Director General quien será responsable por la implementación de las políticas y decisiones del Consejo Ejecutivo.
+
+- 4. El Consejo Ejecutivo estará conformado por un representante de cada uno de los gobiernos miembros. El Consejo Ejecutivo elegirá entre ellos un presidente quien permanecerá en su cargo por un año.
+
+- 5. El Consejo Ejecutivo sesionará por lo menos una vez al año y todas las otras que lo juzgare necesario. Cualquier miembro del Consejo Ejecutivo podrá pedir al Presidente que convoque una reunión la cual será convenida tan pronto como sea razonablemente posible. El Director General dará a los miembros del Consejo Ejecutivo adecuado aviso de las reuniones del Consejo Ejecutivo y de los temas que serán discutidos.
+
+- 6. El Consejo Ejecutivo establecerá sus propias reglas de procedimiento.
+
+**ARTICULO IX**
+
+**Director**
+
+- 1. El Director General será el jefe ejecutivo de la Organización y será el responsable de la conducción general de los negocios de la Organización de conformidad con las políticas y decisiones de la Conferencia de Revisión y del Consejo Ejecutivo.
+
+- 2. Sin perjuicio de las generalidades del parágrafo 1 de este Artículo, el Director General:
+
+- a) Será responsable por la administración y del nombramiento de todo el personal de al Organización sujeto a las disposiciones del Artículo VIII, parágrafo 2(b) de este Acuerdo.
+
+- b) Preparará el Informe anual de la Organización;
+
+- c) Preparará el presupuesto anual de la Organización, el cual será sometido al Consejo Ejecutivo para su aprobación;
+
+- d) Preparará las cuentas anuales de la Organización, las que después de auditaje las someterá al Consejo Ejecutivo para su aprobación;
+
+- e) Informará al Consejo Ejecutivo de vez en cuando sobre las actividades de la Organización; y
+
+- f) Representará la Organización en sus transacciones con terceras partes, y se celebrará tales acuerdos y arreglos en nombre de la Organización según lo autorice el Consejo Ejecutivo.
+
+**ARTICULO X**
+
+**Decisiones**
+
+- 1. La Conferencia de Revisión y el Consejo Ejecutivo harán todo el esfuerzo por llegar a las decisiones por la vía del consenso.
+
+- 2. En ausencia de consenso, las decisiones serán tomadas por simple mayoría de los gobiernos miembros presentes y votantes a menos que sea previsto de otra manera en este Convenio o en las reglas de procedimiento. Cuando una regla de procedimiento específica una mayoría calificada para una decisión, esta regla podrá ser enmendada sólo mediante un voto en representación de esa mayoría.
+
+- 3. Cada gobierno miembro tendrá un voto.
+
+**ARTICULOXI**
+
+**Agencias Nacionales de Implementación**
+
+Cada gobierno miembro designará mediante notificación al Director General, el Ministerio, departamento u organismo de ese gobierno miembro el cual será responsable por las transacciones con otras Organizaciones en cuestiones que surjan en virtud del presente Acuerdo.
+
+**ARTICULOXII**
+
+**Finanzas**
+
+- 1. Los gastos de la Organización serán sufragados con los fondos provenientes de:
+
+- a) las contribuciones de los gobiernos miembros;
+
+- b) la venta de publicaciones y servicios;
+
+- c) regalos y donaciones;
+
+- d) préstamos; y
+
+- e) ingresos provenientes de otras fuentes
+
+- 2. Através del voto afirmativo de por lo menos las dos terceras partes de los gobiernos que representen no menos del cincuenta por ciento de las contribuciones financieras usuales de los gobiernos miembros para los gastos de la Organización, la Conferencia de Revisión recomendará a los gobiernos miembros los niveles del porcentaje de sus contribuciones a los gastos de la Organización.
+
+- 3. Amenos que el Consejo Ejecutivo disponga otra cosa, un gobierno miembro que se encuentre atrazado en el pago de sus contribuciones en más de 18 meses no tendrá derecho a recibir los servicios de membresía hasta que sus contribuciones hayan sido pagadas.
+
+**ARTICULO XIII**
+
+**Retiro**
+
+- 1. Cualquier gobierno miembro podrá retirarse de la Organización en cualquier momento mediante aviso por escrito al Gobierno del Reino Unido de la Gran Bretaña e Irlanda del Norte (que en adelante se denominará el Depositario) el cual informará inmediatamente a los gobiernos miembros y al Director General sobre dicho aviso.
+
+- 2. El retiro de un gobierno miembro será efectivo doce meses después de la fecha en que el anuncio haya sido recibido por el Depositario o a la expiración del período que se haya especificado en la notificación.
+
+**ARTICULO XIV**
+
+**Disolución de la Organización**
+
+- 1. La Organización podrá terminar sus operaciones por Resolución de la Conferencia de Revisión aprobada por el voto de por lo menos las dos terceras partes de los gobiernos miembros que representen no menos del cincuenta por ciento de las contribuciones financieras de los gobiernos miembros a los gastos de la Organización.
+
+- 2. En el caso de disolución el Consejo Ejecutivo nombrará un liquidador... Los activos de la Organización y sus pasivos serán distribuidos entre, incluyendo cualquier pasivo de la Organización correspondiente a plano, de jubilación del personal, deberán ser asumidas por los gobiernos miembros en proporciones que reflejen el total de sus contribuciones financieras a los gastos y activos de la Organización.
+
+**ARTICULO XV**
+
+**Enmiendas**
+
+- 1. Cualquier gobierno miembro podrá proponer enmiendas a este Acuerdo para ser consideradas por la Conferencia de Revisión. Una enmienda podrá ser adoptada por resolución de la Conferencia de Revisión aprobada por un voto de por lo menos los dos tercios de los gobiernos miembros representando no menos del cincuenta por ciento de las contribuciones financieras de gobiernos miembros a los gastos de la Organización.
+
+2.2 El Depositario circulará entre los gobiernos miembros para su aceptación cada enmienda adoptada por la Conferencia de Revisión. Una enmienda entrará en vigencia para los gobiernos miembros que acepten la enmienda en la fecha en que los dos tercios de los gobiernos miembros depositen sus instrumentos de aceptación con el Depositario. El Depositario informará a todos los gobiernos miembros de la entrada en vigencia de una enmienda.
+
+**ARTICULO XVI**
+
+**Memorando sobre las Oficinas Agrícolas del Commonwealth**
+
+Sobre la entrada en vigencia de este Acuerdo, el Memorando sobre las Oficinas Agrícolas del Commonwealth que entró en vigencia el 1o. de abril de 1981cesará de tener efecto.
+
+**ARTICULO XVII**
+
+**Provisiones Finales**
+
+- 1. El original de este Acuerdo deberá estar en poder del Depositario en Londres y permanecerá abierto para ser firmado por los gobiernos señalados en la lista anexa al presente.
+
+- 2. Este Acuerdo estará sujeto a ratificación o aceptación por parte de los signatarios. Los Instrumentos de ratificación y aceptación deberán ser depositados ante el Depositario.
+
+- 3. Este Acuerdo entrará en vigencia la fecha en la cual al menos 12 de los gobiernos que aparecen en la lista adjunta al presente hayan depositado sus instrumentos de ratificación o aceptación ante el Depositario. Para que un gobierno señalado en la lista adjunta el cual firme y ratifique o acepte este Acuerdo posterior a la entrada en vigor, el presente Acuerdo entrarán en vigor en la fecha en la cual éste deposite sus instrumentos de ratificación o aceptación ante el Depositario.
+
+- 4. Este Acuerdo estará abierto para que acceda cualquier gobierno que haya sido admitido como miembro de acuerdo con las disposiciones del Artículo III, parágrafo
+
+- b) de este Acuerdo. Para cualquiera de tales gobiernos este Acuerdo entrará en vigor en la fecha en la cual éste deposite sus instrumentos de ingreso ante el Depositario.
+
+- 5. Al depositar sus instrumentos de ratificación, aceptación o ingreso o en fecha posterior, cualquier gobierno podrá declarar, mediante notificación ante el Depositario, que este Acuerdo también se aplicará a cualquier estado autónomo que esté en libre asociación con cualquier territorio por cuyas relaciones internacionales sea responsable y cuyos gobiernos hayan sido informados de que ese gobierno desea participar en el Acuerdo. Los gobiernos de esos estados autónomos o esos territorios con respecto de los cuales una notificación se hará a los miembros de la Organización serán miembros de ésta ya sea individual o colectivamente como se especifica en la notificación. Para gobiernos de cualquier estado autónomo o esos territorios respecto de los cuales una semejante notificación es hecha después de entrado en vigor este Acuerdo, el Acuerdo entrará en vigor en la fecha en que dicha notificación sea recibida por el Depositario.
+
+- 6. El Depositario informará a los gobiernos señalados en la lista adjunta y a cualquier otro gobierno que acceda a este Acuerdo de cualquier firma, ratificación, aceptación, aceptación-acceso y notificación y de la entrada en vigor de este Acuerdo.
+
+En fé de lo cual, los representantes abajo firmantes han sido debidamente autorizados por sus respectivos gobiernos, han firmado este Acuerdo.
+
+Dado en Londres el octavo día de julio de mil novecientos ochenta y seis.
+
+| Lista de Gobiernos: | Lista de Gobiernos: |
+| --- | --- |
+| Australia | Nueva Zelandia |
+| Bangladesh | Nigeria |
+| Botswana | Papua Nueva Guinea |
+| Brunei Darssalam | Sierra Leona |
+| Canada | Islas Salomon |
+| Chipre | Sri Lanka |
+| Fiji | Tanzania |
+| Ghana | Las Bahamas |
+| Guyana | Gambia |
+| India | Trinidad & Tobago |
+| Jamaica | Uganda |
+| Kenya | Reino Unido |
+| Malawi | Zambia |
+| Malaisia | Zimbawe |
+| Mauritania | Territorios |
+|  | dependientes del Reino Unido |
+
+| **Lista de los Gobiernos que han ratificado o accedido al Acuerdo hasta el 15 de Mayo de 1990** | **Lista de los Gobiernos que han ratificado o accedido al Acuerdo hasta el 15 de Mayo de 1990** | **Lista de los Gobiernos que han ratificado o accedido al Acuerdo hasta el 15 de Mayo de 1990** | **Lista de los Gobiernos que han ratificado o accedido al Acuerdo hasta el 15 de Mayo de 1990** |
+| --- | --- | --- | --- |
+|  | Fecha de la Firma | Fecha de deposito del instrumento de ratificación o aceptación | Fecha del deposito del instrumento de acceso |
+| Australia | 08 07 86 | 31 07 86 |  |
+| Bahamas | 10 05 89 | 18 05 89 |  |
+| Bangladesh | 12 03 87 | 18 05 87 |  |
+| Bostswana | 25 22 86 | 28 01 87 |  |
+| Brueni Darrussalam | 05 01 89 | - |  |
+| Canadá | - | - |  |
+| Chipre | 17 07 87 | 17 07 87 |  |
+| Fiji | 01 04 87 | 03 07 87 |  |
+| Gambia | - | - |  |
+| Ghana | 14 09 87 | - |  |
+| Guyana | 08 07 86 | 18 12 86 |  |
+| Hungría | - | - | 09 12 88 |
+| India | 22 04 88 | 22 07 88 |  |
+| Jamaica | 11 09 87 | 04 05 88 |  |
+| Kenya | 16 06 87 | 13 11 87 |  |
+| Malasia | 08 07 86 | 11 03 87 |  |
+| Malawi | 04 12 86 | 06 03 87 |  |
+| Mauritania | 08 08 86 | 07 01 88 |  |
+| Nueva Zelandia | 08 08 86 | 04 09 87 |  |
+| Nigeria |  | 24 07 86 |  |
+| Papua Nueva Guinea | 08 07 86 | - |  |
+| Sierra Leona | 08 07 86 | - |  |
+| Islas Salomón | 08 07 86 | 10 11 87 |  |
+| Sri Lanka | 21 10 86 | 27 02 87 |  |
+| Tanzania | 17 02 87 | - |  |
+| Trinidad & Tobago | 25 05 87 | 23 06 87 |  |
+| Uganda | - | - |  |
+| Reino Unido | 08 07 86 | 14 05 87 |  |
+| Zambia | 25 07 88 | 05 10 88 |  |
+| Zimbabwe | 08 07 86 | 27 11 87 |  |
+
+NB: Territorios dependientes: Este instrumento de ratificación del Gobierno del Reino Unido incluye Anguilla, Hong Kong y Monserrat. Por subsiguiente notificación del Acuerdo ha sido aplicado a Bermuda, Falkland Islands, Santa Helena, Islas Vírgenes Británicas e Islas Cayman.
+
+La Suscrita Jefe (E.) de la Oficina Jurídica del Ministerio de Relaciones Exteriores
+
+Hace Constar:
+
+Que la presente es reproducción fiel e íntegra del texto en traducción oficial del "Acuerdo Sobre C.A.B. Internacional", hecho en Londres el 8 de julio 1986, que reposa en los archivos de esta Oficina.
+
+Dada en Santafé de Bogotá, D.C., a los veintisiete (27) días del mes de septiembre de 1995.
+
+La Jefe Oficina Jurídica (E.),
+
+***Sonia Pereira Portilla.***
+
+##### **Artículo Segundo:** El presente Decreto rige a partir de la fecha de su publicación.
+
+**Publíquese, Cúmplase,**
+
+**Dado en Santafé de Bogotá, D.C., a 12 de enero de 1996**
+
+**ERNESTO SAMPER PIZANO**
+
+**Ministro de Relaciones Exteriores,**
+
+**Rodrigo Pardo García-Peña.**
