@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1986-01-08"
+last_updated: "1987-12-10"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -958,15 +958,11 @@ El Gobernador, como agente del Gobierno, dirigirá y coordinará, además, en el
 
 El treinta por ciento de esta asignación se distribuirá por partes iguales entre los Departamentos, Intendencias y Comisarías y el Distrito Especial de Bogotá, y el resto proporcionalmente a su población.
 
-##### **Artículo 183.** Los bienes y rentas de las entidades territoriales son de su propiedad exclusiva; gozan de las mismas garantías que la propiedad y rentas de los particulares y no podrán ser ocupados sino en los mismos términos en que lo sea la propiedad privada. El Gobierno Nacional no podrá conceder exenciones respecto de derechos o impuestos de tales entidades.
+##### **Artículo 183.** Los bienes y rentas de las entidades territoriales son de su propiedad exclusiva; gozan de las mismas garantías que la propiedad y renta de los particulares y no podrán ser ocupados sino en los mismos términos en que lo sea la propiedad privada.
 
-**Artículo 183.** Sustituido por el **ACTO LEGISLATIVO 1 DE 1909.**
+La Ley o el Gobierno Nacional, en ningún caso podrán conceder exenciones respecto de derechos o impuestos de tales entidades ni imponer a favor de la Nación o entidad distinta recargos sobre sus rentas o las asignadas a ellas.
 
-**Artículo 183.** sustituido por el **ACTO LEGISLATIVO 1 DE 1909.**
-
-**Artículo 183.** Habrá en cada Departamento una Corporación administrativa denominada Asamblea departamental, compuesta de los Diputados que correspondan a la población a razón de uno por cada doce mil habitantes.
-
-La ley podrá variar la anterior base numérica de Diputados.
+Cuando se ordena una participación o cesión total o parcial en favor de los Departamentos, las Intendencias, las Comisarías, los Municipios y el Distrito Especial de Bogotá, en ingresos nacionales, el Congreso o el Gobierno mediante decretos con fuerza legislativa no podrán revocarla, disminuirla, en forma alguna ni cambiarle su destinación.
 
 ##### **Artículo 184.** Habrá en cada Departamento una corporación administrativa denominada Asamblea Departamental, que se reunirá ordinariamente cada año en la capital del Departamento, por un término de dos meses.
 
