@@ -4,7 +4,7 @@ identifier: "DECRETO-47-2000"
 country: "co"
 rank: "decreto"
 publication_date: "2000-02-07"
-last_updated: "2000-05-03"
+last_updated: "2002-08-01"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1010325"
 department: "MINISTERIO DE SALUD"
@@ -60,30 +60,6 @@ Parágrafo. Para todos los efectos contemplados en el presente decreto, cuando s
 - 9. Los pagos frente a los afiliados adicionales se deberán realizar en forma anticipada por períodos mensuales.
 
 - 10. La inclusión en el núcleo familiar de otros miembros adicionales dependientes, sólo procederá si el afiliado cotizante garantiza la afiliación de estos por un período mínimo de dos años. Para tal efecto deberá convenir con la EPS el mecanismo de garantía correspondiente, que podrá consistir en la suscripción de un título valor o el compromiso de permanencia. La pérdida de la condición de trabajador cotizante deriva en la desafiliación del afiliado adicional .
-
-Lo dispuesto en esta norma se aplicará a partir del 1º de marzo del año 2000, siendo deber de todos los afiliados adicionales vinculados al sistema ajustarse plenamente a sus previsiones a partir de la fecha mencionada.
-
-**Artículo 2º.** Régimen para los cotizantes dependientes. Se establecen las siguientes reglas para los afiliados adicionales o cotizantes dependientes definidos en el artículo 40 del Decreto 806 de 1998:
-
-- 1. Sólo podrán incluir nuevos afiliados adicionales aquellos cotizantes que hubieran cancelado en forma oportuna y completa sus obligaciones al sistema durante el trimestre inmediatamente anterior a la inclusión del afiliado adicional.
-
-- 2. Cuando el afiliado cotizante incluya a un afiliado adicional e incurra en mora superior a treinta (30) días, el afiliado adicional será desafiliado. Para este efecto, se entiende que la representación del afiliado adicional está en cabeza del afiliado cotizante. Por ser la afiliación adicional inseparable de la afiliación del cotizante principal, el pago que se realice frente al afiliado adicional no tendrá valor si el afiliado cotizante no se encuentra al día con sus obligaciones.
-
-- 3. Los afiliados cotizantes a quienes se les hubiera cancelado su afiliación por falta de pago, sólo podrán afiliar personas adicionales, una vez transcurridos doce meses de pagos continuos contados a partir de la fecha de su reingreso al sistema.
-
-- 4. Los afiliados adicionales estarán sujetos a períodos mínimos de cotización, los cuales se contarán a partir de la fecha de su inclusión. Cuando se afilien adicionales con tratamientos en curso, sujetos a períodos mínimos de cotización es deber del afiliado cotizante cancelar en forma directa a la Entidad Promotora de Salud los recursos necesarios para costear íntegramente este tratamiento, hasta el momento en que cumpla con las semanas requeridas.
-
-- 5. Por los afiliados, adicionales se deberá cancelar la Unidad de Pago por Capitación que corresponda a su grupo etáreo, el valor que el Consejo Nacional de Seguridad Nacional en Salud defina para promoción y prevención, más un 10% destinado este último porcentaje a la subcuenta de solidaridad.
-
-- 6. No se podrán incluir como afiliados adicionales a personas que se encuentren afiliados al régimen subsidiado o a un régimen de excepción salvo que demuestren su desafiliación a dicho sistema o personas que tengan capacidad de pago. El cotizante que incurra en esta conducta deberá reembolsar todos los gastos en que hubiera incurrido la Entidad Promotora de Salud frente al afiliado adicional.
-
-- 7. El afiliado cotizante que incurra en mora frente a los pagos continuos de su afiliado adicional, no podrá afiliar a nuevas personas adicionales durante los dos (2) años siguientes a la verificación de la conducta, manteniendo lo señalado en los numerales 1 y 3 del presente artículo.
-
-- 8. No se podrán incluir como afiliados adicionales, por el mismo cotizante o su cónyuge o compañero permanente, aquellas personas que hubieran afiliado en calidad de adicionales durante los tres (3) años anteriores y respecto de las cuales no hubiera mantenido pagos continuos. El incumplimiento de esta disposición dará derecho a la cancelación inmediata de la afiliación.
-
-- 9. Los pagos frente a los afiliados adicionales se deberán realizar en forma anticipada por períodos mensuales.
-
-- 10. Los afiliados que pretendan afiliar personas adicionales deberán suscribir un título valor mediante el cual se obliguen a cancelar en forma ininterrumpida la suma correspondiente a la afiliación respectiva, hasta por un período mínimo de dos años.
 
 Lo dispuesto en esta norma se aplicará a partir del 1º de marzo del año 2000, siendo deber de todos los afiliados adicionales vinculados al sistema ajustarse plenamente a sus previsiones a partir de la fecha mencionada.
 
