@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2001-12-30"
+last_updated: "2001-12-31"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1987,6 +1987,10 @@ Las comisiones de asuntos económicos de las dos cámaras deliberarán en forma 
 ##### **Artículo 347.** El proyecto de ley de apropiaciones deberá contener la totalidad de los gastos que el Estado pretenda realizar durante la vigencia fiscal respectiva. Si los ingresos legalmente autorizados no fueren suficientes para atender los gastos proyectados, el Gobierno propondrá, por separado, ante las mismas comisiones que estudian el proyecto de ley del presupuesto, la creación de nuevas rentas o la modificación de las existentes para financiar el monto de gastos contemplados.
 
 El presupuesto podrá aprobarse sin que se hubiere perfeccionado el proyecto de ley referente a los recursos adicionales, cuyo trámite podrá continuar su curso en el período legislativo siguiente.
+
+**Parágrafo transitorio.** Durante los años 2002, 2003, 2004, 2005, 2006, 2007 y 2008 el monto total de las apropiaciones autorizadas por la ley anual de presupuesto para gastos generales, diferentes de los destinados al pago de pensiones, salud, gastos de defensa, servicios personales, al Sistema General de Participaciones y a otras transferencias que señale la ley, no podrá incrementarse de un año a otro, en un porcentaje superior al de la tasa de inflación causada para cada uno de ellos, más el uno punto cinco por ciento (1.5%).
+
+La restricción al monto de las apropiaciones, no se aplicará a las necesarias para atender gastos decretados con las facultades de los Estados de Excepción.
 
 ##### **Artículo 348.** Si el Congreso no expidiere el presupuesto, regirá el presentado por el Gobierno dentro de los términos del artículo precedente: si el presupuesto no hubiere sido presentado dentro de dicho plazo, regirá el del año anterior, pero el Gobierno podrá reducir gastos, y, en consecuencia, suprimir o refundir empleos, cuando así lo aconsejen los cálculos de rentas del nuevo ejercicio.
 
