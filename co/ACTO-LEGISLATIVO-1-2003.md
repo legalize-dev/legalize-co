@@ -4,7 +4,7 @@ identifier: "ACTO-LEGISLATIVO-1-2003"
 country: "co"
 rank: "acto_legislativo"
 publication_date: "2003-07-03"
-last_updated: "2003-07-03"
+last_updated: "2005-04-03"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1825380"
 department: "CONGRESO DE LA REPUBLICA"
@@ -110,11 +110,7 @@ Ningún proyecto de ley será sometido a votación en sesión diferente a aquell
 
 Previa publicación por lo menos con un día de anticipación, el texto escogido se someterá a debate y aprobación de las respectivas plenarias. Si después de la repetición del segundo debate persiste la diferencia, se considera negado el proyecto.
 
-##### **Artículo 10.** El numeral 8 de artículo 179 de la Constitución Política quedará así:
-
-- 8. Nadie podrá ser elegido para más de una corporación o cargo público, ni para una corporación y un cargo, si los respectivos períodos coinciden en el tiempo, así fuere parcialmente. La renuncia a alguno de ellos no elimina la inhabilidad.
-
-**Parágrafo transitorio.** Lo dispuesto en el numeral 8 del presente artículo no se aplicará a quienes hubiesen renunciado con anterioridad a la vigencia del presente Acto Legislativo.
+##### **Artículo 10.** DECLARADO INEXEQUIBLE
 
 ##### **Artículo 11.** El artículo 258 de la Constitución Política quedará así:
 
