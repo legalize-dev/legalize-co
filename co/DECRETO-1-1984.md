@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "1993-08-26"
+last_updated: "1993-10-27"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -1957,39 +1957,31 @@ Los términos para fallar se reducirán a la mitad de los señalados en el artí
 
 **De la revisión en el Consejo de Estado.**
 
-##### **Artículo 253.De la revisión de contratos por el Consejo de Estado.** Los contratos de la nación, excluidos los de empréstito interno y externo, cuya cuantía sea o exceda de cincuenta millones de pesos ($ 50.000.000.00) o su equivalente en moneda extranjera deberán someterse a la revisión de legalidad por el Consejo de Estado. Los celebrados por otras entidades públicas también se someterán a esta revisión cuando así lo disponga expresamente la ley.
+##### **Artículo 253. Derogado.**
 
-##### **Artículo 254. Contratos sobre exploraciones o explotaciones de minerales o metales**. Los contratos sobre exploraciones o explotaciones de minerales energéticos, así como los referentes a concesión de minas de aluvión de metales preciosos ubicados en el lecho y en las riberas de los ríos navegables, deberán someterse a la formalidad de la revisión por el Consejo de Estado cuando sean o excedan de la cuantía indicada en el artículo anterior.
+##### **Artículo 254. Derogado.**
 
-##### **Artículo 255. Prohibición de ejecutar contratos sin la revisión del Consejo de Estado.** Todos los contratos que celebren la nación, los departamentos, intendencias, comisarías, el distrito especial de Bogotá, y sus entidades descentralizadas, que requieran revisión de acuerdo con las normas vigentes, no podrán ejecutarse sino después de haber sido revisados por la jurisdicción en lo contencioso administrativo y encontrados conformes con la ley. Las contralorías velarán por el cumplimiento de esta disposición.
+##### **Artículo 255. Derogado**
 
-##### **Artículo 256. Ambito de la revisión.** En ejercito de la facultad de revisión de los contratos, el Consejo de Estado examinarán la autorización legal en virtud de la cual el contrato se celebre; la competencia de los funcionarios y la capacidad de las demás partes que en él intervienen; el régimen legal de las estipulaciones acordadas y las prescripciones de orden fiscal.
+##### **Artículo 256. Derogado.**
 
-##### **Artículo 257. Trámite de la revisión.** Dentro de los diez (10) días siguientes al recibo del contrato y sus anexos, el ponente podrá solicitar, por una sola vez, el envío de los documentos o piezas que hagan falta, sin necesidad de devolver el contrato.
+##### **Artículo 257. Derogado.**
 
-Allegados los documentos a que se refiere el inciso anterior, el tribunal tendrá treinta (30) días improrrogables para decidir. El término empezará a contarse a partir del día siguiente al del recibo del contrato o de los documentos pedidos.
+##### **Artículo 258. Derogado.**
 
-El Incumplimiento de los plazos anteriores constituirá causal de mala conducta.
+##### **Artículo 259. Derogado.**
 
-##### **Artículo 258. Declaración sobre la adecuación del contrato a la ley**. Si del examen que se haga no resultare ninguna observación, el Consejo declarará ajustado a la ley el contrato; pero si encontrare algún defecto, se abstendrá de hacerlo y formulará las observaciones correspondientes.
+##### **Artículo 260. Derogado.**
 
-La decisión que en uno u otro caso adopte la corporación deberá ser motivada.
+##### **Artículo 261. Derogado.**
 
-##### **Artículo 259. Reforma del contrato.** Si se reformare el contrato de acuerdo con las observaciones formuladas por el Consejo, deberá enviarse nuevamente a esta corporación para su revisión.
-
-Declarado ajustado a la ley o sin esta declaración por defecto de requisitos, el contrato deberá enviarse junto con sus antecedentes a la entidad de origen.
-
-##### **Artículo 260. Solicitud de documentos faltantes.** También podrán el ponente o el Consejo solicitar los documentos o piezas que faltaren, o pedir los informes o datos necesarios para el estudio del asunto.
-
-##### **Artículo 261. Reposición**. La entidad pública contratante o el contratista podrán solicitar la reposición de la providencia que declare que un contrato no se ajusta a la ley, dentro del término de diez (10) días, y acompañar las piezas o documentos que puedan dar origen a una decisión distinta.
-
-##### **Artículo 262. Efectos del dictamen**. El dictamen del Consejo que declare autorizado al gobierno para celebrar un contrato no será susceptible de controversia jurisdiccional. Por consiguiente, no podrá alegarse falta de autorización, si el Consejo ha dictaminado que existe, en juicio en que se impugne la validez o efectos del contrato, o para abstenerse de cumplir alguna de sus estipulaciones.
+##### **Artículo 262. Derogado.**
 
 ### **CAPITULO II**
 
 **De la revisión en los Tribunales Administrativos.**
 
-##### **Artículo 263. Contratos sometidos a revisión de los Tribunales Administrativos**. Los contratos, excluidos los de empréstito externo e internos, que celebren los departamentos, los distritos especiales, las intendencias, comisarías, municipios y sus entidades descentralizadas, serán revisados por los Tribunales Administrativos cuando la cuantía exceda del cinco por ciento (5%) del presupuesto de la respectiva entidad, y en todo caso cuando exceda de cincuenta millones de pesos ($ 50.000.000.00).
+##### **Artículo 263. Derogado.**
 
 ##### **Artículo 264.Trámite, examen y decisión**. En los Tribunales Administrativo se seguirán las mismas reglas aplicables a la revisión de los contratos de la Nación por el Consejo de Estado.
 
