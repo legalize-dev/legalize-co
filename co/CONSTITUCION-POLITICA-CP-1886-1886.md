@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1979-12-03"
+last_updated: "1986-01-08"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -916,13 +916,7 @@ Los miembros del Ejército, de la Policía Nacional y de los Cuerpos armados de 
 
 ##### **Artículo 170.** De los delitos cometidos por los militares en servicio activo y en relación con el mismo servicio, conocerán las Cortes marciales o Tribunales militares, con arreglo a las prescripciones del Código penal militar.
 
-##### **Artículo 171,** Todos los ciudadanos eligen directamente Concejales, Consejeros Intendenciales, Diputados a las Asambleas Departamentales, Representantes, Senadores y Presidente de la República
-
-**Artículo 171. Modificado por el** **ACTO LEGISLATIVO 3 DE 1954.**
-
-**Artículo 171.** La ley podrá establecer una milicia nacional y organizará el Cuerpo de Policía Nacional.
-
-**Artículo 171.** La ley podrá organizar y establecer una milicia nacional.
+##### **Artículo 171.** Todos los ciudadanos eligen directamente Presidente de la República, Senadores, Representantes, Diputados, Consejeros, Intendenciales y Comisariales, Alcaldes y Concejales Municipales y del Distrito Especial.
 
 ## **Título XVII. De las elecciones**
 
@@ -1064,15 +1058,13 @@ Los representantes del Departamento en las Juntas Directivas de tales organismos
 
 7º. Objetar por motivos de inconstitucionalidad, ilegalidad o inconveniencia, los proyectos de ordenanzas, y sancionar y promulgar las ordenanzas en la forma legal;
 
-8º. Revisar los actos de los Concejos Municipales y los de los Alcaldes, por motivos de inconstitucionalidad o ilegalidad, revocar los últimos y pasar los primeros al Tribunal competente para que éste decida sobre su exequibilidad;
+8º. Revisar los actos de los Concejos Municipales y de los Alcaldes, y por motivos de inconstitucionalidad o legalidad remitirlos al Tribunal competente para que decida sobre su validez.
 
 9º. Crear, suprimir y fusionar los empleos que demanden los servicios departamentales, y señalar sus funciones especiales, lo mismo que fijar sus emolumentos, con sujeción a las normas del ordinal 5º del Artículo 187.
 
 El Gobernador no podrá crear con cargo al Tesoro Departamental obligaciones que excedan el monto global fijado para el respectivo servicio en el presupuesto que adopte la Asamblea;
 
 - 10. Las demás que la Constitución y las leyes establezcan.
-
-**Artículo 194.** Los Gobernadores serán nombrados para un período de tres años y pueden continuar en su puesto por nuevo nombramiento.
 
 ##### **Artículo 195.** Son atribuciones de los Concejos, que ejercerán conforme a la ley, las siguientes:
 
@@ -1102,15 +1094,11 @@ Los Concejos podrán crear juntas Administradoras locales para sectores del terr
 
 5º. Expedir anualmente el presupuesto de rentas y gastos del Municipio, con base en el proyecto presentado por el Alcalde;
 
-6º. Elegir Personeros y Tesoreros Municipales y los demás funcionarios o empleados que la ley determine;
+6º. Elegir Personeros y Controladores Municipales cuando las normas vigentes lo autoricen, y los demás funcionarios que la ley determine.
 
 7º. Autorizar al Alcalde para celebrar contratos, negociar empréstitos, enajenar bienes municipales y ejercer, pro tempore, precisas funciones de las que corresponden a los Concejos; y,
 
 8º. Ejercer las demás funciones que la ley le señale.
-
-**Artículo 197.** Derogado.
-
-**Artículo 197.** El Gobernador podrá requerir el auxilio de la fuerza armada, y el Jefe militar obedecerá sus instrucciones, salvo las disposiciones especiales que dicte el Gobierno.
 
 ##### **Artículo 198.** La ley podrá establecer diversas categorías de Municipios de acuerdo con su población, recursos fiscales e importancia económica, y señalar distinto régimen para su administración.
 
@@ -1118,11 +1106,21 @@ Para la mejor administración o prestación de servicios públicos de dos o más
 
 La ley establecerá las condiciones y las normas bajo las cuales los Municipios puedan asociarse entre sí para la prestación de los servicios públicos. Las Asambleas, a iniciativa del Gobernador, podrán hacer obligatoria tal asociación, conforme a la ley citada, cuando la más eficiente y económica prestación de los servicios así lo requieran.
 
-##### **Artículo 199.** Corresponde a los Consejos municipales ordenar lo conveniente, por medio de acuerdos o reglamentos interiores, para la administración del Distrito; votar, en conformidad con las ordenanzas expedidas por las Asambleas, las contribuciones y gastos locales; llevar el movimiento anual de la población; formar el censo civil cuando lo determine la ley ejercer las demás funciones que le sean señaladas.
+##### **Artículo 199.** La Ciudad de Bogotá, capital de la República, será organizada como un Distrito Especial, sin sujeción al régimen municipal ordinario, dentro de las condiciones que fije la ley. La ley podrá agregar otro u otros municipios circunvecinos al territorio de la capital de la República, siempre que sea solicitada la anexión por las tres cuartas partes de los Concejales del respectivo municipio.
 
-##### **Artículo 200.** La acción administrativa en el distrito corresponde al Alcalde, funcionario que tiene el doble carácter de Agente del Gobernador y mandatario del pueblo.
+Sobre las rentas departamentales que se causen en Bogotá, la ley determinará la participación que le corresponda a la capital de la República.
 
-##### **Artículo 201.** El Departamento de Panamá está sometido a la autoridad directa del Gobierno, y será administrado con arreglo a leyes especiales.
+##### **Artículo 200.** En todo municipio habrá un Alcalde que será Jefe de la Administración Municipal.
+
+##### **Artículo 201.** Los Alcaldes serán elegidos por el voto de los ciudadanos para períodos de dos (2) años, el día que fije la ley, y ninguno podrá ser reelegido para el período siguiente.
+
+Nadie podrá ser elegido simultáneamente Alcalde y Congresista, Diputado, Consejero Intendencial o Comisarial o Concejal. Tampoco podrán ser elegidos Alcalde los congresistas durante la primera mitad de su período constitucional. La infracción de este precepto vicia de nulidad ambas elecciones.
+
+El Presidente de la República y los Gobernadores, Intendentes o Comisarios, en los casos taxativamente señalados por la ley suspenderán o destituirán el Alcalde del Distrito Especial y a los demás Alcaldes, según sus respectivas competencias. La ley establecerá las sanciones a que hubiere lugar por el ejercicio indebido de esta atribución.
+
+También determinará las calidades, inhabilidades e incompatibilidades de los Alcaldes, fecha de posesión, faltas absolutas o temporales, y forma de llenarlas, y dictará las demás disposiciones necesarias para su elección y el normal desempeño de sus cargos.
+
+**Parágrafo transitorio.** La primera elección de Alcaldes tendrá lugar el segundo domingo de marzo de mil novecientos ochenta y ocho (1988).
 
 ## **Título XIX. De la Hacienda**
 
