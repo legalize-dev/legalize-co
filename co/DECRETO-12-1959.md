@@ -4,7 +4,7 @@ identifier: "DECRETO-12-1959"
 country: "co"
 rank: "decreto"
 publication_date: "1959-06-12"
-last_updated: "1959-06-12"
+last_updated: "1961-07-23"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1002896"
 department: "PODER EJECUTIVO"
@@ -26,7 +26,7 @@ en uso de sus facultades consagradas en el artículo 121 de la Constitución Nac
 
 **DECRETA:**
 
-##### **Artículo 1º** Los Jueces de Instrucción Criminal que actúen por comisión del Ministerio de Justicia en el territorio de los Departamentos en donde subsiste el estado de sitio, son competentes para instruir y fallar en primera instancia los procesos que se adelanten por los siguientes delitos:
+##### **Artículo 1.** Los Jueces de Instrucción Criminal que actúen por comisión del Ministerio de Justicia en el territorio de los Departamentos en donde subsiste el estado de sitio, son competentes para instruir y fallar en primera instancia los procesos que se adelanten por los siguientes delitos:
 
 1º) Del homicidio, excepción hecha del homicidio culposo;
 
