@@ -4,7 +4,7 @@ identifier: "DECRETO-52-1987"
 country: "co"
 rank: "decreto"
 publication_date: "1987-01-13"
-last_updated: "1987-01-13"
+last_updated: "1987-06-24"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1011555"
 department: "MINISTERIO DE JUSTICIA"
@@ -874,9 +874,7 @@ Cuando en un tribunal estuvieren asignados varios fiscales, para estos efectos l
 
 ## TITULO XIV. DISPOSICIONES VARIAS
 
-##### Artículo 114. La elección de funcionarios y empleados a cargo de la Corte suprema de Justicia y del Consejo de Estado, en pleno o en cualquiera de sus salas o secciones, requerirá el voto favorable de las dos terceras (2/3) partes de sus miembros.
-
-En los tribunales la votación para elecciones ser pública, con la participación de las dos terceras (2/3) partes de sus miembros y el voto favorable de la mitad más uno de sus componentes y no será admisible el voto en blanco.
+##### Artículo 114. INEXEQUIBLE
 
 ##### Artículo 115. Los Consejos establecidos en el presente Decreto sesionarán y decidirán con la mitad menos uno de sus miembros.
 
@@ -886,19 +884,13 @@ Los citados consejos se reunirán por derecho propio en sesiones ordinarias una 
 
 ##### Artículo 117. Para la formación, capacitación, especialización, investigación y adiestramiento de los servidores de la Rama Jurisdiccional y del Ministerio Público las entidades públicas docentes o especializadas tendrán obligación de prestar su apoyo y concurso como labor de asistencia a la Rama Jurisdiccional, cuando así lo requiera la Escuela Judicial.
 
-##### Artículo 118. Los requisitos mínimos señalados en este Decreto para el desempeño de cargos se exigirán a las personas que ingresen a la Rama Jurisdiccional y a las fiscalías a partir de la vigencia del presente estatuto.
+##### Artículo 118. INEXEQUIBLE
 
-##### Artículo 119. Para el ingreso de empleados al servicio de la Rama Jurisdiccional y del Ministerio Público, a partir del 1º. de marzo de 1989 será requisito aprobar un curso atinente adelantado en la Escuela Judicial o refrendado por ella.
+##### Artículo 119. INEXEQUIBLE
 
 ##### Artículo 120. Para el ingreso en la carrera de funcionarios y empleados de los territorios nacionales, el tiempo de experiencia exigido como requisito mínimo se reducir a la mitad, así como el período de prueba.
 
-##### Artículo 121. La persona nombrada en propiedad en cargo de libre designación, para cuyo ejercicio se exijan requisitos constitucionales, deberá obtener su confirmación por la autoridad nominadora, previa su comprobación.
-
-Para tal efecto el interesado dispondrá de un (1) mes contado desde el día en que se le comunique la designación, si reside en el país y tres (3) meses si reside en el exterior.
-
-Comunicada la confirmación dispondrá de diez (10) días para posesionarse, salvo fuerza mayor.
-
-Cuando se requiera únicamente requisitos legales deberá posesionarse dentro del mes siguiente a la comunicación del nombramiento, acompañando la documentación que los acredita, de lo cual se dejará constancia el acta.
+##### Artículo 121. INEXEQUIBLE
 
 ##### Artículo 122. El nombramiento en cargos de la carrera será comunicado y deberá aceptarse o rehusarse dentro de los diez (10) días siguientes.
 
@@ -906,27 +898,21 @@ Aceptado el cargo, se dispondrá de veinte (20) días para tomar posesión.
 
 ##### Artículo 123. Las novedades de personal de la Rama Jurisdiccional y de las fiscalías, tales como nombramientos, remociones, traslados, comisiones, licencias, calificaciones de servicios, y de concursos y sanciones, serán comunicados a los respectivos Consejos de la Carrera dentro de los ocho (8) días siguientes.
 
-##### Artículo 124. Por razones de orden público, seguridad, necesidades del servicio y otras circunstancias, a discreción del nominador y por solicitud del interesado, se podrán efectuar traslados de funcionarios y empleados para el desempeño de cargos de igual categoría en distinta localidad sin menoscabo de los derechos de otros servidores.
+##### Artículo 124. INEXEQUIBLE
 
 ##### Artículo 125. El Director General de la Escuela Judicial y el Director Nacional de la Carrera tendrán la misma remuneración y prestaciones del Director Nacional de Instrucción Criminal.
 
-##### Artículo 126. Los funcionarios y empleados deben residir en la sede de su cargo, de la que no podrán ausentarse en las horas de trabajo sino con permiso. Sin embargo, el respectivo superior o el presidente de la corporación o sala nominadora, podrán autorizar la residencia en lugar distinto de la sede por motivos justificados y siempre que no se perjudique la marcha del trabajo.
+##### Artículo 126. INEXEQUIBLE
 
-##### Artículo 127. Los funcionarios y empleados tendrán derecho a licencia hasta por dos (2) años, pero sólo para proseguir cursos de especialización, actividades de docencia o de investigación o asesoría al Estado.
+##### Artículo 127. INEXEQUIBLE
 
-Las licencias serán concedidas por la sala de gobierno de la corporación o por el funcionario nominador.
+##### Artículo 128. INEXEQUIBLE
 
-##### Artículo 128. La comisión de estudios remunerada de funcionarios y empleados requerirá, además, la aquiescencia del nominador y a aprobación del Gobierno. Según la disponibilidad presupuestal se otorgará con el pago total o parcial de la remuneración y pasajes.
+##### Artículo 129. INEXEQUIBLE
 
-También podrán los funcionarios y empleados recibir del Gobierno Nacional las comisiones previstas en el artículo 26 del Decreto-ley 546 de 1971.
+##### Artículo 130. INEXEQUIBLE
 
-##### Artículo 129. Los eventos previstos en el artículo anterior, con o sin remuneración, no interrumpen la solución de continuidad en el servicio para todos los efectos prestacionales y legales y en especial los de la carrera judicial.
-
-##### Artículo 130. Los servidores de la Rama Jurisdiccional y de las fiscalías tendrán derecho a licencia no remunerada hasta por tres (3) meses en el año y cuando pasa a ejercer transitoriamente otro cargo, hasta el límite del período del que ejerza en propiedad.
-
-##### Artículo 131. El Gobierno Nacional proveerá en el presupuesto de la Escuela Judicial las partidas suficientes para financiar los programas de capacitación de funcionarios y empleados, así como las necesarias para su adecuado funcionamiento.
-
-También podrá ésta obtener recursos propios por la prestación de sus servicios y la venta de sus publicaciones.
+##### Artículo 131. INEXEQUIBLE
 
 ## TITULO XV. DISPOSICIONES TRANSITORIAS
 
@@ -962,7 +948,7 @@ En el Consejo Superior de la Carrera del Ministerio Público, el Fiscal Primero 
 
 ##### Artículo 137. Para el cabal funcionamiento de los organismos establecidos en el presente Decreto, se presentará la planta de personal requerida y será tramitada y autorizada como excepción a las disposiciones vigentes sobre racionalización del gasto público.
 
-##### Artículo 138. En desarrollo del artículo 4º de la Ley 52 de 1984, el Gobierno Nacional efectuará las apropiaciones, los traslados presupuestales y abrirá los créditos y contracréditos indispensables para el funcionamiento de los organismos contemplados en el presente Decreto.
+##### Artículo 138. INEXEQUIBLE
 
 ##### Artículo 139. La División de Asistencia a la Rama Jurisdiccional prestar el apoyo técnico, operativo y administrativo, para el adecuado funcionamiento del Consejo Superior de la Administración de Justicia mientras se provee el personal de la Dirección Nacional de la Carrera.
 
