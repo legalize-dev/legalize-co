@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1918-08-26"
+last_updated: "1936-08-04"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -40,12 +40,6 @@ Las líneas divisorias de Colombia con las naciones limítrofes se fijarán defi
 
 ##### **Artículo 4º.** El Territorio, con los bienes públicos que de él forman parte, pertenece únicamente a la Nación.
 
-Las secciones que componían la Unión Colombiana, denominadas Estados y Territorios nacionales, continuarán siendo partes territoriales de la República de Colombia, conservando los mismos límites actuales y bajo la denominación de Departamentos.
-
-Las líneas divisorias dudosas serán determinadas por comisiones demarcadoras nombradas por el Senado.
-
-Los antiguos Territorios nacionales quedan incorporados en las secciones a que primitivamente pertenecieron.
-
 ##### **Artículo 6°** reformado por Artículo 4° ACTO LEGISLATIVO 3 de 1905
 
 **Artículo 6º.** Sólo por una ley aprobada en la forma expresada en la parte final del artículo anterior, podrán ser variados los actuales límites de los Departamentos.
@@ -54,61 +48,27 @@ Por medio de una ley aprobada en la forma ordinaria y sin la condición antedich
 
 ## **Título II. De los habitantes: nacionales y extranjeros**
 
-##### **Artículo 8º.** Son nacionales colombianos:
+##### **Artículo 8°.** Derogado
 
-- 1. Por nacimiento:
-
-Los naturales de Colombia con una de dos condiciones, que el padre o la madre también lo hayan sido, o que siendo hijos de extranjeros, se hallen domiciliados en la República.
-
-Los hijos legítimos de padre y madre colombianos que hubieren nacido en tierra extranjera y luego se domiciliaren en la República, se considerarán colombianos de nacimiento para los efectos de las leyes que exijan esta calidad;
-
-- 2. Por origen y vecindad:
-
-Los que siendo hijos de madre o padre naturales de Colombia y habiendo nacido en el extranjero, se domiciliaren en la República; y cualesquiera hispanoamericanos que ante la Municipalidad del lugar donde se establecieron, pidan ser inscritos como colombianos;
-
-- 3. Por adopción:
-
-Los extranjeros que soliciten y obtengan carta de ciudadanía.
-
-##### **Artículo 9º.** La calidad de nacional colombiano se pierde por adquirir carta de naturaleza en país extranjero, fijando en él domicilio, y podrá recobrarse con arreglo a las leyes.
+##### **Artículo 9°.** Derogado
 
 ##### **Artículo 10.** Es deber de todos los nacionales y extranjeros en Colombia, vivir sometidos a la Constitución y a las leyes, y respetar y obedecer a las autoridades.
 
-##### **Artículo 11.** Los extranjeros disfrutarán en Colombia de los mismos derechos que se concedan a los colombianos por las leyes de la Nación a que el extranjero pertenezca, salvo lo que se estipule en los Tratados públicos.
+##### **Artículo 11°.** Derogado
 
-##### **Artículo 12.** La ley definirá la condición de extranjero domiciliado, y los especiales derechos y obligaciones de los que en tal condición se hallen.
+##### **Artículo 12°.** Derogado
 
 ##### **Artículo 13.** El colombiano, aunque haya perdido la calidad de nacional, que fuere cogido con las armas en la mano en guerra contra Colombia, será juzgado y penado como traidor, Los extranjeros naturalizados y los domiciliados en Colombia, no serán obligados a tomar armas contra el país de su origen.
 
-##### **Artículo 16.** La ciudadanía se pierde de hecho cuando se ha perdido la nacionalidad. También pierde la calidad de ciudadano quien se encuentre en uno de los siguientes casos, judicialmente declarados:
+##### **Artículo 16°.** Derogado.
 
-- 1. Haberse comprometido al servicio de una Nación enemiga de Colombia;
+##### **Artículo 17°**. Derogado.
 
-- 2. Haber pertenecido a una facción alzada contra el Gobierno de una Nación amiga;
-
-- 3. Haber sido condenado a sufrir pena aflictiva;
-
-- 4. Haber sido destituido del ejercicio de funciones públicas, mediante juicio criminal o de responsabilidad;
-
-- 5. Haber ejecutado actos de violencia, falsedad o corrupción en elecciones.
-
-Los que hayan perdido la ciudadanía podrán solicitar rehabilitación del Senado.
-
-##### **Artículo 17.** El ejercicio de la ciudadanía se suspende:
-
-- 1. Por notoria enajenación mental;
-
-- 2. Por interdicción judicial;
-
-- 3. Por beodez habitual;
-
-- 4. Por causa criminal pendiente, desde que el Juez dicte auto de prisión.
-
-##### **Artículo 18.** La calidad de ciudadano en ejercicio es condición previa indispensable para ejercer funciones electorales, y poder desempeñar empleos públicos que lleven anexa autoridad o jurisdicción.
+##### **Artículo 18°**. Derogado.
 
 ## **Título III. De los derechos civiles y garantías sociales**
 
-##### **Artículo 19.** Las autoridades de la República están instituidas para proteger a todas las personas residentes en Colombia, en sus vidas, honra y bienes, y asegurar el respeto recíproco de los derechos naturales, previniendo y castigando los delitos.
+##### **Artículo 19°**. Derogado.
 
 ##### **Artículo 20.** Los particulares no son responsables ante las autoridades sino por infracción de la Constitución o de las leyes. Los funcionarios públicos lo son por la misma causa y por extralimitación de funciones, o por omisión en el ejercicio de éstas.
 
@@ -146,9 +106,7 @@ En ningún tiempo podrá aplicarse la pena capital fuera de los casos en este Ar
 
 ##### **Artículo 30.** No habrá pena de muerte por delitos políticos. La ley los definirá.
 
-##### **Artículo 31.** Los derechos adquiridos con justo título con arreglo a las leyes civiles por personas naturales o jurídicas, no pueden ser desconocidos ni vulnerados por leyes posteriores.
-
-Cuando de la aplicación de una ley expedida por motivos de utilidad pública, resultaren en conflicto los derechos de particulares con la necesidad reconocida por la misma ley; el interés privado deberá ceder al interés público. Pero las expropiaciones que sea preciso hacer requieren plena indemnización con arreglo al Artículo siguiente.
+##### **Artículo 31°.** Derogado.
 
 ##### **Artículo 33.** En caso de guerra y sólo para atender al restablecimiento del orden público, la necesidad de una expropiación podrá ser decretada por autoridades que no pertenezcan al orden judicial y no ser previa la indemnización.
 
@@ -162,25 +120,19 @@ La Nación será siempre responsable por las expropiaciones que el Gobierno haga
 
 Ofrécese la misma garantía a los propietarios de obras publicadas en países de lengua española, siempre que la Nación respectiva consigne en su legislación el principio de reciprocidad y sin que haya necesidad de celebrar al efecto convenios internacionales.
 
-##### **Artículo 36.** El destino de las donaciones intervivos o testamentarias hechas conforme a las leyes para objetos de Beneficencia o de Instrucción pública, no podrá ser variado ni modificado por el Legislador.
+##### **Artículo 36°.** Derogado.
 
-##### **Artículo 38.** La Religión Católica, Apostólica, Romana, es la de la Nación; los Poderes públicos la protegerán y harán que sea respetada como esencial elemento del orden social. Se entiende que la Iglesia Católica no es ni será oficial, y conservará su independencia.
+##### **Artículo 38°.** Derogado.
 
-##### **Artículo 39.** Nadie será molestado por razón de sus opiniones religiosas, ni compelido por las autoridades a profesar creencias ni a observar prácticas contrarias a su conciencia.
+##### **Artículo 39°.** Derogado.
 
-##### **Artículo 40.** Es permitido el ejercicio de todos los cultos que no sean contrarios a la moral cristiana ni a las leyes.
+##### **Artículo 40°.** Derogado.
 
-Los actos contrarios a la moral cristiana o subversivos del orden público, que se ejecuten con ocasión o pretexto del ejercicio de un culto, quedan sometidos al derecho común.
-
-##### **Artículo 41.** La educación pública será organizada y dirigida en concordancia con la Religión Católica.
-
-La instrucción primaria costeada con fondos públicos, será gratuita y no obligatoria.
+##### **Artículo 41°.** Derogado.
 
 ##### **Artículo 42.** La prensa es libre en tiempo de paz; pero responsable, con arreglo a las leyes, cuando atente a la honra de las personas, al orden social o a la tranquilidad pública. Ninguna empresa editorial de periódicos podrá, sin permiso del Gobierno, recibir subvención de otros Gobiernos ni de compañías extranjeras.
 
-##### **Artículo 43.** La correspondencia confiada a los telégrafos y correos es inviolable. Las cartas y papeles privados no podrán ser interceptados ni registrados, sino por la autoridad, mediante orden de funcionario competente, en los casos y con las formalidades que establezca la ley, y con el único objeto de buscar pruebas judiciales.
-
-Podrá gravarse, pero nunca prohibirse en tiempo de paz, la circulación de impresos por los correos.
+##### **Artículo 43°.** Derogado.
 
 ##### **Artículo 44°.** Toda persona podrá abrazar cualquier oficio y ocupación honesta sin necesidad de pertenecer a gremio de maestros o doctores.
 
@@ -194,9 +146,9 @@ Las autoridades inspeccionarán las industrias y profesiones en lo relativo a la
 
 Nadie podrá dentro de poblado llevar armas consigo, sin permiso de la autoridad. Este permiso no podrá extenderse a los casos de concurrencia a reuniones políticas, a elecciones, o a sesiones de Asambleas o Corporaciones públicas, ya sea para actuar en ellas o para presenciarlas.
 
-##### **Artículo 49.** Las corporaciones legítimas y públicas tienen derecho a ser reconocidas como personas jurídicas, y a ejecutar en tal virtud actos civiles y gozar de las garantías aseguradas por este Título, con las limitaciones generales que establezcan las leyes, por razones de utilidad común.
+##### **Artículo 49°**. Derogado.
 
-##### **Artículo 50.** Las leyes determinarán lo relativo al estado civil de las personas, y los consiguientes derechos y deberes.
+##### **Artículo 50°**. Derogado.
 
 ##### **Artículo 51.** Las leyes determinarán la responsabilidad a que quedan sometidos los funcionarios públicos de todas clases, que atenten contra los derechos garantizados en este Título.
 
@@ -206,13 +158,13 @@ Nadie podrá dentro de poblado llevar armas consigo, sin permiso de la autoridad
 
 ##### **Artículo 54.** El ministerio sacerdotal es incompatible con el desempeño de cargos públicos, Podrán, sin embargo, los sacerdotes católicos ser empleados en la instrucción o beneficencia públicas.
 
-##### **Artículo 55. -** Los edificios destinados al culto católico, los seminarios conciliares y las casas episcopales y curales no podrán ser gravados con contribuciones ni ocupados para aplicarlos a otros servicios.
+##### **Artículo 55°**. Derogado.
 
-##### **Artículo 56.** El Gobierno podrá celebrar convenios con la Santa Sede Apostólica a fin de arreglar las cuestiones pendientes, y definir y establecer las relaciones entre la potestad civil y la eclesiástica.
+##### **Artículo 56°**. Derogado.
 
 ## **Título V. De los poderes nacionales y del servicio público**
 
-##### **Artículo 57.** Todos los poderes públicos son limitados, y ejercen separadamente sus respectivas atribuciones.
+##### **Artículo 57°**. Derogado.
 
 ##### **Artículo 61.** Ninguna persona o Corporación podrá ejercer simultáneamente, en tiempo de paz, la autoridad política o civil y la judicial o la militar.
 
@@ -220,7 +172,7 @@ Nadie podrá dentro de poblado llevar armas consigo, sin permiso de la autoridad
 
 ##### **Artículo 63.** No habrá en Colombia ningún empleo que no tenga funciones detalladas en ley o en reglamento.
 
-##### **Artículo 64.** Nadie podrá recibir dos sueldos del Tesoro público, salvo lo que para casos especiales determinen las leyes.
+##### **Artículo 64°**. Derogado.
 
 ##### **Artículo 65.** Ningún funcionario entrará a ejercer su cargo sin prestar juramento de sostener y defender la Constitución, y de cumplir con los deberes que le incumben.
 
@@ -290,7 +242,7 @@ Si el Presidente, una vez transcurridos los indicados términos, según el caso,
 
 ##### **Artículo 89.** Si el Gobierno no cumpliere el deber que se lo impone de sancionar las leyes en los términos y según las condiciones que este Título establece, las sancionará y promulgará el Presidente del Congreso.
 
-##### **Artículo 90.** Exceptúase de lo dispuesto en el Artículo 88 el caso en que el proyecto fuere objetado por inconstitucional. En este caso, si las Cámaras insistieren, el proyecto pasará a la Corte Suprema, para que ella, dentro de seis días, decida sobre su exequibilidad. El fallo afirmativo de la Corte obliga al Presidente a sancionar la ley. Si fuere negativo, se archivará el proyecto.
+**Modificado por el Artículo 34 del ACTO LEGISLATIVO 1 DE 1936.**
 
 ##### **Artículo 91.** Los proyectos de ley que queden pendientes en las sesiones de un año no podrán ser considerados sino como proyectos nuevos, en otra Legislatura.
 
