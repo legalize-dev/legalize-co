@@ -1,0 +1,84 @@
+---
+title: "Por el cual se hace un traslado en el Presupuesto de Gastos para la vigencia fiscal de 1972 (Ministerio de Trabajo y Seguridad Social), por $ 70.000"
+identifier: "DECRETO-2377BIS-1972"
+country: "co"
+rank: "decreto"
+publication_date: "1973-02-13"
+last_updated: "1973-02-13"
+status: "in_force"
+source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1444050"
+department: "MINISTERIO DE HACIENDA Y CREDITO PUBLICO"
+document_status_raw: "Vigente"
+gazette_reference: "DIARIO OFICIAL. AÑO CIX. N. 33786. 13, FEBRERO, 1973. PÁG. 3."
+gazette_number: "33786"
+gazette_page: "467"
+gazette_pdf_page: "3"
+subtype: "DECRETO ORDINARIO"
+sector: "Hacienda y Crédito Público"
+entry_into_force: "1972-12-15"
+---
+# Por el cual se hace un traslado en el Presupuesto de Gastos para la vigencia fiscal de 1972 (Ministerio de Trabajo y Seguridad Social), por $ 70.000
+
+**El Presidente de la República de Colombia,**
+
+en uso de sus facultades legales, y
+
+CONSIDERANDO:
+
+Que por medio del artículo 50 de la Ley 24 de 1971, se autorizó al Gobierno Nacional para abrir créditos y efectuar traslados en el Presupuesto de Gastos para la vigencia fiscal 1972, con el objeto de garantizar la buena marcha de la Administración Pública, el normal cumplimiento de los programas de inversión y los compromisos contractuales con los organismos internacionales de crédito;
+
+Que el Ministerio de Trabajo y Seguridad Social, .por medio de la Resolución número 3035 de 1972, declaró sobrante la cantidad de $ 70.000 en el presupuesto de gastos para la vigencia fiscal de 1972, con el objeto de que sea traslada para incrementar otra apropiación del mismo presupuesto;
+
+Que de conformidad con lo dispuesto en el artículo 96 del Decreto-ley número 1675 de 1964, el Contralor General de la República expidió el Certificado de Reserva y Disponibilidad número 82 de 1972, por $ 70.000, para amparar los traslados presupuéstales de que trata este Decreto, y
+
+Que se han cumplido los requisitos legales para la tramitación ele esta clase de negocios,
+
+**DECRETA:**
+
+##### **Artículo 1º** Hácese el siguiente traslado en el Presupuesto de Gastos para la vigencia fiscal de 1972:
+
+PRESUPUESTO DE FUNCIONAMIENTO
+
+Contracrédito.
+
+### Capítulo 215.
+
+Ministerio de Trabajo y Seguridad Social,
+
+Programa 231.
+
+Dirección y Administración Superior.
+
+Servicios personales.
+
+| 101-111**-**111**.** Artículo 2154. Honorarios | $ 70.000 |
+| --- | --- |
+| Suma el contracréditó | $ 70.000 |
+
+CREDITO
+
+### Capítulo 215
+
+**Ministerio de Trabajo y Seguridad Socia1**
+
+Programa 231.
+
+Dirección y Administración Superior.
+
+Gastos generales.
+
+| 106-111-219. Artículo 2167. Gastos varios e imprevistos | $ 70.000. |
+| --- | --- |
+| Suma el crédito | $ 70.000. |
+
+##### **Artículo 2º** Aclárase el artículo del Decreto número 2371 de diciembre 15 de 1972 "aporte de la Nación al Museo de Arte Religioso de Popayán", por la suma de $ 526.000, en el sentido de que su identificación correcta es 7022-E y no como allí figura.
+
+##### **Artículo 3º** El presente Decreto rige a partir de la fecha de su expedición.
+
+**Comuníquese y publíquese.**
+
+**Dado en Bogotá, D. E., a 15 de diciembre de 1972.**
+
+**MISAEL PASTRANA BORRERO**
+
+**El Ministro de Hacienda y Crédito Público, Rodrigo Llorente Martínez.**
