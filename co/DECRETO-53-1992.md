@@ -4,7 +4,7 @@ identifier: "DECRETO-53-1992"
 country: "co"
 rank: "decreto"
 publication_date: "1992-01-13"
-last_updated: "1992-01-13"
+last_updated: "1994-09-05"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1701814"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -46,17 +46,7 @@ El Presidente de la República de Colombia, en ejercicio de las facultades const
 
 ##### **Artículo 2º** El empleo a que se refiere el literal c) del artículo 1º y el artículo 11 del Decreto 1860 de 1991, denominado Consejero para la Reconciliación, Normalización y Rehabilitación en adelante se llamará Consejero para la Paz.
 
-##### **Artículo 3º** Subrógase el artículo 11 del Decreto 1860 de 1991, con el siguiente texto:
-
-"Artículo 11. El Consejero para la Paz cumplirá las siguientes funciones:
-
-- a) Asesorar al Presidente de la República en la elaboración de los programas que adelante el Gobierno para la Reconciliación Nacional;
-
-- b) Participar, de conformidad con las instrucciones que le imparta el Presidente de la República, en las conversaciones tendientes a la reincorporación a la vida civil de grupos guerrilleros que se vinculen decididamente a un proceso de paz bajo la dirección del Gobierno;
-
-- c) Presentar al Presidente de la República las recomendaciones que considere convenientes para el logro de la Reconciliación Nacional;
-
-- d) Las demás que le asigne el Presidente de la República".
+##### **Artículo 3.** Derogado.
 
 ##### **Artículo 4º** El presente Decreto rige a partir de la fecha de su publicación y modifica las disposiciones que le sean contrarias.
 
