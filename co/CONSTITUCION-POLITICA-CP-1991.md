@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "1999-08-09"
+last_updated: "2000-08-17"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -226,9 +226,13 @@ Toda persona tiene el deber de procurar el cuidado integral de su salud y la de 
 
 ##### **Artículo 51.** Todos los colombianos tienen derecho a vivienda digna. El Estado fijará las condiciones necesarias para hacer efectivo este derecho y promoverá planes de vivienda de interés social, sistemas adecuados de financiación a largo plazo y formas asociativas de ejecución de estos programas de vivienda.
 
-##### **Artículo 52.** Se reconoce el derecho de todas las personas a la recreación, a la práctica del deporte y al aprovechamiento del tiempo libre.
+##### **Artículo 52.** El ejercicio del deporte, sus manifestaciones recreativas, competitivas y autóctonas tienen como función la formación integral de las personas, preservar y desarrollar una mejor salud en el ser humano.
 
-El Estado fomentará estas actividades e inspeccionará las organizaciones deportivas, cuya estructura y propiedad deberán ser democráticas.
+El deporte y la recreación, forman parte de la educación y constituyen gasto público social.
+
+Se reconoce el derecho de todas las personas a la recreación, a la práctica del deporte y al aprovechamiento del tiempo libre.
+
+El Estado fomentará estas actividades e inspeccionará, vigilará y controlará las organizaciones deportivas y recreativas cuya estructura y propiedad deberán ser democráticas.
 
 ##### **Artículo 53.** El Congreso expedirá el estatuto del trabajo. La ley correspondiente tendrá en cuenta por lo menos los siguientes principios mínimos fundamentales:
 
@@ -1830,7 +1834,7 @@ El departamento y los municipios aportarán a las provincias el porcentaje de su
 
 **DEL REGIMEN ESPECIAL**
 
-##### **Artículo 322.** Santa Fe de Bogotá, capital de la República y del Departamento de Cundinamarca, se organiza como Distrito Capital.
+##### **Artículo 322.** Bogotá, Capital de la República y el departamento de Cundinamarca, se organiza como Distrito Capital.
 
 Su régimen político, fiscal y administrativo será el que determinen la Constitución, las leyes especiales que para el mismo se dicten y las disposiciones vigentes para los municipios.
 
