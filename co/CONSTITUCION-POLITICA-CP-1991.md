@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2002-01-30"
+last_updated: "2002-08-06"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1684,9 +1684,11 @@ Las ordenanzas a que se refieren los numerales 3, 5 y 7 de este artículo, las q
 
 En desarrollo de lo anterior, la ley podrá delegar, a uno o varios Departamentos, atribuciones propias de los organismos o entidades públicas nacionales.
 
-##### **Artículo 303.** En cada uno de los departamentos habrá un gobernador que será jefe de la administración seccional y representante legal del Departamento; el gobernador será agente del Presidente de la República para el mantenimiento del orden público y para la ejecución de la política económica general, así como para aquellos asuntos que mediante convenios la Nación acuerde con el Departamento. Los gobernadores serán elegidos para períodos de tres años y no podrán ser reelegidos para el periodo siguiente.
+##### **Artículo 303.** En cada uno de los departamentos habrá un Gobernador que será jefe de la administración seccional y representante legal del departamento; el gobernador será agente del Presidente de la República para el mantenimiento del orden público y para la ejecución de la política económica general, así como para aquellos asuntos que mediante convenios la Nación acuerde con el departamento. Los gobernadores serán elegidos popularmente para períodos institucionales de cuatro (4) años y no podrán ser reelegidos para el período siguiente.
 
-La ley fijará las calidades, requisitos, inhabilidades e incompatibilidades de los gobernadores; reglamentará su elección; determinará sus faltas absolutas y temporales y forma de llenarlas; y dictará las demás disposiciones necesarias para el normal desempeño de sus cargos.
+La ley fijará las calidades, requisitos, inhabilidades e incompatibilidades de los gobernadores; reglamentará su elección; determinará sus faltas absolutas y temporales; y la forma de llenar estas últimas y dictará las demás disposiciones necesarias para el normal desempeño de sus cargos.
+
+Siempre que se presente falta absoluta a más de dieciocho (18) meses de la terminación del período, se elegirá gobernador para el tiempo que reste. En caso de que faltare menos de dieciocho (18) meses, el Presidente de la República designará un Gobernador para lo que reste del período, respetando el partido, grupo político o coalición por el cual fue inscrito el gobernador elegido.
 
 ##### **Artículo 304.** El Presidente de la República, en los casos taxativamente señalados por la ley, suspenderá o destituirá a los gobernadores.
 
@@ -1766,9 +1768,13 @@ Mediante la creación de los municipios a que hubiere lugar, la Asamblea Departa
 
 - 10. Las demás que la Constitución y la ley le asignen.
 
-##### **Artículo 314.** En cada municipio habrá un alcalde, jefe de la administración local y representante legal del municipio, que será elegido popularmente para períodos de tres años, no reelegible para el período siguiente. El Presidente y los Gobernadores, en los casos taxativamente señalados por la ley, suspenderán o destituirán a los alcaldes.
+##### **Artículo 314.** En cada municipio habrá un alcalde, jefe de la administración local y representante legal del municipio, que será elegido popularmente para períodos institucionales de cuatro (4) años, y no podrá ser reelegido para el período siguiente.
 
-La ley establecerá las sanciones a que hubiere lugar por el ejercicio indebido de esa atribución.
+Siempre que se presente falta absoluta a más de dieciocho (18) meses de la terminación del período, se elegirá alcalde para el tiempo que reste. En caso de que faltare menos de dieciocho (18) meses, el gobernador designará un alcalde para lo que reste del período, respetando el partido, grupo político o coalición por el cual fue inscrito el alcalde elegido.
+
+El presidente y los gobernadores, en los casos taxativamente señalados por la ley, suspenderán o destituirán a los alcaldes.
+
+La ley establecerá las sanciones a que hubiere lugar por el ejercicio indebido de esta atribución.
 
 ##### **Artículo 315.** Son atribuciones del alcalde:
 
