@@ -4,7 +4,7 @@ identifier: "DECRETO-49-1995"
 country: "co"
 rank: "decreto"
 publication_date: "1995-01-10"
-last_updated: "1995-01-10"
+last_updated: "2005-03-02"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1899512"
 department: "DEPARTAMENTO ADMINISTRATIVO DE LA FUNCIÓN PÚBLICA"
@@ -143,43 +143,7 @@ Las cesantías se regirán por las normas establecidas en el Decreto Extraordina
 
 ##### **Artículo 6º**. Los empleos de la Fiscalía General de la Nación conservarán el porcentaje de la remuneración mensual que tiene el carácter de gastos de representación fijados en las normas vigentes que regulan la materia. Dicho porcentaje se aplicará a laremuneración mensual excluyendo las primas establecidas en los artículos siguientes.
 
-##### **Artículo 7º**. El treinta por ciento (30%) del salario básico mensual de los siguientes servidores públicos se considera como prima especial de servicios sin carácter salarial.
-
-Jefe Unidad de Fiscalía ante Tribunal Nacional
-
-Jefe Unidad de Fiscalía ante Tribunal de Distrito
-
-Fiscal ante Tribunal Nacional
-
-Jefe Unidad Regional de Fiscalía
-
-Fiscal ante Tribunal de Distrito
-
-Fiscal Regional
-
-Jefe Unidad Seccional de Fiscalía
-
-Fiscal Seccional
-
-Secretario General
-
-Directores Nacionales
-
-Directores Regionales
-
-Directores Seccionales
-
-Jefes de Oficina
-
-Jefes de División
-
-Jefe de Unidad de Policía Judicial
-
-Jefe de Unidad Local de Fiscalía
-
-Fiscal Auxiliar ante la Corte Suprema de Justicia
-
-Fiscal Local
+##### **Artículo 7º**. Declarado nulo por el Consejo de Estado en SENTENCIA 11001032500019971702101(17021) de 2005 y Declarado Nulo por el Consejo de Estado en Sentencia 001032500020180110100 de 21/09/2022.
 
 ##### **Artículo 8º**. El Fiscal General de la Nación podrá asignar primas técnicas sin carácter salarial hasta por un treinta por ciento (30%) del sueldo básico con el lleno de los requisitos que establezca mediante reglamentación interna y previa viabilidad presupuestal, en los términos del Decreto 2573 de 1991.
 
