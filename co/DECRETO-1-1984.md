@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "1985-11-21"
+last_updated: "1988-01-25"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -609,6 +609,14 @@ La misma acción tendrá quien, además, pretenda que se le modifique una obliga
 
 **Del Consejo de Estado.**
 
+##### **Artículo 89.***Integración del Consejo de Estado, permanencia y vacantes.* El Consejo de Estado estará integrado por veinticuatro (24) miembros elegidos con sujeción a las normas de la paridad política.
+
+Los Consejeros de Estado permanecerán en sus cargos mientras observen buena conducta y no lleguen a la edad de retiro forzoso. Las vacantes, temporales o absolutas, serán provistas por la Corporación.
+
+**Artículo 89. Integración del Consejo de Estado, permanencia y vacantes**. El Consejo de Estado estará integrado por veinte miembros elegidos con sujeción a las normas de la paridad política.
+
+Los Consejeros de Estado permanecerán en sus cargos mientras observen buena conducta y no lleguen a la edad de retiro forzoso. Las vacantes, temporales o absolutas, serán provistas por la corporación.
+
 ##### **Artículo 90.Calidades para ser elegido Consejero.** Para ser elegido Consejero de Estado y desempeñar el cargo se requieren las mismas calidades que la Constitución Política exige para ser Magistrado de la Corte Suprema de Justicia.
 
 ##### **Artículo 91. Prueba de las calidades**. La persona que fuere elegida Consejero de Estado en propiedad deberá acreditar que reúne las calidades constitucionales, ante el Presidente de la República, al tomar posesión del cargo.
@@ -616,6 +624,14 @@ La misma acción tendrá quien, además, pretenda que se le modifique una obliga
 Entre la fecha de la comunicación de la elección y la de la posesión no podrán transcurrir más de treinta (130) días.
 
 ##### **Artículo 92**. **Prohibiciones e incompatibilidades de los Consejeros de Estado.** Los Consejeros de Estado estarán sujetos a las prohibiciones e incompatibilidades prescritas en la Constitución Política y la ley.
+
+##### **Artículo 93.Integración de las Salas del Consejo de Estado**. El Consejo de Estado ejercerá sus funciones por medio de tres Salas integradas así: La Sala Plena, por todos sus miembros; la Sala de lo Contencioso Administrativo por veinte (20) y la de Consulta y Servicio Civil por cuatro (4).
+
+También tendrán Salas Disciplinarias, cada una integrada por tres (3) Consejeros de diferentes especialidades, encargadas de conocer de los procesos por faltas disciplinarias adelantados contra los Magistrados de los Tribunales Administrativos y los empleados del Consejo de Estado. Estas Salas ejercerán sus funciones de conformidad con lo prescrito por las normas vigentes.
+
+**Artículo 93.Integración de las Salas del Consejo de Estado.** El Consejo de Estado ejercerá sus funciones por medio de tres Salas, así: Plena, por todos sus miembros; de lo Contencioso Administrativo, por diez y seis Consejeros y de Consulta y Servicio Civil por cuatro.
+
+También tendrá Salas Disciplinarias, cada una integrada por tres Consejeros de diferentes especialidades, encargadas de conocer de los procesos por faltas disciplinarias adelantados contra los Magistrados de los Tribunales Administrativos y los empleados del Consejo de Estado. Estas Salas ejercerán sus funciones de conformidad con lo prescrito por las normas vigentes.
 
 ##### **Artículo 94. Elección de dignatarios**. El Presidente del Consejo de Estado será elegido por la misma corporación para el período de un año y podrá ser reelegido indefinidamente.
 
@@ -1324,6 +1340,28 @@ Cuando se declare la nulidad de la elección del principal que encabezó una lis
 ##### **Artículo 229.Individualización del acto acusado.** Para obtener la nulidad de una elección o de un registro electoral o acta de escrutinio deberá demandarse precisamente el acto por medio del cual la elección se declara, y no los cómputos o escrutinios intermedios, aunque el vicio de nulidad afecte a estos.
 
 ##### **Artículo 230.** CORRECCION DE LA DEMANDA. La demanda puede ser corregida antes de que quede en firme el auto que la admita y sobre la corrección se resolverá dentro de los dos (2) días siguientes". En los procesos electorales procede la suspensión provisional.
+
+##### **Artículo 231.** Reparto en el Consejo de Estado. El Consejo de Estado tramitará y decidirá todos los procesos electorales de su competencia a través de la Sección Quinta de la Sala de lo Contencioso Administrativo integrada por cuatro (4) Magistrados.
+
+Contra las sentencias de la Sección Quinta no procederá ningún recurso ante la Sala Plena de lo Contencioso Administrativo.
+
+La designación de los Consejeros que deben integrar esta Sección se hará por la Sala Plena del Consejo de Estado al entrar en vigencia la presente Ley.
+
+La Sección Quinta de la Sala de lo Contencioso Administrativo tendrá su propia secretaría con el mismo personal de empleados y remuneración de las demás secciones de la Corporación.
+
+Cada Consejero de Estado de la Sección Quinta tendrá un Magistrado Auxiliar de su libre nombramiento y remoción.
+
+**Parágrafo**. La elección de los miembros del Consejo Nacional Electoral podrá ser demandada ante la Corte Suprema de Justicia. El procedimiento para seguir en estos procesos es el señalado en los artículos 223 a 251 y concordantes del Código de lo Contencioso Administrativo.
+
+**Artículo 231**. REPARTO EN EL CONSEJO DE ESTADO.
+
+El Consejo de Estado tramitará y decidirá los procesos electorales mediante una Sala Contenciosa Electoral integrada por dos consejeros de cada una de las secciones de la Sala Contenciosa. A estos consejeros se les abonarán en la respectiva sección los negocios que se les repartan en la Sala Electoral. La designación de los consejeros que deben integrar la Sala Electoral se hará por la Sala Plena del Consejo de Estado y será de forzosa aceptación. Contra la sentencia de la Sala Electoral no cabrá recurso alguno. El Secretario General del Consejo actuará como Secretario de esta Sala".
+
+Parágrafo. La elección de miembros del Consejo Nacional Electoral podrá ser demandada ante la Corte Suprema de Justicia.
+
+**Artículo 231. Reparto en el Consejo de Estado.** El Presidente del Consejo de Estado repartirá los procesos electorales entre todas las secciones de la sala de lo contencioso administrativo, manteniendo el equilibrio entre ellas pero en forma que correspondan a una misma sección todas las demandas provenientes de una sola circunscripción electoral.
+
+Cada sección tramitará y decidirá los procesos electorales que le correspondan.
 
 ##### **Artículo 232. Trámite de la demanda.** Recibida por el tribunal la demanda, deberá ser repartida el mismo día o a más tardar el siguiente hábil.
 
