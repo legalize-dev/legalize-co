@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "1989-10-07"
+last_updated: "1990-06-14"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -399,17 +399,7 @@ En el auto que decrete la práctica de pruebas se indicará, con toda exactitud,
 
 ##### **Artículo 59.** CONTENIDO DE LA DECISIÓN. Concluido el término para practicar pruebas, si lo hubiere, deberá proferirse la decisión definitiva. Esta se motivará con los aspectos de hecho y de derecho que fueren Impertinentes'
 
-##### **Artículo 60.** SILENCIO ADMINISTRATIVO. Transcurrido el término de dos (2) meses, contado desde la fecha de interposición de los recursos de reposición o apelación, sin que se haya notificado decisión expresa sobre ellos, se entenderá que fueron denegados.
-
-El término mencionado se interrumpirá mientras dure el que se hubiera dispuesto para la práctica de pruebas, si fuere pertinente.
-
-El silencio negativo implica pérdida de la competencia de la administración para resolver los recursos
-
-**Artículo 60**. **Silencio administrativo**. Transcurrido un plazo de dos (2) meses, contado a partir de la interposición de los recursos de reposición o apelación sin que se haya notificado decisión expresa sobre ellos, se entenderá que la decisión es negativa.
-
-El plazo mencionado se interrumpirá mientras dure la práctica de pruebas.
-
-La ocurrencia del silencio administrativo negativo previsto en el inciso 1º, no exime a la autoridad de responsabilidad; ni le impide resolver mientras no se haya acudido ante la jurisdicción en lo contencioso administrativo.
+##### **Artículo 60.** Suspendida la vigencia.
 
 ##### **Artículo 61.Notificación**. Las decisiones se notificarán en la forma prevista en los artículos 44, inciso 4° y 45.
 
