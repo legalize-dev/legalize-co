@@ -4,7 +4,7 @@ identifier: "DECRETO-53-1993"
 country: "co"
 rank: "decreto"
 publication_date: "1993-01-07"
-last_updated: "1993-01-07"
+last_updated: "2005-03-02"
 status: "partially_repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1899915"
 department: "DEPARTAMENTO ADMINISTRATIVO DE LA FUNCIÓN PÚBLICA"
@@ -130,35 +130,7 @@ A los servidores públicos que opten por este régimen se les liquidarán las ce
 
 ##### **ARTICULO 5o.** Los empleos de la Fiscalía General de la Nación conservarán el porcentaje de la remuneración mensual que tiene el carácter de gastos de representación fijados en las normas vigentes que regulan la materia. Dicho porcentaje se aplicará a la remuneración mensual excluyendo las primas establecidas en los artículos siguientes.
 
-##### **ARTICULO 6o.** El treinta por ciento (30%) del salario básico mensual de los siguientes servidores públicos se considera como prima especial de servicios sin carácter salarial.
-
-Jefe Unidad de Fiscalía ante Tribunal Nacional
-
-Jefe Unidad de Fiscalía ante Tribunal de Distrito
-
-Fiscal ante Tribunal Nacional
-
-Jefe Unidad Regional de Fiscalía
-
-Fiscal ante Tribunal de Distrito
-
-Fiscal Regional
-
-Jefe Unidad Seccional de Fiscalía
-
-Fiscal Seccional
-
-Secretario General
-
-Directores Nacionales
-
-Directores Regionales
-
-Directores Seccionales
-
-Jefes de Oficina
-
-Jefes de División
+##### **ARTICULO 6o.**Declarado nulo por el Consejo de Estado en SENTENCIA 11001032500019971702101(17021) de 2005 yDeclarado Nulo por el Consejo de Estado en Sentencia 001032500020180110100 de 21/09/2022.****
 
 ##### **ARTICULO 7o.** Establécese las siguientes equivalencias para los empleos de la Fiscalía General de la Nación:
 
