@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1945-06-18"
+last_updated: "1946-12-23"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -911,6 +911,28 @@ El Gobernador podrá convocarla a sesiones extraordinarias. La ley fijará la é
 **Artículo 185.Sustituido por el ACTO LEGISLATIVO 7 DE 1905.**
 
 **Artículo 185.** Corresponde a las Asambleas dirigir y fomentar, por medio de ordenanzas y con los recursos propios del Departamento, la instrucción primaria y la beneficencia, las industrias establecidas y la introducción de otras nuevas, la inmigración, la importación de capitales extranjeros, la colonización de tierras pertenecientes al Departamento, la apertura de caminos y de canales navegables, la construcción de vías férreas, la explotación de bosques de propiedad del Departamento, la canalización de ríos, lo relativo a la policía local, la fiscalización de las rentas y gastos de los distritos, y cuanto se refiera a los intereses seccionales y al adelantamiento interno.
+
+##### **artículo 186.** Artículo 186. Las Asambleas Departamentales son de elección popular y se compondrán de tantos Diputados cuantos correspondan a la población del respectivo Departamento, a razón de un Diputado por cada 40.000 habitantes, y uno más por fracción igual o mayor a la mitad de dicha cifra.
+
+"Cuando la base de población dé por resultado para un Departamento número par de Diputados, automáticamente éste tendrá derecho a elegir uno más para que siempre sea impar el número de Diputados elegidos. En ningún caso se elegirá un número menor de Diputados de los que hoy se eligen. El número de suplentes será el mismo de los Diputados principales, y reemplazarán a éstos en caso de falta absoluta o temporal, según el orden de colocación en la respectiva lista electoral.
+
+Para ser Diputado se necesitan las mismas calidades que para ser Representante".
+
+**artículo 186.** Corresponde a las Asambleas:
+
+- 1° Reglamentar, por medio de ordenanzas y de acuerdo con los preceptos constitucionales y legales, los establecimientos de instrucción primaria y secundaria y los de beneficencia, cuando fueren costeados con fondos del Departamento;
+
+- 2° Dirigir y fomentar por medio de ordenanzas y con los recursos propios del Departamento, las industrias establecidas, y la introducción de otras nuevas, la importación de capitales extranjeros, la colonización de tierras pertenecientes al Departamento, la apertura de caminos y de canales navegables, la construcción de vías férreas, la explotación de bosques de propiedad del Departamento, la canalización de ríos, lo relativo a la Policía local en todo aquello que no haya sido materia de reglamentación por la ley la fiscalización de las rentas y gastos de los Distritos, y cuanto se refiera a los intereses seccionales y al adelantamiento interno;
+
+- 3° Organizar la Contraloría Departamental y elegir el Contralor para un período de dos años;
+
+- 4° Crear y suprimir Municipios, segregar o agregar términos municipales, y fijar límites entre los Distritos, llenando estrictamente los requisitos que establezca la ley;
+
+- 5° La fijación del número de empleados departamentales, sus atribuciones y sueldos;
+
+- 6° Llenar las demás funciones que les señalen la Constitución y las leyes.
+
+**Artículo 186.** Compete también a las Asambleas departamentales crear y suprimir Municipios, con arreglo a la base de población que determine la ley, y segregar y agregar términos municipales consultando los intereses locales. Si de un acto de agregación o segregación se quejare algún vecindario interesado en el asunto, la resolución definitiva corresponde al Congreso.
 
 ##### **Artículo 187.** Las Asambleas departamentales, además de sus atribuciones propias, podrán ejercer otras funciones por autorización del Congreso.
 
