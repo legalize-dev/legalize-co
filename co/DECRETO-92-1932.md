@@ -4,7 +4,7 @@ identifier: "DECRETO-92-1932"
 country: "co"
 rank: "decreto"
 publication_date: "1932-01-22"
-last_updated: "1932-01-22"
+last_updated: "1932-01-24"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1020768"
 department: "MINISTERIO DE HACIENDA Y CREDITO PUBLICO"
@@ -60,13 +60,7 @@ IMPUESTO DE TIMBRE NACIONAL
 
 ##### **Artículo 17.** Los Gobernadores de los Departamentos, los Intendentes, comisarios Especiales, Prefectos y Alcaldes, prestarán a los empleados encargados de la Recaudación y fiscalización de los impuestos de que se trata, todas las garantías y el apoyo que necesitaren en el desempeño de su cargo.
 
-##### **Artículo 18.** Establécese un impuesto sobre la venta de cada llanta para automóviles, camiones o autobuses, que se introduzcan al país, en la forma siguiente: por cada llanta cuyo precio de venta no exceda de $20, $1; por cada llanta cuyo precio de venta sea mayor de $20, sin exceder de $50, $1.50, y por cada llanta cuyo precio de venta exceda de $50, $2.
-
-Este impuesto se pagará en cuanto a las llantas ya introducidas al país adhiriendo a una declaración especial que al fin de cada mes debe hacer el vendedor al Administrador de Hacienda Nacional del respectivo lugar, estampillas de timbre por valor equivalente al impuesto correspondiente al número de llantas vendidas.
-
-En cuanto a las llantas que se introduzcan al país en lo sucesivo, el impuesto se cobrará en las aduanas por medio de estampillas de timbre que el introductor o agente de aduana adherirá a una declaración especial que debe hacer ante el Administrador, quien anulará las estampillas. En lo futuro, en los manifiestos y en las facturas consulares se expresará con precisión el número de llantas a que se refiera cada despacho.
-
-*Impuesto sobre la renta.*
+##### **Artículo 18.** Reformado por el Artículo 1 del Decreto número 140 de 1932.
 
 ##### **Artículo 19.** Las exenciones establecidas en el artículo 10 de la Ley 81 de 1931, quedan reducidas en la siguiente forma:
 
