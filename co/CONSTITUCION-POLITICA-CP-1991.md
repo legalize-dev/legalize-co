@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2003-12-19"
+last_updated: "2004-03-30"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1889,8 +1889,6 @@ Su régimen de inhabilidades e incompatibilidades no será menos estricto que el
 El Distrito Capital de Bogotá, el Departamento de Cundinamarca y los departamentos contiguos a este podrán asociarse en una región administrativa y de planificación especial con personería jurídica, autonomía y patrimonio propio cuyo objeto principal será el desarrollo económico y social de la respectiva región.
 
 Las cita das entidades territoriales conservarán su identidad política y territorial.
-
-**Artículo 306.** Dos o más departamentos podrán constituirse en regiones administrativas y de planificación, con personería jurídica, autonomía y patrimonio propio. Su objeto principal será el desarrollo económico y social del respectivo territorio.
 
 ##### **Artículo 307.** La respectiva ley orgánica, previo concepto de la Comisión de Ordenamiento Territorial, establecerá las condiciones para solicitar la conversión de la región en entidad territorial. La decisión tomada por el Congreso se someterá en cada caso a referendo de los ciudadanos de los departamentos interesados.
 
