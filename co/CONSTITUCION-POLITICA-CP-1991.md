@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "1991-06-13"
+last_updated: "1991-07-07"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -76,24 +76,6 @@ El Estado protegerá especialmente a aquellas personas que por su condición eco
 
 ##### **Artículo 14.** Toda persona tiene derecho al reconocimiento de su personalidad jurídica.
 
-##### **Artículo 15.**Todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre, y el Estado debe respetarlos y hacerlos respetar. De igual modo, tienen derecho a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en los bancos de datos y en archivos de entidades públicas y privadas.
-
-En la recolección, tratamiento y circulación de datos se respetarán la libertad y demás garantías consagradas en la Constitución.
-
-La correspondencia y demás formas de comunicación privada son inviolables. Sólo pueden ser interceptados o registrados mediante orden judicial, en los casos y con las formalidades que establezca la ley.
-
-Con el fin de prevenir la comisión de actos terroristas, una ley estatutaria reglamentará la forma y condiciones en que las autoridades que ella señale, con fundamento en serios motivos, puedan interceptar o registrar la correspondencia y demás formas de comunicación privada, sin previa orden judicial, con aviso inmediato a la Procuraduría General de la Nación y control judicial posterior dentro de las treinta y seis (36) horas siguientes. Al iniciar cada período de sesiones el Gobierno rendirá informe al Congreso sobre el uso que se haya hecho de esta facultad. Los funcionarios que abusen de las medidas a que se refiere este artículo incurrirán en falta gravísima, sin perjuicio de las demás responsabilidades a que hubiere lugar.
-
-Para efectos tributarios judiciales y para los casos de inspección, vigilancia e intervención del Estado, podrá exigirse la presentación de libros de contabilidad y demás documentos privados, en los términos que señale la ley.(**Declarado INEXEQUIBLE el cambio introducido por Acto legislativo 02 de 2003 por sentencia 816 de 2004 )**
-
-**Artículo 15.** Todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre, y el Estado debe respetarlos y hacerlos respetar. De igual modo, tienen derecho a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bancos de datos y en archivos de entidades públicas y privadas.
-
-En la recolección, tratamiento y circulación de datos se respetarán la libertad y demás garantías consagradas en la Constitución.
-
-La correspondencia y demás formas de comunicación privada son inviolables. Sólo pueden ser interceptadas o registradas mediante orden judicial, en los casos y con las formalidades que establezca la ley.
-
-Para efectos tributarios o judiciales y para los casos de inspección, vigilancia e intervención del Estado podrá exigirse la presentación de libros de contabilidad y demás documentos privados, en los términos que señale la ley.
-
 ##### **Artículo 16.** Todas las personas tienen derecho al libre desarrollo de su personalidad sin más limitaciones que las que imponen los derechos de los demás y el orden jurídico.
 
 ##### **Artículo 17.** Se prohiben la esclavitud, la servidumbre y la trata de seres humanos en todas sus formas.
@@ -118,12 +100,6 @@ La ley regulará los tipos penales relacionados con estas conductas, así como l
 
 ##### **Artículo 23.** Toda persona tiene derecho a presentar peticiones respetuosas a las autoridades por motivos de interés general o particular y a obtener pronta resolución. El legislador podrá reglamentar su ejercicio ante organizaciones privadas para garantizar los derechos fundamentales.
 
-##### **Artículo 24.** Todo colombiano, con las limitaciones que establezca la ley, tiene derecho a circular libremente por el territorio nacional, a entrar y salir de él, y a permanecer y residenciarse en Colombia.
-
-El Gobierno Nacional podrá establecer la obligación de llevar un informe de residencia de los habitantes del territorio nacional, de conformidad con la ley estatutaria que se expida para el efecto.(**Declarado INEXEQUIBLE el cambio introducido por Acto legislativo 02 de 2003 por sentencia 816 de 2004 )**
-
-**Artículo 24.** Todo colombiano, con las limitaciones que establezca la ley, tiene derecho a circular libremente por el territorio nacional, a entrar y salir de él, y a permanecer y residenciarse en Colombia.
-
 ##### **Artículo 25.** El trabajo es un derecho y una obligación social y goza, en todas sus modalidades, de la especial protección del Estado. Toda persona tiene derecho a un trabajo en condiciones dignas y justas.
 
 ##### **Artículo 26.** Toda persona es libre de escoger profesión u oficio. La ley podrá exigir títulos de idoneidad. Las autoridades competentes inspeccionaran y vigilaran el ejercicio de las profesiones. Las ocupaciones, artes y oficios que no exijan formación académica son de libre ejercicio, salvo aquellas que impliquen un riesgo social.
@@ -131,20 +107,6 @@ El Gobierno Nacional podrá establecer la obligación de llevar un informe de re
 Las profesiones legalmente reconocidas pueden organizarse en colegios. La estructura interna y el funcionamiento de estos deberán ser democráticos. La ley podrá asignarles funciones públicas y establecer los debidos controles.
 
 ##### **Artículo 27.** El Estado garantiza las libertades de enseñanza, aprendizaje, investigación y cátedra.
-
-##### **Artículo 28.**Toda persona es libre. Nadie puede ser molestado en su persona o familia, ni reducido a prisión o arresto, ni detenido, ni su domicilio registrado, sino en virtud de mandamiento escrito de autoridad judicial competente, con las formalidades legales y por motivo previamente definido en la ley.
-
-La persona detenida preventivamente será puesta a disposición del juez competente dentro de las treinta y seis (36) horas siguientes, para que este adopte la decisión correspondiente en el término que establezca la ley.
-
-En ningún caso podrá haber detención, prisión ni arresto por deudas, ni penas y medidas de seguridad imprescriptibles.
-
-Una ley estatutaria reglamentará la forma en que, sin previa orden judicial, las autoridades que ella señale puedan realizar detenciones, allanamientos y registros domiciliarios, con aviso inmediato a la Procuraduría General de la Nación y control judicial posterior dentro de las treinta y seis (36) horas siguientes, siempre que existan serios motivos para prevenir la comisión de actos terroristas. Al iniciar cada período de sesiones el Gobierno rendirá informe al Congreso sobre el uso que se haya hecho de esta facultad. Los funcionarios que abusen de las medidas a que se refiere este artículo incurrirán en falta gravísima, sin perjuicio de las demás responsabilidades a que hubiere lugar.(**Declarado INEXEQUIBLE el cambio introducido por Acto legislativo 02 de 2003 por sentencia 816 de 2004 )**
-
-**Artículo 28.** Toda persona es libre. Nadie puede ser molestado en su persona o familia, ni reducido a prisión o arresto, ni detenido, ni su domicilio registrado, sino en virtud de mandamiento escrito de autoridad judicial competente, con las formalidades legales y por motivo previamente definido en la ley.
-
-La persona detenida preventivamente será puesta a disposición del juez competente dentro de las treinta y seis horas siguientes, para que éste adopte la decisión correspondiente en el término que establezca la ley.
-
-En ningún caso podrá haber detención, prisión ni arresto por deudas, ni penas y medidas de seguridad imprescriptibles.
 
 ##### **Artículo 29.** El debido proceso se aplicará a toda clase de actuaciones judiciales y administrativas. Nadie podrá ser juzgado sino conforme a leyes preexistentes al acto que se le imputa, ante juez o tribunal competente y con observancia de la plenitud de las formas propias de cada juicio. En materia penal, la ley permisiva o favorable, aun cuando sea posterior, se aplicará de preferencia a la restrictiva o desfavorable.
 
@@ -161,38 +123,6 @@ El superior no podrá agravar la pena impuesta cuando el condenado sea apelante 
 ##### **Artículo 32.** El delincuente sorprendido en flagrancia podrá ser aprehendido y llevado ante el juez por cualquier persona. Si los agentes de la autoridad lo persiguieren y se refugiare en su propio domicilio, podrán penetrar en él, para el acto de la aprehensión; si se acogiere a domicilio ajeno, deberá preceder requerimiento al morador.
 
 ##### **Artículo 33.** Nadie podrá ser obligado a declarar contra si mismo o contra su cónyuge, compañero permanente o parientes dentro del cuarto grado de consanguinidad, segundo de afinidad o primero civil.
-
-##### **Artículo 34.**Se prohíben penas de destierro y confiscación.
-
-No obstante, por sentencia judicial, se declarará extinguido el dominio sobre los bienes adquiridos mediante enriquecimiento ilícito, en perjuicio del Tesoro Público o con grave deterioro de la moral social.
-
-De manera excepcional cuando un niño, niña o adolescente sea víctima de las conductas de homicidio en modalidad dolosa, acceso carnal que implique violencia o sea puesto en incapacidad de resistir o sea incapaz de resistir, se podrá imponer como sanción hasta la pena de prisión perpetua.
-
-Toda pena de prisión perpetua tendrá control automático ante el superior jerárquico.
-
-En todo caso la pena deberá ser revisada en un plazo no inferior a veinticinco (25) años, para evaluar la resocialización del condenado.
-
-**Parágrafo Transitorio.** El Gobierno nacional contará con un (1) año contado a partir de la fecha de promulgación del presente acto legislativo, para radicar ante el Congreso de la República el proyecto de ley que reglamente la prisión perpetua.
-
-Se deberá formular en el mismo término, una política pública integral que desarrolle la protección de niños, niñas y adolescentes; fundamentada principalmente en las alertas tempranas, educación, prevención, acompañamiento psicológico y la garantía de una efectiva judicialización y condena cuando sus derechos resulten vulnerados.
-
-Anualmente se presentará un informe al Congreso de la República sobre el avance y cumplimiento de esta política pública. Así mismo, se conformará una Comisión de Seguimiento, orientada a proporcionar apoyo al proceso de supervisión que adelantará el Legislativo.
-
-**Artículo34.** Se prohíben las penas de destierro, prisión perpetua y confiscación.
-
-No obstante, por sentencia judicial, se declarará extinguido el dominio sobre los bienes adquiridos mediante enriquecimiento ilícito, en perjuicio del Tesoro Público o con grave deterioro de la moral social.
-
-##### **Artículo 35.** La extradición se podrá solicitar, conceder u ofrecer de acuerdo con los tratados públicos y, en su defecto, con la ley.
-
-Además, la extradición de los colombianos por nacimiento se concederá por delitos cometidos en el exterior, considerados como tales en la legislación penal colombiana. La Ley reglamentará la materia.
-
-La extradición no procederá por delitos políticos.
-
-No procederá la extradición cuando se trate de hechos cometidos con anterioridad a la promulgación de la presente norma.
-
-**Artículo 35.** Se prohíbe la extradición de colombianos por nacimiento. No se concederá la extradición de extranjeros por delitos políticos o de opinión.
-
-Los colombianos que hayan cometido delitos en el exterior, considerados como tales en la legislación nacional, serán procesados y juzgados en Colombia
 
 ##### **Artículo 36.** Se reconoce el derecho de asilo en los términos previstos en la ley.
 
@@ -273,66 +203,6 @@ El Estado y la sociedad garantizan la participación activa de los jóvenes en l
 El Estado les garantizará los servicios de la seguridad social integral y el subsidio alimentario en caso de indigencia.
 
 ##### **Artículo 47.** El Estado adelantará una política de previsión, rehabilitación e integración social para los disminuidos físicos, sensoriales y psíquicos, a quienes se prestará la atención especializada que requieran.
-
-##### **Artículo 48.** La Seguridad Social es un servicio público de carácter obligatorio que se prestará bajo la dirección, coordinación y control del Estado, en sujeción a los principios de eficiencia, universalidad y solidaridad, en los términos que establezca la Ley.
-
-Se garantiza a todos los habitantes el derecho irrenunciable a la Seguridad Social.
-
-El Estado, con la participación de los particulares, ampliara progresivamente la cobertura de la Seguridad Social que comprenderá la prestación de los servicios en la forma que determine la Ley.
-
-La Seguridad Social podrá ser prestada por entidades públicas o privadas, de conformidad con la ley.
-
-No se podrán destinar ni utilizar los recursos de las instituciones de la Seguridad Social para fines diferentes a ella.
-
-La ley definirá los medios para que los recursos destinados a pensiones mantengan su poder adquisitivo constante.
-
-El Estado garantizará los derechos, la sostenibilidad financiera del Sistema Pensional, respetará los derechos adquiridos con arreglo a la ley y asumirá el pago de la deuda pensional que de acuerdo con la ley esté a su cargo. Las leyes en materia pensional que se expidan con posterioridad a la entrada en vigencia de este acto legislativo, deberán asegurar la sostenibilidad financiera de lo establecido en ellas.
-
-Sin perjuicio de los descuentos, deducciones y embargos a pensiones ordenados de acuerdo con la ley, por ningún motivo podrá dejarse de pagar, congelarse o reducirse el valor de la mesada de las pensiones reconocidas conforme a derecho.
-
-Para adquirir el derecho a la pensión será necesario cumplir con la edad, el tiempo de servicio, las semanas de cotización o el capital necesario, así como las demás condiciones que señala la ley, sin perjuicio de lo dispuesto para las pensiones de invalidez y sobrevivencia. Los requisitos y beneficios para adquirir el derecho a una pensión de invalidez o de sobrevivencia serán los establecidos por las leyes del Sistema General de Pensiones.
-
-En materia pensional se respetarán todos los derechos adquiridos.
-
-Los requisitos y beneficios pensionales para todas las personas, incluidos los de pensión de vejez por actividades de alto riesgo, serán los establecidos en las leyes del Sistema General de Pensiones. No podrá dictarse disposición o invocarse acuerdo alguno para apartarse de lo allí establecido.
-
-Para la liquidación de las pensiones sólo se tendrán en cuenta los factores sobre los cuales cada persona hubiere efectuado las cotizaciones. Ninguna pensión podrá ser inferior al salario mínimo legal mensual vigente. Sin embargo, la ley podrá determinar los casos en que se puedan conceder beneficios económicos periódicos inferiores al salario mínimo, a personas de escasos recursos que no cumplan con las condiciones requeridas para tener derecho a una pensión.
-
-A partir de la vigencia del presente Acto Legislativo, no habrá regímenes especiales ni exceptuados, sin perjuicio del aplicable a la fuerza pública, al Presidente de la República y a lo establecido en los parágrafos del presente artículo.
-
-Las personas cuyo derecho a la pensión se cause a partir de la vigencia del presente Acto Legislativo no podrán recibir más de trece (13) mesadas pensionales al año. Se entiende que la pensión se causa cuando se cumplen todos los requisitos para acceder a ella, aun cuando no se hubiese efectuado el reconocimiento.
-
-La ley establecerá un procedimiento breve para la revisión de las pensiones reconocidas con abuso del derecho o sin el cumplimiento de los requisitos establecidos en la ley o en las convenciones y laudos arbitrales válidamente celebrados.
-
-**Parágrafo 1º.** A partir del 31 de julio de 2010, no podrán causarse pensiones superiores a veinticinco (25) salarios mínimos legales mensuales vigentes, con cargo a recursos de naturaleza pública.
-
-**Parágrafo 2º.** A partir de la vigencia del presente Acto Legislativo no podrán establecerse en pactos, convenciones colectivas de trabajo, laudos o acto jurídico alguno, condiciones pensionales diferentes a las establecidas en las leyes del Sistema General de Pensiones.
-
-**Parágrafo transitorio 1º.** El régimen pensional de los docentes nacionales, nacionalizados y territoriales, vinculados al servicio público educativo oficial es el establecido para el Magisterio en las disposiciones legales vigentes con anterioridad a la entrada en vigencia de la Ley 812 de 2003, y lo preceptuado en el artículo 81 de esta. Los docentes que se hayan vinculado o se vinculen a partir de la vigencia de la citada ley, tendrán los derechos de prima media establecidos en las leyes del Sistema General de Pensiones, en los términos del artículo 81 de la Ley 812 de 2003.
-
-**Parágrafo transitorio 2º.** Sin perjuicio de los derechos adquiridos, el régimen aplicable a los miembros de la Fuerza Pública y al Presidente de la República, y lo establecido en los parágrafos del presente artículo, la vigencia de los regímenes pensionales especiales, los exceptuados, así como cualquier otro distinto al establecido de manera permanente en las leyes del Sistema General de Pensiones expirará el 31 de julio del año 2010.
-
-**Parágrafo transitorio 3º.** Las reglas de carácter pensional que rigen a la fecha de vigencia de este Acto Legislativo contenidas en pactos, convenciones colectivas de trabajo, laudos o acuerdos válidamente celebrados, se mantendrán por el término inicialmente estipulado. En los pactos, convenciones o laudos que se suscriban entre la vigencia de este Acto Legislativo y el 31 de julio de 2010, no podrán estipularse condiciones pensionales más favorables que las que se encuentren actualmente vigentes. En todo caso perderán vigencia el 31 de julio de 2010.
-
-**Parágrafo transitorio 4º.** El régimen de transición establecido en la Ley 100 de 1993 y demás normas que desarrollen dicho régimen, no podrá extenderse más allá del 31 de julio de 2010; excepto para los trabajadores que estando en dicho régimen, además, tengan cotizadas al menos 750 semanas o su equivalente en tiempo de servicios a la entrada en vigencia del presente Acto Legislativo, a los cuales se les mantendrá dicho régimen hasta el año 2014.
-
-Los requisitos y beneficios pensionales para las personas cobijadas por este régimen serán los exigidos por el artículo 36 de la Ley 100 de 1993 y demás normas que desarrollen dicho régimen.
-
-**Parágrafo transitorio 5º.** De conformidad con lo dispuesto por el artículo 140 de la Ley 100 de 1993 y el Decreto 2090 de 2003, a partir de la entrada en vigencia de este último decreto, a los miembros del cuerpo de custodia y vigilancia Penitenciaria y Carcelaria Nacional se les aplicará el régimen de alto riesgo contemplado en el mismo. A quienes ingresaron con anterioridad a dicha fecha se aplicará el régimen hasta ese entonces vigente para dichas personas por razón de los riesgos de su labor, este es el dispuesto para el efecto por la Ley 32 de 1986, para lo cual deben haberse cubierto las cotizaciones correspondientes.
-
-**Parágrafo transitorio 6º.** Se exceptúan de lo establecido por el inciso 8º del presente artículo, aquellas personas que perciban una pensión igual o inferior a tres (3) salarios mínimos legales mensuales vigentes, si la misma se causa antes del 31 de julio de 2011, quienes recibirán catorce (14) mesadas pensionales al año.
-
-**Artículo 48.** La Seguridad Social es un servicio público de carácter obligatorio que se prestará bajo la dirección, coordinación y control del Estado, en sujeción a los principios de eficiencia, universalidad y solidaridad, en los términos que establezca la Ley.
-
-Se garantiza a todos los habitantes el derecho irrenunciable a la Seguridad Social.
-
-El Estado, con la participación de los particulares, ampliara progresivamente la cobertura de la Seguridad Social que comprenderá la prestación de los servicios en la forma que determine la Ley.
-
-La Seguridad Social podrá ser prestada por entidades públicas o privadas, de conformidad con la ley.
-
-No se podrán destinar ni utilizar los recursos de las instituciones de la Seguridad Social para fines diferentes a ella.
-
-La ley definirá los medios para que los recursos destinados a pensiones mantengan su poder adquisitivo constante.
 
 ##### **Artículo 49.** La atención de la salud y el saneamiento ambiental son servicios públicos a cargo del Estado. Se garantiza a todas las personas el acceso a los servicios de promoción, protección y recuperación de la salud.
 
@@ -666,98 +536,6 @@ El Estado contribuirá a la organización, promoción y capacitación de las aso
 
 **DE LOS PARTIDOS Y DE LOS MOVIMIENTOS POLITICOS**
 
-##### **Artículo 107.** Se garantiza a todos los ciudadanos el derecho a fundar, organizar y desarrollar partidos y movimientos políticos, y la libertad de afiliarse a ellos o de retirarse.
-
-En ningún caso se permitirá a los ciudadanos pertenecer simultáneamente a más de un partido o movimiento políticos con personería jurídica.
-
-Los partidos y movimientos políticos se organizarán democráticamente. Para la toma de sus decisiones o la escogencia de sus candidatos podrán celebrar consultas populares o internas que coincidan o no con las elecciones a corporaciones públicas, de acuerdo con lo previsto en sus estatutos. En el caso de las consultas populares se aplicarán las normas sobre financiación y publicidad de campañas y acceso a los medios de comunicación del Estado, que rigen para las elecciones ordinarias. Quien participe en las consultas de un partido o movimiento político no podrá inscribirse por otro en el mismo proceso electoral
-
-También se garantiza a las organizaciones sociales el derecho a manifestarse y participar en eventos políticos.
-
-**Artículo 107.** Se garantiza a todos los nacionales el derecho a fundar, organizar y desarrollar partidos y movimientos políticos, y la libertad de afiliarse a ellos o de retirarse.
-
-También se garantiza a las organizaciones sociales el derecho a manifestarse y a participar en eventos políticos.
-
-##### **Artículo 108.** El Consejo Nacional Electoral reconocerá Personería Jurídica a los partidos, movimientos políticos y grupos significativos de ciudadanos. Estos podrán obtenerlas con votación no inferior al tres por ciento (3%) de los votos emitidos válidamente en el territorio nacional en elecciones de Cámara de Representantes o Senado. Las perderán si no consiguen ese porcentaje en las elecciones de las mismas Corporaciones Públicas. Se exceptúa el régimen excepcional que se estatuya en la ley para las circunscripciones de minorías étnicas y políticas, en las cuales bastará haber obtenido representación en el Congreso.
-
-También será causal de pérdida de la Personería Jurídica de los partidos y movimientos políticos si estos no celebran por lo menos durante cada dos (2) años convenciones que posibiliten a sus miembros influir en la toma de las decisiones más importantes de la organización política.
-
-Los Partidos y Movimientos Políticos con Personería Jurídica reconocida podrán inscribir candidatos a elecciones. Dicha inscripción deberá ser avalada para los mismos efectos por el respectivo representante legal del partido o movimiento o por quien él delegue.
-
-Los movimientos sociales y grupos significativos de ciudadanos también podrán inscribir candidatos.
-
-Toda inscripción de candidato incurso en causal de inhabilidad, será revocada por el Consejo Nacional Electoral con respeto al debido proceso.
-
-Los Estatutos de los Partidos y Movimientos Políticos regularán lo atinente a su Régimen Disciplinario Interno. Los miembros de las Corporaciones Públicas elegidos por un mismo Partido o Movimiento Político o grupo significativo de ciudadanos actuarán en ellas como bancada en los términos que señale la ley y de conformidad con las decisiones adoptadas democráticamente por estas.
-
-Los Estatutos Internos de los Partidos y Movimientos Políticos determinarán los asuntos de conciencia respecto de los cuales no se aplicará este régimen y podrán establecer sanciones por la inobservancia de sus directrices por parte de los miembros de las bancadas, las cuales se fijarán gradualmente hasta la expulsión, y podrán incluir la pérdida del derecho de voto del Congresista, Diputado, Concejal o Edil por el resto del período para el cual fue elegido.
-
-Los Partidos y Movimientos Políticos que habiendo obtenido su Personería Jurídica como producto de la circunscripción especial de minorías étnicas podrán avalar candidatos sin más requisitos que su afiliación a dicho partido, con una antelación no inferior a un año respecto a la fecha de la inscripción.
-
-**Parágrafo Transitorio.** Para las elecciones al Congreso de la República a celebrarse en 2010, el porcentaje a que se refiere el inciso primero del presente artículo será del dos por ciento (2%), y no se requerirá del requisito de inscripción con un año de antelación del que habla el inciso 8º.
-
-**Artículo 108.** El Consejo Nacional Electoral reconocerá personería jurídica a los partidos, movimientos políticos y grupos significativos de ciudadanos. Estos podrán obtenerlas con votación no inferior al dos por ciento (2%) de los votos emitidos válidamente en el territorio nacional en elecciones de Cámara de Representantes o Senado. Las perderán si no consiguen ese porcentaje en las elecciones de las mismas Corporaciones Públicas. Se exceptúa el régimen excepcional que se estatuya en la ley para las circunscripciones de minorías, en las cuales bastará haber obtenido representación en el Congreso.
-
-Los partidos y movimientos políticos con personería jurídica reconocida podrán inscribir candidatos a elecciones sin requisito adicional alguno.
-
-Dicha inscripción deberá ser avalada para los mismos efectos por el respectivo representante legal del partido o movimiento o por quien él delegue.
-
-Los movimientos sociales y grupos significativos de ciudadanos también podrán inscribir candidatos.
-
-La ley determinará los requisitos de seriedad para la inscripción de candidatos.
-
-Los estatutos de los partidos y movimientos políticos regularán lo atinente a su régimen disciplinario interno. Los miembros de las Corporaciones Públicas elegidos por un mismo partido o movimiento político o ciudadano actuarán en ellas como bancada en los términos que señale la ley y de conformidad con las decisiones adoptadas democráticamente por estas.
-
-Los estatutos internos de los partidos y movimientos políticos determinarán los asuntos de conciencia respecto de los cuales no se aplicará este régimen y podrán establecer sanciones por la inobservancia de sus directrices por parte de los miembros de las bancadas, las cuales se fijarán gradualmente hasta la expulsión, y podrán incluir la pérdida del derecho de voto del congresista, diputado, concejal o edil por el resto del período para el cual fue elegido.
-
-**Parágrafo transitorio 1º.** Los partidos y movimientos políticos con Personería Jurídica reconocida actualmente y con representación en el Congreso, conservarán tal personería hasta las siguientes elecciones de Congreso que se realicen con posterioridad a la promulgación del presente Acto Legislativo, de cuyos resultados dependerá que la conserven de acuerdo con las reglas dispuestas en la Constitución.
-
-Para efectos de participar en cualquiera de las elecciones que se realicen desde la entrada en vigencia de esta Reforma hasta las siguientes elecciones de Congreso, los partidos y movimientos políticos con representación en el Congreso podrán agruparse siempre que cumplan con los requisitos de votación exigidos en la presente Reforma para la obtención de las personerías jurídicas de los partidos y movimientos políticos y obtengan personería jurídica que reemplazará a la de quienes se agrupen. La nueva agrupación así constituida gozará de los beneficios y cumplirá las obligaciones, consagrados en la Constitución para los partidos y movimientos políticos en materia electoral.
-
-**Parágrafo transitorio 2º.** Un número plural de Senadores o Representantes a la Cámara, cuya sumatoria de votos en las pasadas elecciones de Congreso hayan obtenido más del dos por ciento (2%) de los votos válidos emitidos para Sena do de la República en el Territorio Nacional, podrán solicitar el reconocimiento de la Personería jurídica de partido o movimiento político. Esta norma regirá por tres (3) meses a partir de su promulgación.
-
-**Artículo 108.** El Consejo Nacional Electoral reconocerá personería jurídica a los partidos o movimientos políticos que se organicen para participar en la vida democrática del país, cuando comprueben su existencia con no menos de cincuenta mil firmas, o cuando en la elección anterior hayan obtenido por lo menos la misma cifra de votos o alcanzado representación en el Congreso de la República.
-
-En ningún caso podrá la ley establecer exigencias en relación con la organización interna de los partidos y movimientos políticos, ni obligar la afiliación a ellos para participar en las elecciones.
-
-Los partidos y movimientos políticos con personería jurídica reconocida podrán inscribir candidatos a elecciones sin requisito adicional alguno. Dicha inscripción deberá ser avalada para los mismos efectos por el respectivo representante legal del partido o movimiento o por quien él delegue.
-
-Los movimientos sociales y grupos significativos de ciudadanos también podrán inscribir candidatos.
-
-La ley podrá establecer requisitos para garantizar la seriedad de las inscripciones de candidatos.
-
-La personería de que trata el presente artículo quedará extinguida por no haberse obtenido el número de votos mencionado o alcanzado representación como miembros del Congreso, en la elección anterior.
-
-Se perderá también dicha personería cuando en los comicios electorales que se realicen en adelante no se obtengan por el partido o movimiento político a través de sus candidatos por lo menos 50.000 votos o no se alcance la representación en el Congreso de la República.
-
-##### **Artículo 109.** El Estado concurrirá a la financiación de los partidos y movimientos políticos con personería jurídica, de conformidad con la ley.
-
-Las campañas que adelanten los partidos y movimientos con personería jurídica y los grupos significativos de ciudadanos que postulen candidatos serán financiadas con recursos estatales mediante el sistema de reposición por votos depositados.
-
-La ley determinará el porcentaje de votación necesario para tener derecho a dicha financiación.
-
-También se podrá limitar el monto de los gastos que los partidos, movimientos o candidatos puedan realizar en las campañas electorales, así como la máxima cuantía de las contribuciones privadas, de acuerdo con la ley.
-
-Las campañas para elegir Presidente de la República dispondrán de acceso a un máximo de espacios publicitarios y espacios institucionales de radio y televisión costeados por el Estado, para aquellos candidatos de partidos, movimientos y grupos significativos de ciudadanos cuya postulación cumpla los requisitos de seriedad que, para el efecto, determine la ley.
-
-Para las elecciones que se celebren a partir de la vigencia del presente acto legislativo, la violación de los topes máximos de financiación de las campañas, debidamente comprobada, será sancionada con la pérdida de investidura o del cargo. La ley reglamentará los demás efectos por la violación de este precepto.
-
-Los partidos, movimientos y candidatos deberán rendir públicamente cuentas sobre el volumen, origen y destino de sus ingresos.
-
-**Parágrafo.** La financiación anual de los partidos y movimientos políticos con Personería Jurídica ascenderá como mínimo a dos punto siete veces la aportada en el año 2003, manteniendo su valor en el tiempo.
-
-La cuantía de la financiación de las campañas de los partidos y movimientos políticos con personería jurídica será por lo menos tres veces la aportada en el período 1999-2002 en pesos constantes de 2003. Ello incluye el costo del transporte del día de elecciones y el costo de las franquicias de correo hoy financiadas.
-
-Las consultas populares internas de los partidos y movimientos que opten por este mecanismo recibirán financiación mediante el sistema de reposición por votos depositados, manteniendo para ello el valor en pesos constantes vigente en el momento de aprobación de este Acto Legislativo.
-
-**Parágrafo transitorio.** El Congreso reglamentará estas materias. En lo concerniente a las elecciones departamentales y municipales, tal reglamentación deberá estar lista a más tardar tres meses antes de su realización. Si no lo hiciere, el Gobierno Nacional dictará un decreto con fuerza de ley antes del cierre de las inscripciones correspondientes.
-
-**Artículo 109.** El Estado contribuirá a la financiación del funcionamiento y de las campanas electorales de los partidos y movimientos políticos con personería jurídica.
-
-Los demás partidos, movimientos y grupos significativos de ciudadanos que postulen candidatos. se harán acreedores a este beneficio siempre que obtengan el porcentaje de votación que señale la ley.
-
-La ley podrá limitar el monto de los gastos que los partidos, movimientos o candidatos puedan realizar en las campañas electorales, así como la máxima cuantía de las contribuciones individuales. Los partidos, movimientos y candidatos deberán rendir públicamente cuentas sobre el volumen, origen y destino de sus ingresos.
-
 ##### **Artículo 110.** Se prohíbe a quienes desempeñan funciones públicas hacer contribución alguna a los partidos, movimientos o candidatos, o inducir a otros a que lo hagan, salvo las excepciones que establezca la ley. El incumplimiento de cualquiera de estas prohibiciones será causal de remoción del cargo o de pérdida de la investidura.
 
 ##### **Artículo 111.** Los partidos y movimientos políticos con personería jurídica tienen derecho a utilizar los medios de comunicación social del Estado en todo tiempo, conforme a la ley. Ella establecerá así mismo los casos y la forma como los candidatos debidamente inscritos tendrán acceso a dichos medios.
@@ -765,18 +543,6 @@ La ley podrá limitar el monto de los gastos que los partidos, movimientos o can
 ### **CAPITULO 3**
 
 **DEL ESTATUTO DE LA OPOSICION**
-
-##### **Artículo 112.** Los partidos y movimientos políticos con personería jurídica que se declaren en oposición al Gobierno, podrán ejercer libremente la función crítica frente a este, y plantear y desarrollar alternativas políticas. Para estos efectos, se les garantizarán los siguientes derechos: el acceso a la información y a la documentación oficial, con las restricciones constitucionales y legales; el uso de los medios de comunicación social del Estado o en aquellos que hagan uso del espectro electromagnético de acuerdo con la representación obtenida en las elecciones para Congreso inmediatamente anteriores; la réplica en los mismos medios de comunicación.
-
-Los partidos y movimientos minoritarios con personería jurídica tendrán derecho a participar en las mesas directivas de los cuerpos colegiados, según su representación en ellos.
-
-Una ley estatutaria reglamentará íntegramente la materia.
-
-**Artículo 112.** Los partidos y movimientos políticos que no participen en el Gobierno podrán ejercer libremente la función crítica frente a éste y plantear y desarrollar alternativas políticas. Para estos efectos, salvo las restricciones legales, se les garantizan los siguientes derechos: de acceso a la información y a la documentación oficiales; de uso de los medios de comunicación social del Estado de acuerdo con la representación obtenida en las elecciones para Congreso inmediatamente anteriores; de réplica en los medios de comunicación del Estado frente a tergiversaciones graves y evidentes o ataques públicos proferidos por altos funcionarios oficiales, y de participación en los organismos electorales.
-
-Los partidos y movimientos minoritarios tendrán derecho a participar en las mesas directivas de los cuerpos colegiados, según su representación en ellos.
-
-Una ley estatutaria regulará íntegramente la materia.
 
 ## **TITULO V**
 
@@ -802,62 +568,6 @@ Ningún acto del Presidente, excepto el de nombramiento y remoción de Ministros
 
 Las gobernaciones y las alcaldías, así como las superintendencias, los establecimientos públicos y las empresas industriales o comerciales del Estado, forman parte de la Rama Ejecutiva.
 
-##### **Artículo 116.**La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, Comisión Nacional de Disciplina Judicial, la Fiscalía General de la Nación, los Tribunales y los Jueces, administran Justicia. También lo hace la Justicia Penal Militar.
-
-El Congreso ejercerá determinadas funciones judiciales.
-
-Excepcionalmente la ley podrá atribuir función jurisdiccional en materias precisas a determinadas autoridades administrativas. Sin embargo no les será permitido adelantar la instrucción de sumarios ni juzgar delitos.
-
-Los particulares pueden ser investidos transitoriamente de la función de administrar justicia en la condición de jurados en las causas criminales, conciliadores o en la de árbitros habilitados por las partes para proferir fallos en derecho o en equidad, en los términos que determine la ley.
-
-**Artículo 116.**La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado,Consejo Superior de la Judicatura, la Fiscalía General de la Nación, los Tribunales y los Jueces, administran Justicia. También lo hace la Justicia Penal Militar.
-
-El Congreso ejercerá determinadas funciones judiciales.
-
-Excepcionalmente la ley podrá atribuir función jurisdiccional en materias precisas a determinadas autoridades administrativas. Sin embargo no les será permitido adelantar la instrucción de sumarios ni juzgar delitos.
-
-Los particulares pueden ser investidos transitoriamente de la función de administrar justicia en la condición de jurados en las causas criminales, conciliadores o en la de árbitros habilitados por las partes para proferir fallos en derecho o en equidad, en los términos que determine la ley.
-
-Créase un Tribunal de Garantías Penales que tendrá competencia en todo el territorio nacional y en cualquier jurisdicción penal, y ejercerá las siguientes funciones:
-
-- 1. De manera preferente, servir de juez de control de garantías en cualquier investigación o proceso penal que se adelante contra miembros de la Fuerza Pública.
-
-- 2. De manera preferente, controlar la acusación penal contra miembros de la Fuerza Pública, con el fin de garantizar que se cumplan los presupuestos materiales y formales para iniciar el juicio oral.
-
-- 3. De manera permanente, dirimir los conflictos de competencia que ocurran entre la Jurisdicción Ordinaria y la Jurisdicción Penal Militar.
-
-- 4. Las demás funciones que le asigne la ley.
-
-El Tribunal de Garantías estará integrado por ocho (8) Magistrados, cuatro (4) de los cuales serán miembros de la Fuerza Pública en retiro. Sus miembros serán elegidos por la Sala de Gobierno de la Corte Suprema de Justicia, la Sala de Gobierno del Consejo de Estado y la Corte Constitucional en pleno. Los miembros de la Fuerza Pública en retiro de este Tribunal serán elegidos de cuatro (4) ternas que enviará el Presidente de la República. Una ley estatutaria establecerá los requisitos exigidos para ser magistrado, el régimen de inhabilidades e incompatibilidades, el mecanismo de postulación de candidatos, el procedimiento para su selección y demás aspectos de organización y funcionamiento del Tribunal de Garantías Penales.
-
-**Parágrafo** Transitorio. El Tribunal de Garantías Penales empezará a ejercer las funciones asignadas en este artículo, una vez entre en vigencia la ley estatutaria que lo reglamente.
-
-**Artículo 116.** La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Superior de la Judicatura, la Fiscalía General de la Nación, los Tribunales y los Jueces, administran Justicia. También lo hace la Justicia Penal Militar.
-
-El Congreso ejercerá determinadas funciones judiciales.
-
-Excepcionalmente la ley podrá atribuir función jurisdiccional en materias precisas a determinadas autoridades administrativas. Sin embargo no les será permitido adelantar la instrucción de sumarios ni juzgar delitos.
-
-Los particulares pueden ser investidos transitoriamente de la función de administrar justicia en la condición de jurados en las causas criminales, conciliadores o en la de árbitros habilitados por las partes para proferir fallos en derecho o en equidad, en los términos que determine la ley.
-
-Créase un Tribunal de Garantías Penales que tendrá competencia en todo el territorio nacional y en cualquier jurisdicción penal, y ejercerá las siguientes funciones:
-
-- 1. De manera preferente, servir de juez de control de garantías en cualquier investigación o proceso penal que se adelante contra miembros de la Fuerza Pública.
-
-- 2. De manera preferente, controlar la acusación penal contra miembros de la Fuerza Pública, con el fin de garantizar que se cumplan los presupuestos materiales y formales para iniciar el juicio oral.
-
-- 3. De manera permanente, dirimir los conflictos de competencia que ocurran entre la Jurisdicción Ordinaria y la Jurisdicción Penal Militar.
-
-- 4. Las demás funciones que le asigne la ley.
-
-El Tribunal de Garantías estará integrado por ocho (8) Magistrados, cuatro (4) de los cuales serán miembros de la Fuerza Pública en retiro. Sus miembros serán elegidos por la Sala de Gobierno de la Corte Suprema de Justicia, la Sala de Gobierno del Consejo de Estado y la Corte Constitucional en pleno. Los miembros de la Fuerza Pública en retiro de este Tribunal serán elegidos de cuatro (4) ternas que enviará el Presidente de la República. Una ley estatutaria establecerá los requisitos exigidos para ser magistrado, el régimen de inhabilidades e incompatibilidades, el mecanismo de postulación de candidatos, el procedimiento para su selección y demás aspectos de organización y funcionamiento del Tribunal de Garantías Penales.
-
-**Parágrafo** Transitorio. El Tribunal de Garantías Penales empezará a ejercer las funciones asignadas en este artículo, una vez entre en vigencia la ley estatutaria que lo reglamente.
-
-**Artículo 116**. La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Superior de la Judicatura, la Fiscalía General de la Nación, los Tribunales y los Jueces, administran Justicia. También lo hace la Justicia Penal Militar. El Congreso ejercerá determinadas funciones judiciales. Excepcionalmente la ley podrá atribuir función jurisdiccional en materias precisas a determinadas autoridades administrativas. Sin embargo no les será permitido adelantar la instrucción de sumarios ni juzgar delitos. Los particulares pueden ser investidos transitoriamente de la función de administrar justicia en la condición de jurados en las causas criminales, conciliadores o en la de árbitros habilitados por las partes para proferir fallos en derecho o en equidad, en los términos que determine la ley.
-
-**Artículo 116.** La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Superior de la Judicatura, la Fiscalía General de la Nación, los Tribunales y los Jueces, administran Justicia. También lo hace la Justicia Penal Militar. El Congreso ejercerá determinadas funciones judiciales. Excepcionalmente la ley podrá atribuir función jurisdiccional en materias precisas a determinadas autoridades administrativas. Sin embargo no les será permitido adelantar la instrucción de sumarios ni juzgar delitos. Los particulares pueden ser investidos transitoriamente de la función de administrar justicia en la condición de jurados en las causas criminales, conciliadores o en la de árbitros habilitados por las partes para proferir fallos en derecho o en equidad, en los términos que determine la ley.
-
 ##### **Artículo 117.** El Ministerio Público y la Controlaría General de la República son órganos de control.
 
 ##### **Artículo 118.** El Ministerio Público será ejercido por el Procurador General de la Nación, por el Defensor del Pueblo, por los procuradores delegados y los agentes del ministerio público, ante las autoridades jurisdiccionales, por los personeros municipales y por los demás funcionarios que determine la ley. Al Ministerio Público corresponde la guarda y promoción de los derechos humanos, la protección del interés público y la vigilancia de la conducta oficial de quienes desempeñan funciones públicas.
@@ -872,38 +582,6 @@ El Tribunal de Garantías estará integrado por ocho (8) Magistrados, cuatro (4)
 
 **DE LA FUNCION PUBLICA**
 
-##### **Artículo 122.** No habrá empleo público que no tenga funciones detalladas en ley o reglamento y para proveer los de carácter remunerado se requiere que estén contemplados en la respectiva planta y previstos sus emolumentos en el presupuesto correspondiente.
-
-Ningún servidor público entrará a ejercer su cargo sin prestar juramento de cumplir y defender la Constitución y desempeñar los deberes que le incumben.
-
-Antes de tomar posesión del cargo, al retirarse del mismo o cuando autoridad competente se lo solicite deberá declarar, bajo juramento, el monto de sus bienes y rentas.
-
-Dicha declaración sólo podrá ser utilizada para los fines y propósitos de la aplicación de las normas del servidor público.
-
-Sin perjuicio de las demás sanciones que establezca la ley, no podrán ser inscritos como candidatos a cargos de elección popular, ni elegidos, ni designados como servidores públicos, ni celebrar personalmente, o por interpuesta persona, contratos con el Estado, quienes hayan sido condenados, en cualquier tiempo, por la comisión de delitos que afecten el patrimonio del Estado o quienes hayan sido condenados por delitos relacionados con la pertenencia, promoción o financiación de grupos armados ilegales, delitos de lesa humanidad o por narcotráfico en Colombia o en el exterior.
-
-Tampoco quien haya dado lugar, como servidores públicos, con su conducta dolosa o gravemente culposa, así calificada por sentencia ejecutoriada, a que el Estado sea condenado a una reparación patrimonial, salvo que asuma con cargo a su patrimonio el valor del daño.
-
-**Artículo 122.** No habrá empleo público que no tenga funciones detalladas en ley o reglamento y para proveer los de carácter remunerado se requiere que estén contemplados en la respectiva planta y previstos sus emolumentos en el presupuesto correspondiente.
-
-Ningún servidor público entrará a ejercer su cargo sin prestar juramento de cumplir y defender la Constitución y desempeñar los deberes que le incumben.
-
-Antes de tomar posesión del cargo, al retirarse del mismo o cuando autoridad competente se lo solicite deberá declarar, bajo juramento, el monto de sus bienes y rentas.
-
-Dicha declaración sólo podrá ser utilizada para los fines y propósitos de la aplicación de las normas del servidor público.
-
-Sin perjuicio de las demás sanciones que establezca la ley, no podrán ser inscritos como candidatos a cargos de elección popular, ni elegidos, ni designados como servidores públicos, ni celebrar personalmente, o por interpuesta persona, contratos con el Estado, quienes hayan sido condenados, en cualquier tiempo, por la Comisión de Delitos que afecten el patrimonio del Estado. Tampoco quien haya dado lugar, como servidor público, con su conducta dolosa o gravemente culposa, así calificada por sentencia judicial ejecutoriada, a que el Estado sea condenado a una reparación patrimonial, salvo que asuma con cargo a su patrimonio el valor del daño.
-
-**Artículo 122.** No habrá empleo público que no tenga funciones detalladas en ley o reglamento y para proveer los de carácter remunerado se requiere que estén contemplados en la respectiva planta y previstos sus emolumentos en el presupuesto correspondiente.
-
-Ningún servidor público entrará a ejercer su cargo sin prestar juramento de cumplir y defender la Constitución y desempeñar los deberes que le incumben.
-
-Antes de tomar posesión del cargo, al retirarse del mismo o cuando autoridad competente se lo solicite deberá declarar, bajo juramento, el monto de sus bienes y rentas.
-
-Dicha declaración sólo podrá ser utilizada para los fines y propósitos de la aplicación de las normas del servidor público.
-
-Sin perjuicio de las demás sanciones que establezca la ley, el servidor público que sea condenado por delitos contra el patrimonio del Estado, quedará inhabilitado para el desempeño de funciones públicas.
-
 ##### **Artículo 123.** Son servidores públicos los miembros de las corporaciones públicas, los empleados y trabajadores del Estado y de sus entidades descentralizadas territorialmente y por servicios.
 
 Los servidores públicos están al servicio del Estado y de la comunidad; ejercerán sus funciones en la forma prevista por la Constitución, la ley y el reglamento.
@@ -911,84 +589,6 @@ Los servidores públicos están al servicio del Estado y de la comunidad; ejerce
 La ley determinará el régimen aplicable a los particulares que temporalmente desempeñen funciones públicas y regulará su ejercicio.
 
 ##### **Artículo 124.** La ley determinará la responsabilidad de los servidores públicos y la manera de hacerla efectiva.
-
-##### **Artículo 125.** Los empleos en los órganos y entidades del Estado son de carrera. Se exceptúan los de elección popular, los de libre nombramiento y remoción, los de trabajadores oficiales y los demás que determine la ley.
-
-Los funcionarios, cuyo sistema de nombramiento no haya sido determinado por la Constitución o la ley, serán nombrados por concurso público.
-
-El ingreso a los cargos de carrera y el ascenso en los mismos, se harán previo cumplimiento de los requisitos y condiciones que fije la ley para determinar los méritos y calidades de los aspirantes.
-
-El retiro se hará: por calificación no satisfactoria en el desempeño del empleo; por violación del régimen disciplinario y por las demás causales previstas en la Constitución o la ley.
-
-En ningún caso la filiación política de los ciudadanos podrá determinar su nombramiento para un empleo de carrera, su ascenso o remoción.
-
-**Parágrafo.** Los períodos establecidos en la Constitución Política o en la ley para cargos de elección tienen el carácter de institucionales. Quienes sean designados o elegidos para ocupar tales cargos, en reemplazo por falta absoluta de su titular, lo harán por cl resto del período para el cual este fue elegido.
-
-**Parágrafo transitorio.** Durante un tiempo de tres (3) años contados a partir de la vigencia del presente acto legislativo, la Comisión Nacional del Servicio Civil implementará los mecanismos necesarios para inscribir en carrera administrativa de manera extraordinaria y sin necesidad de concurso público a los servidores que a la fecha de publicación de la Ley 909 del 2004 estuviesen ocupando cargos de carrera vacantes de forma definitiva en calidad de provisionales o de encargados del sistema general de carrera siempre y cuando cumplieran las calidades y requisitos exigidos para su desempeño al momento de comenzar a ejercerlo y que a la fecha de la inscripción extraordinaria continúen desempeñando dichos cargos de carrera. Igual derecho y en las mismas condiciones tendrán los servidores de los sistemas especiales y específicos de la carrera, para lo cual la entidad competente, dentro del mismo término adelantará los trámites respectivos de inscripción.
-
-Mientras se cumpla este procedimiento, se suspenden todos los trámites relacionados con los concursos públicos que actualmente se están adelantando sobre los cargos ocupados por empleados a quienes les asiste el derecho previsto en el presente parágrafo.
-
-La Comisión Nacional del Servicio Civil deberá desarrollar, dentro de los tres (3) meses siguientes a la publicación del presente acto legislativo, instrumentos de calificación del servicio que midan de manera real el desempeño de los servidores públicos inscritos de manera extraordinaria en carrera administrativa.
-
-Quedan exceptuados de estas normas los procesos de selección que se surtan en desarrollo de lo previsto por el artículo 131 de la Constitución Política y los servidores regidos por el artículo 256 de la Constitución Política, carrera docente y carrera diplomática consular.
-
-**Artículo 125.** Los empleos en los órganos y entidades del Estado son de carrera. Se exceptúan los de elección popular, los de libre nombramiento y remoción, los de trabajadores oficiales y los demás que determine la ley.
-
-Los funcionarios, cuyo sistema de nombramiento no haya sido determinado por la Constitución o la ley, serán nombrados por concurso público.
-
-El ingreso a los cargos de carrera y el ascenso en los mismos, se harán previo cumplimiento de los requisitos y condiciones que fije la ley para determinar los méritos y calidades de los aspirantes.
-
-El retiro se hará: por calificación no satisfactoria en el desempeño del empleo; por violación del régimen disciplinario y por las demás causales previstas en la Constitución o la ley.
-
-En ningún caso la filiación política de los ciudadanos podrá determinar su nombramiento para un empleo de carrera, su ascenso o remoción.
-
-**Parágrafo.** Los períodos establecidos en la Constitución Política o en la ley para cargos de elección tienen el carácter de institucionales. Quienes sean designados o elegidos para ocupar tales cargos, en reemplazo por falta absoluta de su titular, lo harán por cl resto del período para el cual este fue elegido.
-
-**Artículo 125.** Los empleos en los órganos y entidades del Estado son de carrera. Se exceptúan los de elección popular, los de libre nombramiento y remoción, los de trabajadores oficiales y los demás que determine la ley.
-
-Los funcionarios, cuyo sistema de nombramiento no haya sido determinado por la Constitución o la ley, serán nombrados por concurso público.
-
-El ingreso a los cargos de carrera y el ascenso en los mismos, se harán previo cumplimiento de los requisitos y condiciones que fije la ley para determinar los méritos y calidades de los aspirantes.
-
-El retiro se hará: por calificación no satisfactoria en el desempeño del empleo; por violación del régimen disciplinario y por las demás causales previstas en la Constitución o la ley.
-
-En ningún caso la filiación política de los ciudadanos podrá determinar su nombramiento para un empleo de carrera, su ascenso o remoción.
-
-##### **Artículo 126**. Los servidores públicos no podrán en ejercicio de sus funciones, nombrar, postular, ni contratar con personas con las cuales tengan parentesco hasta el cuarto grado de consanguinidad, segundo de afinidad, primero civil, o con quien estén ligados por matrimonio o unión permanente.
-
-Tampoco podrán nombrar ni postular como servidores públicos, ni celebrar contratos estatales, con quienes hubieren intervenido en su postulación o designación, ni con personas que tengan con estas los mismos vínculos señalados en el inciso anterior.
-
-Se exceptúan de lo previsto en este artículo los nombramientos que se hagan en aplicación de las normas vigentes sobre ingreso o ascenso por méritos en cargos de carrera.
-
-Salvo los concursos regulados por la ley, la elección de servidores públicos atribuida a corporaciones públicas deberá estar precedida de una convocatoria pública reglada por la ley, en la que se fijen requisitos y procedimientos que garanticen los principios de publicidad, transparencia, participación ciudadana, equidad de género y criterios de mérito para su selección.
-
-Quien haya ejercido en propiedad alguno de los cargos en la siguiente lista, no podrá ser reelegido para el mismo. Tampoco podrá ser nominado para otro de estos cargos, ni ser elegido a un cargo de elección popular, sino un año después de haber cesado en el ejercido de sus funciones:
-
-Magistrado de la Corte Constitucional, de la Corte Suprema de Justicia, del Consejo de Estado, de la Comisión Nacional de Disciplina Judicial, Miembro de la Comisión de Aforados, Miembro del Consejo Nacional Electoral, Fiscal General de la Nación, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República y Registrador Nacional del Estado Civil.
-
-**Artículo 126.** Los servidores públicos no podrán nombrar como empleados a personas con las cuales tengan parentesco hasta el cuarto grado de consanguinidad, segundo de afinidad, primero civil, o con quien estén ligados por matrimonio o unión permanente. Tampoco podrán designar a personas vinculadas por los mismos lazos con servidores públicos competentes para intervenir en su designación.
-
-Se exceptúan de lo previsto en este artículo los nombramientos que se hagan en aplicación de las normas vigentes sobre ingreso o ascenso por méritos.
-
-##### **Artículo 127.**Los servidores públicos no podrán celebrar, por si o por interpuesta persona, o en representación de otro, contrato alguno con entidades publicas o con personas privadas que manejen o administren recursos públicos, salvo las excepciones legales.
-
-A los empleados del Estado que se desempeñen en la Rama Judicial, en los órganos electorales, de control y de seguridad les está prohibido tomar parte en las actividades de los partidos y movimientos y en las controversias políticas, sin perjuicio de ejercer libremente el derecho al sufragio. A los miembros de la Fuerza Pública en servicio activo se les aplican las limitaciones contempladas en el artículo 219 de la Constitución.
-
-Los empleados no contemplados en esta prohibición solo podrán participar en dichas actividades y controversias en las condiciones que señale la Ley Estatutaria.
-
-La utilización del empleo para presionar a los ciudadanos a respaldar una causa o campaña política constituye causal de mala conducta.
-
-Cuando el Presidente y el Vicepresidente de la República presenten sus candidaturas, solo podrán participar en las campañas electorales desde el momento de su inscripción. En todo caso dicha participación solo podrá darse desde los cuatro (4) meses anteriores a la fecha de la primera vuelta de la elección presidencial, y se extenderá hasta la fecha de la segunda vuelta en caso de que la hubiere. La Ley Estatutaria establecerá los términos y condiciones en los cuales, antes de ese lapso, el Presidente o el Vicepresidente podrán participar en los mecanismos democráticos de selección de los candidatos de los partidos o movimientos políticos.
-
-Durante la campaña, el Presidente y el Vicepresidente de la República no podrán utilizar bienes del Estado o recursos del Tesoro Público, distintos de aquellos que se ofrezcan en igualdad de condiciones a todos los candidatos. Se exceptúan los destinados al cumplimiento de las funciones propias de sus cargos y a su protección personal, en los términos que señale la Ley Estatutaria.
-
-**Artículo 127.** Los servidores públicos no podrán celebrar, por si o por interpuesta persona, o en representación de otro, contrato alguno con entidades publicas o con personas privadas que manejen o administren recursos públicos, salvo las excepciones legales.
-
-A los empleados del Estado y de sus entidades descentralizadas que ejerzan jurisdicción, autoridad civil o política, cargos de dirección administrativa, o se desempeñen en los órganos judicial, electoral, de control, les esta prohibido tomar parte en las actividades de los partidos y movimientos y en las controversias políticas, sin perjuicio de ejercer libremente el derecho al sufragio.
-
-Los empleados no contemplados en esta prohibición podrán participar en dichas actividades y controversias en las condiciones que señale la ley.
-
-La utilización del empleo para presionar a los ciudadanos a respaldar una causa o campaña política constituye causal de mala conducta.
 
 ##### **Artículo 128.** Nadie podrá desempeñar simultáneamente más de un empleo público ni recibir más de una asignación que provenga del tesoro público, o de empresas o de instituciones en las que tenga parte mayoritaria el Estado, salvo los casos expresamente determinados por la ley.
 
@@ -1017,90 +617,6 @@ Corresponde al Gobierno la creación, supresión y fusión de los círculos de n
 ##### **Artículo 133.** Los miembros de cuerpos colegiados de elección directa representan al pueblo, y deberán actuar consultando la justicia y el bien común.
 
 El elegido es responsable políticamente ante la sociedad y frente a sus electores del cumplimiento de las obligaciones propias de su investidura.
-
-##### **Artículo 134.** Los miembros de las Corporaciones Públicas de elección popular no tendrán suplentes. Solo podrán ser reemplazados en caso de muerte, incapacidad física absoluta para el ejercicio del cargo, declaración de nulidad de la elección, renuncia justificada, y aceptada por la respectiva Corporación, sanción disciplinaria consistente en destitución, pérdida de investidura, condena penal o medida de aseguramiento por delitos distintos a las relacionadas con pertenencia, promoción o financiación a/o por grupos armados ilegales, de narcotráfico, delitos contra los mecanismos de participación democrática o de lesa humanidad o cuando el miembro de una Corporación pública decida presentarse por un partido distinto según lo planteado en el Parágrafo Transitorio 1º del artículo 107 de la Constitución Política.
-
-En tales casos, el titular será reemplazado por el candidato no elegido que, según el orden de inscripción o votación obtenida, le siga en forma sucesiva y descendente en la misma lista electoral.
-
-Como consecuencia de la regla general establecida en el presente artículo, no podrá ser reemplazado un miembro de una corporación pública de elección popular a partir del momento en que le sea proferida orden de captura, dentro de un proceso penal al cual se le vinculare formalmente, por delitos relacionados con la pertenencia, promoción o financiación a/o por grupos armados ilegales, de narcotráfico o delitos de lesa humanidad. La sentencia condenatoria producirá como efecto la pérdida definitiva de la curul, para el partido al que pertenezca el miembro de la Corporación Pública.
-
-No habrá faltas temporales, salvo cuando las mujeres, por razón de licencia de maternidad deban ausentarse del cargo. La renuncia de un miembro de corporación pública de elección popular, cuando se le haya iniciado vinculación formal por delitos cometidos en Colombia o en el exterior, relacionados con pertenencia, promoción o financiación a/o por grupos armados ilegales, de narcotráfico o delitos contra los mecanismos de participación democrática o de lesa humanidad, generará la pérdida de su calidad de congresista, diputado, concejal o edil, y no producirá como efecto el ingreso de quien corresponda en la lista. Las faltas temporales no darán lugar a reemplazos.
-
-Cuando ocurra alguna de las circunstancias que implique que no pueda ser reemplazado un miembro elegido a una Corporación Pública, para todos los efectos de conformación de quórum, se tendrá como número de miembros la totalidad de los integrantes de la Corporación con excepción de aquellas curules que no puedan ser reemplazadas.
-
-Si por faltas absolutas, que no den lugar a reemplazo, los miembros de cuerpos colegiados elegidos por una misma circunscripción electoral quedan reducidos a la mitad o menos, el Gobierno convocará a elecciones para llenar las vacantes, siempre y cuando falte más de dieciocho (18) meses para la terminación del período.
-
-**Parágrafo Transitorio.**El régimen de reemplazos establecido en el presente artículo se aplicará para las investigaciones judiciales que se inicien a partir de la vigencia del presente acto legislativo.
-
-**Artículo 134.** Las faltas absolutas o temporales de los Miembros de las Corporaciones Públicas, serán suplidas por los candidatos que, según el orden de inscripción, en forma sucesiva y descendente, correspondan a la misma lista electoral.
-
-**Artículo 134.** Las vacancias por faltas absolutas de los congresistas serán suplidas por los candidatos no elegidos, según el orden de inscripción en la lista correspondiente.
-
-##### **Artículo 135.** Son facultades de cada Cámara:
-
-- 1. Elegir sus mesas directivas.
-
-- 2. Elegir al Secretario General para períodos de cuatro (4) años, contados a partir del 20 de julio, quien deberá reunir las mismas calidades señaladas para ser miembro de la respectiva Cámara.
-
-- 2. Elegir a su Secretario General, para períodos de dos años, contados a partir del 20 de julio, quien deberá reunir las mismas calidades señaladas para ser miembro de la respectiva Cámara.
-
-- 3. Solicitar al Gobierno los informes que necesite, salvo lo dispuesto en el numeral 2 del Artículo siguiente.
-
-- 4. Determinar la celebración de sesiones reservadas en forma prioritaria a las preguntas orales que formulen los Congresistas a los Ministros y a las respuestas de éstos. El reglamento regulará la materia.
-
-- 5. Proveer los empleos creados por la ley para el cumplimiento de sus funciones.
-
-- 6. Recabar del Gobierno la cooperación de los organismos de la administración pública para el mejor desempeño de sus atribuciones.
-
-- 7. Organizar su Policía interior.
-
-- 8. Citar y requerir a los Ministros para que concurran a las sesiones. Las citaciones deberán hacerse con una anticipación no menor de cinco días y formularse en cuestionario escrito. En caso de que los Ministros no concurran, sin excusa aceptada por la respectiva Cámara, ésta podrá proponer moción de censura. Los Ministros deberán ser oídos en la sesión para la cual fueron citados, sin perjuicio de que el debate continúe en sesiones posteriores por decisión de la respectiva Cámara. El debate no podrá extenderse a asuntos ajenos al cuestionario y deberá encabezar el orden del día de la sesión.
-
-- 9. Proponer moción de censura respecto de los ministros por asuntos relacionados con funciones propias del cargo. La moción de censura, si hubiere lugar a ella, deberá proponerla por lo menos la décima parte de los miembros que componen la respectiva cámara. La votación se hará entre el tercero y el décimo día siguientes a la terminación del debate, en Congreso pleno, con audiencia de los ministros respectivos. Su aprobación requerirá la mayoría absoluta de los integrantes de cada cámara. Una vez aprobada, el ministro quedará separado de su cargo. Si fuere rechazada, no podrá presentarse otra sobre la misma materia a menos que la motiven hechos nuevos.
-
-**PARÁGRAFO TRANSITORIO.**Para efecto de lo dispuesto en el numeral 2 del presente artículo, el período comenzará a regir a partir del 20 de julio de 2002.
-
-**Artículo 135.** Son facultades de cada Cámara:
-
-- 1. Elegir sus mesas directivas.
-
-- 2. Elegir al Secretario General para períodos de cuatro (4) años, contados a partir del 20 de julio, quien deberá reunir las mismas calidades señaladas para ser miembro de la respectiva Cámara.
-
-- 3. Solicitar al Gobierno los informes que necesite, salvo lo dispuesto en el numeral 2 del Artículo siguiente.
-
-- 4. Determinar la celebración de sesiones reservadas en forma prioritaria a las preguntas orales que formulen los Congresistas a los Ministros y a las respuestas de éstos. El reglamento regulará la materia.
-
-- 5. Proveer los empleos creados por la ley para el cumplimiento de sus funciones.
-
-- 6. Recabar del Gobierno la cooperación de los organismos de la administración pública para el mejor desempeño de sus atribuciones.
-
-- 7. Organizar su Policía interior.
-
-- 8. Citar y requerir a los Ministros para que concurran a las sesiones. Las citaciones deberán hacerse con una anticipación no menor de cinco días y formularse en cuestionario escrito. En caso de que los Ministros no concurran, sin excusa aceptada por la respectiva Cámara, ésta podrá proponer moción de censura. Los Ministros deberán ser oídos en la sesión para la cual fueron citados, sin perjuicio de que el debate continúe en sesiones posteriores por decisión de la respectiva Cámara. El debate no podrá extenderse a asuntos ajenos al cuestionario y deberá encabezar el orden del día de la sesión.
-
-- 9. Proponer moción de censura respecto de los ministros por asuntos relacionados con funciones propias del cargo. La moción de censura, si hubiere lugar a ella, deberá proponerla por lo menos la décima parte de los miembros que componen la respectiva cámara. La votación se hará entre el tercero y el décimo día siguientes a la terminación del debate, en Congreso pleno, con audiencia de los ministros respectivos. Su aprobación requerirá la mayoría absoluta de los integrantes de cada cámara. Una vez aprobada, el ministro quedará separado de su cargo. Si fuere rechazada, no podrá presentarse otra sobre la misma materia a menos que la motiven hechos nuevos.
-
-**PARÁGRAFO TRANSITORIO.**Para efecto de lo dispuesto en el numeral 2 del presente artículo, el período comenzará a regir a partir del 20 de julio de 2002.
-
-**Artículo 135.** Son facultades de cada Cámara:
-
-- 1. Elegir sus mesas directivas.
-
-- 2. Elegir a su Secretario General, para períodos de dos años, contados a partir del 20 de julio, quien deberá reunir las mismas calidades señaladas para ser miembro de la respectiva Cámara.
-
-- 3. Solicitar al Gobierno los informes que necesite, salvo lo dispuesto en el numeral 2 del Artículo siguiente.
-
-- 4. Determinar la celebración de sesiones reservadas en forma prioritaria a las preguntas orales que formulen los Congresistas a los Ministros y a las respuestas de éstos. El reglamento regulará la materia.
-
-- 5. Proveer los empleos creados por la ley para el cumplimiento de sus funciones.
-
-- 6. Recabar del Gobierno la cooperación de los organismos de la administración pública para el mejor desempeño de sus atribuciones.
-
-- 7. Organizar su Policía interior.
-
-- 8. Citar y requerir a los Ministros para que concurran a las sesiones. Las citaciones deberán hacerse con una anticipación no menor de cinco días y formularse en cuestionario escrito. En caso de que los Ministros no concurran, sin excusa aceptada por la respectiva Cámara, ésta podrá proponer moción de censura. Los Ministros deberán ser oídos en la sesión para la cual fueron citados, sin perjuicio de que el debate continúe en sesiones posteriores por decisión de la respectiva Cámara. El debate no podrá extenderse a asuntos ajenos al cuestionario y deberá encabezar el orden del día de la sesión.
-
-- 9. Proponer moción de censura respecto de los ministros por asuntos relacionados con funciones propias del cargo. La moción de censura, si hubiere lugar a ella, deberá proponerla por lo menos la décima parte de los miembros que componen la respectiva cámara. La votación se hará entre el tercero y el décimo día siguientes a la terminación del debate, en Congreso pleno, con audiencia de los ministros respectivos. Su aprobación requerirá la mayoría absoluta de los integrantes de cada cámara. Una vez aprobada, el ministro quedará separado de su cargo. Si fuere rechazada, no podrá presentarse otra sobre la misma materia a menos que la motiven hechos nuevos.
 
 ##### **Artículo 136.** Se prohíbe al Congreso y a cada una de sus Cámaras:
 
@@ -1244,80 +760,6 @@ Compete al Congreso expedir el estatuto general de contratación de la administr
 
 ##### **Artículo 151.** El Congreso expedirá leyes orgánicas a las cuales estará sujeto el ejercicio de la actividad legislativa. Por medio de ellas se establecerán los reglamentos del Congreso y de cada una de las Cámaras, las normas sobre preparación, aprobación y ejecución del presupuesto de rentas y ley de apropiaciones y del plan general de desarrollo, y las relativas a la asignación de competencias normativas a las entidades territoriales. Las leyes orgánicas requerirán, para su aprobación, la mayoría absoluta de los votos de los miembros de una y otra Cámara.
 
-##### **Artículo 152.** Mediante las leyes estatutarias, el Congreso de la República regulará las siguientes materias:
-
-- a) Derechos y deberes fundamentales de las personas y los procedimientos y recursos para su protección;
-
-- b) Administración de justicia;
-
-- c) Organización y régimen de los partidos y movimientos políticos; estatuto de la oposición y funciones electorales;
-
-- d) Instituciones y mecanismos de participación ciudadana;
-
-- e) Estados de excepción.
-
-- f) La igualdad electoral entre los candidatos a la Presidencia de la República que reúnan los requisitos que determine la ley.
-
-- j) <sic. g)> Las materias expresamente señaladas en los artículos 116 y 221 de la Constitución, de conformidad con el presente acto legislativo.
-
-**Parágrafo transitorio.** El Gobierno Nacional o los miembros del Congreso presentarán, antes del 1º de marzo de 2005, un Proyecto de Ley Estatutaria que desarrolle el literal f) del artículo 152 de la Constitución y regule además, entre otras, las siguientes materias: Garantías a la oposición, participación en política de servidores públicos, derecho al acceso equitativo a los medios de comunicación que hagan uso del espectro electromagnético, financiación preponderantemente estatal de las campañas presidenciales, derecho de réplica en condiciones de equidad cuando el Presidente de la República sea candidato y normas sobre inhabilidades para candidatos a la Presidencia de la República.
-
-El proyecto tendrá mensaje de urgencia y podrá ser objeto de mensaje de insistencia si fuere necesario. El Congreso de la República expedirá la Ley Estatutaria antes del 20 de junio de 2005. Se reducen a la mitad los términos para la revisión previa de exequibilidad del Proyecto de Ley Estatutaria, por parte de la Corte Constitucional.
-
-Si el Congreso no expidiere la ley en el término señalado o el proyecto fuere declarado inexequible por la Corte Constitucional, el Consejo de Estado, en un plazo de dos (2) meses reglamentará transitoriamente la materia.
-
-**Artículo 152.** Mediante las leyes estatutarias, el Congreso de la República regulará las siguientes materias:
-
-- a) Derechos y deberes fundamentales de las personas y los procedimientos y recursos para su protección;
-
-- b) Administración de justicia;
-
-- c) Organización y régimen de los partidos y movimientos políticos; estatuto de la oposición y funciones electorales;
-
-- d) Instituciones y mecanismos de participación ciudadana;
-
-- e) Estados de excepción.
-
-- f) La igualdad electoral entre los candidatos a la Presidencia de la República que reúnan los requisitos que determine la ley.
-
-**Parágrafo transitorio.** El Gobierno Nacional o los miembros del Congreso presentarán, antes del 1º de marzo de 2005, un Proyecto de Ley Estatutaria que desarrolle el literal f) del artículo 152 de la Constitución y regule además, entre otras, las siguientes materias: Garantías a la oposición, participación en política de servidores públicos, derecho al acceso equitativo a los medios de comunicación que hagan uso del espectro electromagnético, financiación preponderantemente estatal de las campañas presidenciales, derecho de réplica en condiciones de equidad cuando el Presidente de la República sea candidato y normas sobre inhabilidades para candidatos a la Presidencia de la República.
-
-El proyecto tendrá mensaje de urgencia y podrá ser objeto de mensaje de insistencia si fuere necesario. El Congreso de la República expedirá la Ley Estatutaria antes del 20 de junio de 2005. Se reducen a la mitad los términos para la revisión previa de exequibilidad del Proyecto de Ley Estatutaria, por parte de la Corte Constitucional.
-
-Si el Congreso no expidiere la ley en el término señalado o el proyecto fuere declarado inexequible por la Corte Constitucional, el Consejo de Estado, en un plazo de dos (2) meses reglamentará transitoriamente la materia.
-
-**Artículo 152.** Mediante las leyes estatutarias, el Congreso de la República regulará las siguientes materias:
-
-- a) Derechos y deberes fundamentales de las personas y los procedimientos y recursos para su protección;
-
-- b) Administración de justicia;
-
-- c) Organización y régimen de los partidos y movimientos políticos; estatuto de la oposición y funciones electorales;
-
-- d) Instituciones y mecanismos de participación ciudadana;
-
-- e) Estados de excepción.
-
-- f) La igualdad electoral entre los candidatos a la Presidencia de la República que reúnan los requisitos que determine la ley.
-
-**Parágrafo transitorio.** El Gobierno Nacional o los miembros del Congreso presentarán, antes del 1º de marzo de 2005, un Proyecto de Ley Estatutaria que desarrolle el literal f) del artículo 152 de la Constitución y regule además, entre otras, las siguientes materias: Garantías a la oposición, participación en política de servidores públicos, derecho al acceso equitativo a los medios de comunicación que hagan uso del espectro electromagnético, financiación preponderantemente estatal de las campañas presidenciales, derecho de réplica en condiciones de equidad cuando el Presidente de la República sea candidato y normas sobre inhabilidades para candidatos a la Presidencia de la República.
-
-El proyecto tendrá mensaje de urgencia y podrá ser objeto de mensaje de insistencia si fuere necesario. El Congreso de la República expedirá la Ley Estatutaria antes del 20 de junio de 2005. Se reducen a la mitad los términos para la revisión previa de exequibilidad del Proyecto de Ley Estatutaria, por parte de la Corte Constitucional.
-
-Si el Congreso no expidiere la ley en el término señalado o el proyecto fuere declarado inexequible por la Corte Constitucional, el Consejo de Estado, en un plazo de dos (2) meses reglamentará transitoriamente la materia.
-
-**Artículo 152.** Mediante las leyes estatutarias, el Congreso de la República regulará las siguientes materias:
-
-- a) Derechos y deberes fundamentales de las personas y los procedimientos y recursos para su protección;
-
-- b) Administración de justicia;
-
-- c) Organización y régimen de los partidos y movimientos políticos; estatuto de la oposición y funciones electorales;
-
-- d) Instituciones y mecanismos de participación ciudadana;
-
-- e) Estados de excepción.
-
 ##### **Artículo 153.** La aprobación, modificación o derogación de las leyes estatutarias exigirá la mayoría absoluta de los miembros del Congreso y deberá efectuarse dentro de una sola legislatura.
 
 Dicho trámite comprenderá la revisión previa, por parte de la Corte Constitucional, de la exequibilidad del proyecto. Cualquier ciudadano podrá intervenir para defenderla o impugnarla.
@@ -1333,10 +775,6 @@ Los proyectos de ley relativos a los tributos iniciarán su tramite en la Cámar
 ##### **Artículo 155.** Podrán presentar proyectos de ley o de reforma constitucional, un numero de ciudadanos igual o superior al cinco por ciento del censo electoral existente en la fecha respectiva o el treinta por ciento de los concejales o diputados del país. La iniciativa popular será tramitada por el Congreso, de conformidad con lo establecido en el artículo 163, para los proyectos que hayan sido objeto de manifestación de urgencia.
 
 Los ciudadanos proponentes tendrán derecho a designar un vocero que será oído por las Cámaras en todas las etapas del tramite.
-
-##### **Artículo 156.** La Corte Constitucional, Consejo de Gobierno Judicial, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Nacional Electoral, el Procurador General de la Nación, el Contralor General de la República, tienen la facultad de presentar proyectos de ley en materias relacionadas con sus funciones.
-
-**Artículo 156.** La Corte Constitucional, el Consejo Superior de la Judicatura, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Nacional Electoral, el Procurador General de la Nación, el Contralor General de la República, tienen la facultad de presentar proyectos de ley en materias relacionadas con sus funciones.
 
 ##### **Artículo 157.** Ningún proyecto será ley sin los requisitos siguientes:
 
@@ -1432,12 +870,6 @@ Los representantes de las comunidades indígenas que aspiren a integrar el Senad
 
 - 7. Elegir al Procurador General de la Nación.
 
-##### **Artículo 174.** Corresponde al Senado conocer de las acusaciones que formule la Cámara de Representantes contra el Presidente de la República o quien haga sus veces y contra los miembros de la Comisión de Aforados, aunque hubieren cesado en el ejercicio de sus cargos. En este caso, será competente para conocer los hechos u omisiones ocurridos en el desempeño de los mismos.
-
-**( INEXEQUIBLE,modificación introducida por Articulo 5 del acto Legislativo 2 de 2015 , por medio de Sentencia C-373-2016)**
-
-**Artículo 174.** Corresponde al Senado conocer de las acusaciones que formule la Cámara de Representantes contra el Presidente de la República o quien haga sus veces; contra los Magistrados de la Corte Suprema de Justicia, del Consejo de Estado y de la Corte Constitucional, los miembros del Consejo Superior de la Judicatura y el Fiscal General de la Nación, aunque hubieren cesado en el ejercicio de sus cargos. En este caso, conocerá por hechos u omisiones ocurridos en el desempeño de los mismos.
-
 ##### **Artículo 175.** En los juicios que se sigan ante el Senado, se observarán estas reglas:
 
 - 1. El acusado queda de hecho suspenso de su empleo, siempre que una acusación sea públicamente admitida.
@@ -1452,207 +884,11 @@ Los representantes de las comunidades indígenas que aspiren a integrar el Senad
 
 **DE LA CAMARA DE REPRESENTANTES**
 
-##### **Artículo 176.***La Cámara de Representantes se elegirá en circunscripciones territoriales y circunscripciones especiales.*
-
-Habrá dos representantes por cada circunscripción territorial y uno más por cada 365.000 habitantes o fracción mayor de 182.500 que tengan en exceso sobre los primeros 365.000.
-
-Para la elección de Representantes a la Cámara, cada departamento y el Distrito Capital de Bogotá conformarán una circunscripción territorial.
-
-Las circunscripciones especiales asegurarán la participación en la Cámara de Representantes de los grupos étnicos y los colombianos residentes en el exterior. Mediante estas circunscripciones se elegirán cinco (5) representantes, distribuidos así: dos (2) por la circunscripción de las comunidades afrodescendientes, uno (1) por la circunscripción de las comunidades indígenas, y dos (2) por la circunscripción internacional. En esta última, solo se contabilizarán los votos depositados fuera del territorio nacional por ciudadanos residentes en el exterior.
-
-**Parágrafo 1°.**A partir de 2014, la base para la asignación de las curules adicionales se ajustará en la misma proporción del crecimiento de la población nacional, de acuerdo con lo que determine el censo. Le corresponderá a la organización electoral ajustar la cifra para la asignación de curules.
-
-**Parágrafo 2°.**Si como resultado de la aplicación de la fórmula contenida en el presente artículo, una circunscripción territorial pierde una o más curules, mantendrá las mismas que le correspondían a 20 de julio de 2002.
-
-**Parágrafo transitorio.**El Congreso de la República reglamentará la circunscripción internacional a más tardar el 16 de diciembre de 2013; de lo contrario, lo hará el Gobierno Nacional dentro de los treinta (30) días siguientes a esa fecha. En dicha reglamentación se incluirán, entre otros temas, la inscripción de candidatos, y la inscripción de ciudadanos habilitados para votar en el exterior, los mecanismos para promover la participación y realización del escrutinio de votos a través de los Consulados y Embajadas, y la financiación estatal para visitas al exterior por parte de los Representantes elegidos.
-
-**Artículo 176.** La Cámara de Representantes se elegirá en circunscripciones territoriales, circunscripciones especiales y una circunscripción internacional.
-
-Habrá dos representantes por cada circunscripción territorial y uno más por cada 365.000 habitantes o fracción mayor de 182.500 que tengan en exceso sobre los primeros 365.000.
-
-Para la elección de Representantes a la Cámara, cada departamento y el Distrito Capital de Bogotá conformarán una circunscripción territorial.
-
-La ley podrá establecer una circunscripción especial para asegurar la participación en la Cámara de Representantes de los grupos étnicos y de las minorías políticas.
-
-Mediante esta circunscripción se podrán elegir hasta cuatro representantes.
-
-Para los colombianos residentes en el exterior existirá una circunscripción internacional mediante la cual se elegirá un Representante a la Cámara. En ella solo se contabilizarán los votos depositados fuera del territorio nacional por ciudadanos residentes en el exterior.
-
-**Parágrafo 1°.**A partir de 2014, la base para la asignación de las curules adicionales se ajustará en la misma proporción del crecimiento de la población nacional, de acuerdo con lo que determine el censo. Le corresponderá a la organización electoral ajustar la cifra para la asignación de curules.
-
-**Parágrafo 2º.**Si como resultado de la aplicación de la fórmula contenida en el presente artículo, una circunscripción territorial pierde una o más curules, mantendrá las mismas que le correspondieron a 20 de julio de 2002.
-
-**Parágrafo Transitorio.**El Congreso de la República reglamentará la circunscripción internacional a más tardar el 15 de diciembre de 2005, caso contrario, lo hará el Gobierno Nacional dentro de los quince (15) días siguientes a esa fecha; incluirá entre otros temas: inscripción de candidatos, inscripción de ciudadanos habilitados para votar en el exterior, mecanismos para promover la participación y realización del escrutinio de votos a través de los Consulados y financiación estatal para visitas al exterior por parte del Representante elegido.
-
-**Artículo 176.**La Cámara de Representantes se elegirá en circunscripciones territoriales, circunscripciones especiales y una circunscripción internacional.
-
-Habrá dos representantes por cada circunscripción territorial y uno más por cada doscientos cincuenta mil habitantes o fracción mayor de ciento veinticinco mil que tengan en exceso sobre los primeros doscientos cincuenta mil.
-
-Para la elección de Representantes a la Cámara, cada Departamento y el Distrito Capital de Bogotá conformarán una circunscripción territorial.
-
-La ley podrá establecer una circunscripción especial para asegurar la participación en la Cámara de Representantes de los grupos étnicos y de las minorías políticas.
-
-Mediante esta circunscripción se podrá elegir hasta cuatro Representantes.
-
-Para los colombianos residentes en el exterior existirá una circunscripción internacional mediante la cual se elegirá un Representante a la Cámara. En ella, sólo se contabilizarán los votos depositados fuera del territorio nacional por ciudadanos residentes en el exterior.
-
-**Parágrafo transitorio.**El Congreso de la República reglamentará la circunscripción internacional a más tardar el 16 de diciembre de 2005, caso contrario, lo hará el Gobierno Nacional dentro de los quince (15) días siguientes a esa fecha; incluirá entre otros temas: Inscripción de candidatos, inscripción de ciudadanos habilitados para votar en el exterior, mecanismos para promover la participación y realización del escrutinio de votos a través de los Consulados y financiación estatal para visitas al exterior por parte del Representante elegido.
-
-**Artículo 176.** La Cámara de Representantes se elegirá en circunscripciones territoriales y circunscripciones especiales.
-
-Habrá dos representantes por cada circunscripción territorial y uno mas por cada doscientos cincuenta mil habitantes o fracción mayor de ciento veinticinco mil que tengan en exceso sobre los primeros doscientos cincuenta mil.
-
-Para la elección de representantes a la Cámara, cada departamento y el Distrito Capital de Bogotá conformarán una circunscripción territorial. La ley podrá establecer una circunscripción especial para asegurar la participación en la Cámara de Representantes de los grupos étnicos y de las minorías políticas y de los colombianos residentes en el exterior.
-
-Mediante esta circunscripción se podrá elegir hasta cinco representantes.
-
 ##### **Artículo 177.** Para ser elegido representante se requiere ser ciudadano en ejercicio y tener más de veinticinco años de edad en la fecha de la elección.
-
-##### **Artículo 178.** La Cámara de Representantes tendrá las siguientes atribuciones especiales:
-
-- 1. Elegir al Defensor del Pueblo.
-
-- 2. Examinar y fenecer la cuenta general del presupuesto y del tesoro que le presente el Contralor General de la República.
-
-- 3. Acusar ante el Senado, previa solicitud de la Comisión de Investigación y Acusación de la Cámara de Representantes, cuando hubiere causas constitucionales, al Presidente de la República o a quien haga sus veces y a los Miembros de la Comisión de Aforados.**(Inexequible Modificación Introducida por Acto LEGISLATIVO 2 DE 2015 -Sentencia C -373-2016)**
-
-- 4. Conocer de las denuncias y quejas que ante ella se presenten por el Fiscal General de la Nación o por los particulares contra los expresados funcionarios y, si prestan mérito, fundar en ellas acusación ante el Senado.
-
-- 5. Requerir el auxilio de otras autoridades para el desarrollo de las investigaciones que le competen, y comisionar para la práctica de pruebas cuando lo considere conveniente.
-
-**Nota:** Téngase en cuenta para la aplicación de este artículo lo indicado en el inciso 2° del art. 1° del Acto Legislativo 02 de 2015.
-
-**Artículo 178.** La Cámara de Representantes tendrá las siguientes atribuciones especiales:
-
-- 1. Elegir al Defensor del Pueblo.
-
-- 2. Examinar y fenecer la cuenta general del presupuesto y del tesoro que le presente el Contralor General de la República.
-
-- 3. Acusar ante el Senado, cuando hubiere causas Constitucionales, al Presidente de la República, o a quien haga sus veces, a los magistrados de la Corte Constitucional, a los magistrados de la Corte Suprema de Justicia, a los miembros del Consejo Superior de la Judicatura, a los magistrados del Consejo de Estado y al Fiscal General de la Nación.
-
-- 4. Conocer de las denuncias y quejas que ante ella se presenten por el Fiscal General de la Nación o por los particulares contra los expresados funcionarios y, si prestan mérito, fundar en ellas acusación ante el Senado.
-
-- 5. Requerir el auxilio de otras autoridades para el desarrollo de las investigaciones que le competen, y comisionar para la práctica de pruebas cuando lo considere conveniente.
-
-**Nota:** Téngase en cuenta para la aplicación de este artículo lo indicado en el inciso 2° del art. 1° del Acto Legislativo 02 de 2015.
-
-##### **Artículo 178-A.** Los Magistrados de la Corte Constitucional, de la Corte Suprema de Justicia, del Consejo de Estado, de la Comisión Nacional de Disciplina Judicial y el Fiscal General de la Nación serán responsables por cualquier infracción a la ley disciplinaria o penal cometida en el ejercicio de sus funciones o con ocasión de estas. En todo caso, no podrá exigírseles en ningún tiempo responsabilidad por los votos y opiniones emitidos en sus providencias judiciales o consultivas, proferidas en ejercicio de su independencia funcional, sin perjuicio de la responsabilidad a la que haya lugar por favorecer indebidamente intereses propios o ajenos.
-
-Una Comisión de Aforados será competente para investigar y acusar, conforme a la ley y los principios del debido proceso, a los funcionarios señalados en el inciso anterior, aunque hubieren cesado en el ejercicio de sus cargos. En este caso, será competente para conocer de los hechos u omisiones ocurridos en el desempeño de los mismos.
-
-Si la investigación se refiere a faltas disciplinarias de indignidad por mala conducta, la Comisión de Aforados adelantará la investigación y cuando hubiere lugar, presentará la acusación ante la Cámara de Representantes. En ningún caso se podrán imponer otras penas que la de suspensión o destitución del empleo. La decisión de la Cámara de Representantes podrá ser apelada ante el Senado de la República. El Congreso en ningún caso practicará pruebas. Contra la decisión del Senado no procederá ningún recurso ni acción.
-
-Si la investigación se refiere a delitos, la Comisión de Aforados también presentará la acusación a la Corte Suprema de Justicia, para que allí se adelante el juzgamiento. En el caso de juicios contra magistrados de la Corte Suprema de Justicia, los conjueces serán designados por el Consejo de Estado.
-
-La Comisión contará con un plazo de sesenta días para presentar la acusación cuando se trate de falta disciplinaria de indignidad por mala conducta, y la Cámara de Representantes tendrá treinta días para decidir. En todo caso, la Comisión podrá continuar con la investigación de la causa criminal de haber lugar a ello y, de encontrar mérito para acusar, adelantará el trámite previsto en el inciso anterior, en el término que disponga la ley.
-
-La Comisión estará conformada por cinco miembros, elegidos por el Congreso en Pleno para periodos personales de ocho años, de listas enviadas por el Consejo de Gobierno Judicial y elaboradas mediante convocatoria pública adelantada por la Gerencia de la Rama Judicial en los términos que disponga la ley.
-
-Los miembros de la Comisión de Aforados deberán cumplir con las calidades exigidas para ser Magistrados de la Corte Suprema de Justicia y estarán sujetos al mismo régimen de inhabilidades e incompatibilidades.
-
-Las Salas Plenas de la Corte Constitucional, de la Corte Suprema de Justicia, del Consejo de Estado y de la Comisión Nacional de Disciplina Judicial, podrán solicitar a la Comisión de Aforados la suspensión de uno de sus miembros mientras se decide la acusación por faltas disciplinarias de indignidad por mala conducta.
-
-La ley establecerá el procedimiento para determinar la responsabilidad fiscal cuando los aforados señalados en este artículo ejerzan funciones administrativas.
-
-**Parágrafo transitorio.**Sin perjuicio de lo dispuesto en el numeral tercero del artículo 178, la Comisión de Investigación y Acusaciones de la Cámara de Representantes mantendrá, durante un año contado a partir de la entrada en vigencia del presente Acto Legislativo, la competencia para investigar los hechos ocurridos antes de la posesión de los magistrados de la Comisión de Aforados, que se le imputen a los aforados citados en este artículo y a los magistrados del Consejo Superior de la Judicatura. La Cámara de Representantes adoptará las decisiones administrativas necesarias para que en ese lapso, los representantes investigadores puedan:
-
-- a) Dictar resolución inhibitoria en los casos que no ameriten apertura formal de investigación cuando aparezca que la conducta no ha existido, que es objetivamente atípica, que la acción penal no puede iniciarse o que está demostrada una causal de ausencia de responsabilidad.
-
-- b) Remitir la investigación a la autoridad competente si se trata de hechos cometidos por fuera del ejercicio de sus funciones y el investigado hubiere cesado en el ejercicio de su cargo.
-
-- c) Ordenar la apertura de investigación cuando se encuentren dados los supuestos legales que lo ameriten y remitirla a la Comisión de Aforados para que asuma el proceso.
-
-- d) Presentar la acusación ante la Plenaria de la Cámara de Representantes en relación con investigaciones abiertas, cuando se encuentren dados los supuestos legales que lo ameriten.
-
-- e) Remitir a la Comisión de Aforados todas las demás investigaciones, en el estado en que se encuentren, incluidas las adelantadas contra los magistrados del Consejo Superior de la Judicatura.
-
-Mientras la ley no adopte el procedimiento aplicable, la Comisión de Aforados se regirá por el régimen procesal utilizado en las investigaciones que adelanta la Comisión de Investigación y Acusación y las normas que lo sustituyan y lo modifiquen.
 
 ### **CAPITULO 6**
 
 **DE LOS CONGRESISTAS**
-
-##### **ARTICULO 179.** No podrán ser congresistas:
-
-- 1. Quienes hayan sido condenados en cualquier época por sentencia judicial, a pena privativa de la libertad, excepto por delitos políticos o culposos.
-
-- 2. Quienes hubieren ejercido, como empleados públicos, jurisdicción o autoridad política, civil, administrativa o militar, dentro de los doce meses anteriores a la fecha de la elección.
-
-- 3. Quienes hayan intervenido en gestión de negocios ante entidades públicas, o en la celebración de contratos con ellas en interés propio, o en el de terceros, o hayan sido representantes legales de entidades que administren tributos o contribuciones parafiscales, dentro de los seis meses anteriores a la fecha de la elección.
-
-- 4. Quienes hayan perdido la investidura de congresista.
-
-- 5. Quienes tengan vínculos por matrimonio, o unión permanente, o de parentesco en tercer grado de consanguinidad, primero de afinidad, o único civil, con funcionarios que ejerzan autoridad civil o política.
-
-- 6. Quienes estén vinculados entre sí por matrimonio, o unión permanente, o parentesco dentro del tercer grado de consanguinidad, segundo de afinidad, o primero civil, y se inscriban por el mismo partido, movimiento o grupo para elección de cargos, o de miembros de corporaciones públicas que deban realizarse en la misma fecha.
-
-- 7. Quienes tengan doble nacionalidad, exceptuando los colombianos por nacimiento.
-
-- 8. Nadie podrá ser elegido para más de una Corporación o cargo público, ni para una Corporación y un cargo si los respectivos períodos coinciden en el tiempo, así fuere parcialmente. La renuncia un (1) año antes de la elección al cargo al que se aspire elimina la inhabilidad.
-
-**Parágrafo transitorio.** La inhabilidad establecida en el numeral anterior no aplicará para quienes hayan renunciado al menos seis (6) meses antes del último día de inscripciones para la realización de las elecciones al Congreso de la República en el año 2010.
-
-**ARTICULO 179.** No podrán ser congresistas:
-
-- 1. Quienes hayan sido condenados en cualquier época por sentencia judicial, a pena privativa de la libertad, excepto por delitos políticos o culposos.
-
-- 2. Quienes hubieren ejercido, como empleados públicos, jurisdicción o autoridad política, civil, administrativa o militar, dentro de los doce meses anteriores a la fecha de la elección.
-
-- 3. Quienes hayan intervenido en gestión de negocios ante entidades públicas, o en la celebración de contratos con ellas en interés propio, o en el de terceros, o hayan sido representantes legales de entidades que administren tributos o contribuciones parafiscales, dentro de los seis meses anteriores a la fecha de la elección.
-
-- 4. Quienes hayan perdido la investidura de congresista.
-
-- 5. Quienes tengan vínculos por matrimonio, o unión permanente, o de parentesco en tercer grado de consanguinidad, primero de afinidad, o único civil, con funcionarios que ejerzan autoridad civil o política.
-
-- 6. Quienes estén vinculados entre sí por matrimonio, o unión permanente, o parentesco dentro del tercer grado de consanguinidad, segundo de afinidad, o primero civil, y se inscriban por el mismo partido, movimiento o grupo para elección de cargos, o de miembros de corporaciones públicas que deban realizarse en la misma fecha.
-
-- 7. Quienes tengan doble nacionalidad, exceptuando los colombianos por nacimiento.
-
-- 8. Nadie podrá ser elegido para más de una corporación o cargo público, ni para una corporación y un cargo, si los respectivos períodos coinciden en el tiempo, así fuere parcialmente. La renuncia a alguno de ellos no elimina la inhabilidad.
-
-**Parágrafo Transitorio** Lo dispuesto en el numeral 8 del presente artículo no se aplicará a quienes hubiesen renunciado con anterioridad a la vigencia del presente Acto Legislativo.
-
-**ARTICULO 179.** No podrán ser congresistas:
-
-- 1. Quienes hayan sido condenados en cualquier época por sentencia judicial, a pena privativa de la libertad, excepto por delitos políticos o culposos.
-
-- 2. Quienes hubieren ejercido, como empleados públicos, jurisdicción o autoridad política, civil, administrativa o militar, dentro de los doce meses anteriores a la fecha de la elección.
-
-- 3. Quienes hayan intervenido en gestión de negocios ante entidades públicas, o en la celebración de contratos con ellas en interés propio, o en el de terceros, o hayan sido representantes legales de entidades que administren tributos o contribuciones parafiscales, dentro de los seis meses anteriores a la fecha de la elección.
-
-- 4. Quienes hayan perdido la investidura de congresista.
-
-- 5. Quienes tengan vínculos por matrimonio, o unión permanente, o de parentesco en tercer grado de consanguinidad, primero de afinidad, o único civil, con funcionarios que ejerzan autoridad civil o política.
-
-- 6. Quienes estén vinculados entre sí por matrimonio, o unión permanente, o parentesco dentro del tercer grado de consanguinidad, segundo de afinidad, o primero civil, y se inscriban por el mismo partido, movimiento o grupo para elección de cargos, o de miembros de corporaciones públicas que deban realizarse en la misma fecha.
-
-- 7. Quienes tengan doble nacionalidad, exceptuando los colombianos por nacimiento.
-
-- 8. Nadie podrá ser elegido para más de una corporación o cargo público, ni para una corporación y un cargo, si los respectivos períodos coinciden en el tiempo, así fuere parcialmente. La renuncia a alguno de ellos no elimina la inhabilidad.
-
-**Parágrafo Transitorio** Lo dispuesto en el numeral 8 del presente artículo no se aplicará a quienes hubiesen renunciado con anterioridad a la vigencia del presente Acto Legislativo.
-
-**ARTICULO 179.** No podrán ser congresistas:
-
-- 1. Quienes hayan sido condenados en cualquier época por sentencia judicial, a pena privativa de la libertad, excepto por delitos políticos o culposos.
-
-- 2. Quienes hubieren ejercido, como empleados públicos, jurisdicción o autoridad política, civil, administrativa o militar, dentro de los doce meses anteriores a la fecha de la elección.
-
-- 3. Quienes hayan intervenido en gestión de negocios ante entidades públicas, o en la celebración de contratos con ellas en interés propio, o en el de terceros, o hayan sido representantes legales de entidades que administren tributos o contribuciones parafiscales, dentro de los seis meses anteriores a la fecha de la elección.
-
-- 4. Quienes hayan perdido la investidura de congresista.
-
-- 5. Quienes tengan vínculos por matrimonio, o unión permanente, o de parentesco en tercer grado de consanguinidad, primero de afinidad, o único civil, con funcionarios que ejerzan autoridad civil o política.
-
-- 6. Quienes estén vinculados entre sí por matrimonio, o unión permanente, o parentesco dentro del tercer grado de consanguinidad, segundo de afinidad, o primero civil, y se inscriban por el mismo partido, movimiento o grupo para elección de cargos, o de miembros de corporaciones públicas que deban realizarse en la misma fecha.
-
-- 7. Quienes tengan doble nacionalidad, exceptuando los colombianos por nacimiento.
-
-- 8. Nadie podrá ser elegido para más de una corporación o cargo público, ni para una corporación y un cargo, si los respectivos períodos coinciden en el tiempo, así sea parcialmente.
-
-Las inhabilidades previstas en los numerales 2, 3, 5 y 6 se refieren a situaciones que tengan lugar en la circunscripción en la cual deba efectuarse la respectiva elección. La ley reglamentará los demás casos de inhabilidades por parentesco, con las autoridades no contemplados en estas disposiciones.
-
-Para los fines de este artículo se considera que la circunscripción nacional coincide con cada una de las territoriales, excepto para la inhabilidad consignada en el numeral 5.
 
 ##### **Artículo 180.** Los congresistas no podrán:
 
@@ -1673,36 +909,6 @@ Para los fines de este artículo se considera que la circunscripción nacional c
 Quien fuere llamado a ocupar el cargo, quedará sometido al mismo régimen de inhabilidades e incompatibilidades a partir de su posesión.
 
 ##### **Artículo 182.** Los congresistas deberán poner en conocimiento de la respectiva Cámara las situaciones de carácter moral o económico que los inhiban para participar en el trámite de los asuntos sometidos a su consideración. La ley determinará lo relacionado con los conflictos de intereses y las recusaciones.
-
-##### **Artículo 183.** Los congresistas perderán su investidura:
-
-- 1. Por violación del régimen de inhabilidades e incompatibilidades, o del régimen de conflicto de intereses.
-
-- 2. Por la inasistencia, en un mismo periodo de sesiones, a seis reuniones plenarias en las que se voten proyectos de acto legislativo, de ley o mociones de censura.
-
-- 3. Por no tomar posesión del cargo dentro de los ocho días siguientes a la fecha de instalación de las Cámaras, o a la fecha en que fueren llamados a posesionarse.
-
-- 4. Por indebida destinación de dineros públicos.
-
-- 5. Por tráfico de influencias debidamente comprobado.
-
-**Parágrafo.** La causal 1 en lo referido al régimen de conflicto de intereses no tendrá aplicación cuando los Congresistas participen en el debate y votación de proyectos de actos legislativos.
-
-Las causales 2 y 3 no tendrán aplicación cuando medie fuerza mayor.
-
-**Artículo 183.** Los congresistas perderán su investidura:
-
-- 1. Por violación del régimen de inhabilidades e incompatibilidades, o del régimen de conflicto de intereses.
-
-- 2. Por la inasistencia, en un mismo periodo de sesiones, a seis reuniones plenarias en las que se voten proyectos de acto legislativo, de ley o mociones de censura.
-
-- 3. Por no tomar posesión del cargo dentro de los ocho días siguientes a la fecha de instalación de las Cámaras, o a la fecha en que fueren llamados a posesionarse.
-
-- 4. Por indebida destinación de dineros públicos.
-
-- 5. Por tráfico de influencias debidamente comprobado.
-
-**Parágrafo.** Las causales 2 y 3 no tendrán aplicación cuando medie fuerza mayor.
 
 ##### **Artículo 184.** La pérdida de la investidura será decretada por el Consejo de Estado de acuerdo con la ley y en un término no mayor de veinte días hábiles, contados a partir de la fecha de la solicitud formulada por la mesa directiva de la cámara correspondiente o por cualquier ciudadano.
 
@@ -1812,26 +1018,6 @@ El Presidente de la República, o quien haya ocupado la Presidencia a título de
 
 Cuando el Presidente de la República se traslade a territorio extranjero en ejercicio de su cargo, el Ministro a quien corresponda, según el orden de precedencia legal, ejercerá bajo su propia responsabilidad las funciones constitucionales que el Presidente le delegue, tanto aquellas que le son propias como las que ejerce en su calidad de Jefe del Gobierno. El Ministro Delegatario pertenecerá al mismo partido o movimiento político del Presidente.
 
-##### **Artículo 197.**No podrá ser elegido Presidente de la República el ciudadano que a cualquier título hubiere ejercido la Presidencia. Esta prohibición no cobija al Vicepresidente cuando la ha ejercido por menos de tres meses, en forma continua o discontinua, durante el cuatrienio. La prohibición de la reelección solo podrá ser reformada o derogada mediante referendo de iniciativa popular o asamblea constituyente.
-
-No podrá ser elegido Presidente de la República o Vicepresidente quien hubiere incurrido en alguna de las causales de inhabilidad consagradas en los numerales 1, 4 y 7 del artículo 179, ni el ciudadano que un año antes de la elección haya tenido la investidura de Vicepresidente o ejercido cualquiera de los siguientes cargos:
-
-Ministro, Director de Departamento Administrativo, Magistrado de la Corte Suprema de Justicia, de la Corte Constitucional, del Consejo de Estado, Comisión Nacional de Disciplina Judicial, Miembro de la Comisión de Aforados o del Consejo Nacional Electoral, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República, Fiscal General de la Nación, Registrador Nacional del Estado Civil, Comandantes de las Fuerzas Militares, Auditor General de la República, Director General de la Policía, Gobernador de departamento o Alcalde.
-
-**Artículo 197.** Nadie podrá ser elegido para ocupar la Presidencia de la República por más de dos períodos".
-
-No podrá ser elegido Presidente de la República o Vicepresidente quien hubiere incurrido en alguna de las causales de inhabilidad consagradas en los numerales 1, 4 y 7 del artículo 179, ni el ciudadano que un año antes de la elección haya ejercido cualquiera de los siguientes cargos:
-
-Ministro, Director de Departamento Administrativo, Magistrado de la Corte Suprema de Justicia, de la Corte Constitucional, del Consejo de Estado, del Consejo Superior de la Judicatura, o del Consejo Nacional Electoral, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República, Fiscal General de la Nación, Registrador Nacional del Estado Civil, Comandantes de las Fuerzas Militares, Director General de la Policía, Gobernador de Departamento o Alcaldes.
-
-**Parágrafo transitorio.** Quien ejerza o haya ejercido la Presidencia de la República antes de la vigencia del presente Acto Legislativo sólo podrá ser elegido para un nuevo período presidencial.
-
-**Artículo 197.** No podrá ser elegido Presidente de la República el ciudadano que a cualquier título hubiere ejercido la Presidencia. Esta prohibición no cobija al Vicepresidente cuando la ha ejercido por menos de tres meses, en forma continua o discontinua, durante el cuatrienio.
-
-Tampoco podrá ser elegido Presidente de la República quien hubiere incurrido en alguna de las causales de inhabilidad consagradas en los numerales 1, 4 y 7 del artículo 179, ni el ciudadano que un año antes de la elección haya ejercido cualquiera de los siguientes cargos:
-
-Magistrado de la Corte Suprema de Justicia, o de la Corte Constitucional, Consejero de Estado o miembro del Consejo Nacional Electoral, o del Consejo Superior de la Judicatura, Ministros del Despacho, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República, Fiscal General de la Nación, Registrador Nacional del Estado Civil, Director de Departamento Administrativo, Gobernador de Departamento o Alcalde Mayor de Santa Fe de Bogotá.
-
 ##### **Artículo 198.** El Presidente de la República, o quien haga sus veces, será responsable de sus actos u omisiones que violen la Constitución o las leyes.
 
 ##### **Artículo 199.** El Presidente de la República, durante el periodo para el que sea elegido, o quien se halle encargado de la Presidencia, no podrá ser perseguido ni juzgado por delitos, sino en virtud de acusación de la Cámara de Representantes y cuando el Senado haya declarado que hay lugar a formación de causa.
@@ -1877,16 +1063,6 @@ El Presidente de la República podrá confiar al Vicepresidente misiones o encar
 ##### **Artículo 203.** A falta del Vicepresidente cuando estuviera ejerciendo la Presidencia, ésta será asumida por un Ministro en el orden que establezca la ley.
 
 La persona que de conformidad con este artículo reemplace al Presidente, pertenecerá a su mismo partido o movimiento y ejercerá la Presidencia hasta cuando el Congreso, por derecho propio, dentro de los treinta días siguientes a la fecha en que se produzca la vacancia presidencial, elija al Vicepresidente, quien tomará posesión de la Presidencia de la República.
-
-##### **Artículo 204.** Para ser elegido Vicepresidente se requieren las mismas calidades que para ser Presidente de la República.
-
-El Vicepresidente podrá ser reelegido para el período siguiente si integra la misma fórmula del Presidente en ejercicio.
-
-El Vicepresidente podrá ser elegido Presidente de la República para el período siguiente cuando el Presidente en ejercicio no se presente como candidato.
-
-**Artículo 204.** Para ser elegido Vicepresidente se requieren las mismas calidades que para ser Presidente de la República.
-
-El Vicepresidente no podrá ser elegido Presidente de la República, ni Vicepresidente para el período inmediatamente siguiente.
 
 ##### **Artículo 205.** En caso de falta absoluta del Vicepresidente, el Congreso se reunirá por derecho propio, o por convocatoria del Presidente de la República, a fin de elegir a quien haya de reemplazarlo para el resto del período. Son faltas absolutas del Vicepresidente: su muerte, su renuncia aceptada y la incapacidad física permanente reconocida por el Congreso.
 
@@ -2010,30 +1186,6 @@ Los miembros de la Fuerza Pública no podrán ejercer la función del sufragio m
 
 ##### **Artículo 220.** Los miembros de la Fuerza Pública no pueden ser privados de sus grados, honores y pensiones, sino en los casos y del modo que determine la Ley.
 
-##### **Artículo 221.** De los delitos cometidos por los miembros de la fuerza pública en servicio activo, y en relación con el mismo servicio, conocerán las Cortes Marciales o Tribunales Militares, con arreglo a las prescripciones del Código Penal Militar. Tales Cortes o Tribunales estarán integrados por miembros de la Fuerza Pública en servicio activo o en retiro.
-
-**Artículo 221.**De los delitos cometidos por los miembros de la Fuerza Pública en servicio activo, y en relación con el mismo servicio, conocerán las cortes marciales o tribunales militares, con arreglo a las prescripciones del Código Penal Militar. Tales cortes o tribunales estarán integrados por miembros de la Fuerza Pública en servicio activo o en retiro.
-
-En ningún caso la Justicia Penal Militar o policial conocerá de los crímenes de lesa humanidad, ni de los delitos de genocidio, desaparición forzada, ejecución extrajudicial, violencia sexual, tortura y desplazamiento forzado. Las infracciones al Derecho Internacional Humanitario cometidas por miembros de la Fuerza Pública, salvo los delitos anteriores, serán conocidas exclusivamente por las cortes marciales o tribunales militares o policiales.
-
-Cuando la conducta de los miembros de la Fuerza Pública en relación con un conflicto armado sea investigada y juzgada por las autoridades judiciales, se aplicará siempre el Derecho Internacional Humanitario. Una ley estatutaria especificará sus reglas de interpretación y aplicación, y determinará la forma de armonizar el derecho penal con el Derecho Internacional Humanitario.
-
-Si en desarrollo de una acción, operación o procedimiento de la Fuerza Pública, ocurre alguna conducta que pueda ser punible y exista duda sobre la competencia de la Justicia Penal Militar, excepcionalmente podrá intervenir una comisión técnica de coordinación integrada por representantes de la jurisdicción penal militar y de la jurisdicción penal ordinaria, apoyada por sus respectivos órganos de policía judicial. La ley estatutaria regulará la composición y funcionamiento de esta comisión, la forma en que será apoyada por los órganos de policía judicial de las jurisdicciones ordinarias y penal militar y los plazos que deberá cumplir.
-
-La ley ordinaria podrá crear juzgados y tribunales penales policiales, y adoptar un Código Penal Policial.
-
-La ley estatutaria desarrollará las garantías de autonomía e imparcialidad de la Justicia Penal Militar. Además, una ley ordinaria regulará una estructura y un sistema de carrera propio e independiente del mando institucional.
-
-Créase un fondo destinado específicamente a financiar el Sistema de Defensa Técnica y Especializada de los miembros de la Fuerza Pública, en la forma en que lo regule la ley, bajo la dependencia, orientación y coordinación del Ministerio de Defensa Nacional.
-
-Los miembros de la Fuerza Pública cumplirán la detención preventiva en centros de reclusión establecidos para ellos y a falta de estos, en las instalaciones de la Unidad a que pertenezcan. Cumplirán la condena en centros penitenciarios y carcelarios establecidos para miembros de la Fuerza Pública.
-
-**(Declarado INEXEQUIBLE el cambio introducido por Acto legislativo 02 de 2012 por sentencia 740 de 2013)**
-
-**Artículo 221.** De los delitos cometidos por los miembros de la fuerza pública en servicio activo, y en relación con el mismo servicio, conocerán las Cortes Marciales o Tribunales Militares, con arreglo a las prescripciones del Código Penal Militar. Tales Cortes o Tribunales estarán integrados por miembros de la Fuerza Pública en servicio activo o en retiro".
-
-**Artículo 221.** De los delitos cometidos por los miembros de la Fuerza Pública en servicio activo, y en relación con el mismo servicio, conocerán las cortes marciales o tribunales militares, con arreglo a las prescripciones del Código Penal Militar.
-
 ##### **Artículo 222.** La ley determinará los sistemas de promoción profesional, cultural y social de los miembros de la Fuerza Pública. En las etapas de su formación, se les impartirá la enseñanza de los fundamentos de la democracia y de los derechos humanos.
 
 ##### **Artículo 223.** Sólo el Gobierno puede introducir y fabricar armas, municiones de guerra y explosivos. Nadie podrá poseerlos ni portarlos sin permiso de la autoridad competente. Este permiso no podrá extenderse a los casos de concurrencia a reuniones políticas, a elecciones, o a sesiones de corporaciones públicas o asambleas, ya sea para actuar en ellas o para presenciarlas.
@@ -2068,14 +1220,6 @@ Los miembros de los organismos nacionales de seguridad y otros cuerpos oficiales
 
 La equidad, la jurisprudencia, los principios generales del derecho y la doctrina son criterios auxiliares de la actividad judicial.
 
-##### **Artículo 231.** Los Magistrados de la Corte Suprema de Justicia y del Consejo de Estado serán elegidos por la respectiva Corporación, previa audiencia pública, de lista de diez elegibles enviada por el Consejo de Gobierno Judicial tras una convocatoria pública reglada de conformidad con la ley y adelantada por la Gerencia de la Rama Judicial.
-
-En el conjunto de procesos de selección de los Magistrados de la Corte Suprema de Justicia y del Consejo de Estado se atenderá el criterio de equilibrio entre quienes provienen del ejercicio profesional, de la Rama Judicial y de la academia.
-
-La Corte Suprema de Justicia y el Consejo de Estado reglamentarán la fórmula de votación y el término en el cual deberán elegir a los Magistrados que conformen la respectiva corporación.
-
-**Artículo 231.** Los Magistrados de la Corte Suprema de Justicia y del Consejo de Estado serán nombrados por la respectiva corporación, de listas enviadas por el Consejo Superior de la Judicatura.
-
 ##### **Artículo 232.** Para ser Magistrado de la Corte Constitucional, de la Corte Suprema de Justicia y del Consejo de Estado se requiere:
 
 - 1. Ser colombiano de nacimiento y ciudadano en ejercicio.
@@ -2095,60 +1239,6 @@ La Corte Suprema de Justicia y el Consejo de Estado reglamentarán la fórmula d
 **DE LA JURISDICCION ORDINARIA**
 
 ##### **Artículo 234.** La Corte Suprema de Justicia es el máximo tribunal de la jurisdicción ordinaria y se compondrá del número impar de magistrados que determine la ley. Esta dividirá la Corte en salas, señalará a cada una de ellas los asuntos que deba conocer separadamente y determinará aquellos en que deba intervenir la Corte en pleno.
-
-##### **Artículo 235.** Son atribuciones de la Corte Suprema de Justicia:
-
-- 1. Actuar como tribunal de casación.
-
-- 2. Juzgar al Presidente de la República o a quien haga sus veces y a los altos funcionarios de que trata el artículo 174, por cualquier hecho punible que se les impute, conforme al artículo 175 numerales 2 y 3.
-
-- 3. Investigar y juzgar a los miembros del Congreso.
-
-- 4. Juzgar, previa acusación del Fiscal General de la Nación, del Vicefiscal General de la Nación o de sus delegados de la unidad de fiscalías ante la Corte Suprema de Justicia, al Vicepresidente de la República, a los Ministros del Despacho, al Procurador General, al Defensor del Pueblo, a los Agentes del Ministerio Público ante la Corte, ante el Consejo de Estado y ante los Tribunales; a los Directores de los Departamentos Administrativos, al Contralor General de la República, a los Embajadores y jefe de misión diplomática o consular, a los Gobernadores, a los Magistrados de Tribunales y a los Generales y Almirantes de la Fuerza Pública, por los hechos punibles que se les imputen.
-
-- 5. Conocer de todos los negocios contenciosos de los agentes diplomáticos acreditados ante el Gobierno de la Nación, en los casos previstos por el Derecho Internacional.
-
-- 6. Darse su propio reglamento.
-
-- 7. Las demás atribuciones que señale la ley.
-
-**Parágrafo.** Cuando los funcionarios antes enumerados hubieren cesado en el ejercicio de su cargo, el fuero sólo se mantendrá para las conductas punibles que tengan relación con las funciones desempeñadas.
-
-**Artículo 235.** Son atribuciones de la Corte Suprema de Justicia:
-
-- 1. Actuar como tribunal de casación.
-
-- 2. Juzgar al Presidente de la República o a quien haga sus veces y a los altos funcionarios de que trata el artículo 174, por cualquier hecho punible que se les impute, conforme al artículo 175 numerales 2 y 3.
-
-- 3. Investigar y juzgar a los miembros del Congreso.
-
-- 4. Juzgar, previa acusación del Fiscal General de la Nación, del Vicefiscal General de la Nación o de sus delegados de la unidad de fiscalías ante la Corte Suprema de Justicia, a los Ministros del Despacho, al Procurador General, al Defensor del Pueblo, a los Agentes del Ministerio Público ante la Corte, ante el Consejo de Estado y ante los Tribunales; a los Directores de los Departamentos Administrativos, al Contralor General de la República, a los Embajadores y jefe de misión diplomática o consular, a los Gobernadores, a los Magistrados de Tribunales y a los Generales y Almirantes de la Fuerza Pública, por los hechos punibles que se les imputen.
-
-- 5. Conocer de todos los negocios contenciosos de los agentes diplomáticos acreditados ante el Gobierno de la Nación, en los casos previstos por el Derecho Internacional.
-
-- 6. Darse su propio reglamento.
-
-- 7. Las demás atribuciones que señale la ley.
-
-**Parágrafo.** Cuando los funcionarios antes enumerados hubieren cesado en el ejercicio de su cargo, el fuero sólo se mantendrá para las conductas punibles que tengan relación con las funciones desempeñadas.
-
-**Artículo 235.** Son atribuciones de la Corte Suprema de Justicia:
-
-- 1. Actuar como tribunal de casación.
-
-- 2. Juzgar al Presidente de la República o a quien haga sus veces y a los altos funcionarios de que trata el artículo 174, por cualquier hecho punible que se les impute, conforme al artículo 175 numerales 2 y 3.
-
-- 3. Investigar y juzgar a los miembros del Congreso.
-
-- 4. Juzgar, previa acusación del Fiscal General de la Nación, a los Ministros del Despacho, al Procurador General, al Defensor del Pueblo, a los Agentes del Ministerio Público ante la Corte, ante el Consejo de Estado y ante los Tribunales; a los Directores de los Departamentos Administrativos, al Contralor General de la República, a los Embajadores y jefes de misión diplomática o consular, a los Gobernadores, a los Magistrados de Tribunales y a los Generales y Almirantes de la Fuerza Pública, por los hechos punibles que se les imputen
-
-- 5. Conocer de todos los negocios contenciosos de los agentes diplomáticos acreditados ante el Gobierno de la Nación, en los casos previstos por el Derecho Internacional.
-
-- 6. Darse su propio reglamento.
-
-- 7. Las demás atribuciones que señale la ley.
-
-**Parágrafo.** Cuando los funcionarios antes enumerados hubieren cesado en el ejercicio de su cargo, el fuero sólo se mantendrá para las conductas punibles que tengan relación con las funciones desempeñadas.
 
 ### **CAPITULO 3**
 
@@ -2264,216 +1354,6 @@ El Fiscal General de la Nación será elegido para un período de cuatro años p
 
 La Fiscalía General de la Nación forma parte de la rama judicial y tendrá autonomía administrativa y presupuestal.
 
-##### **Artículo 250.** La Fiscalía General de la Nación está obligada a adelantar el ejercicio de la acción penal y realizar la investigación de los hechos que revistan las características de un delito que lleguen a su conocimiento por medio de denuncia, petición especial, querella o de oficio, siempre y cuando medien suficientes motivos y circunstancias fácticas que indiquen la posible existencia del mismo. No podrá, en consecuencia, suspender, interrumpir, ni renunciar a la persecución penal, salvo en los casos que establezca la ley para la aplicación del principio de oportunidad regulado dentro del marco de la política criminal del Estado, el cual estará sometido al control de legalidad por parte del juez que ejerza las funciones de control de garantías. Se exceptúan los delitos cometidos por Miembros de la Fuerza Pública en servicio activo y en relación con el mismo servicio.
-
-En ejercicio de sus funciones la Fiscalía General de la Nación, deberá:
-
-- 1. Solicitar al juez que ejerza las funciones de control de garantías las medidas necesarias que aseguren la comparecencia de los imputados al proceso penal, la conservación de la prueba y la protección de la comunidad, en especial, de las víctimas.
-
-El juez que ejerza las funciones de control de garantías, no podrá ser, en ningún caso, el juez de conocimiento, en aquellos asuntos en que haya ejercido esta función.
-
-La ley podrá facultar a la Fiscalía General de la Nación para realizar excepcionalmente capturas; igualmente, la ley fijará los límites y eventos en que proceda la captura. En estos casos el juez que cumpla la función de control de garantías lo realizará a más tardar dentro de las treinta y seis (36) horas siguientes.
-
-- 2. Adelantar registros, allanamientos, incautaciones e interceptaciones de comunicaciones. En estos eventos el juez que ejerza las funciones de control de garantías efectuará el control posterior respectivo, a más tardar dentro de las treinta y seis (36) horas siguientes, al solo efecto de determinar su validez.
-
-- 3. Asegurar los elementos materiales probatorios, garantizando la cadena de custodia mientras se ejerce su contradicción. En caso de requerirse medidas adicionales que impliquen afectación de derechos fundamentales, deberá obtenerse la respectiva autorización por parte del juez que ejerza las funciones de control de garantías para poder proceder a ello.
-
-- 4. Presentar escrito de acusación ante el juez de conocimiento, con el fin de dar inicio a un juicio público, oral, con inmediación de las pruebas, contradictorio, concentrado y con todas las garantías.
-
-- 5. Solicitar ante el juez de conocimiento la preclusión de las investigaciones cuando según lo dispuesto en la ley no hubiere mérito para acusar.
-
-- 6. Solicitar ante el juez de conocimiento las medidas judiciales necesarias para la asistencia a las víctimas, lo mismo que disponer el restablecimiento del derecho y la reparación integral a los afectados con el delito.
-
-- 7. Velar por la protección de las víctimas, los jurados, los testigos y demás intervinientes en el proceso penal, la ley fijará los términos en que podrán intervenir las víctimas en el proceso penal y los mecanismos de justicia restaurativa.
-
-- 8. Dirigir y coordinar las funciones de policía Judicial que en forma permanente cumple la Policía Nacional y los demás organismos que señale la ley.
-
-- 9. Cumplir las demás funciones que establezca la ley.
-
-El Fiscal General y sus delegados tienen competencia en todo el territorio nacional.
-
-En el evento de presentarse escrito de acusación, el Fiscal General o sus delegados deberán suministrar, por conducto del juez de conocimiento, todos los elementos probatorios e informaciones de que tenga noticia incluidos los que le sean favorables al procesado.
-
-**Parágrafo.** La Procuraduría General de la Nación continuará cumpliendo en el nuevo sistema de indagación, investigación y juzgamiento penal, las funciones contempladas en el artículo 277 de la Constitución Nacional.
-
-**Parágrafo 2°.** Para combatir el terrorismo y los delitos contra la seguridad pública, y en aquellos sitios del territorio nacional donde no exista una autoridad judicial a la que se pueda acudir en forma inmediata o donde el acceso de los funcionarios ordinarios de policía judicial no sea posible por excepcionales circunstancias de orden público, la Fiscalía General de la Nación conformará unidades especiales de Policía Judicial con miembros de las Fuerzas Militares, las cuales estarán bajo su dirección y coordinación. Para el desarrollo de las labores propias de esta función, los miembros de la Unidad pertenecientes a las fuerzas militares se regirán, sin excepción, por los mismos principios de responsabilidad que los demás miembros de la unidad especial.
-
-**Parágrafo 2°.** Atendiendo la naturaleza del bien jurídico y la menor lesividad de la conducta punible, el legislador podrá asignarle el ejercicio de la acción penal a la víctima o a otras autoridades distintas a la Fiscalía General de la Nación. En todo caso, la Fiscalía General de la Nación podrá actuar en forma preferente.
-
-**Artículo 250.** La Fiscalía General de la Nación está obligada a adelantar el ejercicio de la acción penal y realizar la investigación de los hechos que revistan las características de un delito que lleguen a su conocimiento por medio de denuncia, petición especial, querella o de oficio, siempre y cuando medien suficientes motivos y circunstancias fácticas que indiquen la posible existencia del mismo. No podrá, en consecuencia, suspender, interrumpir, ni renunciar a la persecución penal, salvo en los casos que establezca la ley para la aplicación del principio de oportunidad regulado dentro del marco de la política criminal del Estado, el cual estará sometido al control de legalidad por parte del juez que ejerza las funciones de control de garantías. Se exceptúan los delitos cometidos por Miembros de la Fuerza Pública en servicio activo y en relación con el mismo servicio.
-
-En ejercicio de sus funciones la Fiscalía General de la Nación, deberá:
-
-- 1. Solicitar al juez que ejerza las funciones de control de garantías las medidas necesarias que aseguren la comparecencia de los imputados al proceso penal, la conservación de la prueba y la protección de la comunidad, en especial, de las víctimas.
-
-El juez que ejerza las funciones de control de garantías, no podrá ser, en ningún caso, el juez de conocimiento, en aquellos asuntos en que haya ejercido esta función.
-
-La ley podrá facultar a la Fiscalía General de la Nación para realizar excepcionalmente capturas; igualmente, la ley fijará los límites y eventos en que proceda la captura. En estos casos el juez que cumpla la función de control de garantías lo realizará a más tardar dentro de las treinta y seis (36) horas siguientes.
-
-- 2. Adelantar registros, allanamientos, incautaciones e interceptaciones de comunicaciones. En estos eventos el juez que ejerza las funciones de control de garantías efectuará el control posterior respectivo, a más tardar dentro de las treinta y seis (36) horas siguientes, al solo efecto de determinar su validez.
-
-- 3. Asegurar los elementos materiales probatorios, garantizando la cadena de custodia mientras se ejerce su contradicción. En caso de requerirse medidas adicionales que impliquen afectación de derechos fundamentales, deberá obtenerse la respectiva autorización por parte del juez que ejerza las funciones de control de garantías para poder proceder a ello.
-
-- 4. Presentar escrito de acusación ante el juez de conocimiento, con el fin de dar inicio a un juicio público, oral, con inmediación de las pruebas, contradictorio, concentrado y con todas las garantías.
-
-- 5. Solicitar ante el juez de conocimiento la preclusión de las investigaciones cuando según lo dispuesto en la ley no hubiere mérito para acusar.
-
-- 6. Solicitar ante el juez de conocimiento las medidas judiciales necesarias para la asistencia a las víctimas, lo mismo que disponer el restablecimiento del derecho y la reparación integral a los afectados con el delito.
-
-- 7. Velar por la protección de las víctimas, los jurados, los testigos y demás intervinientes en el proceso penal, la ley fijará los términos en que podrán intervenir las víctimas en el proceso penal y los mecanismos de justicia restaurativa.
-
-- 8. Dirigir y coordinar las funciones de policía Judicial que en forma permanente cumple la Policía Nacional y los demás organismos que señale la ley.
-
-- 9. Cumplir las demás funciones que establezca la ley.
-
-El Fiscal General y sus delegados tienen competencia en todo el territorio nacional.
-
-En el evento de presentarse escrito de acusación, el Fiscal General o sus delegados deberán suministrar, por conducto del juez de conocimiento, todos los elementos probatorios e informaciones de que tenga noticia incluidos los que le sean favorables al procesado.
-
-**Parágrafo.** La Procuraduría General de la Nación continuará cumpliendo en el nuevo sistema de indagación, investigación y juzgamiento penal, las funciones contempladas en el artículo 277 de la Constitución Nacional.
-
-**Parágrafo 2°.** Para combatir el terrorismo y los delitos contra la seguridad pública, y en aquellos sitios del territorio nacional donde no exista una autoridad judicial a la que se pueda acudir en forma inmediata o donde el acceso de los funcionarios ordinarios de policía judicial no sea posible por excepcionales circunstancias de orden público, la Fiscalía General de la Nación conformará unidades especiales de Policía Judicial con miembros de las Fuerzas Militares, las cuales estarán bajo su dirección y coordinación. Para el desarrollo de las labores propias de esta función, los miembros de la Unidad pertenecientes a las fuerzas militares se regirán, sin excepción, por los mismos principios de responsabilidad que los demás miembros de la unidad especial.
-
-**Artículo 250.** La Fiscalía General de la Nación está obligada a adelantar el ejercicio de la acción penal y realizar la investigación de los hechos que revistan las características de un delito que lleguen a su conocimiento por medio de denuncia, petición especial, querella o de oficio, siempre y cuando medien suficientes motivos y circunstancias fácticas que indiquen la posible existencia del mismo. No podrá, en consecuencia, suspender, interrumpir, ni renunciar a la persecución penal, salvo en los casos que establezca la ley para la aplicación del principio de oportunidad regulado dentro del marco de la política criminal del Estado, el cual estará sometido al control de legalidad por parte del juez que ejerza las funciones de control de garantías. Se exceptúan los delitos cometidos por Miembros de la Fuerza Pública en servicio activo y en relación con el mismo servicio.
-
-En ejercicio de sus funciones la Fiscalía General de la Nación, deberá:
-
-- 1. Solicitar al juez que ejerza las funciones de control de garantías las medidas necesarias que aseguren la comparecencia de los imputados al proceso penal, la conservación de la prueba y la protección de la comunidad, en especial, de las víctimas.
-
-El juez que ejerza las funciones de control de garantías, no podrá ser, en ningún caso, el juez de conocimiento, en aquellos asuntos en que haya ejercido esta función.
-
-La ley podrá facultar a la Fiscalía General de la Nación para realizar excepcionalmente capturas; igualmente, la ley fijará los límites y eventos en que proceda la captura. En estos casos el juez que cumpla la función de control de garantías lo realizará a más tardar dentro de las treinta y seis (36) horas siguientes.
-
-- 2. Adelantar registros, allanamientos, incautaciones e interceptaciones de comunicaciones. En estos eventos el juez que ejerza las funciones de control de garantías efectuará el control posterior respectivo, a más tardar dentro de las treinta y seis (36) horas siguientes, al solo efecto de determinar su validez.
-
-- 3. Asegurar los elementos materiales probatorios, garantizando la cadena de custodia mientras se ejerce su contradicción. En caso de requerirse medidas adicionales que impliquen afectación de derechos fundamentales, deberá obtenerse la respectiva autorización por parte del juez que ejerza las funciones de control de garantías para poder proceder a ello.
-
-- 4. Presentar escrito de acusación ante el juez de conocimiento, con el fin de dar inicio a un juicio público, oral, con inmediación de las pruebas, contradictorio, concentrado y con todas las garantías.
-
-- 5. Solicitar ante el juez de conocimiento la preclusión de las investigaciones cuando según lo dispuesto en la ley no hubiere mérito para acusar.
-
-- 6. Solicitar ante el juez de conocimiento las medidas judiciales necesarias para la asistencia a las víctimas, lo mismo que disponer el restablecimiento del derecho y la reparación integral a los afectados con el delito.
-
-- 7. Velar por la protección de las víctimas, los jurados, los testigos y demás intervinientes en el proceso penal, la ley fijará los términos en que podrán intervenir las víctimas en el proceso penal y los mecanismos de justicia restaurativa.
-
-- 8. Dirigir y coordinar las funciones de policía Judicial que en forma permanente cumple la Policía Nacional y los demás organismos que señale la ley.
-
-- 9. Cumplir las demás funciones que establezca la ley.
-
-El Fiscal General y sus delegados tienen competencia en todo el territorio nacional.
-
-En el evento de presentarse escrito de acusación, el Fiscal General o sus delegados deberán suministrar, por conducto del juez de conocimiento, todos los elementos probatorios e informaciones de que tenga noticia incluidos los que le sean favorables al procesado.
-
-**Parágrafo.** La Procuraduría General de la Nación continuará cumpliendo en el nuevo sistema de indagación, investigación y juzgamiento penal, las funciones contempladas en el artículo 277 de la Constitución Nacional.
-
-**Parágrafo 2°.** Para combatir el terrorismo y los delitos contra la seguridad pública, y en aquellos sitios del territorio nacional donde no exista una autoridad judicial a la que se pueda acudir en forma inmediata o donde el acceso de los funcionarios ordinarios de policía judicial no sea posible por excepcionales circunstancias de orden público, la Fiscalía General de la Nación conformará unidades especiales de Policía Judicial con miembros de las Fuerzas Militares, las cuales estarán bajo su dirección y coordinación. Para el desarrollo de las labores propias de esta función, los miembros de la Unidad pertenecientes a las fuerzas militares se regirán, sin excepción, por los mismos principios de responsabilidad que los demás miembros de la unidad especial.
-
-**Artículo 250.** La Fiscalía General de la Nación está obligada a adelantar el ejercicio de la acción penal y realizar la investigación de los hechos que revistan las características de un delito que lleguen a su conocimiento por medio de denuncia, petición especial, querella o de oficio, siempre y cuando medien suficientes motivos y circunstancias fácticas que indiquen la posible existencia del mismo. No podrá, en consecuencia, suspender, interrumpir, ni renunciar a la persecución penal, salvo en los casos que establezca la ley para la aplicación del principio de oportunidad regulado dentro del marco de la política criminal del Estado, el cual estará sometido al control de legalidad por parte del juez que ejerza las funciones de control de garantías. Se exceptúan los delitos cometidos por Miembros de la Fuerza Pública en servicio activo y en relación con el mismo servicio.
-
-En ejercicio de sus funciones la Fiscalía General de la Nación, deberá:
-
-- 1. Solicitar al juez que ejerza las funciones de control de garantías las medidas necesarias que aseguren la comparecencia de los imputados al proceso penal, la conservación de la prueba y la protección de la comunidad, en especial, de las víctimas.
-
-El juez que ejerza las funciones de control de garantías, no podrá ser, en ningún caso, el juez de conocimiento, en aquellos asuntos en que haya ejercido esta función.
-
-La ley podrá facultar a la Fiscalía General de la Nación para realizar excepcionalmente capturas; igualmente, la ley fijará los límites y eventos en que proceda la captura. En estos casos el juez que cumpla la función de control de garantías lo realizará a más tardar dentro de las treinta y seis (36) horas siguientes.
-
-- 2. Adelantar registros, allanamientos, incautaciones e interceptaciones de comunicaciones. En estos eventos el juez que ejerza las funciones de control de garantías efectuará el control posterior respectivo, a más tardar dentro de las treinta y seis (36) horas siguientes, al solo efecto de determinar su validez.
-
-- 3. Asegurar los elementos materiales probatorios, garantizando la cadena de custodia mientras se ejerce su contradicción. En caso de requerirse medidas adicionales que impliquen afectación de derechos fundamentales, deberá obtenerse la respectiva autorización por parte del juez que ejerza las funciones de control de garantías para poder proceder a ello.
-
-- 4. Presentar escrito de acusación ante el juez de conocimiento, con el fin de dar inicio a un juicio público, oral, con inmediación de las pruebas, contradictorio, concentrado y con todas las garantías.
-
-- 5. Solicitar ante el juez de conocimiento la preclusión de las investigaciones cuando según lo dispuesto en la ley no hubiere mérito para acusar.
-
-- 6. Solicitar ante el juez de conocimiento las medidas judiciales necesarias para la asistencia a las víctimas, lo mismo que disponer el restablecimiento del derecho y la reparación integral a los afectados con el delito.
-
-- 7. Velar por la protección de las víctimas, los jurados, los testigos y demás intervinientes en el proceso penal, la ley fijará los términos en que podrán intervenir las víctimas en el proceso penal y los mecanismos de justicia restaurativa.
-
-- 8. Dirigir y coordinar las funciones de policía Judicial que en forma permanente cumple la Policía Nacional y los demás organismos que señale la ley.
-
-- 9. Cumplir las demás funciones que establezca la ley.
-
-El Fiscal General y sus delegados tienen competencia en todo el territorio nacional.
-
-En el evento de presentarse escrito de acusación, el Fiscal General o sus delegados deberán suministrar, por conducto del juez de conocimiento, todos los elementos probatorios e informaciones de que tenga noticia incluidos los que le sean favorables al procesado.
-
-**Parágrafo.** La Procuraduría General de la Nación continuará cumpliendo en el nuevo sistema de indagación, investigación y juzgamiento penal, las funciones contempladas en el artículo 277 de la Constitución Nacional.
-
-**Artículo 250.** La Fiscalía General de la Nación está obligada a adelantar el ejercicio de la acción penal y realizar la investigación de los hechos que revistan las características de un delito que lleguen a su conocimiento por medio de denuncia, petición especial, querella o de oficio, siempre y cuando medien suficientes motivos y circunstancias fácticas que indiquen la posible existencia del mismo. No podrá, en consecuencia, suspender, interrumpir, ni renunciar a la persecución penal, salvo en los casos que establezca la ley para la aplicación del principio de oportunidad regulado dentro del marco de la política criminal del Estado, el cual estará sometido al control de legalidad por parte del juez que ejerza las funciones de control de garantías. Se exceptúan los delitos cometidos por Miembros de la Fuerza Pública en servicio activo y en relación con el mismo servicio.
-
-En ejercicio de sus funciones la Fiscalía General de la Nación, deberá:
-
-- 1. Solicitar al juez que ejerza las funciones de control de garantías las medidas necesarias que aseguren la comparecencia de los imputados al proceso penal, la conservación de la prueba y la protección de la comunidad, en especial, de las víctimas.
-
-El juez que ejerza las funciones de control de garantías, no podrá ser, en ningún caso, el juez de conocimiento, en aquellos asuntos en que haya ejercido esta función.
-
-La ley podrá facultar a la Fiscalía General de la Nación para realizar excepcionalmente capturas; igualmente, la ley fijará los límites y eventos en que proceda la captura. En estos casos el juez que cumpla la función de control de garantías lo realizará a más tardar dentro de las treinta y seis (36) horas siguientes.
-
-- 2. Adelantar registros, allanamientos, incautaciones e interceptaciones de comunicaciones. En estos eventos el juez que ejerza las funciones de control de garantías efectuará el control posterior respectivo, a más tardar dentro de las treinta y seis (36) horas siguientes, al solo efecto de determinar su validez.
-
-- 3. Asegurar los elementos materiales probatorios, garantizando la cadena de custodia mientras se ejerce su contradicción. En caso de requerirse medidas adicionales que impliquen afectación de derechos fundamentales, deberá obtenerse la respectiva autorización por parte del juez que ejerza las funciones de control de garantías para poder proceder a ello.
-
-- 4. Presentar escrito de acusación ante el juez de conocimiento, con el fin de dar inicio a un juicio público, oral, con inmediación de las pruebas, contradictorio, concentrado y con todas las garantías.
-
-- 5. Solicitar ante el juez de conocimiento la preclusión de las investigaciones cuando según lo dispuesto en la ley no hubiere mérito para acusar.
-
-- 6. Solicitar ante el juez de conocimiento las medidas judiciales necesarias para la asistencia a las víctimas, lo mismo que disponer el restablecimiento del derecho y la reparación integral a los afectados con el delito.
-
-- 7. Velar por la protección de las víctimas, los jurados, los testigos y demás intervinientes en el proceso penal, la ley fijará los términos en que podrán intervenir las víctimas en el proceso penal y los mecanismos de justicia restaurativa.
-
-- 8. Dirigir y coordinar las funciones de policía Judicial que en forma permanente cumple la Policía Nacional y los demás organismos que señale la ley.
-
-- 9. Cumplir las demás funciones que establezca la ley.
-
-El Fiscal General y sus delegados tienen competencia en todo el territorio nacional.
-
-En el evento de presentarse escrito de acusación, el Fiscal General o sus delegados deberán suministrar, por conducto del juez de conocimiento, todos los elementos probatorios e informaciones de que tenga noticia incluidos los que le sean favorables al procesado.
-
-**Parágrafo.** La Procuraduría General de la Nación continuará cumpliendo en el nuevo sistema de indagación, investigación y juzgamiento penal, las funciones contempladas en el artículo 277 de la Constitución Nacional.
-
-**Artículo 250.** Corresponde a la Fiscalía General de la Nación, de oficio o mediante denuncia o querella, investigar los delitos y acusar a los presuntos infractores ante los juzgados y tribunales competentes. Se exceptúan los delitos cometidos por miembros de la Fuerza Pública en servicio activo y en relación con el mismo servicio. Para tal efecto la Fiscalía General de la Nación deberá:
-
-- 1. Asegurar la comparecencia de los presuntos infractores de la ley penal, adoptando las medidas de aseguramiento. Además, y si fuere del caso, tomar las medidas necesarias para hacer efectivos el restablecimiento del derecho y la indemnización de los perjuicios ocasionados por el delito.
-
-- 2. Calificar y declarar precluidas las investigaciones realizadas.
-
-- 3. Dirigir y coordinar las funciones de policía judicial que en forma permanente cumplen la Policía Nacional y los demás organismos que señale la ley.
-
-- 4. Velar por la protección de las víctimas, testigos e intervinientes en el proceso.
-
-- 5. Cumplir las demás funciones que establezca la ley.
-
-El Fiscal General de la Nación y sus delegados tienen competencia en todo el territorio nacional.
-
-La Fiscalía General de la Nación está obligada a investigar tanto lo favorable como lo desfavorable al imputado, y a respetar sus derechos fundamentales y las garantías procesales que le asisten.
-
-##### **Artículo 251.** Son funciones especiales del Fiscal General de la Nación:
-
-- 1. Investigar y acusar, si hubiere lugar, a los altos servidores que gocen de fuero constitucional, con las excepciones previstas en la Constitución.
-
-- 2. Nombrar y remover, de conformidad con la ley, a los servidores bajo su dependencia.
-
-- 3. Asumir directamente las investigaciones y procesos, cualquiera que sea el estado en que se encuentren, lo mismo que asignar y desplazar libremente a sus servidores en las investigaciones y procesos. Igualmente, en virtud de los principios de unidad de gestión y de jerarquía, determinar el criterio y la posición que la Fiscalía deba asumir, sin perjuicio de la autonomía de los fiscales delegados en los términos y condiciones fijados por la ley.
-
-- 4. Participar en el diseño de la política del Estado en materia criminal y presentar proyectos de ley al respecto.
-
-- 5. Otorgar, atribuciones transitorias a entes públicos que puedan cumplir funciones de Policía Judicial, bajo la responsabilidad y dependencia funcional de la Fiscalía General de la Nación.
-
-- 6. Suministrar al Gobierno información sobre las investigaciones que se estén adelantando, cuando sea necesaria para la preservación del orden público.
-
-**Artículo 251.** Son funciones especiales del Fiscal General de la Nación:
-
-- 1. Investigar y acusar, si hubiere lugar, a los altos funcionarios que gocen de fuero constitucional, con las excepciones previstas en la Constitución.
-
-- 2. Nombrar y remover, de conformidad con la ley, a los empleados bajo su dependencia.
-
-- 3. Participar en el diseño de la política del Estado en materia criminal y presentar proyectos de ley al respecto.
-
-- 4. Otorgar atribuciones transitorias a entes públicos que puedan cumplir funciones de policía judicial, bajo la responsabilidad y dependencia funcional de la Fiscalía General de la Nación.
-
-- 5. Suministrar al Gobierno información sobre las investigaciones que se estén adelantando, cuando sea necesaria para la preservación del orden público.
-
 ##### **Artículo 252.** Aun durante los Estados de Excepción de que trata la Constitución en sus artículos 212 y 213, el Gobierno no podrá suprimir, ni modificar los organismos ni las funciones básicas de acusación y juzgamiento.
 
 ##### **Artículo 253.** La ley determinará lo relativo a la estructura y funcionamiento de la Fiscalía General de la Nación, al ingreso por carrera y al retiro del servicio, a las inhabilidades e incompatibilidades, denominación, calidades, remuneración, prestaciones sociales y régimen disciplinario de los funcionarios y empleados de su dependencia.
@@ -2481,72 +1361,6 @@ La Fiscalía General de la Nación está obligada a investigar tanto lo favorabl
 ### **CAPITULO 7**
 
 **DEL CONSEJO SUPERIOR DE LA JUDICATURA**
-
-##### **Artículo 254.** El Gobierno y la administración de la Rama Judicial estarán a cargo del Consejo de Gobierno Judicial y la Gerencia de la Rama Judicial. Estos órganos ejercerán las funciones que les atribuya la ley con el fin de promover el acceso a la justicia, la eficiencia de la Rama Judicial, la tutela judicial efectiva y la independencia judicial.
-
-El Consejo de Gobierno Judicial es el órgano, encargado de definir las políticas de la Rama Judicial de acuerdo con la ley y postular las listas y ternas de candidatos que la Constitución le ordene. También corresponde al Consejo de Gobierno Judicial regular los trámites judiciales y administrativos que se adelanten en los despachos judiciales, en los aspectos no previstos por el legislador; expedir el reglamento del sistema de carrera judicial y de la Comisión de Carrera Judicial, cuya función será la vigilancia y control de la carrera; aprobar el proyecto de presupuesto de la Rama Judicial que deberá ser remitido al Gobierno; aprobar el mapa judicial; definir la estructura orgánica de la Gerencia de la Rama Judicial; supervisar a esta entidad, y rendir cuentas por su desempeño ante el Congreso de la República.
-
-El Consejo de Gobierno Judicial estará integrado por nueve miembros: los Presidentes de la Corte Constitucional, de la Corte Suprema de Justicia y del Consejo de Estado; el gerente de la Rama Judicial, quien deberá ser profesional con veinte años de experiencia, de los cuales diez deberán ser en administración de empresas o en entidades públicas, y será nombrado por el Consejo de Gobierno Judicial para un período de cuatro años; un representante de los magistrados de los Tribunales y de los jueces, elegido por ellos para un periodo de cuatro años; un representante de los empleados de la Rama Judicial elegido por estos para un periodo de cuatro años; tres miembros permanentes de dedicación exclusiva, nombrados por los demás miembros del Consejo de Gobierno Judicial, para un período de cuatro años. Ninguno de los miembros del Consejo de Gobierno Judicial podrá ser reelegido.
-
-Los miembros permanentes de dedicación exclusiva mencionados en el inciso anterior estarán encargados de la planeación estratégica de la Rama Judicial y de proponer al Consejo de Gobierno Judicial, para su aprobación, las políticas públicas de la Rama Judicial. Deberán tener diez años de experiencia en diseño, evaluación o seguimiento de políticas públicas, modelos de gestión o administración pública. En su elección se deberá asegurar la diversidad de perfiles académicos y profesionales.
-
-La ley estatutaria podrá determinar los temas específicos para los cuales los ministros del despacho los directores de departamento administrativo, el Fiscal General de la Nación, así como representantes de académicos y de los abogados litigantes participarán en las reuniones del Consejo de Gobierno Judicial.
-
-**Artículo 254.** El Consejo Superior de la Judicatura se dividirá en dos salas:
-
-- 1. La Sala Administrativa, integrada por seis magistrados elegidos para un período de ocho años, así: dos por la Corte Suprema de Justicia, uno por la Corte Constitucional y tres por el Consejo de Estado.
-
-- 2. La Sala Jurisdiccional Disciplinaria, integrada por siete magistrados elegidos para un período de ocho años, por el Congreso Nacional de ternas enviadas por el Gobierno. Podrá haber Consejos Seccionales de la Judicatura integrados como lo señale la ley.
-
-##### **Artículo 255.**La Gerencia de la Rama Judicial es un órgano subordinado al Consejo de Gobierno Judicial y estará organizada de acuerdo con el principio de desconcentración territorial.
-
-La Gerencia de la Rama Judicial es la encargada de ejecutar las decisiones del Consejo de Gobierno Judicial, proveer apoyo administrativo y logístico a este órgano, administrar la Rama Judicial, elaborar para aprobación del Consejo de Gobierno Judicial el proyecto de presupuesto que deberá ser remitido al Gobierno, y ejecutarlo de conformidad con la aprobación que haga el Congreso, elaborar planes y programas para aprobación del Consejo de Gobierno Judicial, formular modelos de gestión e implementar los modelos procesales en el territorio nacional, administrar la Carrera Judicial, organizar la Comisión de Carrera Judicial, realizar los concursos y vigilar el rendimiento de los funcionarios y los despachos. El Gerente de la Rama Judicial representará legalmente a la Rama Judicial. Ejercerá las demás funciones que le atribuya la ley. **(Inexequible , cambio introducido por el articulo 16 Acto Legislativo 2 de 2015 , Sentencia 285 de 2016)**
-
-**Artículo 255.** Para ser miembro del Consejo Superior de la Judicatura se requiere ser colombiano por nacimiento, ciudadano en ejercicio y mayor de treinta y cinco años; tener título de abogado y haber ejercido la profesión durante diez años con buen crédito. Los miembros del Consejo no podrán ser escogidos entre los magistrados de las mismas corporaciones postulantes.
-
-##### **Artículo 256. Derogado**
-
-**Artículo 256.** Corresponden al Consejo Superior de la Judicatura o a los Consejos Seccionales, según el caso y de acuerdo a la ley, las siguientes atribuciones:
-
-- 1. Administrar la carrera judicial.
-
-- 2. Elaborar las listas de candidatos para la designación de funcionarios judiciales y enviarlas a la entidad que deba hacerla. Se exceptúa la jurisdicción penal militar que se regirá por normas especiales.
-
-- 3. Examinar la conducta y sancionar las faltas de los funcionarios de la rama judicial, así como las de los abogados en el ejercicio de su profesión, en la instancia que señale la ley.
-
-- 4. Llevar el control de rendimiento de las corporaciones y despachos judiciales.
-
-- 5. Elaborar el proyecto de presupuesto de la Rama Judicial que deberá ser remitido al Gobierno, y ejecutarlo de conformidad con la aprobación que haga el Congreso.
-
-- 6. Dirimir los conflictos de competencia que ocurran entre las distintas jurisdicciones.
-
-- 7. Las demás que señale la ley.
-
-##### **Artículo 257.** La Comisión Nacional de Disciplina Judicial ejercerá la función jurisdiccional disciplinaria sobre los funcionarios y empleados de la Rama Judicial.
-
-Estará conformada por siete Magistrados, cuatro de los cuales serán elegidos por el Congreso en Pleno de ternas enviadas por el Consejo de Gobierno Judicial previa convocatoria pública reglada adelantada por la Gerencia de la Rama Judicial, y tres de los cuales serán elegidos por el Congreso en Pleno de ternas enviadas por el Presidente de la República, previa convocatoria pública reglada. Tendrán periodos personales de ocho años, y deberán cumplir con los mismos requisitos exigidos para ser Magistrado de la Corte Suprema de Justicia.
-
-Los Magistrados de la Comisión Nacional de Disciplina Judicial no podrán ser reelegidos.
-
-Podrá haber Comisiones Seccionales de Disciplina Judicial integradas como lo señale la ley.
-
-La Comisión Nacional de Disciplina Judicial será la encargada de examinar la conducta y sancionar las faltas de los abogados en ejercicio de su profesión, en la instancia que señale la ley, salvo que esta función se atribuya por la ley a un Colegio de Abogados.
-
-**Parágrafo**. La Comisión Nacional de Disciplina Judicial y las Comisiones Seccionales de Disciplina Judicial no serán competentes para conocer de acciones de tutela.
-
-**Parágrafo Transitorio 1°.** Los Magistrados de la Comisión Nacional de Disciplina Judicial deberán ser elegidos dentro del año siguiente a la vigencia del presente acto legislativo. Una vez posesionados, la Comisión Nacional de Disciplina Judicial asumirá los procesos disciplinarios de la Sala Jurisdiccional Disciplinaria del Consejo Superior de la Judicatura. Los actuales Magistrados de la Sala Jurisdiccional Disciplinaria del Consejo Superior de la Judicatura, ejercerán sus funciones hasta el día que se posesionen los miembros de la Comisión Nacional de Disciplina Judicial. Las Salas Disciplinarias de los Consejos Seccionales de la Judicatura serán transformadas en Comisiones Seccionales de Disciplina Judicial. Se garantizarán los derechos de carrera de los Magistrados y empleados de las salas disciplinarias de los Consejos Seccionales de la Judicatura quienes continuarán conociendo de los procesos a su cargo, sin solución de continuidad.
-
-**Artículo 257.** Con sujeción a la ley, el Consejo Superior de la Judicatura cumplirá las siguientes funciones:
-
-- 1. Fijar la división del territorio para efectos judiciales y ubicar y redistribuir los despachos judiciales.
-
-- 2. Crear, suprimir, fusionar y trasladar cargos en la administración de justicia. En ejercicio de esta atribución, el Consejo Superior de la Judicatura no podrá establecer a cargo del Tesoro obligaciones que excedan el monto global fijado para el respectivo servicio en la ley de apropiaciones iniciales.
-
-- 3. Dictar los reglamentos necesarios para el eficaz funcionamiento de la administración de justicia, los relacionados con la organización y funciones internas asignadas a los distintos cargos y la regulación de los trámites judiciales y administrativos que se adelanten en los despachos judiciales, en los aspectos no previstos por el legislador.
-
-- 4. Proponer proyectos de ley relativos a la administración de justicia y a los códigos sustantivos y procedimentales.
-
-- 5. Las demás que señale la ley.
 
 ##### **Artículo 257-A**. La Comisión Nacional de Disciplina Judicial ejercerá la función jurisdiccional disciplinaria sobre los funcionarios y empleados de la rama judicial.
 
@@ -2572,89 +1386,15 @@ La Comisión Nacional de Disciplina Judicial será la encargada de examinar la c
 
 **DEL SUFRAGIO Y DE LAS ELECCIONES**
 
-##### **Artículo 258**. *El voto es un derecho y un deber ciudadano.* El Estado velará porque se ejerza sin ningún tipo de coacción y en forma secreta por los ciudadanos en cubículos individuales instalados en cada mesa de votación sin perjuicio del uso de medios electrónicos o informáticos. En las elecciones de candidatos podrán emplearse tarjetas electorales numeradas e impresas en papel que ofrezca seguridad, las cuales serán distribuidas oficialmente. La Organización Electoral suministrará igualitariamente a los votantes instrumentos en los cuales deben aparecer identificados con claridad y en iguales condiciones los movimientos y partidos políticos con personería jurídica y los candidatos. La ley podrá implantar mecanismos de votación que otorguen más y mejores garantías para el libre ejercicio de este derecho de los ciudadanos.
-
-**Parágrafo 1°.** Deberá repetirse por una sola vez la votación para elegir miembros de una corporación pública, gobernador, alcalde o la primera vuelta en las elecciones presidenciales, cuando los votos en blanco constituyan mayoría absoluta en relación con los votos válidos. Tratándose de elecciones unipersonales no podrán presentarse los mismos candidatos, mientras que en las de corporaciones públicas no se podrán presentar a las nuevas elecciones las listas que no hayan alcanzado el umbral.
-
-**Parágrafo 2°.** Se podrá implementar el voto electrónico para lograr agilidad y transparencia en todas las votaciones.
-
-**Artículo 258.** El voto es un derecho y un deber ciudadano. En todas las elecciones los ciudadanos votarán secretamente en cubículos individuales instalados en cada mesa de votación, con tarjetas electorales numeradas e impresas en papel que ofrezca seguridad, las cuales serán distribuidas oficialmente. La organización electoral suministrará igualitariamente a los votantes instrumentos en los cuales deben aparecer identificados con claridad y en iguales condiciones todos los candidatos. La ley podrá implantar mecanismos de votación que otorguen más y mejores garantías para el libre ejercicio de este derecho de los ciudadanos.
-
 ##### **Artículo 259.** Quienes elijan gobernadores y alcaldes, imponen por mandato al elegido el programa que presentó al inscribirse como candidato. La ley reglamentará el ejercicio del voto programático.
 
 ##### **Artículo 260.** Los ciudadanos eligen en forma directa Presidente y Vicepresidente de la República, Senadores, Representantes, Gobernadores, Diputados, Alcaldes, Concejales municipales y distritales, miembros de las juntas administradoras locales, y en su oportunidad, los miembros de la Asamblea Constituyente y las demás autoridades o funcionarios que la Constitución señale.
 
-##### **Artículo 261.** Las faltas absolutas serán suplidas por los candidatos que según el orden de inscripción, o de votación, en forma sucesiva y descendente, correspondan a la misma lista electoral, según se trate de listas cerradas o con voto preferente.
-
-**Artículo 261.** Las faltas absolutas o temporales serán suplidas por los candidatos que según el orden de inscripción en forma sucesiva y descendente, correspondan a la misma lista electoral.
-
-Son faltas absolutas: Además de las establecidas por la ley; las que se causan por: Muerte; la renuncia motivada y aceptada por la plenaria de la respectiva Corporación; la pérdida de la investidura; la incapacidad física permanente y la sentencia condenatoria en firme dictada por autoridad judicial competente.
-
-Son faltas temporales las causadas por: La suspensión del ejercicio de la investidura popular, en virtud de decisión judicial en firme; la licencia sin remuneración; la licencia por incapacidad certificada por médico oficial; la calamidad doméstica debidamente probada y la fuerza mayor.
-
-La licencia sin remuneración no podrá ser inferior a tres (3) meses.
-
-Los casos de incapacidad, calamidad doméstica y licencias no remuneradas deberán ser aprobadas por la Mesa Directiva de la respectiva Corporación.
-
-**PARÁGRAFO 1º.** Las inhabilidades e incompatibilidades previstas en la Constitución Nacional y las leyes, se extenderán en igual forma a quienes asuman las funciones de las faltas temporales durante el tiempo de su asistencia.
-
-**PARÁGRAFO 2º.** El numeral 3º. del artículo 180 de la Constitución, quedará así:
-
-Numeral 3º ser miembro de juntas o consejos directivos de entidades oficiales descentralizadas de cualquier nivel o de instituciones que administren tributos.
-
-**Artículo 261.** Ningún cargo de elección popular en corporaciones públicas tendrá suplente. Las vacancias absolutas serán ocupadas por los candidatos no elegidos en la misma lista, en orden de inscripción, sucesivo y descendente.
-
 ##### **Artículo 262.** La elección del Presidente y Vicepresidente no podrá coincidir con otra elección. La de Congreso se hará en fecha separada de la elección de autoridades departamentales y municipales.
-
-##### **Artículo 263.** Para todos los procesos de elección popular, los Partidos y Movimientos Políticos presentarán listas y candidatos únicos, cuyo número de integrantes no podrá exceder el de curules o cargos a proveer en la respectiva elección.
-
-Para garantizar la equitativa representación de los Partidos y Movimientos Políticos y grupos significativos de ciudadanos, las curules de las Corporaciones Públicas se distribuirán mediante el sistema de cifra repartidora entre las listas de candidatos que superen un mínimo de votos que no podrá ser inferior al tres por ciento (3%) de los sufragados para Senado de la República o al cincuenta por ciento (50%) del cociente electoral en el caso de las demás Corporaciones, conforme lo establezcan la Constitución y la ley.
-
-Cuando ninguna de las listas de aspirantes supere el umbral, las curules se distribuirán de acuerdo con el sistema de cifra repartidora.
-
-La ley reglamentará los demás efectos de esta materia.
-
-Las listas para Corporaciones en las circunscripciones en la que se eligen hasta dos (2) miembros para la correspondiente Corporación, podrán estar integradas hasta por tres (3) candidatos. En las circunscripciones en las que se elige un miembro, la curul se adjudicará a la lista mayoritaria. En las circunscripciones en las que se eligen dos miembros se aplicará el sistema de cociente electoral entre las listas que superen en votos el 30% de dicho cociente.
-
-**Parágrafo Transitorio.**Para las elecciones al Congreso de la República a celebrarse en 2010, el porcentaje a que se refiere el inciso 2º del presente artículo será del dos por ciento (2%).
-
-**Artículo 263.** Para todos los procesos de elección popular, los partidos y movimientos políticos presentarán listas y candidatos únicos, cuyo número de integrantes no podrá exceder el de curules o cargos a proveer en las respectiva elección.
-
-Para garantizar la equitativa representación de los partidos *y* movimientos políticos y grupos significativos de ciudadanos, las curules de las corporaciones públicas se distribuirán mediante el sistema de cifra repartidora entre las listas de candidatos que superen un mínimo de votos que no podrá ser inferior al dos por ciento (2%) de los sufragados para Senado de la República o al cincuenta por ciento (50%) del cociente electoral en el caso de las demás corporaciones, conforme lo establezca la Constitución y la Ley.
-
-Cuando ninguna de las listas de aspirantes supere el umbral, las curules se distribuirán de acuerdo con el sistema de cifra repartidora.
-
-La Ley reglamentará los demás efectos de esta materia.
-
-**Parágrafo transitorio.** Sin perjuicio del ejercicio de las competencias propias del Congreso de la República, para las elecciones de las autoridades de las entidades territoriales que sigan a la entrada en vigencia del presente acto legislativo, facúltese al Consejo Nacional Electoral para que dentro del mes siguiente a su promulgación se ocupe de regular el tema.
-
-En las circunscripciones electorales donde se elijan dos (2) curules se aplicará el sistema del cociente electoral, con sujeción a un umbral del treinta por ciento (30%), del cociente electoral.
-
-**Artículo 263.** Para asegurar la representación proporcional de los partidos, cuando se vote por dos o más individuos en elección popular o en una corporación pública, se empleará el sistema de cuociente electoral.
-
-El cuociente será el número que resulte de dividir el total de los votos válidos por el de puestos por proveer. La adjudicación de puestos a cada lista se hará en el número de veces que el cuociente quepa en el respectivo número de votos válidos. Si quedaren puestos por proveer, se adjudicarán a los mayores residuos, en orden descendente.
-
-##### **Artículo 263A.** La adjudicación de curules entre los miembros de la respectiva corporación se hará por el sistema de cifra repartidora. Esta resulta de dividir sucesivamente por uno, dos, tres o más el número de votos obtenidos por cada lista, ordenando los resultados en forma decreciente hasta que se obtenga un número total de resultados igual al número de curules a proveer.
-
-El resultado menor se llamará cifra repartidora. Cada lista obtendrá tantas curules como veces esté contenida la cifra repartidora en el total de sus votos.
-
-Cada partido o movimiento político podrá optar por el mecanismo de voto preferente. En tal caso, el elector podrá señalar el candidato de su preferencia entre los nombres de la lista que aparezcan en la tarjeta electoral. La lista se reordenará de acuerdo con la cantidad de votos obtenidos por cada uno de los candidatos. La asignación de curules entre los miembros de la respectiva lista se hará en orden descendente empezando por el candidato que haya obtenido el mayor número de votos preferentes.
-
-En el caso de los partidos y movimientos políticos que hayan optado por el mecanismo del voto preferente, los votos por el partido o movimiento que no hayan sido atribuidos por el elector a ningún candidato en particular, se contabilizarán a favor de la respectiva lista para efectos de la aplicación de las normas sobre el umbral y la cifra repartidora, pero no se computarán para la reordenación de la lista. Cuando el elector vote simultáneamente por el partido o movimiento político y por el candidato de su preferencia dentro de la respectiva lista, el voto será válido y se computará a favor del candidato.
-
-**Artículo 263A**. Adicionado.
 
 ### **CAPITULO 2**
 
 **DE LAS AUTORIDADES ELECTORALES**
-
-##### **Artículo 264.** El Consejo Nacional Electoral se compondrá de nueve (9) miembros elegidos por el Congreso de la República en pleno, para un período institucional de cuatro (4) años, mediante el Sistema de Cifra Repartidora, previa postulación de los partidos o movimientos políticos con personería jurídica o por coaliciones entre ellos. Sus miembros serán servidores públicos de dedicación exclusiva, tendrán las mismas calidades, inhabilidades, incompatibilidades y derechos de los magistrados de la Corte Suprema de Justicia y podrán ser reelegidos por una sola vez.
-
-**Parágrafo.** La jurisdicción contencioso administrativa decidirá la acción de nulidad electoral en el término máximo de un (1) año.
-
-En los casos de única instancia, según la ley, el término para decidir no podrá exceder de seis (6) meses.
-
-**Artículo 264.** El Consejo Nacional Electoral se compondrá del número de miembros que determine la ley, que no debe ser menor de siete. Serán elegidos por el Consejo de Estado para un período de cuatro años, de ternas elaboradas por los partidos y movimientos políticos con personería jurídica. El Consejo deberá reflejar la composición política del Congreso. Sus miembros deberán reunir las mismas calidades que exige la Constitución para ser Magistrado de la Corte Suprema de Justicia y no serán reelegibles.
 
 ##### **Artículo 265.** El Consejo Nacional Electoral tendrá, de conformidad con la ley, las siguientes atribuciones especiales:
 
@@ -2682,18 +1422,6 @@ En los casos de única instancia, según la ley, el término para decidir no pod
 
 - 12. Las demás que le confiera la ley.
 
-##### **Artículo 266.** El Registrador Nacional del Estado Civil será escogido por los Presidentes de la Corte Constitucional, la Corte Suprema de Justicia y el Consejo de Estado, mediante concurso de méritos organizado según la ley. Su período será de cuatro (4) años, deberá reunir las mismas calidades que exige la Constitución Política para ser Magistrado de la Corte Suprema de Justicia y no haber ejercido funciones en cargos directivos en partidos o movimientos políticos dentro del año inmediatamente anterior a su elección.
-
-Podrá ser reelegido por una sola vez y ejercerá las funciones que establezca la ley, incluida la dirección y organización de las elecciones, el registro civil y la identificación de las personas, así como la de celebrar contratos en nombre de la Nación, en los casos que aquella disponga.
-
-La Registraduría Nacional estará conformada por servidores públicos que pertenezcan a una carrera administrativa especial a la cual se ingresará exclusivamente por concurso de méritos y que preverá el retiro flexible de conformidad con las necesidades del servicio. En todo caso, los cargos de responsabilidad administrativa o electoral serán de libre remoción, de conformidad con la ley.
-
-**Parágrafo transitorio.** El período de los actuales miembros del Consejo Nacional Electoral y Registrador Nacional del Estado Civil irá hasta el año 2006. La siguiente elección de unos y otro se hará de conformidad con lo dispuesto en el presente Acto Legislativo.
-
-**Artículo 266.** El Registrador Nacional del Estado Civil será elegido por el Consejo Nacional Electoral para un período de cinco años y deberá reunir las mismas calidades que exige la Constitución para ser Magistrado de la Corte Suprema de Justicia.
-
-No podrá ser reelegido y ejercerá las funciones que establezca la ley, incluida la dirección y organización de las elecciones, el registro civil y la identificación de las personas, así como la de celebrar contratos en nombre de la Nación, en los casos que aquélla disponga.
-
 ## **TITULO X**
 
 **DE LOS ORGANISMOS DE CONTROL**
@@ -2701,42 +1429,6 @@ No podrá ser reelegido y ejercerá las funciones que establezca la ley, incluid
 ### **CAPITULO 1**
 
 **DE LA CONTRALORIA GENERAL DE LA REPUBLICA**
-
-##### **Artículo 267.** El control fiscal es una función pública que ejercerá la Contraloría General de la República, la cual vigila la gestión fiscal de la administración y de los particulares o entidades que manejen fondos o bienes de la Nación.
-
-Dicho control se ejercerá en forma posterior y selectiva conforme a los procedimientos, sistemas y principios que establezca la ley. Esta podrá, sin embargo, autorizar que, en casos especiales, la vigilancia se realice por empresas privadas colombianas escogidas por concurso público de méritos, y contratadas previo concepto del Consejo de Estado.
-
-La vigilancia de la gestión fiscal del Estado incluye el ejercicio de un control financiero, de gestión y de resultados, fundado en la eficiencia, la economía, la equidad y la valoración de los costos ambientales. En los casos excepcionales, previstos por la ley, la Contraloría podrá ejercer control posterior sobre cuentas de cualquier entidad territorial.
-
-La Contraloría es una entidad de carácter técnico con autonomía administrativa y presupuestal. No tendrá funciones administrativas distintas de las inherentes a su propia organización.
-
-El Contralor será elegido por el Congreso en Pleno, por mayoría absoluta, en el primer mes de sus sesiones para un periodo igual al del Presidente de la República, de lista de elegibles conformada por convocatoria pública con base en lo dispuesto en el artículo 126 de la Constitución y no podrá ser reelegido ni continuar en ejercicio de sus funciones al vencimiento del mismo.
-
-Solo el Congreso puede admitir la renuncia que presente el Contralor y proveer las faltas absolutas y temporales del cargo.
-
-Para ser elegido Contralor General de la República se requiere ser colombiano de nacimiento y en ejercicio de la ciudadanía; tener más de 35 años de edad; tener título universitario o haber sido profesor universitario durante un tiempo no menor de 5 años; y acreditar las calidades adicionales que exija la ley.
-
-No podrá ser elegido Contralor General quien sea o haya sido miembro del Congreso u ocupado cargo público alguno del orden nacional, salvo la docencia, en el año inmediatamente anterior a la elección. Tampoco podrá ser elegido quien haya sido condenado a pena de prisión por delitos comunes.
-
-En ningún caso podrán intervenir en la postulación o elección del Contralor personas que se hallen dentro del cuarto grado de consanguinidad, segundo de afinidad y primero civil o legal respecto de los candidatos.
-
-**Artículo 267.** El control fiscal es una función pública que ejercerá la Contraloría General de la República, la cual vigila la gestión fiscal de la administración y de los particulares o entidades que manejen fondos o bienes de la Nación.
-
-Dicho control se ejercerá en forma posterior y selectiva conforme a los procedimientos, sistemas y principios que establezca la ley. Esta podrá, sin embargo, autorizar que, en casos especiales, la vigilancia se realice por empresas privadas colombianas escogidas por concurso público de méritos, y contratadas previo concepto del Consejo de Estado.
-
-La vigilancia de la gestión fiscal del Estado incluye el ejercicio de un control financiero, de gestión y de resultados, fundado en la eficiencia, la economía, la equidad y la valoración de los costos ambientales. En los casos excepcionales, previstos por la ley, la Contraloría podrá ejercer control posterior sobre cuentas de cualquier entidad territorial.
-
-La Contraloría es una entidad de carácter técnico con autonomía administrativa y presupuestal. No tendrá funciones administrativas distintas de las inherentes a su propia organización.
-
-El Contralor será elegido por el Congreso en pleno en el primer mes de sus sesiones para un período igual al del Presidente de la República, de terna integrada por candidatos presentados a razón de uno por la Corte Constitucional, la Corte Suprema de Justicia y el Consejo de Estado, y no podrá ser reelegido para el período inmediato ni continuar en ejercicio de sus funciones al vencimiento del mismo. Quien haya ejercido en propiedad este cargo no podrá desempeñar empleo público alguno del orden nacional, salvo la docencia, ni aspirar a cargos de elección popular sino un año después de haber cesado en sus funciones.
-
-Sólo el Congreso puede admitir las renuncias que presente el Contralor y proveer las vacantes definitivas del cargo; las faltas temporales serán provistas por el Consejo de Estado.
-
-Para ser elegido Contralor General de la República se requiere ser colombiano de nacimiento y en ejercicio de la ciudadanía; tener más de 35 años de edad; tener título universitario o haber sido profesor universitario durante un tiempo no menor de 5 años; y acreditar las calidades adicionales que exija la ley.
-
-No podrá ser elegido Contralor General quien sea o haya sido miembro del Congreso u ocupado cargo público alguno del orden nacional, salvo la docencia, en el año inmediatamente anterior a la elección. Tampoco podrá ser elegido quien haya sido condenado a pena de prisión por delitos comunes.
-
-En ningún caso podrán intervenir en la postulación o elección del Contralor personas que se hallen dentro del cuarto grado de consanguinidad, segundo de afinidad y primero civil o legal respecto de los candidatos.
 
 ##### **Artículo 268.** El Contralor General de la República tendrá las siguientes atribuciones:
 
@@ -2773,42 +1465,6 @@ Presentar a la Cámara de Representantes la Cuenta General del Presupuesto y del
 ##### **Artículo 270.** La ley organizará las formas y los sistemas de participación ciudadana que permitan vigilar la gestión pública que se cumpla en los diversos niveles administrativos y sus resultados.
 
 ##### **Artículo** **271.** Los resultados de las indagaciones preliminares adelantadas por la Contraloría tendrán valor probatorio ante la Fiscalía General de la Nación y el juez competente.
-
-##### **Artículo 272.** La vigilancia de la gestión fiscal de los departamentos, distritos y municipios donde haya contralorías, corresponde a éstas y se ejercerá en forma posterior y selectiva.
-
-La de los municipios incumbe a las contralorías departamentales, salvo lo que la ley determine respecto de contralorías municipales.
-
-Corresponde a las asambleas y a los concejos distritales y municipales organizar las respectivas contralorías como entidades técnicas dotadas de autonomía administrativa y presupuestal.
-
-Los Contralores departamentales, distritales y municipales serán elegidos por las Asambleas Departamentales, Concejos Municipales y Distritales, mediante convocatoria pública conforme a la ley, siguiendo los principios de transparencia, publicidad, objetividad, participación ciudadana y equidad de género, para periodo igual al del Gobernador o Alcalde, según el caso.
-
-Ningún contralor podrá ser reelegido para el período inmediato.
-
-Los contralores departamentales, distritales y municipales ejercerán, en el ámbito de su jurisdicción, las funciones atribuidas al Contralor General de la República en el artículo 268 y podrán, según lo autorice la ley, contratar con empresas privadas colombianas el ejercicio de la vigilancia fiscal.
-
-Para ser elegido contralor departamental, distrital o municipal se requiere ser colombiano por nacimiento, ciudadano en ejercicio, tener más de veinticinco años, acreditar título universitario y las demás calidades que establezca la ley.
-
-No podrá ser elegido quien sea o haya sido en el último año miembro de la Asamblea o Concejo que deba hacer la elección, ni quien haya ocupado cargo público en el nivel ejecutivo del orden departamental, distrital o municipal.
-
-Quien haya ocupado en propiedad el cargo de contralor departamental, distrital o municipal, no podrá desempeñar empleo oficial alguno en el respectivo departamento, distrito o municipio, ni ser inscrito como candidato a cargos de elección popular sino un año después de haber cesado en sus funciones.
-
-**Artículo 272.** La vigilancia de la gestión fiscal de los departamentos, distritos y municipios donde haya contralorías, corresponde a éstas y se ejercerá en forma posterior y selectiva.
-
-La de los municipios incumbe a las contralorías departamentales, salvo lo que la ley determine respecto de contralorías municipales.
-
-Corresponde a las asambleas y a los concejos distritales y municipales organizar las respectivas contralorías como entidades técnicas dotadas de autonomía administrativa y presupuestal.
-
-Igualmente les corresponde elegir contralor para período igual al del gobernador o alcalde, según el caso, de ternas integradas con dos candidatos presentados por el tribunal superior de distrito judicial y uno por el correspondiente tribunal de lo contencioso administrativo.
-
-Ningún contralor podrá ser reelegido para el período inmediato.
-
-Los contralores departamentales, distritales y municipales ejercerán, en el ámbito de su jurisdicción, las funciones atribuidas al Contralor General de la República en el artículo 268 y podrán, según lo autorice la ley, contratar con empresas privadas colombianas el ejercicio de la vigilancia fiscal.
-
-Para ser elegido contralor departamental, distrital o municipal se requiere ser colombiano por nacimiento, ciudadano en ejercicio, tener más de veinticinco años, acreditar título universitario y las demás calidades que establezca la ley.
-
-No podrá ser elegido quien sea o haya sido en el último año miembro de asamblea o concejo que deba hacer la elección, ni quien haya ocupado cargo público del orden departamental, distrital o municipal, salvo la docencia.
-
-Quien haya ocupado en propiedad el cargo de contralor departamental, distrital o municipal, no podrá desempeñar empleo oficial alguno en el respectivo departamento, distrito o municipio, ni ser inscrito como candidato a cargos de elección popular sino un año después de haber cesado en sus funciones.
 
 ##### **Artículo 273.** A solicitud de cualquiera de los proponentes, el Contralor General de la República y demás autoridades de control fiscal competentes, ordenarán que el acto de adjudicación de una licitación tenga lugar en audiencia pública.
 
@@ -2952,102 +1608,6 @@ Los departamentos ejercen funciones administrativas, de coordinación, de comple
 
 La ley reglamentará lo relacionado con el ejercicio de las atribuciones que la Constitución les otorga.
 
-##### **Artículo 299.Inexequible .** En cada Departamento habrá una Corporación administrativa de elección popular que se denominará Asamblea Departamental, la cual estará integrada por no menos de once miembros ni más de treinta y uno. Dicha corporación gozará de autonomía administrativa y presupuesto propio.
-
-El régimen de inhabilidades e incompatibilidades de los diputados será fijado por la ley. No podrá ser menos estricto que el señalado para los congresistas en lo que corresponda. El período de los diputados será de cuatro años y tendrán la calidad de servidores públicos.
-
-Para ser elegido diputado se requiere ser ciudadano en ejercicio, no haber sido condenado a pena privativa de la libertad, con excepción de los delitos políticos o culposos y haber residido en la respectiva circunscripción electoral durante el año inmediatamente anterior a la fecha de la elección.
-
-Los miembros de la Asamblea Departamental tendrán derecho a una remuneración durante las sesiones correspondientes y estarán amparados por un régimen de prestaciones y seguridad social, en los términos que fije la Ley.
-
-**Artículo 299.**En cada departamento habrá una Corporación de elección popular que ejercerá el control político sobre los actos de los Gobernadores, Secretarios de despacho, Gerentes y Directores de Institutos Descentralizados y, que se denominará Asamblea Departamental, la cual estará integrada por siete (7) miembros para el caso de las Comisarías erigidas en departamentos por el artículo 309 de la Constitución Nacional y, en los demás departamentos por no menos de once (11) ni más de treinta y un (31) miembros. Dicha Corporación gozará de autonomía administrativa y presupuesto propio.
-
-El régimen de inhabilidades e incompatibilidades de los diputados será fijado por la ley. No podrá ser menos estricto que el señalado para los congresistas en lo que corresponda. El período de los diputados será de cuatro años y tendrán la calidad de servidores públicos.
-
-Para ser elegido diputado se requiere ser ciudadano en ejercicio, no haber sido condenado a pena privativa de la libertad, con excepción de los delitos políticos o culposos y haber residido en la respectiva circunscripción electoral durante el año inmediatamente anterior a la fecha de la elección.
-
-Los miembros de la Asamblea Departamental tendrán derecho a una remuneración durante las sesiones correspondientes y estarán amparados por un régimen de prestaciones y seguridad social, en los términos que fije la Ley.
-
-**Artículo 299.** En cada Departamento habrá una corporación administrativa de elección popular que se denominará Asamblea Departamental, la cual estará integrada por no menos de once miembros ni más de treinta y uno. Dicha corporación gozará de autonomía administrativa y presupuesto propio.
-
-El régimen de inhabilidades e incompatibilidades de los diputados será fijado por la ley. No podrá ser menos estricto que el señalado para los congresistas en lo que corresponda. El período de los diputados será de cuatro años y tendrán la calidad de servidores públicos.
-
-Para ser elegido diputado se requiere ser ciudadano en ejercicio, no haber sido condenado a pena privativa de la libertad, con excepción de los delitos políticos o culposos y haber residido en la respectiva circunscripción electoral durante el año inmediatamente anterior a la fecha de la elección.
-
-Los miembros de la Asamblea Departamental tendrán derecho a una remuneración durante las sesiones correspondientes y estarán amparados por un régimen de prestaciones y seguridad social, en los términos que fije la Ley.
-
-**Artículo 299.** En cada Departamento habrá una corporación administrativa de elección popular que se denominará Asamblea Departamental, la cual estará integrada por no menos de once miembros ni más de treinta y uno. Dicha corporación gozará de autonomía administrativa y presupuesto propio.
-
-El régimen de inhabilidades e incompatibilidades de los diputados será fijado por la Ley. No podrá ser menos estricto que el señalado para los congresistas en lo que corresponda. El período de los diputados será de tres (3) años, y tendrán la calidad de servidores públicos.
-
-Para ser elegido diputado se requiere ser ciudadano en ejercicio, no haber sido condenado a pena privativa de la libertad, con excepción de los delitos políticos o culposos y haber residido en la respectiva circunscripción electoral durante el año inmediatamente anterior a la fecha de la elección.
-
-Los miembros de la Asamblea Departamental tendrán derecho a una remuneración durante las sesiones correspondientes y estarán amparados por un régimen de prestaciones y seguridad social, en los términos que fije la Ley.
-
-**Artículo 299.** En cada departamento habrá una Corporación administrativa de elección popular que se denominará Asamblea Departamental, la cual estará integrada por no menos de once miembros ni más de treinta y uno.
-
-El Consejo Nacional Electoral podrá formar dentro de los límites de cada departamento, con base en su población, círculos para la elección de diputados, previo concepto de la Comisión de Ordenamiento Territorial. El régimen de inhabilidades e incompatibilidades de los diputados será fijado por la ley. No podrá ser menos estricto que el señalado para los congresistas en lo que corresponda. Los diputados no tendrán la calidad de funcionarios públicos. El período de los diputados será de tres años. Con las limitaciones que establezca la ley, tendrán derecho a honorarios por su asistencia a las sesiones correspondientes.
-
-Para ser elegido diputado se requiere ser ciudadano en ejercicio, tener más de veintiún años de edad, no haber sido condenado a pena privativa de la libertad, con excepción de los delitos políticos o culposos y haber residido en la respectiva circunscripción electoral durante el año inmediatamente anterior a la fecha de la elección.
-
-##### **Artículo 300.** Corresponde a las Asambleas Departamentales, por medio de ordenanzas:
-
-1°. Reglamentar el ejercicio de las funciones y la prestación de los servicios a cargo del Departamento.
-
-2°. Expedir las disposiciones relacionadas con la planeación, el desarrollo económico y social, el apoyo financiero y crediticio a los municipios, el turismo, el transporte, el ambiente, las obras públicas, las vías de comunicación y el desarrollo de sus zonas de frontera.
-
-3°. Adoptar de acuerdo con la Ley los planes y programas de desarrollo económico y social y los de obras públicas, con la determinación de las inversiones y medidas que se consideren necesarias para impulsar su ejecución y asegurar su cumplimiento.
-
-4°. Decretar, de conformidad con la Ley, los tributos y contribuciones necesarios para el cumplimiento de las funciones departamentales.
-
-5°. Expedir las normas orgánicas del presupuesto departamental y el presupuesto anual de rentas y gastos.
-
-6°. Con sujeción a los requisitos que señale la Ley, crear y suprimir municipios, segregar y agregar territorios municipales, y organizar provincias.
-
-7°. Determinar la estructura de la Administración Departamental, las funciones de sus dependencias, las escalas de remuneración correspondientes a sus distintas categorías de empleo; crear los establecimientos públicos y las empresas industriales o comerciales del departamento y autorizar la formación de sociedades de economía mixta.
-
-8°. Dictar normas de policía en todo aquello que no sea materia de disposición legal.
-
-9°. Autorizar al Gobernador del Departamento para celebrar contratos, negociar empréstitos, enajenar bienes y ejercer, pro tempore, precisas funciones de las que corresponden a las Asambleas Departamentales.
-
-10°. Regular, en concurrencia con el municipio, el deporte, la educación y la salud en los términos que determina la Ley.
-
-1l°. Solicitar informes sobre el ejercicio de sus funciones al Contralor General del Departamento, Secretarios de Gabinete, Jefes de Departamentos Administrativos y Directores de Institutos Descentralizados del orden Departamental.
-
-12°. Cumplir las demás funciones que le asignen la Constitución y la Ley.
-
-Los planes y programas de desarrollo de obras públicas, serán coordinados e integrados con los planes y programas municipales, regionales y nacionales.
-
-Las ordenanzas a que se refieren los numerales 3, 5 y 7 de este artículo, la que decretan inversiones, participaciones o cesiones de rentas y bienes departamentales y las que creen servicios a cargo del Departamento o los traspasen a él, solo podrán ser dictadas o reformadas a iniciativa del Gobernador.
-
-**Artículo 300.** Corresponde a las Asambleas Departamentales por medio de ordenanzas:
-
-- 1. Reglamentar el ejercicio de las funciones y la prestación de los servicios a cargo del departamento.
-
-- 2. Expedir las disposiciones relacionadas con la planeación, el desarrollo económico y social, el apoyo financiero y crediticio a los municipios, el turismo, el transporte, el ambiente, las obras públicas, las vías de comunicación, y el desarrollo de sus zonas de frontera.
-
-- 3. Adoptar de acuerdo con la ley los planes y programas de desarrollo económico y social y los de obras públicas, con la determinación de las inversiones y medidas que se consideren necesarias para impulsar su ejecución y asegurar su cumplimiento.
-
-- 4. Decretar, de conformidad con la ley, los tributos y contribuciones necesarios para el cumplimiento de las funciones departamentales.
-
-- 5. Expedir las normas orgánicas del presupuesto departamental y el presupuesto anual de rentas y gastos.
-
-- 6. Con sujeción a los requisitos que señale la ley, crear y suprimir municipios, segregar y agregar territorios municipales, y organizar provincias.
-
-- 7. Determinar la estructura de la administración departamental, las funciones de sus dependencias, las escalas de remuneración correspondientes a sus distintas categorías de empleo; crear los establecimientos públicos y las empresas industriales o comerciales del departamento y autorizar la formación de sociedades de economía mixta.
-
-- 8. Dictar normas de policía en todo aquello que no sea materia de disposición legal.
-
-- 9. Autorizar al gobernador para celebrar contratos, negociar empréstitos, enajenar bienes y ejercer, *pro tempore,* precisas funciones de las que corresponden a las asambleas departamentales.
-
-- 10. Regular, en concurrencia con el municipio, el deporte, la educación y la salud en los términos que determine la ley; y
-
-- 11. Cumplir las demás funciones que les asignen la Constitución y la ley. Los planes y programas de desarrollo y de obras públicas, serán coordinados e integrados con los planes y programas municipales, regionales y nacionales.
-
-- 12. Cumplir las demás funciones que le asignen la Constitución y la ley. Los planes y programas de desarrollo de obras públicas, serán coordinados e integrados con los planes y programas municipales, regionales y nacionales.
-
-Las ordenanzas a que se refieren los numerales 3, 5 y 7 de este artículo, las que decreten inversiones, participaciones o cesiones de rentas y bienes departamentales y las que creen servicios a cargo del departamento o los traspasen a él, sólo podrán ser dictadas o reformadas a iniciativa del gobernador.
-
 ##### **Artículo 301.** La ley señalará los casos en los cuales las asambleas podrán delegar en los concejos municipales las funciones que ella misma determine. En cualquier momento, las asambleas podrán reasumir el ejercicio de las funciones delegadas.
 
 ##### **Artículo 302.** La ley podrá establecer para uno o varios Departamentos diversas capacidades y competencias de gestión administrativa y fiscal distintas a las señaladas para ellos en la Constitución, en atención a la necesidad de mejorar la administración o la prestación de los servicios públicos de acuerdo con su población, recursos económicos y naturales y circunstancias sociales, culturales y ecológicas.
@@ -3094,14 +1654,6 @@ Su régimen de inhabilidades e incompatibilidades no será menos estricto que el
 
 - 15. Las demás que le señale la Constitución, las leyes y las ordenanzas.
 
-##### **Artículo 306.** Dos o más departamentos podrán constituirse en regiones administrativas y de planificación, con personería jurídica, autonomía y patrimonio propio. Su objeto principal será el desarrollo económico y social del respectivo territorio.
-
-El Distrito Capital de Bogotá, el Departamento de Cundinamarca y los departamentos contiguos a este podrán asociarse en una región administrativa y de planificación especial con personería jurídica, autonomía y patrimonio propio cuyo objeto principal será el desarrollo económico y social de la respectiva región.
-
-Las cita das entidades territoriales conservarán su identidad política y territorial.
-
-**Artículo 306.** Dos o más departamentos podrán constituirse en regiones administrativas y de planificación, con personería jurídica, autonomía y patrimonio propio. Su objeto principal será el desarrollo económico y social del respectivo territorio.
-
 ##### **Artículo 307.** La respectiva ley orgánica, previo concepto de la Comisión de Ordenamiento Territorial, establecerá las condiciones para solicitar la conversión de la región en entidad territorial. La decisión tomada por el Congreso se someterá en cada caso a referendo de los ciudadanos de los departamentos interesados.
 
 La misma ley establecerá las atribuciones, los órganos de administración, y los recursos de las regiones y su participación en el manejo de los ingresos provenientes del Fondo Nacional de Regalías. Igualmente definirá los principios para la adopción del estatuto especial de cada región.
@@ -3121,22 +1673,6 @@ Mediante la creación de los municipios a que hubiere lugar, la Asamblea Departa
 **DEL REGIMEN MUNICIPAL**
 
 ##### **Artículo 311.** Al municipio como entidad fundamental de la división político-administrativa del Estado le corresponde prestar los servicios públicos que determine la ley, construir las obras que demande el progreso local, ordenar el desarrollo de su territorio, promover la participación comunitaria, el mejoramiento social y cultural de sus habitantes y cumplir las demás funciones que le asignen la Constitución y las leyes.
-
-##### **Artículo 312.** En cada municipio habrá una corporación administrativa elegida popularmente para períodos de cuatro (4) años que se denominará concejo municipal, integrado por no menos de siete, ni más de veintiún miembros según lo determine la ley, de acuerdo con la población respectiva.
-
-La ley determinará las calidades, inhabilidades e incompatibilidades de los concejales y la época de sesiones ordinarias de los concejos. Los concejales no tendrán la calidad de empleados públicos.
-
-La ley podrá determinar los casos en que tengan derecho a honorarios por su asistencia a sesiones.
-
-Su aceptación de cualquier empleo público, constituye falta absoluta.
-
-**Artículo 312.** En cada municipio habrá una corporación administrativa elegida popularmente para períodos de tres años que se denominará concejo municipal, integrada por no menos de siete, ni más de veintiún miembros según lo determine la ley, de acuerdo con la población respectiva.
-
-La ley determinará las calidades, inhabilidades e incompatibilidades de los concejales y la época de sesiones ordinarias de los concejos. Los concejales no tendrán la calidad de empleados públicos.
-
-La ley podrá determinar los casos en que tengan derecho a honorarios por su asistencia a sesiones.
-
-Su aceptación de cualquier empleo público, constituye falta absoluta.
 
 ##### **Artículo 313.** Corresponde a los concejos:
 
@@ -3238,44 +1774,6 @@ Con base en las normas generales que establezca la ley, el concejo a iniciativa 
 
 A las autoridades distritales corresponderá garantizar el desarrollo armónico e integrado de la ciudad y la eficiente prestación de los servicios a cargo del Distrito; a las locales, la gestión de los asuntos propios de su territorio.
 
-##### **Artículo 323.El Concejo Distrital se compondrá de cuarenta y cinco (45) concejales.**
-
-En cada una de las localidades habrá una junta administradora elegida popularmente para períodos de cuatro (4) años que estará integrada por no menos de siete ediles, según lo determine el concejo distrital, atendida la población respectiva.
-
-La elección de Alcalde Mayor, de concejales distritales y de ediles se hará en un mismo día por períodos de cuatro (4) años y el alcalde no podrá ser reelegido para el período siguiente.
-
-Siempre que se presente falta absoluta a más de dieciocho (18) meses de la terminación del período, se elegirá alcalde mayor para el tiempo que reste. En caso de que faltare menos de dieciocho (18) meses, el Presidente de la República designará alcalde mayor para lo que reste del período, respetando el partido, grupo político o coalición por el cual fue inscrito el alcalde elegido.
-
-Los alcaldes locales serán designados por el alcalde mayor de terna enviada por la correspondiente junta administradora.
-
-En los casos taxativamente señalados por la ley, el Presidente de la República suspenderá o destituirá al alcalde mayor.
-
-Los concejales y los ediles no podrán hacer parte de las juntas directivas de las entidades descentralizadas.
-
-**Artículo 323.** El concejo distrital se compondrá de un concejal por cada ciento cincuenta mil habitantes o fracción mayor de setenta y cinco mil que tenga su territorio.
-
-En cada una de las localidades habrá una junta administradora elegida popularmente para períodos de cuatro (4) años que estará integrada por no menos de siete ediles, según lo determine el concejo distrital, atendida la población respectiva.
-
-La elección de Alcalde Mayor, de concejales distritales y de ediles se hará en un mismo día por períodos de cuatro (4) años y el alcalde no podrá ser reelegido para el período siguiente.
-
-Siempre que se presente falta absoluta a más de dieciocho (18) meses de la terminación del período, se elegirá alcalde mayor para el tiempo que reste. En caso de que faltare menos de dieciocho (18) meses, el Presidente de la República designará alcalde mayor para lo que reste del período, respetando el partido, grupo político o coalición por el cual fue inscrito el alcalde elegido.
-
-Los alcaldes locales serán designados por el alcalde mayor de terna enviada por la correspondiente junta administradora.
-
-En los casos taxativamente señalados por la ley, el Presidente de la República suspenderá o destituirá al alcalde mayor.
-
-Los concejales y los ediles no podrán hacer parte de las juntas directivas de las entidades descentralizadas.
-
-**Artículo 323.** El concejo distrital se compondrá de un concejal por cada ciento cincuenta mil habitantes o fracción mayor de setenta y cinco mil que tenga su territorio.
-
-En cada una de las localidades habrá una junta administradora, elegida popularmente para períodos de tres años, que estará integrada por no menos de siete ediles, según lo determine el concejo distrital, atendida la población respectiva.
-
-La elección de Alcalde Mayor, de concejales distritales y de ediles se hará en un mismo día para períodos de tres años. Los alcaldes locales serán designados por el Alcalde Mayor de terna enviada por la correspondiente junta administradora.
-
-En los casos taxativamente señalados por la ley, el Presidente de la República suspenderá o destituirá al Alcalde Mayor.
-
-Los concejales y los ediles no podrán hacer parte de las juntas directivas de las entidades descentralizadas.
-
 ##### **Artículo 324.** Las juntas administradoras locales distribuirán y apropiarán las partidas globales que en el presupuesto anual del Distrito se asignen a las localidades teniendo en cuenta las necesidades básicas insatisfechas de su población.
 
 Sobre las rentas departamentales que se causen en Santa Fe de Bogotá, la ley determinará la participación que le corresponda a la capital de la República. Tal participación no podrá ser superior a la establecida en la fecha de vigencia de esta Constitución.
@@ -3285,22 +1783,6 @@ Sobre las rentas departamentales que se causen en Santa Fe de Bogotá, la ley de
 ##### **Artículo 326.** Los municipios circunvecinos podrán incorporarse al Distrito Capital si así lo determinan los ciudadanos que residan en ellos mediante votación que tendrá lugar cuando el concejo distrital haya manifestado su acuerdo con esta vinculación. Si ésta ocurre, al antiguo municipio se le aplicarán las normas constitucionales y legales vigentes para las demás localidades que conformen el Distrito Capital.
 
 ##### **Artículo 327.** En las elecciones de Gobernador y de diputados a la Asamblea Departamental de Cundinamarca no participarán los ciudadanos inscritos en el censo electoral del Distrito Capital.
-
-##### **Artículo 328.** El Distrito Turístico y Cultural de Cartagena de Indias, el Distrito Turístico, Cultural e Histórico de Santa Marta y Barranquilla conservarán su régimen y carácter, y se organiza a Buenaventura y Tumaco como Distrito Especial, Industrial, Portuario, Biodiverso y Ecoturístico.
-
-La ciudad de Barrancabermeja se organiza como Distrito Especial Portuario, Biodiverso, Industrial y Turístico.
-
-**Artículo 328.** El Distrito Turístico y Cultural de Cartagena de Indias, el Distrito Turístico, Cultural e Histórico de Santa Marta y Barranquilla conservarán su régimen y carácter, y se organiza a Buenaventura y Tumaco como Distrito Especial, Industrial, Portuario, Biodiverso y Ecoturístico.
-
-**Artículo 328.** *El Distrito Turístico y Cultural de Cartagena de Indias, el Distrito Turístico, Cultural e histórico de Santa Marta y Barranquilla conservarán su régimen y carácter, y se organiza a Buenaventura y Tumaco como Distrito Especial, Industrial, Portuario, Biodiverso y Ecoturísmo.*
-
-***Parágrafo.*** *Los Distritos Especiales de Cartagena, Barranquilla y Santa Marta, no recibirán por ninguna circunstancia, menores ingresos por el Sistema General de Participaciones o por cualquier otra causa, que los recibidos el primero de enero de 2007.*
-
-**Artículo 328.** *El Distrito Turístico y Cultural de Cartagena de Indias, el Distrito Turístico, Cultural e histórico de Santa Marta y Barranquilla conservarán su régimen y carácter, y se organiza a Buenaventura y Tumaco como Distrito Especial, Industrial, Portuario, Biodiverso y Ecoturísmo.*
-
-***Parágrafo.*** *Los Distritos Especiales de Cartagena, Barranquilla y Santa Marta, no recibirán por ninguna circunstancia, menores ingresos por el Sistema General de Participaciones o por cualquier otra causa, que los recibidos el primero de enero de 2007.*
-
-**Artículo 328.** El Distrito Turístico y Cultural de Cartagena de Indias y el Distrito Turístico, Cultural e Histórico de Santa Marta conservarán su régimen y carácter.
 
 ##### **Artículo 329.** La conformación de las entidades territoriales indígenas se hará con sujeción a lo dispuesto en la Ley Orgánica de Ordenamiento Territorial, y su delimitación se hará por el Gobierno Nacional, con participación de los representantes de las comunidades indígenas, previo concepto de la Comisión de Ordenamiento Territorial.
 
@@ -3406,22 +1888,6 @@ En las entidades territoriales habrá también consejos de planeación, según l
 
 El Consejo Nacional y los consejos territoriales de planeación constituyen el Sistema Nacional de Planeación.
 
-##### **Artículo 341.** El Gobierno elaborará el Plan Nacional de Desarrollo con participación activa de las autoridades de planeación de las entidades territoriales y del Consejo de Gobierno Judicial y someterá el proyecto correspondiente al concepto del Consejo Nacional de Planeación: oída la opinión del Consejo procederá a efectuar las enmiendas que considere pertinentes y presentará el proyecto a consideración del Congreso, dentro de los seis meses siguientes a la iniciación del período presidencial respectivo.
-
-Con fundamento en el informe que elaboren las comisiones conjuntas de asuntos económicos, cada corporación discutirá y evaluará el plan en sesión plenaria. Los desacuerdos con el contenido de la parte general, si los hubiere, no serán obstáculo para que el gobierno ejecute las políticas propuestas en lo que sea de su competencia. No obstante, cuando el gobierno decida modificar la parte general del plan deberá seguir el procedimiento indicado en el artículo siguiente.
-
-El Plan Nacional de Inversiones se expedirá mediante una ley que tendrá prelación sobre las demás leyes: en consecuencia, sus mandatos constituirán mecanismos idóneos para su ejecución y suplirán los existentes sin necesidad de la expedición de leyes posteriores, con todo, en las leyes anuales de presupuesto se podrán aumentar o disminuir las partidas y recursos aprobados en la ley del plan. Si el Congreso no aprueba el Plan Nacional de Inversiones Públicas en un término de tres meses después de presentado, el gobierno podrá ponerlo en vigencia mediante decreto con fuerza de ley.
-
-El Congreso podrá modificar el Plan de Inversiones Públicas siempre y cuando se mantenga el equilibrio financiero. Cualquier incremento en las autorizaciones de endeudamiento solicitadas en el proyecto gubernamental o inclusión de proyectos de inversión no contemplados en él, requerirá el visto bueno del Gobierno Nacional.
-
-**Artículo 341.** El Gobierno elaborará el Plan Nacional de Desarrollo con participación activa de las autoridades de planeación de las entidades territoriales y del Consejo Superior de la Judicatura y someterá el proyecto correspondiente al concepto del Consejo Nacional de Planeación: oída la opinión del Consejo procederá a efectuar las enmiendas que considere pertinentes y presentará el proyecto a consideración del Congreso, dentro de los seis meses siguientes a la iniciación del período presidencial respectivo.
-
-Con fundamento en el informe que elaboren las comisiones conjuntas de asuntos económicos, cada corporación discutirá y evaluará el plan en sesión plenaria. Los desacuerdos con el contenido de la parte general, si los hubiere, no serán obstáculo para que el gobierno ejecute las políticas propuestas en lo que sea de su competencia. No obstante, cuando el gobierno decida modificar la parte general del plan deberá seguir el procedimiento indicado en el artículo siguiente.
-
-El Plan Nacional de Inversiones se expedirá mediante una ley que tendrá prelación sobre las demás leyes: en consecuencia, sus mandatos constituirán mecanismos idóneos para su ejecución y suplirán los existentes sin necesidad de la expedición de leyes posteriores, con todo, en las leyes anuales de presupuesto se podrán aumentar o disminuir las partidas y recursos aprobados en la ley del plan. Si el Congreso no aprueba el Plan Nacional de Inversiones Públicas en un término de tres meses después de presentado, el gobierno podrá ponerlo en vigencia mediante decreto con fuerza de ley.
-
-El Congreso podrá modificar el Plan de Inversiones Públicas siempre y cuando se mantenga el equilibrio financiero. Cualquier incremento en las autorizaciones de endeudamiento solicitadas en el proyecto gubernamental o inclusión de proyectos de inversión no contemplados en él, requerirá el visto bueno del Gobierno Nacional.
-
 ##### **Artículo 342.** La correspondiente ley orgánica reglamentará todo lo relacionado con los procedimientos de elaboración, aprobación y ejecución de los planes de desarrollo y dispondrá los mecanismos apropiados para su armonización y para la sujeción a ellos de los presupuestos oficiales.
 
 Determinará, igualmente, la organización y funciones del Consejo Nacional de Planeación y de los consejos territoriales, así como los procedimientos conforme a los cuales se hará efectiva la participación ciudadana en la discusión de los planes de desarrollo, y las modificaciones correspondientes, conforme a lo establecido en la Constitución.
@@ -3486,336 +1952,6 @@ El Gobierno, en los niveles nacional, departamental, distrital y municipal podr�
 
 **DE LA DISTRIBUCION DE RECURSOS Y DE LAS COMPETENCIAS**
 
-##### **Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, fijará los servicios a cargo de la Nación y de los Departamentos, Distritos, y Municipios. Para efecto de atender los servicios a cargo de éstos y a proveer los recursos para financiar adecuadamente su prestación, se crea el Sistema General de Participaciones de los Departamentos, Distritos y Municipios.
-
-Los Distritos tendrán las mismas competencias que los municipios y departamentos para efectos de la distribución del Sistema General de Participaciones que establezca la ley.
-
-Para estos efectos, serán beneficiarias las entidades territoriales indígenas, una vez constituidas. Así mismo, la ley establecerá como beneficiarios a los resguardos indígenas, siempre y cuando estos no se hayan constituido en entidad territorial indígena.
-
-Los recursos del Sistema General de Participaciones de los departamentos, distritos y municipios se destinarán a la financiación de los servicios a su cargo, dándoles prioridad al servicio de salud, los servicios de educación, preescolar, primaria, secundaria y media, y servicios públicos domiciliarios de agua potable y saneamiento básico, garantizando la prestación y la ampliación de coberturas con énfasis en la población pobre.
-
-Teniendo en cuenta los principios de solidaridad, complementariedad y subsidiariedad, la ley señalará los casos en los cuales la Nación podrá concurrir a la financiación de los gastos en los servicios que sean señalados por la ley como de competencia de los departamentos, distritos y municipios.
-
-La ley reglamentará los criterios de distribución del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, de acuerdo con las competencias que le asigne a cada una de estas entidades; y contendrá las disposiciones necesarias para poner en operación el Sistema General de Participaciones de éstas, incorporando principios sobre distribución que tengan en cuenta los siguientes criterios:
-
-- a) Para educación, salud y agua potable y saneamiento básico: población atendida y por atender, reparto entre población urbana y rural, eficiencia administrativa y fiscal, y equidad. En la distribución por entidad territorial de cada uno de los componentes del Sistema General de Participaciones, se dará prioridad a factores que favorezcan a la población pobre, en los términos que establezca la ley.
-
-- b) Para otros sectores: población, reparto entre población y urbana y rural, eficiencia administrativa y fiscal, y pobreza relativa.
-
-No se podrá descentralizar competencias sin la previa asignación de los recursos fiscales suficientes para atenderlas.
-
-Los recursos del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios se distribuirán por sectores que defina la ley.
-
-El monto de recursos que se asigne para los sectores de salud y educación, no podrá ser inferior al que se transfería a la expedición del presente acto legislativo a cada uno de estos sectores.
-
-*Las ciudades de Buenaventura y Tumaco se organizan como Distritos Especiales, Industriales, Portuarios, Biodiversos y Ecoturísticos. Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales, que para el efecto se dicten, y en lo no dispuesto en ellas, las normas vigentes para los municipios.*
-
-El Gobierno Nacional definirá una estrategia de monitoreo, seguimiento y control integral al gasto ejecutado por las entidades territoriales con recursos del Sistema General de Participaciones, para asegurar el cumplimiento del metas de cobertura y calidad. Esta estrategia deberá fortalecer los espacios para la participación ciudadana en el control social y en los procesos de rendición de cuentas.
-
-Para dar aplicación y cumplimiento a lo dispuesto en el inciso anterior, el Gobierno Nacional, en un término no mayor a seis (6) meses contados a partir de la expedición del presente acto legislativo, regulará, entre otros aspectos, lo pertinente para definir los eventos en los cuales está en riesgo la prestación adecuada de los servicios a cargo de las entidades territoriales, las medidas que puede adoptar para evitar tal situación y la determinación efectiva de los correctivos necesarios a que haya lugar.
-
-La ciudad de Barrancabermeja se organiza como Distrito Especial Portuario, Biodiverso, Industrial y Turístico. Su régimen político,fiscal y administrativo será el que determine la Constitución y las leyes especiales que para el efecto se dicten, y en lo no dispuesto en ellas las normas vigentes para los municipios.
-
-La ciudad de Medellín se organiza como Distrito Especial de Ciencia, Tecnología e Innovación. Su régimen político y fiscal será el previsto en la Constitución y las leyes especiales que para el efecto se dicten.
-
-**Parágrafo.** La ciudad de Medellín como Distrito Especial de Ciencia, Tecnología e Innovación y las demás ciudades que se organicen como distritos especiales no estarán obligados a efectuar ajustes administrativos que aumenten sus costos. La ley podrá crear mecanismos adicionales a los existentes que fomenten y promocionen desarrollos en ciencia, tecnología e innovación.
-
-**Parágrafo transitorio.El Gobierno deberá presentar el proyecto de ley que regule la organización y funcionamiento del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, a más tardar el primer mes de sesiones del próximo período legislativo.**
-
-**Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, fijará los servicios a cargo de la Nación y de los Departamentos, Distritos, y Municipios. Para efecto de atender los servicios a cargo de éstos y a proveer los recursos para financiar adecuadamente su prestación, se crea el Sistema General de Participaciones de los Departamentos, Distritos y Municipios.
-
-Los Distritos tendrán las mismas competencias que los municipios y departamentos para efectos de la distribución del Sistema General de Participaciones que establezca la ley.
-
-Para estos efectos, serán beneficiarias las entidades territoriales indígenas, una vez constituidas. Así mismo, la ley establecerá como beneficiarios a los resguardos indígenas, siempre y cuando estos no se hayan constituido en entidad territorial indígena.
-
-Los recursos del Sistema General de Participaciones de los departamentos, distritos y municipios se destinarán a la financiación de los servicios a su cargo, dándoles prioridad al servicio de salud, los servicios de educación, preescolar, primaria, secundaria y media, y servicios públicos domiciliarios de agua potable y saneamiento básico, garantizando la prestación y la ampliación de coberturas con énfasis en la población pobre.
-
-Teniendo en cuenta los principios de solidaridad, complementariedad y subsidiariedad, la ley señalará los casos en los cuales la Nación podrá concurrir a la financiación de los gastos en los servicios que sean señalados por la ley como de competencia de los departamentos, distritos y municipios.
-
-La ley reglamentará los criterios de distribución del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, de acuerdo con las competencias que le asigne a cada una de estas entidades; y contendrá las disposiciones necesarias para poner en operación el Sistema General de Participaciones de éstas, incorporando principios sobre distribución que tengan en cuenta los siguientes criterios:
-
-- a) Para educación, salud y agua potable y saneamiento básico: población atendida y por atender, reparto entre población urbana y rural, eficiencia administrativa y fiscal, y equidad. En la distribución por entidad territorial de cada uno de los componentes del Sistema General de Participaciones, se dará prioridad a factores que favorezcan a la población pobre, en los términos que establezca la ley.
-
-- b) Para otros sectores: población, reparto entre población y urbana y rural, eficiencia administrativa y fiscal, y pobreza relativa.
-
-No se podrá descentralizar competencias sin la previa asignación de los recursos fiscales suficientes para atenderlas.
-
-Los recursos del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios se distribuirán por sectores que defina la ley.
-
-El monto de recursos que se asigne para los sectores de salud y educación, no podrá ser inferior al que se transfería a la expedición del presente acto legislativo a cada uno de estos sectores.
-
-*Las ciudades de Buenaventura y Tumaco se organizan como Distritos Especiales, Industriales, Portuarios, Biodiversos y Ecoturísticos. Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales, que para el efecto se dicten, y en lo no dispuesto en ellas, las normas vigentes para los municipios.*
-
-El Gobierno Nacional definirá una estrategia de monitoreo, seguimiento y control integral al gasto ejecutado por las entidades territoriales con recursos del Sistema General de Participaciones, para asegurar el cumplimiento del metas de cobertura y calidad. Esta estrategia deberá fortalecer los espacios para la participación ciudadana en el control social y en los procesos de rendición de cuentas.
-
-Para dar aplicación y cumplimiento a lo dispuesto en el inciso anterior, el Gobierno Nacional, en un término no mayor a seis (6) meses contados a partir de la expedición del presente acto legislativo, regulará, entre otros aspectos, lo pertinente para definir los eventos en los cuales está en riesgo la prestación adecuada de los servicios a cargo de las entidades territoriales, las medidas que puede adoptar para evitar tal situación y la determinación efectiva de los correctivos necesarios a que haya lugar.
-
-La ciudad de Barrancabermeja se organiza como Distrito Especial Portuario, Biodiverso, Industrial y Turístico. Su régimen político,fiscal y administrativo será el que determine la Constitución y las leyes especiales que para el efecto se dicten, y en lo no dispuesto en ellas las normas vigentes para los municipios.
-
-****Parágrafo transitorio.** El Gobierno deberá presentar el proyecto de ley que regule la organización y funcionamiento del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, a más tardar el primer mes de sesiones del próximo período legislativo.**
-
-**Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, fijará los servicios a cargo de la Nación y de los Departamentos, Distritos, y Municipios. Para efecto de atender los servicios a cargo de éstos y a proveer los recursos para financiar adecuadamente su prestación, se crea el Sistema General de Participaciones de los Departamentos, Distritos y Municipios.
-
-Los Distritos tendrán las mismas competencias que los municipios y departamentos para efectos de la distribución del Sistema General de Participaciones que establezca la ley.
-
-Para estos efectos, serán beneficiarias las entidades territoriales indígenas, una vez constituidas. Así mismo, la ley establecerá como beneficiarios a los resguardos indígenas, siempre y cuando estos no se hayan constituido en entidad territorial indígena.
-
-Los recursos del Sistema General de Participaciones de los departamentos, distritos y municipios se destinarán a la financiación de los servicios a su cargo, dándoles prioridad al servicio de salud, los servicios de educación, preescolar, primaria, secundaria y media, y servicios públicos domiciliarios de agua potable y saneamiento básico, garantizando la prestación y la ampliación de coberturas con énfasis en la población pobre.
-
-Teniendo en cuenta los principios de solidaridad, complementariedad y subsidiariedad, la ley señalará los casos en los cuales la Nación podrá concurrir a la financiación de los gastos en los servicios que sean señalados por la ley como de competencia de los departamentos, distritos y municipios.
-
-La ley reglamentará los criterios de distribución del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, de acuerdo con las competencias que le asigne a cada una de estas entidades; y contendrá las disposiciones necesarias para poner en operación el Sistema General de Participaciones de éstas, incorporando principios sobre distribución que tengan en cuenta los siguientes criterios:
-
-- a) Para educación, salud y agua potable y saneamiento básico: población atendida y por atender, reparto entre población urbana y rural, eficiencia administrativa y fiscal, y equidad. En la distribución por entidad territorial de cada uno de los componentes del Sistema General de Participaciones, se dará prioridad a factores que favorezcan a la población pobre, en los términos que establezca la ley.
-
-- b) Para otros sectores: población, reparto entre población y urbana y rural, eficiencia administrativa y fiscal, y pobreza relativa.
-
-No se podrá descentralizar competencias sin la previa asignación de los recursos fiscales suficientes para atenderlas.
-
-Los recursos del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios se distribuirán por sectores que defina la ley.
-
-El monto de recursos que se asigne para los sectores de salud y educación, no podrá ser inferior al que se transfería a la expedición del presente acto legislativo a cada uno de estos sectores.
-
-*Las ciudades de Buenaventura y Tumaco se organizan como Distritos Especiales, Industriales, Portuarios, Biodiversos y Ecoturísticos. Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales, que para el efecto se dicten, y en lo no dispuesto en ellas, las normas vigentes para los municipios.*
-
-El Gobierno Nacional definirá una estrategia de monitoreo, seguimiento y control integral al gasto ejecutado por las entidades territoriales con recursos del Sistema General de Participaciones, para asegurar el cumplimiento del metas de cobertura y calidad. Esta estrategia deberá fortalecer los espacios para la participación ciudadana en el control social y en los procesos de rendición de cuentas.
-
-Para dar aplicación y cumplimiento a lo dispuesto en el inciso anterior, el Gobierno Nacional, en un término no mayor a seis (6) meses contados a partir de la expedición del presente acto legislativo, regulará, entre otros aspectos, lo pertinente para definir los eventos en los cuales está en riesgo la prestación adecuada de los servicios a cargo de las entidades territoriales, las medidas que puede adoptar para evitar tal situación y la determinación efectiva de los correctivos necesarios a que haya lugar.
-
-****Parágrafo transitorio.**El Gobierno deberá presentar el proyecto de ley que regule la organización y funcionamiento del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, a más tardar el primer mes de sesiones del próximo período legislativo.**
-
-**Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, fijará los servicios a cargo de la Nación y de los Departamentos, Distritos, y Municipios. Para efecto de atender los servicios a cargo de éstos y a proveer los recursos para financiar adecuadamente su prestación, se crea el Sistema General de Participaciones de los Departamentos, Distritos y Municipios.
-
-Los Distritos tendrán las mismas competencias que los municipios y departamentos para efectos de la distribución del Sistema General de Participaciones que establezca la ley.
-
-Para estos efectos, serán beneficiarias las entidades territoriales indígenas, una vez constituidas. Así mismo, la ley establecerá como beneficiarios a los resguardos indígenas, siempre y cuando estos no se hayan constituido en entidad territorial indígena.
-
-Los recursos del Sistema General de Participaciones de los departamentos, distritos y municipios se destinarán a la financiación de los servicios a su cargo, dándoles prioridad al servicio de salud, los servicios de educación, preescolar, primaria, secundaria y media, y servicios públicos domiciliarios de agua potable y saneamiento básico, garantizando la prestación y la ampliación de coberturas con énfasis en la población pobre.
-
-Teniendo en cuenta los principios de solidaridad, complementariedad y subsidiariedad, la ley señalará los casos en los cuales la Nación podrá concurrir a la financiación de los gastos en los servicios que sean señalados por la ley como de competencia de los departamentos, distritos y municipios.
-
-La ley reglamentará los criterios de distribución del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, de acuerdo con las competencias que le asigne a cada una de estas entidades; y contendrá las disposiciones necesarias para poner en operación el Sistema General de Participaciones de éstas, incorporando principios sobre distribución que tengan en cuenta los siguientes criterios:
-
-- a) Para educación, salud y agua potable y saneamiento básico: población atendida y por atender, reparto entre población urbana y rural, eficiencia administrativa y fiscal, y equidad. En la distribución por entidad territorial de cada uno de los componentes del Sistema General de Participaciones, se dará prioridad a factores que favorezcan a la población pobre, en los términos que establezca la ley.
-
-- b) Para otros sectores: población, reparto entre población y urbana y rural, eficiencia administrativa y fiscal, y pobreza relativa.
-
-No se podrá descentralizar competencias sin la previa asignación de los recursos fiscales suficientes para atenderlas.
-
-Los recursos del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios se distribuirán por sectores que defina la ley.
-
-El monto de recursos que se asigne para los sectores de salud y educación, no podrá ser inferior al que se transfería a la expedición del presente acto legislativo a cada uno de estos sectores.
-
-*Las ciudad de Buenaventura y Tumaco se organiza como Distrito Especiale, Industrial, Portuario, Biodiverso y Ecoturístico. Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales, que para el efecto se dicten, y en lo no dispuesto en ellas, las normas vigentes para los municipios.*
-
-*La ciudad de Popayán se organiza como Distrito Especial Ecoturístico, Histórico y Universitario. Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales que para el efecto se dicten y en lo no dispuesto en ellas las normas vigentes para los municipios*
-
-*La Ciudad de Tunja, capital del departamento de Boyacá, se organizará como Distrito Histórico y Cultural, con un régimen Fiscal y Administrativo propio determinado por la Constitución y por las leyes especiales que para el efecto se expidan.*
-
-*El municipio portuario de Turbo (Antioquia) también se constituirá en Distrito Especial.*
-
-*El municipio de Cúcuta se constituirá como Distrito Especial Fronterizo y Turístico.*
-
-El Gobierno Nacional definirá una estrategia de monitoreo, seguimiento y control integral al gasto ejecutado por las entidades territoriales con recursos del Sistema General de Participaciones, para asegurar el cumplimiento del metas de cobertura y calidad. Esta estrategia deberá fortalecer los espacios para la participación ciudadana en el control social y en los procesos de rendición de cuentas.
-
-Para dar aplicación y cumplimiento a lo dispuesto en el inciso anterior, el Gobierno Nacional, en un término no mayor a seis (6) meses contados a partir de la expedición del presente acto legislativo, regulará, entre otros aspectos, lo pertinente para definir los eventos en los cuales está en riesgo la prestación adecuada de los servicios a cargo de las entidades territoriales, las medidas que puede adoptar para evitar tal situación y la determinación efectiva de los correctivos necesarios a que haya lugar.
-
-****Parágrafo transitorio.** El Gobierno deberá presentar el proyecto de ley que regule la organización y funcionamiento del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, a más tardar el primer mes de sesiones del próximo período legislativo.**
-
-**Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, fijará los servicios a cargo de la Nación y de los Departamentos, Distritos, y Municipios. Para efecto de atender los servicios a cargo de éstos y a proveer los recursos para financiar adecuadamente su prestación, se crea el Sistema General de Participaciones de los Departamentos, Distritos y Municipios.
-
-Los Distritos tendrán las mismas competencias que los municipios y departamentos para efectos de la distribución del Sistema General de Participaciones que establezca la ley.
-
-Para estos efectos, serán beneficiarias las entidades territoriales indígenas, una vez constituidas. Así mismo, la ley establecerá como beneficiarios a los resguardos indígenas, siempre y cuando estos no se hayan constituido en entidad territorial indígena.
-
-Los recursos del Sistema General de Participaciones de los departamentos, distritos y municipios se destinarán a la financiación de los servicios a su cargo, dándoles prioridad al servicio de salud, los servicios de educación, preescolar, primaria, secundaria y media, y servicios públicos domiciliarios de agua potable y saneamiento básico, garantizando la prestación y la ampliación de coberturas con énfasis en la población pobre.
-
-Teniendo en cuenta los principios de solidaridad, complementariedad y subsidiariedad, la ley señalará los casos en los cuales la Nación podrá concurrir a la financiación de los gastos en los servicios que sean señalados por la ley como de competencia de los departamentos, distritos y municipios.
-
-La ley reglamentará los criterios de distribución del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, de acuerdo con las competencias que le asigne a cada una de estas entidades; y contendrá las disposiciones necesarias para poner en operación el Sistema General de Participaciones de éstas, incorporando principios sobre distribución que tengan en cuenta los siguientes criterios:
-
-- a) Para educación, salud y agua potable y saneamiento básico: población atendida y por atender, reparto entre población urbana y rural, eficiencia administrativa y fiscal, y equidad. En la distribución por entidad territorial de cada uno de los componentes del Sistema General de Participaciones, se dará prioridad a factores que favorezcan a la población pobre, en los términos que establezca la ley.
-
-- b) Para otros sectores: población, reparto entre población y urbana y rural, eficiencia administrativa y fiscal, y pobreza relativa.
-
-No se podrá descentralizar competencias sin la previa asignación de los recursos fiscales suficientes para atenderlas.
-
-Los recursos del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios se distribuirán por sectores que defina la ley.
-
-El monto de recursos que se asigne para los sectores de salud y educación, no podrá ser inferior al que se transfería a la expedición del presente acto legislativo a cada uno de estos sectores.
-
-Las ciudades de Buenaventura y Tumaco se organizan como Distritos Especiales, Industriales, Portuarios, Biodiversos y Ecoturísticos Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales, que para el efecto se dicten, y en lo no dispuesto en ellas, las normas vigentes para los municipios.
-
-La ciudad de Popayán se organiza como Distrito Especial Ecoturístico, Histórico y Universitario. Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales que para el efecto se dicten y en lo no dispuesto en ellas las normas vigentes para los municipios
-
-La Ciudad de Tunja, capital del departamento de Boyacá, se organizará como Distrito Histórico y Cultural, con un régimen Fiscal y Administrativo propio determinado por la Constitución y por las leyes especiales que para el efecto se expidan.
-
-El municipio portuario de Turbo (Antioquia) también se constituirá en Distrito Especial.
-
-El municipio de Cúcuta se constituirá como Distrito Especial Fronterizo y Turístico.
-
-El Gobierno Nacional definirá una estrategia de monitoreo, seguimiento y control integral al gasto ejecutado por las entidades territoriales con recursos del Sistema General de Participaciones, para asegurar el cumplimiento del metas de cobertura y calidad. Esta estrategia deberá fortalecer los espacios para la participación ciudadana en el control social y en los procesos de rendición de cuentas.
-
-Para dar aplicación y cumplimiento a lo dispuesto en el inciso anterior, el Gobierno Nacional, en un término no mayor a seis (6) meses contados a partir de la expedición del presente acto legislativo, regulará, entre otros aspectos, lo pertinente para definir los eventos en los cuales está en riesgo la prestación adecuada de los servicios a cargo de las entidades territoriales, las medidas que puede adoptar para evitar tal situación y la determinación efectiva de los correctivos necesarios a que haya lugar.
-
-**Parágrafo transitorio.** El Gobierno deberá presentar el proyecto de ley que regule la organización y funcionamiento del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, a más tardar el primer mes de sesiones del próximo período legislativo.
-
-**Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, fijará los servicios a cargo de la Nación y de los Departamentos, Distritos, y Municipios. Para efecto de atender los servicios a cargo de éstos y a proveer los recursos para financiar adecuadamente su prestación, se crea el Sistema General de Participaciones de los Departamentos, Distritos y Municipios.
-
-Los Distritos tendrán las mismas competencias que los municipios y departamentos para efectos de la distribución del Sistema General de Participaciones que establezca la ley.
-
-Para estos efectos, serán beneficiarias las entidades territoriales indígenas, una vez constituidas. Así mismo, la ley establecerá como beneficiarios a los resguardos indígenas, siempre y cuando estos no se hayan constituido en entidad territorial indígena.
-
-Los recursos del Sistema General de Participaciones de los departamentos, distritos y municipios se destinarán a la financiación de los servicios a su cargo, dándole prioridad al servicio de salud y los servicios de educación preescolar, primaria, secundaria y media, garantizando la prestación de los servicios y la ampliación de cobertura.
-
-Teniendo en cuenta los principios de solidaridad, complementariedad y subsidiariedad, la ley señalará los casos en los cuales la Nación podrá concurrir a la financiación de los gastos en los servicios que sean señalados por la ley como de competencia de los departamentos, distritos y municipios.
-
-La ley reglamentará los criterios de distribución del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, de acuerdo con las competencias que le asigne a cada una de estas entidades; y contendrá las disposiciones necesarias para poner en operación el Sistema General de Participaciones de éstas, incorporando principios sobre distribución que tengan en cuenta los siguientes criterios:
-
-- a) Para educación y salud: población atendida y por atender, reparto entre población urbana y rural, eficiencia administrativa y fiscal, y equidad;
-
-- b) Para otros sectores: población, reparto entre población y urbana y rural, eficiencia administrativa y fiscal, y pobreza relativa.
-
-No se podrá descentralizar competencias sin la previa asignación de los recursos fiscales suficientes para atenderlas.
-
-Los recursos del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios se distribuirán por sectores que defina la ley.
-
-El monto de recursos que se asigne para los sectores de salud y educación, no podrá ser inferior al que se transfería a la expedición del presente acto legislativo a cada uno de estos sectores.
-
-Las ciudades de Buenaventura y Tumaco se organizan como Distritos Especiales, Industriales, Portuarios, Biodiversos y Ecoturísticos Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales, que para el efecto se dicten, y en lo no dispuesto en ellas, las normas vigentes para los municipios.
-
-La ciudad de Popayán se organiza como Distrito Especial Ecoturístico, Histórico y Universitario. Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales que para el efecto se dicten y en lo no dispuesto en ellas las normas vigentes para los municipios
-
-La Ciudad de Tunja, capital del departamento de Boyacá, se organizará como Distrito Histórico y Cultural, con un régimen Fiscal y Administrativo propio determinado por la Constitución y por las leyes especiales que para el efecto se expidan.
-
-El municipio portuario de Turbo (Antioquia) también se constituirá en Distrito Especial.
-
-El municipio de Cúcuta se constituirá como Distrito Especial Fronterizo y Turístico.
-
-**Parágrafo transitorio.** El Gobierno deberá presentar el proyecto de ley que regule la organización y funcionamiento del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, a más tardar el primer mes de sesiones del próximo período legislativo.
-
-**Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, fijará los servicios a cargo de la Nación y de los Departamentos, Distritos, y Municipios. Para efecto de atender los servicios a cargo de éstos y a proveer los recursos para financiar adecuadamente su prestación, se crea el Sistema General de Participaciones de los Departamentos, Distritos y Municipios.
-
-Los Distritos tendrán las mismas competencias que los municipios y departamentos para efectos de la distribución del Sistema General de Participaciones que establezca la ley.
-
-Para estos efectos, serán beneficiarias las entidades territoriales indígenas, una vez constituidas. Así mismo, la ley establecerá como beneficiarios a los resguardos indígenas, siempre y cuando estos no se hayan constituido en entidad territorial indígena.
-
-Los recursos del Sistema General de Participaciones de los departamentos, distritos y municipios se destinarán a la financiación de los servicios a su cargo, dándole prioridad al servicio de salud y los servicios de educación preescolar, primaria, secundaria y media, garantizando la prestación de los servicios y la ampliación de cobertura.
-
-Teniendo en cuenta los principios de solidaridad, complementariedad y subsidiariedad, la ley señalará los casos en los cuales la Nación podrá concurrir a la financiación de los gastos en los servicios que sean señalados por la ley como de competencia de los departamentos, distritos y municipios.
-
-La ley reglamentará los criterios de distribución del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, de acuerdo con las competencias que le asigne a cada una de estas entidades; y contendrá las disposiciones necesarias para poner en operación el Sistema General de Participaciones de éstas, incorporando principios sobre distribución que tengan en cuenta los siguientes criterios:
-
-- a) Para educación y salud: población atendida y por atender, reparto entre población urbana y rural, eficiencia administrativa y fiscal, y equidad;
-
-- b) Para otros sectores: población, reparto entre población y urbana y rural, eficiencia administrativa y fiscal, y pobreza relativa.
-
-No se podrá descentralizar competencias sin la previa asignación de los recursos fiscales suficientes para atenderlas.
-
-Los recursos del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios se distribuirán por sectores que defina la ley.
-
-El monto de recursos que se asigne para los sectores de salud y educación, no podrá ser inferior al que se transfería a la expedición del presente acto legislativo a cada uno de estos sectores.
-
-**Parágrafo transitorio.** El Gobierno deberá presentar el proyecto de ley que regule la organización y funcionamiento del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, a más tardar el primer mes de sesiones del próximo período legislativo.
-
-**Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, fijará los servicios a cargo de la Nación y de las entidades territoriales.
-
-Determinará, así mismo, el situado fiscal, esto es, el porcentaje de los ingresos corrientes de la Nación que será cedido a los departamentos, el Distrito Capital y los Distritos Especiales de Cartagena, Santa Marta y Barranquilla, para la atención directa, o a través de los municipios, de los servicios que se les asignen.
-
-Los recursos del situado fiscal se destinarán a financiar la educación preescolar, primaria, secundaria y media, y la salud, en los niveles que la ley señale, con especial atención a los niños.
-
-El situado fiscal aumentará anualmente hasta llegar a un porcentaje de los ingresos corrientes de la Nación que permita atender adecuadamente los servicios para los cuales está destinado. Con este fin, se incorporarán a él la retención del impuesto a las ventas y todos los demás recursos que la Nación transfiere directamente para cubrir gastos en los citados niveles de educación.
-
-La ley fijará los plazos para la cesión de estos ingresos y el traslado de las correspondientes obligaciones, establecerá las condiciones en que cada departamento asumirá la atención de los mencionados servicios y podrá autorizar a los municipios para prestarlos directamente en forma individual o asociada. No se podrán descentralizar responsabilidades sin la previa asignación de los recursos fiscales suficientes para atenderlas.
-
-Un quince por ciento del situado fiscal se distribuirá por partes iguales entre los departamentos, el Distrito Capital y los Distritos de Cartagena, Santa Marta y Barranquilla.
-
-El resto se asignará en proporción al número de usuarios actuales y potenciales de los servicios mencionados, teniendo en cuenta, además, el esfuerzo fiscal ponderado y la eficiencia administrativa de la respectiva entidad territorial.
-
-Cada cinco años la ley, a iniciativa de los miembros del Congreso, podrá revisar estos porcentajes de distribución.
-
-**Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del gobierno, fijará los servicios a cargo de la nación y de las entidades territoriales.
-
-Determinará, así mismo, el situado fiscal, esto es, el porcentaje de los ingresos corrientes de la nación que será cedido a los departamentos, el distrito capital y los distritos especiales de Cartagena, Santa Marta y Barranquilla, para la atención directa, o a través de los municipios, de los servicios que se le asignen.
-
-Los recursos del situado fiscal se destinarán a financiar la educación preescolar, primaria, secundaria y media, y la salud, en los niveles que la ley señale, con especial atención a los niños.
-
-El situado fiscal aumentará anualmente hasta llegar a un porcentaje de los ingresos corrientes de la nación que permita atender adecuadamente los servicios para los cuales está destinado. Con este fin, se incorporarán en él la retención del impuesto a las ventas y todos los demás recursos que la nación transfiere directamente para cubrir gastos en los citados niveles de educación.
-
-La ley fijará los plazos para la cesión de estos ingresos y el traslado de las correspondientes obligaciones, establecerá las condiciones en que cada departamento asumirá la atención de los mencionados servicios y podrá autorizar a los municipios para prestarlos directamente en forma individual o asociada. No se podrán descentralizar responsabilidades sin la previa asignación de los recursos fiscales suficientes para atenderlas.
-
-Un quince por ciento del situado fiscal se distribuirá por partes iguales entre los departamentos, el distrito capital y los Distritos de Cartagena, Santa Marta y Barranquilla. El resto se asignará en proporción al número de usuarios actuales y potenciales de los servicios mencionados, teniendo en cuenta, además, el esfuerzo fiscal ponderado y la eficiencia administrativa de la respectiva entidad territorial.
-
-Cada cinco años la ley, a iniciativa de los miembros del Congreso, podrá revisar estos porcentajes de distribución.
-
-##### **Artículo 357.** El Sistema General de Participaciones de los Departamentos, Distritos y Municipios se incrementará anualmente en un porcentaje igual al promedio de la variación porcentual que hayan tenido los ingresos corrientes de la Nación durante los cuatro (4) años anteriores, incluido el correspondiente al aforo del presupuesto en ejecución.
-
-Para efectos del cálculo de la variación de los ingresos corrientes de la Nación a que se refiere el inciso anterior, estarán excluidos los tributos que se arbitren por medidas de estado de excepción salvo que el Congreso, durante el año siguiente, les otorgue el carácter permanente.
-
-El diecisiete por ciento (17%) de los recursos de Propósito General del Sistema General de Participaciones, será distribuido entre los municipios con población inferior a 25.000 habitantes. Estos recursos se destinarán exclusivamente para inversión, conforme a las competencias asignadas por la ley. Estos recursos se distribuirán con base en los mismos criterios de población y pobreza definidos por la ley para la Participación de Propósito General.
-
-Los municipios clasificados en las categorías cuarta, quinta y sexta, de conformidad con las normas vigentes, podrán destinar libremente, para inversión y otros gastos inherentes al funcionamiento de la administración municipal, hasta un cuarenta y dos (42%) de los recursos que perciban por concepto del Sistema General de Participaciones de Propósito General, exceptuando los recursos que se distribuyan de acuerdo con el inciso anterior.
-
-Cuando una entidad territorial alcance coberturas universales y cumpla con los estándares de calidad establecidos por las autoridades competentes, en los sectores de educación, salud y/o servicios públicos domiciliarios de agua potable y saneamiento básico, previa certificación de la entidad nacional competente, podrá destinar los recursos excedentes a inversión en otros sectores de su competencia. El Gobierno Nacional reglamentará la materia.
-
-**Parágrafo transitorio 1º.**El monto del Sistema General de Participaciones, SGP, de los Departamentos, Distritos y Municipios se incrementará tomando como base el monto liquidado en la vigencia anterior. Durante los años 2008 y 2009 el SGP se incrementará en un porcentaje igual al de la tasa de inflación causada, más una tasa de crecimiento real de 4%. Durante el año 2010 el incremento será igual a la tasa de inflación causada, más una tasa de crecimiento real de 3.5%. Entre el año 2011 y el año 2016 el incremento será igual a la tasa de inflación causada, más una tasa de crecimiento real de 3%.
-
-**Parágrafo transitorio 2º.**Si la tasa de crecimiento real de la economía (Producto Interno Bruto, PIB) certificada por el DANE para el año respectivo es superior al 4%, el incremento del SGP será igual a la tasa de inflación causada, más la tasa de crecimiento real señalada en el parágrafo transitorio 1º del presente artículo, más los puntos porcentuales de diferencia resultantes de comparar la tasa de crecimiento real de la economía certificada por el DANE y el 4%. Estos recursos adicionales se destinarán a la atención integral de la primera infancia. El aumento del SGP por mayor crecimiento económico, de que trata el presente parágrafo, no generará base para la liquidación del SGP en años posteriores.
-
-**Parágrafo transitorio 3º.**El Sistema General de Participaciones, SGP, tendrá un crecimiento adicional a lo establecido en los parágrafos transitorios anteriores para el sector educación. La evolución de dicho crecimiento adicional será así: en los años 2008 y 2009 de uno punto tres por ciento (1.3%), en el año 2010 de uno punto seis por ciento (1.6%), y durante los años 2011 a 2016 de uno punto ocho por ciento (1.8%). En cada uno de estos años, este aumento adicional del Sistema no generará base para la liquidación del monto del SGP de la siguiente vigencia. Estos recursos se destinarán para cobertura y calidad.
-
-**Parágrafo transitorio 4º.**El Gobierno Nacional definirá unos criterios y transiciones en la aplicación de los resultados del último censo realizado, con el propósito de evitar los efectos negativos derivados de las variaciones de los datos censales en la distribución del Sistema General de Participaciones. El Sistema orientará los recursos necesarios para que de ninguna manera, se disminuyan, por razón de la población, los recursos que reciben las entidades territoriales actualmente.
-
-**Artículo 357.** El monto del Sistema General de Participaciones de los Departamentos, Distritos y Municipios se incrementará anualmente en un porcentaje igual al promedio de la variación porcentual que hayan tenido los ingresos Corrientes de la Nación durante los cuatro (4) años anteriores, incluida la correspondiente al aforo del presupuesto en ejecución.
-
-Para efectos del cálculo de la variación de los ingresos corrientes de la Nación a que se refiere el inciso anterior, estarán excluidos los tributos que se arbitren por medidas de estados de excepción, salvo que el Congreso, durante el año siguiente les otorgue el carácter permanente.
-
-Los municipios clasificados en las categorías cuarta, quinta y sexta, de conformidad con las normas vigentes, podrán destinar libremente, para inversión y otros gastos inherentes al funcionamiento de la administración municipal, hasta un veintiocho (28%) de los recursos que perciban por concepto del Sistema General de Participaciones de los Departamentos, Distritos y Municipios, exceptuando los recursos que se destinen para educación y salud.
-
-**Parágrafo transitorio 1°.**El Sistema General de Participaciones de los Departamentos, Distritos y Municipios tendrá como base inicial el monto de los recursos que la Nación transfería a las entidades territoriales antes de entrar en vigencia este acto legislativo, por concepto de situado fiscal, participación de los municipios en los ingresos corrientes de la Nación y las transferencias complementarias al situado fiscal para educación, que para el año 2001 se valoran en la suma de diez punto novecientos sesenta y dos (10.962) billones de pesos.
-
-En el caso de educación, la base inicial contempla los costos por concepto de docentes y administrativos pagados con situado fiscal y el fondo de compensación educativa, docentes y otros gastos en educación financiados a nivel distrital y municipal con las participaciones en los ingresos corrientes de la nación, y los docentes, personal administrativo de los planteles educativos y directivos docentes departamentales y municipales pagados con recursos propios, todos ellos a 1º de noviembre del 2000. Esta incorporación será automática a partir del 1º de enero de 2002.
-
-**Parágrafo transitorio 2°.**Durante los años comprendidos entre 2002 y 2008 el monto del Sistema General de Participaciones crecerá en un porcentaje igual al de la tasa de inflación causada, más un crecimiento adicional que aumentará en forma escalonada así: Para los años 2002, 2003, 2004 y 2005 el incremento será de 2%; para los años 2006, 2007 y 2008 el incremento será de 2.5%.
-
-Si durante el período de transición el crecimiento real de la economía (producto interno bruto) certificado por el DANE en el mes de mayo del año siguiente es superior al 4%, el crecimiento adicional del Sistema General de Participaciones de que trata el presente parágrafo se incrementará en una proporción equivalente al crecimiento que supere el 4%, previo descuento de los porcentajes que la Nación haya tenido que asumir, cuando el crecimiento real de la economía no haya sido suficiente para financiar el 2% adicional durante los años 2002, 2003, 2004 y 2005, y 2.5% adicional para los años 2006, 2007 y 2008.
-
-**Parágrafo transitorio 3°.**Al finalizar el período de transición, el porcentaje de los ingresos corrientes de la Nación destinados para el Sistema General de Participación será como mínimo el porcentaje que constitucionalmente se transfiera en el año 2001. La Ley, a iniciativa del Congreso, establecerá la gradualidad del incremento autorizado en este parágrafo.
-
-En todo caso, después del período de transición, el Congreso, cada cinco años y a iniciativa propia a través de ley, podrá incrementar el porcentaje.
-
-Igualmente durante la vigencia del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, el Congreso de la República, podrá revisar por iniciativa propia cada cinco años, la base de liquidación de éste.
-
-**Artículo 357.** Los municipios participarán en los ingresos corrientes de la Nación. La ley, a iniciativa del Gobierno, determinará el porcentaje mínimo de esa participación y definirá las áreas prioritarias de inversión social que se financiarán con dichos recursos. Para los efectos de esa participación, la ley determinará los resguardos indígenas que serán considerados como municipios.
-
-Los recursos provenientes de esa participación serán distribuidos por la ley de conformidad con los siguientes criterios: el sesenta por ciento (60%) en proporción directa al número de habitantes con necesidades básicas insatisfechas y al nivel relativo de pobreza de la población del respectivo municipio; el resto en función de la población total, la eficiencia fiscal y administrativa y el progreso demostrado en calidad de vida, asignando en forma exclusiva un porcentaje de esa parte a los municipios menores de 50.000 habitantes".
-
-La ley precisará el alcance, los criterios de distribución aquí previstos, y dispondrá que un porcentaje de éstos ingresos se invierta en las zonas rurales.
-
-Cada cinco (5) años, la ley a iniciativa del Congreso, podrá revisar éstos porcentajes de distribución".
-
-**Parágrafo.** La participación de los municipios en los ingresos corrientes de la Nación se incrementará, año por año, del catorce por ciento (14%) de 1993 hasta alcanzar el veintidós por ciento (22%) como mínimo en el 2001. La ley fijará el aumento gradual de éstas transferencias y definirá las nuevas responsabilidades que en materia de inversión social asumirán los municipios y las condiciones para su cumplimiento. Sus autoridades deberán demostrar a los organismos de evaluación y control de resultados la eficiente y correcta aplicación de estos recursos y, en caso de mal manejo, se harán acreedores a las sanciones que establezca la ley .
-
-Estarán excluidos de la participación anterior, los impuestos nuevos cuando el Congreso así lo determine y, por el primer año de vigencia, los ajustes a los tributos existentes y los que se arbitren por medidas de emergencia económica.
-
-A partir del año 2000, los municipios clasificados en las categorías cuarta, quinta y sexta, de conformidad con las normas vigentes, podrán destinar libremente, para inversión o para otros gastos, hasta un quince por ciento (15%) de los recursos que perciban por concepto de la participación.
-
-**Parágrafo transitorio primero.** Establécese para los años 1995 a 1999, inclusive, un período de transición durante el cual los municipios, de conformidad con la categorización consagrada en las normas vigentes, destinarán libremente para inversión o para otros gastos, un porcentaje máximo de los recursos de la participación, de la siguiente forma:
-
-Categorías 2º. y 3º.: Hasta el 25 % en 1995; hasta el 20% en 1996; hasta el 15% en 1997; hasta el 10% en 1998; y hasta el 5% en 1999.
-
-Categorías 4º., 5º. y 6º.: Hasta el 30% en 1995; hasta el 27% en 1996; hasta el 24% en 1997; hasta el 21 % en 1998, y hasta el 18% en 1999.
-
-**El parágrafo transitorio segundo.** A partir de 1996 y hasta el año 1999, inclusive, un porcentaje creciente de la participación se distribuirá entre los municipios de acuerdo con los criterios establecidos en este artículo, de la siguiente manera: el 50% en 1996; el 60% en 1997; el 70% en 1998 y el 85% en 1999. El porcentaje restante de la participación en cada uno de los años del período de transición, se distribuirá en proporción directa al valor que hayan recibido los municipios y distritos por concepto de la transferencia del IVA en 1992. A partir del año 2000 entrarán en plena vigencia los criterios establecidos en el presente artículo para distribuir la participación.
-
-**Artículo 357.** Los municipios participarán en los ingresos corrientes de la Nación. La ley, a iniciativa del Gobierno, determinará el porcentaje mínimo de esa participación y definirá las áreas prioritarias de inversión social que se financiarán con dichos recursos. Para los efectos de esta participación, la ley determinará los resguardos indígenas que serán considerados como municipios.
-
-Los recursos provenientes de esta participación serán distribuidos por la ley de conformidad con los siguientes criterios: sesenta por ciento en proporción directa al número de habitantes con necesidades básicas insatisfechas y al nivel relativo de pobreza de la población del respectivo municipio; el resto en función de la población total, la eficiencia fiscal y administrativa y el progreso demostrado en calidad de vida, asignando en forma exclusiva un porcentaje de esta parte a los municipios menores de 50.000 habitantes. La ley precisará el alcance, los criterios de distribución aquí previstos y dispondrá que un porcentaje de estos ingresos se invierta en las zonas rurales. Cada cinco años, la ley a iniciativa del Congreso, podrá revisar estos porcentajes de distribución.
-
-**Parágrafo.** La participación de los municipios en los ingresos corrientes de la Nación se incrementará, año por año, del catorce por ciento de 1993 hasta alcanzar el veintidós por ciento como mínimo en el 2002. La ley fijará el aumento gradual de estas transferencias y definirá las nuevas responsabilidades que en materia de inversión social asumirán los municipios y las condiciones para su cumplimiento. Sus autoridades deberán demostrar a los organismos de evaluación y control de resultados la eficiente y correcta aplicación de estos recursos y, en caso de mal manejo, se harán acreedores a las sanciones que establezca la ley.
-
-Estarán excluidos de la participación anterior, los impuestos nuevos cuando el Congreso así lo determine y, por el primer año de vigencia, los ajustes a tributos existentes y los que se arbitren por medidas de emergencia económica.
-
 ##### **Artículo 358.** Para los efectos contemplados en los dos artículos anteriores, entiéndese por ingresos corrientes los constituidos por los ingresos tributarios y no tributarios con excepción de los recursos de capital.
 
 ##### **Artículo 359.** No habrá rentas nacionales de destinación específica.
@@ -3833,164 +1969,6 @@ Se exceptúan:
 La explotación de un recurso natural no renovable causará a favor del Estado, una contraprestación económica a título de regalía, sin perjuicio de cualquier otro derecho o compensación que se pacte.
 
 Los departamentos y municipios en cuyo territorio se adelanten explotaciones de recursos naturales no renovables, así como los puertos marítimos y fluviales por donde se transporten dichos recursos o productos derivados de los mismos, tendrán derecho a participar en las regalías y compensaciones.
-
-##### **Artículo 361.** Los ingresos del Sistema General de Regalías se destinarán al financiamiento de proyectos para el desarrollo social, económico y ambiental de las entidades territoriales; al ahorro para su pasivo pensional; para inversiones físicas en educación, para inversiones en ciencia, tecnología e innovación; para la generación de ahorro público; para la fiscalización de la exploración y explotación de los yacimientos y conocimiento y cartografía geológica del subsuelo; y para aumentar la competitividad general de la economía buscando mejorar las condiciones sociales de la población.
-
-Los departamentos, municipios y distritos en cuyo territorio se adelanten explotaciones de recursos naturales no renovables, así como los municipios y distritos con puertos marítimos y fluviales por donde se transporten dichos recursos o productos derivados de los mismos, tendrán derecho a participar en las regalías y compensaciones, así como a ejecutar directamente estos recursos.
-
-Para efectos de cumplir con los objetivos y fines del Sistema General de Regalías, créanse los Fondos de Ciencia, Tecnología e Innovación; de Desarrollo Regional; de Compensación Regional; y de Ahorro y Estabilización.
-
-Los ingresos del Sistema General de Regalías se distribuirán así: un porcentaje equivalente al 10% para el Fondo de Ciencia, Tecnología e Innovación; un 10% para ahorro pensional territorial, y hasta un 30% para el Fondo de Ahorro y Estabilización. Los recursos restantes se distribuirán en un porcentaje equivalente al 20% para las asignaciones directas de que trata el inciso 2° del presente artículo, y un 80% para los Fondos de Compensación Regional, y de Desarrollo Regional. Del total de los recursos destinados a estos dos últimos Fondos, se destinará un porcentaje equivalente al 60% para el Fondo de Compensación Regional y un 40% para el Fondo de Desarrollo Regional.
-
-De los ingresos del Sistema General de Regalías, se destinará un porcentaje del 2% para fiscalización de la exploración y explotación de los yacimientos, y el conocimiento y cartografía geológica del subsuelo. Este porcentaje se descontará en forma proporcional del total de los ingresos del Sistema General de Regalías distribuidos en el inciso anterior. Las funciones aquí establecidas serán realizadas por el Ministerio de Minas y Energía o por la entidad a quien este delegue.
-
-La suma de los recursos correspondientes a las asignaciones directas de que trata el inciso 2° del presente artículo, y de los recursos del Fondo de Desarrollo Regional y del Fondo de Compensación Regional, crecerán anualmente a una tasa equivalente a la mitad de la tasa de crecimiento total de los ingresos del Sistema General de Regalías. La ley que regulará el sistema definirá un mecanismo para mitigar la disminución de los mencionados recursos, que se presente como consecuencia de una reducción drástica en los ingresos del Sistema General de Regalías.
-
-La diferencia entre el total de los ingresos del Sistema General de Regalías y los recursos destinados al ahorro pensional territorial, al Fondo de Ciencia, Tecnología e Innovación, al Fondo de Desarrollo Regional, al Fondo de Compensación Regional, así como a los que se refiere el inciso 2° del presente artículo se destinará al Fondo de Ahorro y Estabilización.
-
-Los Fondos de Ciencia, Tecnología e Innovación y de Desarrollo Regional tendrán como finalidad la financiación de proyectos regionales acordados entre las entidades territoriales y el Gobierno Nacional.
-
-Los recursos del Fondo de Compensación Regional se destinarán a la financiación de proyectos de impacto regional o local de desarrollo en las entidades territoriales más pobres del país, de acuerdo con criterios de Necesidades Básicas Insatisfechas (NBI), población y desempleo, y con prioridad en las zonas costeras, fronterizas y de periferia. La duración del Fondo de Compensación Regional será de treinta (30) años, contados a partir de la entrada en vigencia de la ley a la que se refiere el inciso 2° del artículo anterior. Transcurrido este período, estos recursos se destinarán al Fondo de Desarrollo Regional.
-
-Los recursos del Fondo de Ahorro y Estabilización, así como sus rendimientos, serán administrados por el Banco de la República en los términos que establezca el Gobierno Nacional. En los períodos de des­ahorro, la distribución de estos recursos entre los demás componentes del Sistema se regirá por los criterios que defina la ley a la que se refiere el inciso 2° del artículo anterior.
-
-En caso de que los recursos destinados anualmente al Fondo de Ahorro y Estabilización excedan del treinta por ciento (30%) de los ingresos anuales del Sistema General de Regalías, tal excedente se distribuirá entre los demás componentes del Sistema, conforme a los términos y condiciones que defina la ley a la que se refiere el inciso 2° del artículo anterior.
-
-**Parágrafo 1°.** Los recursos del Sistema General de Regalías no harán parte del Presupuesto General de la Nación, ni del Sistema General de Participaciones. El Sistema General de Regalías tendrá su propio sistema presupuestal que se regirá por las normas contenidas en la ley a que se refiere el inciso 2° del artículo anterior. En todo caso, el Congreso de la República expedirá bianualmente el presupuesto del Sistema General de Regalías.
-
-**Parágrafo 2°.** La ejecución de los recursos correspondientes a las asignaciones directas de que trata el inciso 2° del presente artículo, así como de los recursos de los Fondos de Ciencia, Tecnología e Innovación; de Desarrollo Regional, y de Compensación Regional, se hará en concordancia con el Plan Nacional de Desarrollo y los planes de desarrollo de las entidades territoriales.
-
-Los proyectos prioritarios que se financiarán con estos recursos, serán definidos por órganos colegiados de administración y decisión, de conformidad con lo establecido en la ley que regule el Sistema General de Regalías. Para el caso de los departamentos a los que se refiere el inciso 2° del presente artículo, los órganos colegiados de administración y decisión estarán integrados por dos (2) Ministros o sus delegados, el gobernador respectivo o su delegado, y un número representativo de alcaldes. La ley que regule el Sistema General de Regalías podrá crear comités de carácter consultivo para los órganos colegiados de administración y decisión, con participación de la sociedad civil. En cuanto a los municipios y/o distritos a los que se refiere el inciso 2° del presente artículo, los órganos colegiados de administración y decisión estarán conformados por un delegado del Gobierno Nacional, el gobernador o su delegado y el alcalde.
-
-Los programas y/o proyectos en ciencia tecnología e innovación de los departamentos, municipios y distritos que se financiarán con los recursos del Fondo de Ciencia, Tecnología e Innovación, se definirán por un órgano colegiado de administración y decisión, en el cual tendrán asiento el Gobierno Nacional, representado por tres (3) Ministros o sus delegados, un (1) representante del Organismo Nacional de Planeación y un (1) representante del Organismo Nacional encargado del manejo de la política pública de ciencia y tecnología e innovación, quien además ejercerá la Secretaría Técnica, un (1) Gobernador por cada una de las instancias de planeación regional a que se refiere el inciso siguiente del presente artículo; cuatro (4) representantes de las universidades públicas y dos (2) representantes de universidades privadas. Así mismo, los recursos de este Fondo de Ciencia, Tecnología e Innovación, se distribuirán en la misma proporción en que se distribuyan a los departamentos, los recursos de los Fondos de Compensación Regional y de Desarrollo Regional. En ningún caso los recursos de este fondo podrán financiar gasto corriente.
-
-Los proyectos de impacto regional de los departamentos, municipios y distritos que se financiarán con los recursos de los Fondos de Desarrollo y Compensación Regional se definirán a través de ejercicios de planeación regional por órganos colegiados de administración y decisión donde tengan asiento cuatro (4) Ministros o sus delegados y un (1) representante del Organismo Nacional de Planeación, los gobernadores respectivos o sus delegados y un número representativo de alcaldes.
-
-La ley que regule el Sistema General de Regalías, podrá crear comités de carácter consultivo para los órganos colegiados de administración y decisión con participación de la sociedad civil.
-
-En todo caso, la representación de las entidades territoriales en los órganos colegiados será mayoritaria, en relación con la del Gobierno Nacional.
-
-**Parágrafo 3°.** Créase el Sistema de Monitoreo, Seguimiento, Control y Evaluación de las Regalías, cuyo objeto será velar por el uso eficiente y eficaz de los recursos del Sistema General de Regalías, fortaleciendo la transparencia, la participación ciudadana y el Buen Gobierno.
-
-La ley a la que se refiere el inciso 2° del artículo anterior, definirá su funcionamiento y el procedimiento para la imposición de medidas preventivas, correctivas y sancionatorias por el inadecuado uso de los recursos del Sistema General de Regalías. Dentro de estas medidas podrán aplicarse a los Departamentos, Municipios y/o Distritos y demás ejecutores la suspensión de giros, cancelación de proyectos y/o el reintegro de recursos.
-
-La ley a la que se refiere el inciso 2° del artículo anterior definirá, igualmente, el porcentaje anual de los recursos de Sistema General de Regalías destinado a su funcionamiento y al del Sistema de Moni­toreo, Seguimiento, Control y Evaluación de las Regalías. Este porcentaje se descontará en forma proporcional del total de los ingresos del Sistema General de Regalías distribuidos en el inciso cuarto del presente artículo.
-
-**Parágrafo 4**°. Cuando una entidad territorial que recibe recursos del Sistema General de Regalías para el ahorro pensional territorial cubra sus pasivos pensionales, destinará los recursos provenientes de esta fuente a la financiación de proyectos de inversión. Durante los veinte (20) años siguientes a la entrada en vigencia del presente acto legislativo, estos proyectos deberán tener como objeto la implementación del Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera, incluyendo la financiación de proyectos destinados a la reparación integral de víctimas. Estos proyectos deberán ser definidos, por el Órgano Colegiado de Administración y Decisión de que trata el parágrafo 7° transitorio del artículo 2° del presente acto legislativo; con posterioridad a los veinte (20) años, dichos proyectos deberán ser definidos por los Órganos Colegiados de Administración y Decisión Municipales y Departamentales que trata el parágrafo 2° del presente artículo.
-
-Las entidades territoriales que a la fecha de entrada en vigencia del presente Acto Legislativo cuenten con recursos de ahorro pensional provenientes del Sistema General de Regalías, que sobrepasen el cubrimiento requerido de sus pasivos pensionales, los destinarán igualmente a la financiación de proyectos de inversión en los términos señalados en el inciso anterior.
-
-El Gobierno nacional, mediante decreto con fuerza de ley, que expedirá dentro de los seis (6) meses siguientes a la entrada en vigencia del presente acto legislativo, reglamentará la materia.
-
-Para las entidades territoriales con una baja o nula incidencia del conflicto armado, los proyectos deberán ser aprobados por los Órganos Colegiados de Administración y decisión municipales y departamentales que trata el parágrafo 2° del presente artículo, y serán destinados prioritariamente para la reparación integral a las víctimas o para el cierre de brechas.
-
-**Parágrafo 5**°**.** Los programas o proyectos de inversión que se financiarán con los recursos del Fondo de Ciencia, Tecnología e Innovación, serán definidos por el respectivo Órgano Colegiado de Administración y Decisión, a través de convocatorias públicas abiertas y competitivas, articuladas con los correspondientes planes de desarrollo. Para la presentación y ejecución de los proyectos la entidad deberá ser parte del Sistema Nacional de Ciencia, Tecnología e Innovación. Los programas o proyectos aprobados serán ejecutados por las entidades que los presentaron en la convocatoria.
-
-Lo establecido en el presente parágrafo regirá desde la entrada en vigencia de la ley que lo reglamente.
-
-**Parágrafo 1**°**.***Transitorio*. Suprímase el Fondo Nacional de Regalías a partir de la fecha que determine la ley a la que se refiere el inciso 2° del artículo anterior. El Gobierno Nacional designará al liquidador y definirá el procedimiento y el plazo para la liquidación. Los recursos no comprometidos que posea el Fondo Nacional de Regalías a la entrada en vigencia del presente Acto Legislativo, se destinarán prioritariamente a la reconstrucción de la infraestructura vial del país y a la recuperación ambiental de las zonas afectadas por la emergencia invernal de 2010-2011.
-
-**Parágrafo 2°.***Transitorio*. Respecto de los recursos que se destinarán a las asignaciones directas de que trata el inciso 2° del presente artículo y a los Fondos de Compensación Regional, y de Desarrollo Regional, su distribución durante los tres primeros años será así: durante el primer año corresponderá a un porcentaje equivalente al 50% para las asignaciones directas de que trata el inciso 2° del presente artículo y un 50% para los fondos enunciados en este parágrafo; de la misma forma, durante el segundo año se destinará un porcentaje equivalente al 35% y al 65% respectivamente; y durante el tercer año se destinará un porcentaje equivalente al 25% y el 75%, respectivamente.
-
-En el evento en que durante el período comprendido entre los años 2012 y 2014, las asignaciones directas de que trata el inciso 2° del presente artículo, sean inferiores al 50% del promedio anual, en pesos constantes de 2010, de las asignaciones directas causadas menos descuentos de ley entre los años 2007 y 2010; y durante el período comprendido entre los años 2015 y 2020, sean inferiores al 40% del promedio anual, en pesos constantes de 2010, de las asignaciones directas causadas menos descuentos de ley entre los años 2007 y 2010; el departamento, municipio o distrito, podrá utilizar los recursos de la asignación del departamento respectivo en el Fondo de Desarrollo Regional, hasta alcanzar dicho porcentaje o hasta agotar los recursos del departamento en el mencionado Fondo, lo que ocurra primero.
-
-**Parágrafo 3**°. ***Transitorio.*** En el primer año de operación del Sistema General de Regalías, se destinará un veinticinco por ciento (25%) de sus recursos al Fondo de Ahorro y Estabilización.
-
-Durante el período 2012-2014, una quinta parte de los recursos anuales del Fondo de Ahorro y Estabilización se destinará a las asignaciones directas de que trata el inciso 2° del presente artículo.
-
-**Parágrafo 4°.*Transitorio***. El Gobierno Nacional contará con un término de tres (3) meses contados a partir de la fecha de promulgación del presente acto legislativo, para radicar ante el Congreso de la República el proyecto de ley a la que se refiere el inciso 2° del artículo anterior, que ajuste el régimen de regalías al nuevo marco constitucional.
-
-Una vez radicado el proyecto de ley a que se refiere el inciso anterior, el Congreso de la República contará con un término que no podrá exceder de nueve (9) meses para su aprobación. Si vencido este término no se ha expedido la ley por parte del Congreso, se faculta por un (1) mes al Presidente de la República para expedir decretos con fuerza de ley para regular la materia.
-
-**Parágrafo 5°**.*Transitorio*. El Sistema General de regalías regirá a partir de 1° de enero de 2012. Si para esta fecha no ha entrado en vigencia la ley de que trata el inciso 2° del artículo anterior, el Gobierno Nacional garantizará la operación del Sistema mediante decretos transitorios con fuerza de ley, que expedirá a más tardar el 31 de diciembre de 2011.
-
-**Parágrafo 6°.*Transitorio*.** Para asegurar la ejecución de los recursos en la vigencia 2012, el Gobierno Nacional expedirá el presupuesto del Sistema General de Regalías para la citada vigencia fiscal, mediante un decreto con fuerza de ley.
-
-**Parágrafo 7**°. **Transitorio**. Durante los veinte (20) años siguientes a la entrada en vigencia del presente acto legislativo, un 7% de los ingresos del Sistema General de Regalías se destinarán a una asignación para la Paz que tendrá como objeto financiar proyectos de inversión para la implementación del Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera, incluyendo la financiación de proyectos destinados a la reparación de víctimas.
-
-Igual destinación tendrá el 70% de los ingresos que por rendimientos financieros genere el Sistema General de Regalías en estos años, con excepción de los generados por las asignaciones directas de que trata el inciso segundo del presente artículo. El 30% restante se destinará para incentivar la producción de municipios, en cuyos territorios se exploten los recursos naturales no renovables y a los municipios y distritos con puertos marítimos y fluviales por donde se transporten dichos recursos o derivados de los mismos.
-
-Durante este período, la asignación para ahorro pensional territorial será del 7% de los ingresos del Sistema General de Regalías. La diferencia entre el total de los ingresos del Sistema General de Regalías y los recursos destinados al ahorro pensional territorial, al Fondo de Ciencia, Tecnología e Innovación, al Fondo de Desarrollo Regional, al Fondo de Compensación Regional, a las asignaciones directas a las que se refiere el inciso segundo del presente artículo y a la Asignación para la Paz a la que se refiere el inciso 1° del presente parágrafo, se destinará al Fondo de Ahorro y Estabilización.
-
-Los recursos a los que se refieren los incisos 1° y 2° de este parágrafo, se distribuirán priorizando las entidades territoriales más afectadas por la pobreza rural, las economías ilegales, la debilidad institucional, el conflicto armado y los municipios en cuyo territorio se adelanten explotaciones de recursos naturales no renovables y se orientarán a cerrar las brechas sociales, económicas e institucionales en dichas entidades territoriales.
-
-Los proyectos de inversión a ser financiados con los recursos a los que se refieren los incisos 1° y 2° de este parágrafo, serán definidos por un Órgano Colegiado de Administración y Decisión, en el cual tendrán asiento el Gobierno nacional, representado por el Ministro de Hacienda y Crédito Público o su delegado, un (1) representante del organismo nacional de planeación, y un (1) representante del Presidente de la República; el Gobierno departamental representado por dos (2) Gobernadores y el Gobierno municipal, representado por dos (2) alcaldes.
-
-Asistirán a este Órgano Colegiado de Administración y Decisión, en calidad de invitados permanentes con voz y sin voto, dos Senadores y dos Representantes a la Cámara.
-
-Para cumplir con lo dispuesto en el presente parágrafo transitorio, el Gobierno nacional, dentro de los seis (6) meses siguientes a la entrada en vigencia del presente acto legislativo, expedirá los decretos con fuerza de ley necesarios para ajustar el presupuesto del bienio 2017-2018 y para adoptar las medidas requeridas para el funcionamiento de este Órgano Colegiado de Administración y Decisión, y de la Asignación para la Paz.
-
-**Parágrafo 8**°. **Transitorio.** Con el propósito de financiar la infraestructura de transporte requerida para la implementación del Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera, el Gobierno nacional trasladará el 60% de los saldos no aprobados en el Fondo de Ciencia, Tecnología e Innovación a 31 de diciembre de 2016. El 50% de los recursos objeto del traslado será destinado a la Asignación para la Paz, para ser definidos por el Órgano Colegiado de Administración y Decisión de que trata el parágrafo 7° transitorio del presente artículo y el 50% restante al Fondo de Desarrollo Regional.
-
-El gobierno departamental podrá establecer que el porcentaje de recursos a trasladar sea superior al 60%, en cuyo caso deberá informar al Gobierno nacional dentro de los cinco días siguientes a la entrada en vigencia del presente Acto Legislativo.
-
-El Gobierno nacional realizará los ajustes presupuestales a los que haya lugar mediante un decreto con fuerza de ley. Los recursos trasladados serán apropiados al mismo departamento beneficiario de los saldos y se distribuirán en partes iguales a la Asignación para la Paz y al Fondo de Desarrollo Regional.
-
-**Parágrafo 9**°. **Transitorio**. Los proyectos de inversión a financiarse con los recursos del Sistema General de Regalías destinados a la implementación del Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera, deberán guardar concordancia con el régimen de planeación vigente, el componente específico para la Paz y la implementación del Plan Plurianual de Inversiones del Plan Nacional de Desarrollo y de los planes de desarrollo de las entidades territoriales.
-
-**Parágrafo 10. Transitorio**. Durante los veinte (20) años siguientes a la entrada en vigencia del presente acto legislativo, las entidades beneficiarias cuya apropiación bienal de inversión sea menor a 4.000 salarios mínimos mensuales legales vigentes y que tengan un adecuado desempeño en la gestión de estos recursos, definirán directamente los proyectos de inversión cuando estos tengan como objeto la implementación del Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera, en concordancia con el decreto con fuerza de ley que para el efecto expida el Gobierno nacional en los seis (6) meses siguientes a la entrada en vigencia del presente acto legislativo. Los demás proyectos serán definidos por el Órgano Colegiado de Administración y **Decisión respectivo.**
-
-**Artículo 361.** Los ingresos del Sistema General de Regalías se destinarán al financiamiento de proyectos para el desarrollo social, económico y ambiental de las entidades territoriales; al ahorro para su pasivo pensional; para inversiones físicas en educación, para inversiones en ciencia, tecnología e innovación; para la generación de ahorro público; para la fiscalización de la exploración y explotación de los yacimientos y conocimiento y cartografía geológica del subsuelo; y para aumentar la competitividad general de la economía buscando mejorar las condiciones sociales de la población.
-
-Los departamentos, municipios y distritos en cuyo territorio se adelanten explotaciones de recursos naturales no renovables, así como los municipios y distritos con puertos marítimos y fluviales por donde se transporten dichos recursos o productos derivados de los mismos, tendrán derecho a participar en las regalías y compensaciones, así como a ejecutar directamente estos recursos.
-
-Para efectos de cumplir con los objetivos y fines del Sistema General de Regalías, créanse los Fondos de Ciencia, Tecnología e Innovación; de Desarrollo Regional; de Compensación Regional; y de Ahorro y Estabilización.
-
-Los ingresos del Sistema General de Regalías se distribuirán así: un porcentaje equivalente al 10% para el Fondo de Ciencia, Tecnología e Innovación; un 10% para ahorro pensional territorial, y hasta un 30% para el Fondo de Ahorro y Estabilización. Los recursos restantes se distribuirán en un porcentaje equivalente al 20% para las asignaciones directas de que trata el inciso 2° del presente artículo, y un 80% para los Fondos de Compensación Regional, y de Desarrollo Regional. Del total de los recursos destinados a estos dos últimos Fondos, se destinará un porcentaje equivalente al 60% para el Fondo de Compensación Regional y un 40% para el Fondo de Desarrollo Regional.
-
-De los ingresos del Sistema General de Regalías, se destinará un porcentaje del 2% para fiscalización de la exploración y explotación de los yacimientos, y el conocimiento y cartografía geológica del subsuelo. Este porcentaje se descontará en forma proporcional del total de los ingresos del Sistema General de Regalías distribuidos en el inciso anterior. Las funciones aquí establecidas serán realizadas por el Ministerio de Minas y Energía o por la entidad a quien este delegue.
-
-La suma de los recursos correspondientes a las asignaciones directas de que trata el inciso 2° del presente artículo, y de los recursos del Fondo de Desarrollo Regional y del Fondo de Compensación Regional, crecerán anualmente a una tasa equivalente a la mitad de la tasa de crecimiento total de los ingresos del Sistema General de Regalías. La ley que regulará el sistema definirá un mecanismo para mitigar la disminución de los mencionados recursos, que se presente como consecuencia de una reducción drástica en los ingresos del Sistema General de Regalías.
-
-La diferencia entre el total de los ingresos del Sistema General de Regalías y los recursos destinados al ahorro pensional territorial, al Fondo de Ciencia, Tecnología e Innovación, al Fondo de Desarrollo Regional, al Fondo de Compensación Regional, así como a los que se refiere el inciso 2° del presente artículo se destinará al Fondo de Ahorro y Estabilización.
-
-Los Fondos de Ciencia, Tecnología e Innovación y de Desarrollo Regional tendrán como finalidad la financiación de proyectos regionales acordados entre las entidades territoriales y el Gobierno Nacional.
-
-Los recursos del Fondo de Compensación Regional se destinarán a la financiación de proyectos de impacto regional o local de desarrollo en las entidades territoriales más pobres del país, de acuerdo con criterios de Necesidades Básicas Insatisfechas (NBI), población y desempleo, y con prioridad en las zonas costeras, fronterizas y de periferia. La duración del Fondo de Compensación Regional será de treinta (30) años, contados a partir de la entrada en vigencia de la ley a la que se refiere el inciso 2° del artículo anterior. Transcurrido este período, estos recursos se destinarán al Fondo de Desarrollo Regional.
-
-Los recursos del Fondo de Ahorro y Estabilización, así como sus rendimientos, serán administrados por el Banco de la República en los términos que establezca el Gobierno Nacional. En los períodos de des­ahorro, la distribución de estos recursos entre los demás componentes del Sistema se regirá por los criterios que defina la ley a la que se refiere el inciso 2° del artículo anterior.
-
-En caso de que los recursos destinados anualmente al Fondo de Ahorro y Estabilización excedan del treinta por ciento (30%) de los ingresos anuales del Sistema General de Regalías, tal excedente se distribuirá entre los demás componentes del Sistema, conforme a los términos y condiciones que defina la ley a la que se refiere el inciso 2° del artículo anterior.
-
-**Parágrafo 1°.** Los recursos del Sistema General de Regalías no harán parte del Presupuesto General de la Nación, ni del Sistema General de Participaciones. El Sistema General de Regalías tendrá su propio sistema presupuestal que se regirá por las normas contenidas en la ley a que se refiere el inciso 2° del artículo anterior. En todo caso, el Congreso de la República expedirá bianualmente el presupuesto del Sistema General de Regalías.
-
-**Parágrafo 2°.** La ejecución de los recursos correspondientes a las asignaciones directas de que trata el inciso 2° del presente artículo, así como de los recursos de los Fondos de Ciencia, Tecnología e Innovación; de Desarrollo Regional, y de Compensación Regional, se hará en concordancia con el Plan Nacional de Desarrollo y los planes de desarrollo de las entidades territoriales.
-
-Los proyectos prioritarios que se financiarán con estos recursos, serán definidos por órganos colegiados de administración y decisión, de conformidad con lo establecido en la ley que regule el Sistema General de Regalías. Para el caso de los departamentos a los que se refiere el inciso 2° del presente artículo, los órganos colegiados de administración y decisión estarán integrados por dos (2) Ministros o sus delegados, el gobernador respectivo o su delegado, y un número representativo de alcaldes. La ley que regule el Sistema General de Regalías podrá crear comités de carácter consultivo para los órganos colegiados de administración y decisión, con participación de la sociedad civil. En cuanto a los municipios y/o distritos a los que se refiere el inciso 2° del presente artículo, los órganos colegiados de administración y decisión estarán conformados por un delegado del Gobierno Nacional, el gobernador o su delegado y el alcalde.
-
-Los programas y/o proyectos en ciencia tecnología e innovación de los departamentos, municipios y distritos que se financiarán con los recursos del Fondo de Ciencia, Tecnología e Innovación, se definirán por un órgano colegiado de administración y decisión, en el cual tendrán asiento el Gobierno Nacional, representado por tres (3) Ministros o sus delegados, un (1) representante del Organismo Nacional de Planeación y un (1) representante del Organismo Nacional encargado del manejo de la política pública de ciencia y tecnología e innovación, quien además ejercerá la Secretaría Técnica, un (1) Gobernador por cada una de las instancias de planeación regional a que se refiere el inciso siguiente del presente artículo; cuatro (4) representantes de las universidades públicas y dos (2) representantes de universidades privadas. Así mismo, los recursos de este Fondo de Ciencia, Tecnología e Innovación, se distribuirán en la misma proporción en que se distribuyan a los departamentos, los recursos de los Fondos de Compensación Regional y de Desarrollo Regional. En ningún caso los recursos de este fondo podrán financiar gasto corriente.
-
-Los proyectos de impacto regional de los departamentos, municipios y distritos que se financiarán con los recursos de los Fondos de Desarrollo y Compensación Regional se definirán a través de ejercicios de planeación regional por órganos colegiados de administración y decisión donde tengan asiento cuatro (4) Ministros o sus delegados y un (1) representante del Organismo Nacional de Planeación, los gobernadores respectivos o sus delegados y un número representativo de alcaldes.
-
-La ley que regule el Sistema General de Regalías, podrá crear comités de carácter consultivo para los órganos colegiados de administración y decisión con participación de la sociedad civil.
-
-En todo caso, la representación de las entidades territoriales en los órganos colegiados será mayoritaria, en relación con la del Gobierno Nacional.
-
-**Parágrafo 3°.** Créase el Sistema de Monitoreo, Seguimiento, Control y Evaluación de las Regalías, cuyo objeto será velar por el uso eficiente y eficaz de los recursos del Sistema General de Regalías, fortaleciendo la transparencia, la participación ciudadana y el Buen Gobierno.
-
-La ley a la que se refiere el inciso 2° del artículo anterior, definirá su funcionamiento y el procedimiento para la imposición de medidas preventivas, correctivas y sancionatorias por el inadecuado uso de los recursos del Sistema General de Regalías. Dentro de estas medidas podrán aplicarse a los Departamentos, Municipios y/o Distritos y demás ejecutores la suspensión de giros, cancelación de proyectos y/o el reintegro de recursos.
-
-La ley a la que se refiere el inciso 2° del artículo anterior definirá, igualmente, el porcentaje anual de los recursos de Sistema General de Regalías destinado a su funcionamiento y al del Sistema de Moni­toreo, Seguimiento, Control y Evaluación de las Regalías. Este porcentaje se descontará en forma proporcional del total de los ingresos del Sistema General de Regalías distribuidos en el inciso cuarto del presente artículo.
-
-**Parágrafo 1**°**.***Transitorio*. Suprímase el Fondo Nacional de Regalías a partir de la fecha que determine la ley a la que se refiere el inciso 2° del artículo anterior. El Gobierno Nacional designará al liquidador y definirá el procedimiento y el plazo para la liquidación. Los recursos no comprometidos que posea el Fondo Nacional de Regalías a la entrada en vigencia del presente Acto Legislativo, se destinarán prioritariamente a la reconstrucción de la infraestructura vial del país y a la recuperación ambiental de las zonas afectadas por la emergencia invernal de 2010-2011.
-
-**Parágrafo 2°.***Transitorio*. Respecto de los recursos que se destinarán a las asignaciones directas de que trata el inciso 2° del presente artículo y a los Fondos de Compensación Regional, y de Desarrollo Regional, su distribución durante los tres primeros años será así: durante el primer año corresponderá a un porcentaje equivalente al 50% para las asignaciones directas de que trata el inciso 2° del presente artículo y un 50% para los fondos enunciados en este parágrafo; de la misma forma, durante el segundo año se destinará un porcentaje equivalente al 35% y al 65% respectivamente; y durante el tercer año se destinará un porcentaje equivalente al 25% y el 75%, respectivamente.
-
-En el evento en que durante el período comprendido entre los años 2012 y 2014, las asignaciones directas de que trata el inciso 2° del presente artículo, sean inferiores al 50% del promedio anual, en pesos constantes de 2010, de las asignaciones directas causadas menos descuentos de ley entre los años 2007 y 2010; y durante el período comprendido entre los años 2015 y 2020, sean inferiores al 40% del promedio anual, en pesos constantes de 2010, de las asignaciones directas causadas menos descuentos de ley entre los años 2007 y 2010; el departamento, municipio o distrito, podrá utilizar los recursos de la asignación del departamento respectivo en el Fondo de Desarrollo Regional, hasta alcanzar dicho porcentaje o hasta agotar los recursos del departamento en el mencionado Fondo, lo que ocurra primero.
-
-**Parágrafo 3**°. ***Transitorio.*** En el primer año de operación del Sistema General de Regalías, se destinará un veinticinco por ciento (25%) de sus recursos al Fondo de Ahorro y Estabilización.
-
-Durante el período 2012-2014, una quinta parte de los recursos anuales del Fondo de Ahorro y Estabilización se destinará a las asignaciones directas de que trata el inciso 2° del presente artículo.
-
-**Parágrafo 4°.*Transitorio***. El Gobierno Nacional contará con un término de tres (3) meses contados a partir de la fecha de promulgación del presente acto legislativo, para radicar ante el Congreso de la República el proyecto de ley a la que se refiere el inciso 2° del artículo anterior, que ajuste el régimen de regalías al nuevo marco constitucional.
-
-Una vez radicado el proyecto de ley a que se refiere el inciso anterior, el Congreso de la República contará con un término que no podrá exceder de nueve (9) meses para su aprobación. Si vencido este término no se ha expedido la ley por parte del Congreso, se faculta por un (1) mes al Presidente de la República para expedir decretos con fuerza de ley para regular la materia.
-
-**Parágrafo 5°**.*Transitorio*. El Sistema General de regalías regirá a partir de 1° de enero de 2012. Si para esta fecha no ha entrado en vigencia la ley de que trata el inciso 2° del artículo anterior, el Gobierno Nacional garantizará la operación del Sistema mediante decretos transitorios con fuerza de ley, que expedirá a más tardar el 31 de diciembre de 2011.
-
-**Parágrafo 6°.*Transitorio*.** Para asegurar la ejecución de los recursos en la vigencia 2012, el Gobierno Nacional expedirá el presupuesto del Sistema General de Regalías para la citada vigencia fiscal, mediante un decreto con fuerza de ley.
-
-**Artículo 361.** Con los ingresos provenientes de las regalías que no sean asignados a los departamentos y municipios, se creará un Fondo Nacional de Regalías cuyos recursos se destinarán a las entidades territoriales en los términos que señale la ley. Estos fondos se aplicarán a la promoción de la minería, a la preservación del ambiente y a financiar proyectos regionales de inversión definidos como prioritarios en los planes de desarrollo de las respectivas entidades territoriales.
 
 ##### **Artículo 362.** Los bienes y rentas tributarias o no tributarias o provenientes de la explotación de monopolios de las entidades territoriales, son de su propiedad exclusiva y gozan de las mismas garantías que la propiedad y renta de los particulares.
 
@@ -4370,89 +2348,11 @@ Con el fin de conseguir la transición hacia el sistema acusatorio previsto en e
 
 ##### **Articulo Transitorio**. Dentro de los seis meses siguientes a la entrada de vigencia del presente acto legislativo, el Congreso expedirá las normas mediante las cuales se defina la distribución de competencias entre las entidades del Estado que tendrán a su cargo la formulación de planes, la regulación, la dirección, la gestión y el control de los servicios de televisión. Mientras se dicten las leyes correspondientes, la Comisión Nacional de Televisión continuará ejerciendo las funciones que le han sido atribuidas por la legislación vigente.
 
-##### **Artículo transitorio.** Con el fin de determinar las calidades de los aspirantes a ingresar y actualizar a los cargos de carrera, de conformidad con el artículo 125 de la Constitución Política de Colombia, de quienes en la actualidad los están ocupando en calidad de provisionales o en encargo, la Comisión Nacional del Servicio Civil, homologará las pruebas de conocimiento establecidas en el concurso público, preservando el principio del mérito, por la experiencia y los estudios adicionales a los requeridos para ejercer el cargo, para lo cual se calificará de la siguiente manera:
-
-5 o más años de servicio 70 puntos
-
-La experiencia homologada, no se tendrá en cuenta para la prueba de análisis de antecedentes.
-
-Los estudios adicionales, a los requeridos para el ejercicio del cargo, otorgarán un puntaje así:
-
-- 1. Título de especialización 3 puntos
-
-- 2. Título de maestría 6 puntos
-
-- 3. Título de doctorado 10 puntos
-
-Para el nivel técnico y asistencial, los estudios adicionales se tomarán por las horas totales debidamente certificadas así:
-
-- 1. De 50 a 100 horas 3 puntos
-
-- 2. De 101 a 150 horas 6 puntos
-
-- 3. De 151 o más horas 10 puntos
-
-Los puntajes reconocidos por calidades académicas, no serán acumulables entre sí.
-
-Agotada esta etapa de homologación, el empleado provisional o en encargo cumplirá lo establecido por la Comisión Nacional del Servicio Civil, esto es, el análisis comportamental, lo que finalmente posibilitará la cuantificación del puntaje y su ubicación en la lista de elegibles.
-
-Para que opere esta homologación, el servidor público debe haber estado ejerciendo el empleo en provisionalidad o en encargo al 31 de diciembre de 2010 y cumplir con las calidades y requisitos exigidos en la Convocatoria del respectivo concurso.
-
-La Comisión Nacional del Servicio Civil y quien haga sus veces en otros sistemas de carrera expedirán los actos administrativos necesarios tendientes a dar cumplimiento a lo establecido en el presente acto legislativo.
-
-Para los empleados que se encuentren inscritos en carrera administrativa y que a la fecha estén ocupando en encargo por más de tres (3) años de manera ininterrumpida un cargo que se encuentre vacante definitivamente, y que hayan obtenido calificación de servicios sobresaliente en el último año, al momento de realizar los concursos respetivos se le calificará con la misma tabla establecida en el presente artículo transitorio.
-
-Quedan exceptuados los procesos de selección para jueces y magistrados que se surtan en desarrollo del numeral 1 del artículo 256 de la Constitución Política, relativo a la carrera judicial y docentes y directivos docentes oficiales.
-
-##### **Artículo Transitorio 66.** Los instrumentos de justicia transicional serán excepcionales y tendrán como finalidad prevalente facilitar la terminación del conflicto armado interno y el logro de la paz estable y duradera, con garantías de no repetición y de seguridad para todos los colombianos; y garantizarán en el mayor nivel posible, los derechos de las víctimas a la verdad, la justicia y la reparación. Una ley estatutaria podrá autorizar que, en el marco de un acuerdo de paz, se dé un tratamiento diferenciado para los distintos grupos armados al margen de la ley que hayan sido parte en el conflicto armado interno y también para los agentes del Estado, en relación con su participación en el mismo.
-
-Mediante una ley estatutaria se establecerán instrumentos de justicia transicional de carácter judicial o extrajudicial que permitan garantizar los deberes estatales de investigación y sanción. En cualquier caso se aplicarán mecanismos de carácter extrajudicial para el esclarecimiento de la verdad y la reparación de las víctimas.
-
-Una ley deberá crear una Comisión de la Verdad y definir su objeto, composición, atribuciones y funciones. El mandato de la comisión podrá incluir la formulación de recomendaciones para la aplicación de los instrumentos de justicia transicional, incluyendo la aplicación de los criterios de selección.
-
-Tanto los criterios de priorización como los de selección son inherentes a los instrumentos de justicia transicional. El Fiscal General de la Nación determinará criterios de priorización para el ejercicio de la acción penal. Sin perjuicio del deber general del Estado de investigar y sancionar las graves violaciones a los Derechos Humanos y al Derecho Internacional Humanitario, en el marco de la justicia transicional, el Congreso de la República, por iniciativa del Gobierno Nacional, podrá mediante ley estatutaria determinar criterios de selección que permitan centrar los esfuerzos en la investigación penal de los máximos responsables de todos los delitos que adquieran la connotación de crímenes de lesa humanidad, genocidio, o crímenes de guerra cometidos de manera sistemática; establecer los casos, requisitos y condiciones en los que procedería la suspensión de la ejecución de la pena; establecer los casos en los que proceda la aplicación de sanciones extrajudiciales, de penas alternativas, o de modalidades especiales de ejecución y cumplimiento de la pena; y autorizar la renuncia condicionada a la persecución judicial penal de todos los casos no seleccionados. La ley estatutaria tendrá en cuenta la gravedad y representatividad de los casos para determinar los criterios de selección.
-
-En cualquier caso, el tratamiento penal especial mediante la aplicación de instrumentos constitucionales como los anteriores estará sujeto al cumplimiento de condiciones tales como la dejación de las armas, el reconocimiento de responsabilidad, la contribución al esclarecimiento de la verdad y a la reparación integral de las víctimas, la liberación de los secuestrados, y la desvinculación de los menores de edad reclutados ilícitamente que se encuentren en poder de los grupos armados al margen de la ley.
-
-**Parágrafo 1°.** En los casos de la aplicación de instrumentos de justicia transicional a grupos armados al margen de la ley que hayan participado en las hostilidades, esta se limitará a quienes se desmovilicen colectivamente en el marco de un acuerdo de paz o a quienes se desmovilicen de manera individual de conformidad con los procedimientos establecidos y con la autorización del Gobierno Nacional.
-
-**Parágrafo 2°.** En ningún caso se podrán aplicar instrumentos de justicia transicional a grupos armados al margen de la ley que no hayan sido parte en el conflicto armado interno, ni a cualquier miembro de un grupo armado que una vez desmovilizado siga delinquiendo.
-
-##### **Artículo Transitorio 67**. Una ley estatutaria regulará cuáles serán los delitos considerados conexos al delito político para efectos de la posibilidad de participar en política. No podrán ser considerados conexos al delito político los delitos que adquieran la connotación de crímenes de lesa humanidad y genocidio cometidos de manera sistemática, y en consecuencia no podrán participar en política ni ser elegidos quienes hayan sido condenados y seleccionados por estos delitos.
-
 ***ESTABLECE INSTRUMENTOS JURÍDICOS PARA FACILITAR Y ASEGURAR LA IMPLEMENTACIÓN Y EL DESARROLLO NORMATIVO DEL ACUERDO FINAL PARA LA TERMINACIÓN DEL CONFLICTO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA.***
 
 **PROCEDIMIENTO LEGISLATIVO ESPECIAL PARA LA PAZ**.**
 
 **(Articulos transitorios adiconados por Acto legislativo 1 de 2016)**
-
-##### **Artículo transitorio.***Procedimiento legislativo especial para la paz*. Con el propósito de agilizar y garantizar la implementación del Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera (Acuerdo Final) y ofrecer garantías de cumplimiento y fin del conflicto, de manera excepcional y transitoria se pondrá en marcha el Procedimiento Legislativo Especial para la Paz, por un período de seis meses, contados a partir de la entrada en vigencia del presente acto legislativo. Este procedimiento podrá ser prorrogado por un período adicional de hasta seis meses mediante comunicación formal del Gobierno nacional ante el Congreso de la República.
-
-El Procedimiento Legislativo Especial para la Paz se regirá por las siguientes reglas:
-
-- a) Los proyectos de ley y de acto legislativo tramitados mediante el Procedimiento Legislativo Especial para la Paz serán de iniciativa exclusiva del Gobierno nacional, y su contenido tendrá por objeto facilitar y asegurar la implementación y desarrollo normativo del Acuerdo Final para la terminación del Conflicto y la Construcción de una Paz Estable y duradera;
-
-- b) Los proyectos de ley y de acto legislativo tramitados mediante el procedimiento legislativo especial para la Paz tendrán trámite preferencial. En consecuencia, tendrán absoluta prelación en el Orden del Día sobre cualquier otro asunto, hasta tanto la respectiva Cámara o Comisión decida sobre él;
-
-- c) El título de las leyes y los actos legislativos a los que se refiere este artículo, deberá corresponder precisamente a su contenido y a su texto procederá esta fórmula: “*El Congreso de Colombia, en virtud del Procedimiento Legislativo Especial para la Paz, DECRETA”;*
-
-- d) El primer debate de los proyectos de ley se surtirá en sesión conjunta de las Comisiones Constitucionales Permanentes respectivas, sin que medie para ello solicitud del Gobierno nacional. El segundo debate en las plenarias de cada una de las Cámaras;
-
-- e) Los proyectos de ley serán aprobados con las mayorías previstas en la Constitución y la ley, según su naturaleza;
-
-- f) Los actos legislativos serán tramitados en una sola vuelta de cuatro debates. El tránsito del proyecto entre una y otra Cámara será de 8 días.
-
-- g) Los proyectos de acto legislativo serán aprobados por mayoría absoluta;
-
-h)Los proyectos de ley y de acto legislativo solo podrán tener modificaciones siempre que se ajusten al contenido del Acuerdo Final y que cuenten con el aval previo del Gobierno nacional;
-
-- i) Todos los proyectos y de acto legislativo podrán tramitarse en sesiones extraordinarias;
-
-j)En la comisión y en las plenarias se decidirá sobre la totalidad de cada proyecto, con las modificaciones avaladas por el Gobierno nacional, en una sola votación;
-
-- k) Los proyectos de ley y de acto legislativo tramitados mediante el Procedimiento Legislativo Especial para la Paz tendrán control automático y único de constitucionalidad, posterior a su entrada en vigencia. Las Leyes Estatuarias tendrán control previo, de conformidad con lo previsto en el artículo 153 de la Constitución. El control de constitucionalidad de los actos legislativos se hará solo por vicios de procedimiento en su formación. Los términos de esta revisión para leyes y actos legislativos se reducirán a la tercera parte de los del procedimiento ordinario y no podrán ser prorrogados.
-
-En lo no establecido en este procedimiento especial, se aplicará el reglamento del Congreso de la República.
 
 ##### **Artículo transitorio.*Facultades presidenciales para la paz*.** Dentro de los 180 días siguientes a la entrada en vigencia del presente acto legislativo, facúltase al Presidente de la República para expedir los decretos con fuerza de ley cuyo contenido tendrá por objeto facilitar y asegurar la implementación y desarrollo normativo del Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera.
 
@@ -4467,18 +2367,6 @@ El Gobierno podrá efectuar los ajustes institucionales y normativos necesarios 
 Las autoridades departamentales, municipales y distritales tendrán la facultad de hacer los ajustes necesarios a sus planes de desarrollo para adecuarlos al Plan de Inversiones para la Paz durante los seis meses siguientes a la adopción de este.
 
 Al inicio de cada legislatura el Presidente de la República, la Procuraduría General de la Nación, la Contraloría General de la República y la Defensoría del Pueblo presentarán al Congreso un informe detallado sobre la ejecución de los recursos y cumplimiento de las metas del componente para la paz del Plan Plurianual de Inversiones.
-
-##### **Artículo Transitorio: En desarrollo del derecho a la paz,** el Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera constituye un Acuerdo Especial en los términos del artículo 3 común a los Convenios de Ginebra de 1949.
-
-Con el fin de ofrecer garantías de cumplimiento del Acuerdo Final, una vez este haya sido firmado y entrado en vigor ingresará en estricto sentido al bloque de constitucionalidad para ser tenido en cuenta durante el periodo de implementación del mismo como parámetro de interpretación y referente de desarrollo y validez de las Normas y las Leyes de Implementación y Desarrollo del Acuerdo Final.
-
-En desarrollo del Derecho a la paz, el Procedimiento Legislativo Especial para la aprobación del Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera, incluirá un “procedimiento de ley aprobatoria del Acuerdo Especial” con los siguientes criterios procedimentales especiales: envío al Congreso para su incorporación al derecho interno por medio de una ley; tramitación como ley ordinaria: radicación del proyecto ante la secretaría del Senado y publicación, debate en comisiones constitucionales conjuntas del Senado y Cámara, votación, debate en plenario del Senado; y debate en plenario de la Cámara. El tránsito del proyecto entre comisión y plenaria será de 8 días, las votaciones serán únicamente de aprobación o improbación de todo el texto; control de constitucionalidad de la ley aprobatoria del Acuerdo Especial; sanción presidencial y publicación en Diario Oficial; el Gobierno se obligará a presentar esta ley aprobatoria inmediatamente sea firmado y aprobado el Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera, y entrado en vigor el presente Acto Legislativo.
-
-El procedimiento legislativo de aprobación de leyes o actos legislativos para la implementación o desarrollo del Acuerdo Final, será el Procedimiento Legislativo Especial para la Paz, establecido en el artículo 1° de este acto legislativo, y estará en vigencia para la aprobación de normas de implementación y desarrollo del Acuerdo Final durante el tiempo establecido en el mismo artículo.
-
-El control constitucional relacionado con la aprobación de la ley aprobatoria del Acuerdo Especial, será único y automático.
-
-El control constitucional relacionado con la implementación del Acuerdo Final mediante leyes ordinarias o leyes estatutarias, será único y automático.
 
 ## **TÍTULO TRANSITORIO**
 
@@ -4528,73 +2416,9 @@ Los órganos del Estado brindarán toda la colaboración que requiera la Unidad.
 
 **JURISDICCIÓN ESPECIAL PARA LA PAZ**
 
-##### **Artículo transitorio 5°.** Jurisdicción Especial para la Paz. La Jurisdicción Especial para la Paz (JEP) estará sujeta a un régimen legal propio, con autonomía administrativa, presupuestal y técnica; administrará justicia de manera transitoria y autónoma y conocerá de manera preferente sobre todas las demás jurisdicciones y de forma exclusiva de las conductas cometidas con anterioridad al 1° de diciembre de 2016, por causa, con ocasión o en relación directa o indirecta con el conflicto armado, por quienes participaron en el mismo, en especial respecto a conductas consideradas graves infracciones al Derecho Internacional Humanitario o graves violaciones de los derechos humanos. Sus objetivos son satisfacer el derecho de las víctimas a la justicia; ofrecer verdad a la sociedad colombiana; proteger los derechos de las víctimas; contribuir al logro de una paz estable y duradera; y adoptar decisiones que otorguen plena seguridad jurídica a quienes participaron de manera directa o indirecta en el conflicto armado interno mediante la comisión de las mencionadas conductas. Respecto de los combatientes de los grupos armados al margen de la ley, el componente de justicia del Sistema solo se aplicará a quienes suscriban un acuerdo final de paz con el Gobierno Nacional. La pertenencia al grupo rebelde será determinada, previa entrega de listados por dicho grupo tras la llegada a las Zonas Veredales Transitorias de Normalización (ZVNT) y a los Puntos Transitorios de Normalización (PTN), a través de un delegado expresamente designado para ello. Estas listas serán recibidas por el Gobierno nacional de buena fe, de conformidad con el principio de confianza legítima, sin perjuicio de las verificaciones correspondientes. La JEP también ejercerá su competencia respecto de las personas que en providencias judiciales hayan sido condenados, procesadas o investigadas por la pertenencia a las FARC-EP, dictadas antes del 1° de diciembre de 2016, aunque no estuvieren en el listado de dicho grupo. En relación con los integrantes de organizaciones que suscriban acuerdos de paz con el Gobierno, el tratamiento especial de justicia se aplicará también respecto a conductas estrechamente vinculadas al proceso de dejación de armas desarrollado desde el primero de diciembre de 2016 hasta el momento en el que finalice el proceso de extracción de las armas por parte de Naciones Unidas, conforme a lo dispuesto en el Acuerdo Final. La ley definirá las conductas delictivas que se considerarán estrechamente vinculadas al proceso de dejación de armas conforme a lo establecido en el punto 5.1.2 del Acuerdo Final, y la JEP evaluará en cada caso ese vínculo de acuerdo con los parámetros trazados por esa ley.
-
-La ley reglamentará el tratamiento penal diferenciado a que se refiere el numeral 4.1.3.4. del Acuerdo Final en lo relativo a la erradicación voluntaria de cultivos ilícitos, y determinará, conforme a lo establecido en el Acuerdo Final, en qué casos y bajo qué circunstancias corresponde a la jurisdicción ordinaria la investigación y juzgamiento de los delitos de conservación y financiamiento de plantaciones (artículo 375 del Código Penal), tráfico, fabricación o porte de estupefacientes (artículo 376 del Código Penal) y destinación ilícita de muebles o inmuebles (artículo 377 del Código Penal) cometidos por las personas respecto de quienes la JEP tendría competencia.
-
-Si con posterioridad a la entrada en vigencia de este Acto Legislativo y a la finalización del proceso de dejación de armas alguna de las personas sujetas a la jurisdicción de la JEP cometiera un nuevo delito, este será de conocimiento de la justicia ordinaria. Adicionalmente, en esos casos la JEP evaluará si esta nueva conducta, cuando corresponda con las que serían de su competencia, implica un incumplimiento de las condiciones del Sistema, que amerite no aplicarle las sanciones propias o alternativas a las que tendría derecho por los delitos de competencia de la JEP, sino las ordinarias contempladas en la misma JEP, que deberán ser cumplidas en los sitios ordinarios de reclusión.
-
-Cuando se trate de delitos de ejecución permanente atribuibles a cualquiera de las personas sobre las que la JEP tiene competencia, cuya comisión haya comenzado antes del primero de diciembre de 2016, la JEP mantendrá su competencia respecto de ellos si con posterioridad a esa fecha no han cesado sus efectos, e inaplicará las sanciones propias y alternativas si concluye que se incumplieron las condiciones del Sistema. En todo caso, corresponderá a la Jurisdicción Ordinaria la investigación y juzgamiento de los delitos de que trata el Libro Segundo, Capítulo Quinto, Título Décimo del Código Penal, cuando ellos se cometan sobre bienes o activos que no hayan sido incluidos en el inventario definitivo acordado y elaborado durante el tiempo que las FARC-EP permanezcan en las Zonas Veredales Transitorias de Normalización en el proceso de Dejación de Armas, y siempre que se hayan realizado actos de ejecución después de la entrega definitiva de ese inventario.
-
-Corresponderá a la Jurisdicción Ordinaria la investigación y juzgamiento de los delitos de que trata el Libro Segundo, Capítulo Quinto, Título Décimo del Código Penal, cuando ellos se cometan por no combatientes, financiadores o agentes del Estado respecto de bienes inmuebles que hayan sido adquiridos mediante despojo o abandono forzado, siempre que por parte de aquellos se hayan realizado actos de ejecución después de la entrada en vigencia del presente Acto Legislativo.
-
-Si respecto de uno de los casos previstos en los dos párrafos anteriores se planteara un conflicto de competencias, se aplicará el mecanismo de solución previsto en el artículo 9° transitorio de este Acto Legislativo.
-
-La JEP al adoptar sus resoluciones o sentencias hará una calificación jurídica propia del Sistema respecto a las conductas objeto del mismo, calificación que se basará en el Código Penal colombiano y/o en las normas de Derecho Internacional en materia de Derechos Humanos (DIDH), Derecho Internacional Humanitario (DIH) o Derecho Penal Internacional (DPI), siempre con aplicación obligatoria del principio de favorabilidad.
-
-Para acceder al tratamiento especial previsto en el componente de Justicia del Sistema Integral de Verdad, Justicia, Reparación y No Repetición (SIVJRNR) es necesario aportar verdad plena, reparar a las víctimas y garantizar la no repetición. Aportar verdad plena significa relatar, cuando se disponga de los elementos para ello, de manera exhaustiva y detallada las conductas cometidas y las circunstancias de su comisión, así como las informaciones necesarias y suficientes para atribuir responsabilidades, para así garantizar la satisfacción de los derechos de las víctimas a la reparación y a la no repetición. El deber de aportar verdad no implica la obligación de aceptar responsabilidades. Quien aporte de manera dolosa información falsa, o incumpla cualquiera de las condiciones del Sistema, perderá el tratamiento especial de justicia.
-
-La ley regulará entre otros los principios, organización, competencias entre ellas por el factor personal, procedimientos, participación de las víctimas y régimen de sanciones conforme a lo definido en el Acuerdo de Jurisdicción Especial para la Paz.
-
-**Parágrafo 1°.** La creación y el funcionamiento de la Jurisdicción Especial para la Paz no modificarán las normas vigentes aplicables a las personas que hayan ejercido la Presidencia de la República, de conformidad con lo establecido en el artículo 174 de la Constitución Política de Colombia. En caso de que ante la JEP obre una información que comprometa a una persona que haya ejercido la Presidencia de la República, dicha información se remitirá a la Cámara de Representantes para lo de su competencia, remisión que se efectuará en el momento que se considere adecuado por la JEP, después de haber realizado las verificaciones pertinentes.
-
-**Parágrafo 2°.** Con el fin de garantizar el funcionamiento y la autonomía administrativa, presupuestal y técnica de la jurisdicción especial para la paz, el Secretario Ejecutivo y el Presidente o la instancia de gobierno de la JEP que los magistrados de la misma definan, ejercerán de manera exclusiva, y solo durante el tiempo de vigencia de la misma, todas las funciones asignadas a la Sala Administrativa del Consejo Superior de la Judicatura establecidas en el Acto Legislativo número 02 de 2015 y en la Ley 270 de 1996 respecto al gobierno y administración de esta Jurisdicción.
-
 ##### **Artículo transitorio 6°.** Competencia prevalente. El componente de justicia del SIVJRNR, conforme a lo establecido en el Acuerdo Final, prevalecerá sobre las actuaciones penales, disciplinarias o administrativas por conductas cometidas con ocasión, por causa o en relación directa o indirecta con el conflicto armado, al absorber la competencia exclusiva sobre dichas conductas.
 
 Respecto a las sanciones o investigaciones disciplinarias o administrativas, incluidas las pecuniarias impuestas a personas naturales en cualquier jurisdicción, la competencia de la Jurisdicción Especial para la Paz se limitará bien a anular o extinguir la responsabilidad o la sanción disciplinaria o administrativa impuesta por conductas cometidas con ocasión, por causa o en relación directa o indirecta con el conflicto armado, o bien a revisar dichas sanciones, todo ello a solicitud del sancionado o investigado. En todo caso la solicitud no podrá llevar aparejada la reapertura de una investigación penal por los mismos hechos. En caso de que se solicite la revisión de la sanción impuesta o la extinción de la sanción y responsabilidad, será competente la Sección de Revisión del Tribunal para la Paz. Respecto a los investigados, será competente la Sala de definición de situaciones jurídicas.
-
-##### **Artículo transitorio 7°.** Conformación. La Jurisdicción estará compuesta por la Sala de Reconocimiento de Verdad, de Responsabilidad y de Determinación de los Hechos y Conductas, la Sala de Definición de las situaciones jurídicas, salas que desarrollarán su trabajo conforme a criterios de priorización elaborados a partir de la gravedad y representatividad de los delitos y del grado de responsabilidad en los mismos; la Sala de Amnistía o Indulto; el Tribunal para la Paz; la Unidad de Investigación y Acusación, y la Secretaría Ejecutiva. La Jurisdicción contará además con un Presidente.
-
-El Tribunal para la Paz es el órgano de cierre y la máxima instancia de la Jurisdicción Especial para la Paz. Estará conformado por dos secciones de primera instancia, una Sección de Revisión de Sentencias, una Sección de Apelación y la Sección de Estabilidad y Eficacia. El Tribunal para la Paz estará conformado por un mínimo de 20 magistrados colombianos titulares. Además, se contará con 4 juristas expertos extranjeros que intervendrán. Excepcionalmente, a solicitud de las personas sometidas a su jurisdicción o de oficio, la Sección que vaya a conocer el caso pedirá la intervención, como amicus curiae, de hasta 2 juristas extranjeros de reconocido prestigio. Estos últimos actuarán con la única finalidad de aportar un concepto o amicus curiae sobre la materia del caso bajo estudio, con el fin de obtener elementos de juicio o informaciones relevantes al caso. Cuando se requiera la intervención de los juristas extranjeros, estos participarán en los debates de la Sección en la que se hubiera requerido su intervención, en las mismas condiciones que los magistrados, pero sin derecho de voto.
-
-Las Salas de reconocimiento de verdad, de responsabilidad y de determinación de los hechos y conductas; de definición de las situaciones jurídicas; y de amnistía o indulto estarán conformadas por un total de 18 magistrados colombianos. Además, se contará con 6 juristas expertos extranjeros. Excepcionalmente, a solicitud de las personas sometidas a su jurisdicción o de oficio, la Sala que vaya a conocer el caso pedirá la intervención, como amicus curiae, de hasta 2 juristas extranjeros de reconocido prestigio, con el fin de emitir un concepto o amicus curiae sobre la materia del caso bajo estudio, con el fin de obtener elementos de juicio o informaciones relevantes al caso. Cuando se requiera la intervención de los juristas extranjeros, estos participarán en los debates de la Sala en la que hubiera requerido su intervención, en las mismas condiciones que los magistrados, pero sin derecho de voto.
-
-Además, estarán a disposición de la JEP 13 magistrados colombianos adicionales en calidad de magistrados suplentes o sustitutos, y 4 juristas expertos extranjeros para intervenir como amicus curiae suplentes o sustitutos. En caso de que se requiera, el pleno de magistrados de la Jurisdicción hará los nombramientos necesarios de la lista de magistrados suplentes o sustitutos o de la lista de juristas extranjeros suplentes o sustitutos, seleccionados por el Comité de Escogencia.
-
-La Unidad de Investigación y Acusación realizará las investigaciones correspondientes y adelantará el ejercicio de la acción penal ante el Tribunal para la Paz, para lo cual podrá solicitar la colaboración de la Fiscalía General de la Nación y establecer acuerdos de cooperación con esta. Igualmente podrá solicitar a otros órganos competentes del Estado o a organizaciones de Derechos Humanos y de víctimas, que informen respecto de hechos sobre los cuales no se cuente con información suficiente. La Unidad contará con un equipo de investigación especial para casos de violencia sexual. El Director de la Unidad será escogido por el Comité de Escogencia señalado en el parágrafo de este artículo. La Unidad estará integrada por un mínimo de 16 fiscales colombianos. Los fiscales serán nombrados y posesionados por el Director de la Unidad, quien tendrá plena autonomía para seleccionarlos y nombrarlos, así como a los demás profesionales que requiera para hacer parte de la Unidad.
-
-Los magistrados y fiscales no tendrán que ser funcionarios de carrera y no se les aplicará ninguna limitación de edad como requisito para su designación o permanencia en el cargo. Igualmente, no se les aplicará el sistema de carrera ni tendrán que pertenecer a la Rama Judicial.
-
-Para ser elegido Magistrado del Tribunal para la Paz deberán reunirse los requisitos señalados en el artículo 232 de la Constitución Política, salvo en lo relacionado con el límite de edad.
-
-Para ser elegido Magistrado de Sala deberán reunirse los mismos requisitos que se requieren para ser Magistrado de Tribunal Superior de Distrito Judicial.
-
-La Secretaría Ejecutiva se encargará de la administración, gestión y ejecución de los recursos de la Jurisdicción Especial para la Paz. El Secretario Ejecutivo podrá adoptar medidas cautelares anticipadas para preservar documentos relacionados con el conflicto armado, conforme a la ley.
-
-Todas las sentencias del Tribunal para la Paz, así como las resoluciones de las Salas de la JEP que definan situaciones jurídicas, harán tránsito a cosa juzgada cuando estén en firme y se garantizará su inmutabilidad.
-
-La Jurisdicción deberá ser conformada con criterios de participación equitativa entre hombres y mujeres, garantías de no discriminación y respeto a la diversidad étnica y cultural.
-
-**Parágrafo 1°.** Los magistrados de la JEP, el director de la Unidad de Investigación y Acusación, los juristas expertos extranjeros que actuarán en calidad de amicus curiae, el Secretario Ejecutivo de la JEP, el Presidente o Presidenta inicial de la JEP, los comisionados de la Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición, y el director de la Unidad de Búsqueda de Personas dadas por Desaparecidas en el contexto y en razón del conflicto armado serán seleccionados por un Comité de Escogencia que gozará de autonomía e independencia y que será conformado por reglamento expedido por el Gobierno nacional. El Secretario Ejecutivo de la JEP será designado por el Responsable del Mecanismo de Monitoreo y Verificación de la Organización de Naciones Unidas y confirmado por el Comité de Escogencia.
-
-Los miembros del Comité de Escogencia no asumirán ninguna responsabilidad personal por la selección de los magistrados, comisionados y demás funcionarios que deben escoger en virtud de este artículo transitorio. En relación con los funcionarios de la JEP, el Secretario Ejecutivo nominará a las personas seleccionadas por el Comité, quienes se posesionarán ante el Presidente de la República.
-
-**Parágrafo 2°.** Mientras se cumple el procedimiento previsto para el nombramiento definitivo del Secretario Ejecutivo de la JEP la función de verificación del cumplimiento de los requisitos para la libertad transitoria, anticipada y condicionada o la privación de la libertad en Unidad Militar o Policial de los miembros de la Fuerza Pública, será cumplida por la persona que ha sido designada como Secretario Ejecutivo de la Jurisdicción Especial para la Paz por el responsable del Mecanismo de Monitoreo y Verificación de la Organización de Naciones Unidas (ONU), según comunicación del 26 de enero de 2017. Estas funciones de Secretario Ejecutivo comenzarán a desarrollarse por esta persona desde la entrada en vigencia del presente acto legislativo, sin necesidad de que entre en funcionamiento la JEP.
-
-##### **Artículo transitorio 8°.** Acciones de tutela contra acciones u omisiones de la JEP. La acción de tutela procederá contra las acciones u omisiones de los órganos de la Jurisdicción Especial para la Paz, que hayan violado, violen o amenacen los derechos fundamentales.
-
-La acción de tutela en contra de las providencias judiciales que profiera la JEP procederá solo por una manifiesta vía de hecho o cuando la afectación del derecho fundamental sea consecuencia directa por deducirse de su parte resolutiva y se hubieran agotado todos los recursos al interior de la Jurisdicción Especial para la Paz, no existiendo mecanismo idóneo para reclamar la protección del derecho vulnerado o amenazado. En el caso de violaciones que se realicen por afectación al debido proceso, deberá interponerse tras haber agotado el recurso procedente ante los órganos de la JEP.
-
-Las peticiones de acción de tutela deberán ser presentadas ante el Tribunal para la Paz, único competente para conocer de ellas. La primera instancia será decidida por la Sección de Revisión. La segunda por la Sección de Apelaciones. El fallo de tutela podrá ser revisado por la Corte Constitucional de conformidad con las siguientes reglas:
-
-La decisión sobre la selección del fallo a revisar en tutela será adoptada por una sala conformada por dos Magistrados de la Corte Constitucional escogidos por sorteo y dos magistrados de la Jurisdicción Especial para la Paz. El fallo será seleccionado si los cuatro magistrados votan a favor de la selección.
-
-Las sentencias de revisión serán proferidas por la Sala Plena de la Corte Constitucional. Si esta encuentra que el derecho invocado ha sido vulnerado, así lo declarará precisando en qué consiste la violación, sin anular, invalidar o dejar sin efectos la decisión del órgano de la Jurisdicción Especial para la Paz ni tampoco excluirse los hechos y conductas analizados en la acción de tutela de la competencia de la Jurisdicción Especial para la Paz. La sentencia será remitida al Tribunal para la Paz para que adopte la decisión que corresponda respetando el derecho amparado. La providencia, resolución o acto del órgano de la JEP expedido en cumplimento de la sentencia de la Corte Constitucional no podrá ser objeto de una nueva acción de tutela.
-
-##### **Artículo transitorio 9°.** Asuntos de competencia. Los conflictos de competencia entre cualquier, jurisdicción y la JEP serán dirimidos por una Sala Incidental conformada por 3 Magistrados de la Corte Constitucional elegidos por esta y 3 magistrados de las salas o secciones de la JEP no afectadas por dicho conflicto jurisdiccional. Estos últimos serán elegidos por la plenaria de la JEP. La decisión se adoptará en la Sala incidental por mayoría simple y en caso de no alcanzarse una mayoría, en aplicación del carácter preferente de la Jurisdicción Especial para la Paz, resolverá el Presidente de esta Jurisdicción.
-
-Los conflictos de competencia entre la JEP y la Jurisdicción Especial Indígena serán dirimidos por una Sala Incidental conformada por dos (2) magistrados de las salas o secciones de la JEP no afectadas por dicho conflicto jurisdiccional y dos (2) autoridades tradicionales del pueblo indígena que ejerció o está ejerciendo jurisdicción en el caso concreto. La decisión se adoptará en la Sala Incidental por mayoría simple y en caso de no alcanzarse una mayoría, en aplicación del carácter preferente de la Jurisdicción Especial para la Paz, resolverá el Presidente de esta Jurisdicción. En el reglamento de la JEP se establecerán los mecanismos de articulación y coordinación con la Jurisdicción Especial Indígena y se incluirán la forma y la oportunidad en que las decisiones adoptadas o por adoptar por las autoridades tradicionales correspondientes sobre conductas de competencia de la JEP pasarán a conocimiento de esta.
 
 ##### **Artículo transitorio 10.** Revisión de sentencias y providencias. A petición del condenado la JEP podrá revisar las decisiones sancionatorias de la Procuraduría General de la Nación o de la Contraloría General de la República y las sentencias proferidas por otra jurisdicción por: variación de la calificación jurídica conforme al artículo transitorio 5° y al inciso primero del artículo transitorio 22; por aparición de nuevos hechos que no pudieron ser tenidos en cuenta con anterioridad; o cuando surjan pruebas no conocidas o sobrevinientes no conocidas al tiempo de la condena, todo lo anterior por conductas cometidas por causa, con ocasión o en relación directa o indirecta con el conflicto, o con la protesta social, siempre que se cumplan las condiciones del Sistema.
 
@@ -4606,39 +2430,13 @@ La Corte Suprema de Justicia será la competente para la revisión de las senten
 
 Cuando la Sección de Revisión del Tribunal para la Paz verifique que el componente de restricción de libertades y derechos que habría de imponerse ya se ha cumplido, así lo declarará en la providencia de sustitución. De lo contrario, ordenará la ejecución de la sanción propia o alternativa del Sistema. En todo caso, la Sección de Revisión ordenará la ejecución del componente restaurativo de la sanción en caso de que proceda.
 
-##### **Artículo transitorio 12.** Procedimiento y reglamento. Los magistrados que integran la JEP estarán facultados para elaborar las normas procesales que regirán esta jurisdicción y que deberán ser presentadas por el Gobierno nacional al Congreso de la República, incluido el régimen disciplinario aplicable a sus funcionarios que no sean magistrados. Estas normas deberán garantizar los principios de imparcialidad, independencia judicial, debida motivación, publicidad, debido, proceso, contradicción, derecho a la defensa, presunción de inocencia, favorabilidad, libertad de escoger abogado acreditado para ejercer en cualquier país, participación de las víctimas como intervinientes según los estándares nacionales e internacionales y los parámetros establecidos en el Acuerdo Final y doble instancia en el marco de un modelo adversarial. También regularán los parámetros que deberán ser utilizados por la JEP para evaluar si se han presentado o no incumplimientos de las condiciones del sistema, así como la forma de graduar en cada caso las consecuencias que tales incumplimientos acarrean, siempre dentro de los parámetros fijados en el Acuerdo Final.
-
-El Procurador General de la Nación, por sí o por sus delegados y agentes, a solicitud de alguno de los magistrados de la sección que conozca del caso, podrá intervenir en las diligencias que el magistrado establezca, para la defensa de los derechos fundamentales de las víctimas en los procesos que se sigan ante la Jurisdicción Especial para la Paz.
-
-En los supuestos en los que la Sala de Reconocimiento de Verdad y Responsabilidad solicite a la Sección de Revisión del Tribunal para la Paz que haga comparecer a una persona respecto de la cual hubiere fundamentos claros y suficientes que hagan presumir su participación determinante en una de las conductas que trata el numeral 40 del Punto 5.1.2 del Acuerdo Final, la Sala no podrá fundamentar su solicitud, ni la sección podrá ordenarles comparecer con base exclusivamente en los informes recibidos por la JEP, sino que deberán corroborarlos a través de otras pruebas.
-
-Cuando un testigo declare contra alguna persona por conductas de competencia de la Jurisdicción Especial para la Paz a cambio de obtener beneficios procesales o punitivos de cualquier naturaleza, el valor probatorio de su testimonio estará supeditado a que el contenido del mismo sea corroborado por otras pruebas.
-
-En las actuaciones que adelanten los órganos de la Jurisdicción Especial para la Paz no se podrá presumir el carácter masivo o sistemático de las conductas punibles investigadas, ni que el hecho ha sido cometido como parte de un plan o política o como parte de la comisión en gran escala de tales crímenes; todo ello deberá acreditarse de conformidad con prueba legalmente producida.
-
-Sin incluir normas procesales, los magistrados de la JEP adoptarán, en el ejercicio de su autonomía, el reglamento de funcionamiento y organización de la JEP, respetando los principios de imparcialidad, independencia y las garantías del debido proceso, evitando cualquier nueva victimización y prestando el debido apoyo a las víctimas conforme a lo establecido en los estándares internacionales pertinentes. El reglamento precisará las funciones del Presidente y del Secretario Ejecutivo, así como las relaciones entre ellos y los demás órganos de la JEP, establecerá un mecanismo para la integración de la Sección del Tribunal para la Paz que garantice la estabilidad, eficacia y cumplimiento de las resoluciones y sentencias de la JEP, fijará el procedimiento que esta deba aplicar para el desarrollo de sus funciones y señalará los mecanismos de rendición de cuentas sobre la gestión de la JEP, a cargo de su Secretaría Ejecutiva, siempre que no menoscaben su autonomía.
-
-La ley determinará qué actuaciones procesales de las que corresponde desarrollar a las Salas de la JEP deben estar protegidas por la reserva con el fin de garantizar los derechos fundamentales al buen nombre y a la intimidad de todos aquellos cuyas conductas sean competencia de la JEP.
-
-**Parágrafo.** Las normas que regirán la Jurisdicción Especial de Paz, incluirán garantías procesales, sustanciales, probatorias y de acceso, encaminadas a que las víctimas puedan satisfacer sus derechos a la verdad, justicia y reparación en el marco de la JEP con medidas diferenciales y especiales para quienes se consideren sujetos de especial protección constitucional. Igualmente, deberán garantizar los principios de tratamiento penal especial condicionado a la garantía de los derechos de las víctimas, centralidad de las víctimas, integralidad, debido proceso, no regresividad en el reconocimiento de derechos y enfoque diferencial y de género.
-
 ##### **Artículo transitorio 13.** Sanciones. Las sanciones que imponga la JEP tendrán como finalidad esencial satisfacer los derechos de las víctimas y consolidar la paz. Deberán tener la mayor función restaurativa y reparadora del daño causado, siempre en relación con el grado de reconocimiento de verdad y responsabilidad. Las sanciones podrán ser propias, alternativas u ordinarias y en todos los casos se impondrán en los términos previstos en los numerales 60, 61, 62 y en el listado de sanciones del subpunto 5.1.2 del Acuerdo Final.
-
-##### **Artículo transitorio 14.** Régimen sancionatorio de los magistrados de la JEP. Los magistrados de la JEP estarán sometidos al mismo régimen especial penal previsto para los magistrados de la Corte Suprema de Justicia, así como al régimen disciplinario previsto por la ley para jueces y magistrados de las otras jurisdicciones. En todo caso, no podrá exigírseles en ningún tiempo responsabilidad por los votos y opiniones emitidas en sus providencias judiciales, proferidas en ejercicio de su independencia funcional, sin perjuicio de la responsabilidad a la que haya lugar por favorecer indebidamente intereses propios o ajenos. Una comisión integrada por un magistrado de cada Sala y un magistrado de cada Sección del Tribunal para la Paz que será elegida conforme al reglamento de la JEP, adoptará las medidas disciplinarias que correspondan conforme a la ley.
-
-Los magistrados de la Jurisdicción Especial para la Paz estarán sometidos a las causales de impedimentos definidas por la ley procesal penal vigente.
 
 ##### **Artículo transitorio 15.** Entrada en funcionamiento y plazo para la conclusión de las funciones de la JEP. La JEP entrará en funcionamiento a partir de la aprobación de este Acto Legislativo sin necesidad de ninguna norma de desarrollo, sin perjuicio de la aprobación posterior de las normas de procedimiento y lo que establezca el reglamento de dicha jurisdicción.
 
 El plazo para la conclusión de las funciones de la JEP consistentes en la presentación de acusaciones por la Unidad de Investigación y Acusación, de oficio o como consecuencia de las resoluciones de la Sala de Reconocimiento de Verdad, de Responsabilidad y Determinación de los Hechos y las Conductas, será de 10 años contados a partir de la entrada efectiva en funcionamiento de la totalidad de salas y secciones de la JEP, y un plazo posterior de 5 años más para concluir su actividad jurisdiccional, plazo este último que de ser necesario podrá ser prorrogado mediante ley, para concluir su actividad, a solicitud de los magistrados de la JEP. El plazo para recibir informes por la Sala de Reconocimiento de Verdad, de Responsabilidad y Determinación de los Hechos y las conductas será de 2 años desde que se haya constituido la totalidad de las salas y secciones de la JEP y podrá prorrogarse por la misma Sala hasta completar un periodo máximo de 3 años, salvo causa excepcional debidamente motivada en la que el plazo podrá ser moderadamente extendido por la Sala de Reconocimiento de Verdad, de Responsabilidad y Determinación de los Hechos y las Conductas.
 
 En todo caso y sin limitación temporal alguna podrá constituirse, en cualquier momento en que resulte necesaria, la Sección de estabilidad y eficacia de resoluciones y sentencias, de conformidad con lo dispuesto en el inciso 2° del artículo 7° transitorio y en el inciso final del artículo 12 transitorio de este Acto Legislativo.
-
-##### **Artículo transitorio 16.** Competencia sobre terceros. Las personas que sin formar parte de las organizaciones o grupos armados, hubieren contribuido de manera directa o indirecta a la comisión de delitos en el marco del conflicto, podrán acogerse a la JEP y recibir el tratamiento especial que las normas determinen, siempre que cumplan con las condiciones establecidas de contribución a la verdad, reparación y no repetición.
-
-Lo anterior, sin perjuicio de las competencias de la Sala de Reconocimiento de Verdad y Responsabilidad y de la Sección de Revisión del Tribunal para la Paz, respecto de la comparecencia de aquellos terceros que hubieran tenido una participación activa o determinante en la comisión de los siguientes delitos: el genocidio, delitos de lesa humanidad, los graves crímenes de guerra –esto es, toda infracción del Derecho Internacional Humanitario cometida de forma sistemática–, la toma de rehenes u otra privación grave de la libertad, la tortura, las ejecuciones extrajudiciales, la desaparición forzada, el acceso carnal violento y otras formas de violencia sexual, la sustracción de menores, el desplazamiento forzado, además del reclutamiento de menores, todo ello conforme a lo establecido en el Estatuto de Roma. Se entiende por participación determinante para estos efectos aquella acción eficaz y decisiva en la realización de los delitos enunciados.
-
-En el ejercicio de esas competencias, las mencionadas Sala y Sección no podrán fundamentar su solicitud y decisión exclusivamente en los informes recibidos por la JEP, sino que deberán corroborarlos a través de otros medios de pruebas.
 
 ##### **Artículo transitorio 17.** Tratamiento diferenciado para Agentes del Estado. El componente de Justicia del SIVJRNR también se aplicará respecto de los Agentes del Estado que hubieren cometido delitos relacionados con el conflicto armado y con ocasión de este, aplicación que se hará de forma diferenciada, otorgando un tratamiento equitativo, equilibrado, simultáneo y simétrico. En dicho tratamiento deberá tenerse en cuenta la calidad de garantes de derecho por parte del Estado.
 
