@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2002-08-06"
+last_updated: "2002-08-07"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1745,6 +1745,22 @@ Mediante la creación de los municipios a que hubiere lugar, la Asamblea Departa
 **DEL REGIMEN MUNICIPAL**
 
 ##### **Artículo 311.** Al municipio como entidad fundamental de la división político-administrativa del Estado le corresponde prestar los servicios públicos que determine la ley, construir las obras que demande el progreso local, ordenar el desarrollo de su territorio, promover la participación comunitaria, el mejoramiento social y cultural de sus habitantes y cumplir las demás funciones que le asignen la Constitución y las leyes.
+
+##### **Artículo 312.** En cada municipio habrá una corporación administrativa elegida popularmente para períodos de cuatro (4) años que se denominará concejo municipal, integrado por no menos de siete, ni más de veintiún miembros según lo determine la ley, de acuerdo con la población respectiva.
+
+La ley determinará las calidades, inhabilidades e incompatibilidades de los concejales y la época de sesiones ordinarias de los concejos. Los concejales no tendrán la calidad de empleados públicos.
+
+La ley podrá determinar los casos en que tengan derecho a honorarios por su asistencia a sesiones.
+
+Su aceptación de cualquier empleo público, constituye falta absoluta.
+
+**Artículo 312.** En cada municipio habrá una corporación administrativa elegida popularmente para períodos de tres años que se denominará concejo municipal, integrada por no menos de siete, ni más de veintiún miembros según lo determine la ley, de acuerdo con la población respectiva.
+
+La ley determinará las calidades, inhabilidades e incompatibilidades de los concejales y la época de sesiones ordinarias de los concejos. Los concejales no tendrán la calidad de empleados públicos.
+
+La ley podrá determinar los casos en que tengan derecho a honorarios por su asistencia a sesiones.
+
+Su aceptación de cualquier empleo público, constituye falta absoluta.
 
 ##### **Artículo 313.** Corresponde a los concejos:
 
