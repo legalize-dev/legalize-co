@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2001-12-31"
+last_updated: "2002-01-30"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -466,25 +466,23 @@ Son deberes de la persona y del ciudadano:
 
 **DE LA NACIONALIDAD**
 
-##### **Artículo 96.** Son nacionales colombianos:
+##### **Artículo 96.** Son nacionales colombianos.
 
 - 1. Por nacimiento:
 
-- a) Los naturales de Colombia, con una de dos condiciones: que el padre o la madre hayan sido naturales o nacionales colombianos o que, siendo hijos de extranjeros, alguno de sus padres estuviere domiciliado en la República en el momento del nacimiento.
+- a) Los naturales de Colombia, que con una de dos condiciones: que el padre o la madre hayan sido naturales o nacionales colombianos o que, siendo hijos de extranjeros, alguno de sus padres estuviere domiciliado en la República en el momento del nacimiento y;
 
-- b) Los hijos de padre o madre colombianos que hubieren nacido en tierra extranjera y luego se domiciliaren en la República.
+- b) Los hijos de padre o madre colombianos que hubieren nacido en tierra extranjera y luego se domiciliaren en territorio colombiano o registraren en una oficina consular de la República.
 
 - 2. Por adopción:
 
-- a) Los extranjeros que soliciten y obtengan carta de naturalización, de acuerdo con la ley, la cual establecerá los casos en los cuales se pierde la nacionalidad colombiana por adopción.
+- a) Los extranjeros que soliciten y obtengan carta de naturalización, de acuerdo con la ley, la cual establecerá los casos en los cuales se pierde la nacionalidad colombiana por adopción;
 
-- b) Los latinoamericanos y del Caribe por nacimiento domiciliados en Colombia, que con autorización del Gobierno y de acuerdo con la ley y el principio de reciprocidad, pidan ser inscritos como colombianos ante la municipalidad donde se establecieren.
+- b) Los Latinoamericanos y del Caribe por nacimiento domiciliados en Colombia, que con autorización del Gobierno y de acuerdo con la ley y el principio de reciprocidad, pidan ser inscritos como colombianos ante la municipalidad donde se establecieren, y;
 
-- c) Los miembros de pueblos indígenas que comparten territorios fronterizos, con aplicación del principio de reciprocidad según tratados públicos.
+- c) Los miembros de los pueblos indígenas que comparten territorios fronterizos, con aplicación del principio de reciprocidad según tratados públicos.
 
-Ningún colombiano por nacimiento podrá ser privado de su nacionalidad.
-
-La calidad de nacional colombiano no se pierde por el hecho de adquirir otra nacionalidad. Los nacionales por adopción no estarán obligados a renunciar a su nacionalidad de origen o adopción.
+Ningún colombiano por nacimiento podrá ser privado de su nacionalidad. La calidad de nacional colombiano no se pierde por el hecho de adquirir otra nacionalidad. Los nacionales por adopcion no estarán obligados a renunciar a su nacionalidad de origen o adopción.
 
 Quienes hayan renunciado a la nacionalidad colombiana podrán recobrarla con arreglo a la ley.
 
