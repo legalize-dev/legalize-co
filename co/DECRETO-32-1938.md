@@ -4,7 +4,7 @@ identifier: "DECRETO-32-1938"
 country: "co"
 rank: "decreto"
 publication_date: "1938-01-27"
-last_updated: "1938-01-27"
+last_updated: "1943-02-15"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1007594"
 department: "MINISTERIO DE EDUCACION NACIONAL"
@@ -125,7 +125,7 @@ La licencia de que trata este artículo solamente tendrá validez por el términ
 
 ##### **Artículo 6°** Unicamente podrán hacer uso del título de doctor en odontología o de cirujano dentista los individuos de que trata el artículo 1° del presente Decreto. Los contraventores a esta disposición serán castigados con multas sucesivas de veinticinco pesos, impuestas por los Alcaldes o funcionarios de policía. Estas multas serán convertibles en arresto de acuerdo con las leyes, siguiendo el procedimiento ordinario de policía.
 
-##### **Artículo 7°** Las personas a que se refiere el artículo 3° de la Ley 51 de 1937 deberán presentar a la respectiva Junta Seccional de Títulos Odontológicos dentro del término fijado por la Ley 51 de 1937 en su artículo 2°, los siguientes documentos:
+##### **Artículo 7°**Las personas a que se refiere el artículo 3° de la Ley 51 de 1937 deberán presentar a la respectiva Junta Seccional de Títulos Odontológicos dentro del término fijado por la Ley 51 de 1937 en su artículo 2°, los siguientes documentos:
 
 - a) Partida de bautismo o registro civil;
 
@@ -147,7 +147,7 @@ Las Juntas Seccionales estudiarán los documentos a que se refiere este artícul
 
 Si los documentos respectivos llenan los requisitos del presente Decreto, la Junta Central podrá expedir a los interesados, por medio de resoluciones, las licencias para libre ejercicio de la odontología con arreglo a las disposiciones de la Ley 51 de 1937. Estas licencias se expedirán en papel sellado; llevarán la fotografía del favorecido pisada con el sello de la Junta Central y se anularán estampillas de timbre nacional de acuerdo con las disposiciones respectivas.
 
-##### **Artículo 8°** Las resoluciones de licencias de que trata el artículo anterior no tendrán valor hasta que no hayan sido publicadas, a costa del interesado, en el **Diario Oficial.**
+##### **Artículo 8°Declarado Nulo.**
 
 ##### **Artículo 9°** Queda terminantemente prohibido a los miembros de las Juntas de Títulos Odontológicos expedir certificados sobre ejercicio profesional.
 
