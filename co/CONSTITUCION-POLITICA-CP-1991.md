@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "1996-01-17"
+last_updated: "1997-12-16"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -123,6 +123,18 @@ El superior no podrá agravar la pena impuesta cuando el condenado sea apelante 
 ##### **Artículo 32.** El delincuente sorprendido en flagrancia podrá ser aprehendido y llevado ante el juez por cualquier persona. Si los agentes de la autoridad lo persiguieren y se refugiare en su propio domicilio, podrán penetrar en él, para el acto de la aprehensión; si se acogiere a domicilio ajeno, deberá preceder requerimiento al morador.
 
 ##### **Artículo 33.** Nadie podrá ser obligado a declarar contra si mismo o contra su cónyuge, compañero permanente o parientes dentro del cuarto grado de consanguinidad, segundo de afinidad o primero civil.
+
+##### **Artículo 35.** La extradición se podrá solicitar, conceder u ofrecer de acuerdo con los tratados públicos y, en su defecto, con la ley.
+
+Además, la extradición de los colombianos por nacimiento se concederá por delitos cometidos en el exterior, considerados como tales en la legislación penal colombiana. La Ley reglamentará la materia.
+
+La extradición no procederá por delitos políticos.
+
+No procederá la extradición cuando se trate de hechos cometidos con anterioridad a la promulgación de la presente norma.
+
+**Artículo 35.** Se prohíbe la extradición de colombianos por nacimiento. No se concederá la extradición de extranjeros por delitos políticos o de opinión.
+
+Los colombianos que hayan cometido delitos en el exterior, considerados como tales en la legislación nacional, serán procesados y juzgados en Colombia
 
 ##### **Artículo 36.** Se reconoce el derecho de asilo en los términos previstos en la ley.
 
