@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2002-08-07"
+last_updated: "2002-12-20"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1365,6 +1365,32 @@ Ninguna autoridad podrá reproducir el contenido material del acto jurídico dec
 El Fiscal General de la Nación será elegido para un período de cuatro años por la Corte Suprema de Justicia, de terna enviada por el Presidente de la República y no podrá ser reelegido. Debe reunir las mismas calidades exigidas para ser Magistrado de la Corte Suprema de Justicia.
 
 La Fiscalía General de la Nación forma parte de la rama judicial y tendrá autonomía administrativa y presupuestal.
+
+##### **Artículo 251.** Son funciones especiales del Fiscal General de la Nación:
+
+- 1. Investigar y acusar, si hubiere lugar, a los altos servidores que gocen de fuero constitucional, con las excepciones previstas en la Constitución.
+
+- 2. Nombrar y remover, de conformidad con la ley, a los servidores bajo su dependencia.
+
+- 3. Asumir directamente las investigaciones y procesos, cualquiera que sea el estado en que se encuentren, lo mismo que asignar y desplazar libremente a sus servidores en las investigaciones y procesos. Igualmente, en virtud de los principios de unidad de gestión y de jerarquía, determinar el criterio y la posición que la Fiscalía deba asumir, sin perjuicio de la autonomía de los fiscales delegados en los términos y condiciones fijados por la ley.
+
+- 4. Participar en el diseño de la política del Estado en materia criminal y presentar proyectos de ley al respecto.
+
+- 5. Otorgar, atribuciones transitorias a entes públicos que puedan cumplir funciones de Policía Judicial, bajo la responsabilidad y dependencia funcional de la Fiscalía General de la Nación.
+
+- 6. Suministrar al Gobierno información sobre las investigaciones que se estén adelantando, cuando sea necesaria para la preservación del orden público.
+
+**Artículo 251.** Son funciones especiales del Fiscal General de la Nación:
+
+- 1. Investigar y acusar, si hubiere lugar, a los altos funcionarios que gocen de fuero constitucional, con las excepciones previstas en la Constitución.
+
+- 2. Nombrar y remover, de conformidad con la ley, a los empleados bajo su dependencia.
+
+- 3. Participar en el diseño de la política del Estado en materia criminal y presentar proyectos de ley al respecto.
+
+- 4. Otorgar atribuciones transitorias a entes públicos que puedan cumplir funciones de policía judicial, bajo la responsabilidad y dependencia funcional de la Fiscalía General de la Nación.
+
+- 5. Suministrar al Gobierno información sobre las investigaciones que se estén adelantando, cuando sea necesaria para la preservación del orden público.
 
 ##### **Artículo 252.** Aun durante los Estados de Excepción de que trata la Constitución en sus artículos 212 y 213, el Gobierno no podrá suprimir, ni modificar los organismos ni las funciones básicas de acusación y juzgamiento.
 
