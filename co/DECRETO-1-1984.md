@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "1988-01-25"
+last_updated: "1988-04-05"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -1163,37 +1163,27 @@ La consulta se entenderá siempre interpuesta a favor de las mencionadas entidad
 
 ##### **Artículo Transitorio 194A.***Del recurso extraordinario de súplica*. Los procesos por recursos extraordinarios de súplica que están en trámite y pendientes de fallo en la Sala Plena de lo Contencioso Administrativo, pasarán al conocimiento y decisión de las Salas Especiales Transitorias de Decisión previstas en la Ley 954 de 2005.
 
-##### **Artículo 195. Competencia**. En materia de competencia, se aplicarán las reglas señaladas en el artículo 186
+##### **Artículo 195. Derogado.**
 
-##### **Artículo 196. Término para interposición del recurso.** El recurso deberá interponerse dentro de los veinte (20) días siguientes a la ejecutoria de la sentencia.
+##### **Artículo 196. Derogado.**
 
-##### **Artículo 197. Causal de anulación.** Podrá anularse una sentencia por violación directa de la Constitución Política o de la ley sustantiva.
+##### **Artículo 197. Derogado.**
 
-##### **Artículo 198. Presentación del recurso.** El escrito del recurso deberá dirigirse al Presidente de la Sala Plena y se presentará en la secretaría de la sección o en la del tribunal que dictó la sentencia.
+##### **Artículo 198. Derogado.**
 
-##### **Artículo 199. Requisitos**. El escrito del recurso deberá contener:
+##### **Artículo 199. Derogado.**
 
-- 1. La designación de las partes y de la sentencia cuya anulación se solicita.
+##### **Artículo 200. Derogado.**
 
-- 2. La síntesis de los hechos materia del litigio.
+##### **Artículo 201**. **Derogado.**
 
-- 3. La formulación de los cargos contra la sentencia, expresando la incidencia de la violación de la norma legal concreta en la parte resolutiva.
+##### **Artículo 202. Derogado.**
 
-##### **Artículo 200. Caución**. Cuando el recurrente sea un particular, deberá otorgar caución suficiente para garantizar los perjuicios y las costas que se causen. Esta caución será señalada por el ponente.
+##### **Artículo 203**. **Derogado.**
 
-##### **Artículo 201**. **Efectos del recurso.** El recurso extraordinario de anulación no suspende el cumplimiento de la sentencia impugnada, salvo que se haya prestado la caución de que trata el artículo anterior.
+##### **Artículo 204. Derogado.**
 
-##### **Artículo 202. Reparto**. El recurso se someterá a reparto dentro de los tres (3) días siguientes al vencimiento del término de que trata el artículo 196 de este Código.
-
-##### **Artículo 203**. **Declaratoria de recurso desierto.** Si el escrito del recurso no reúne los requisitos previstos en los artículos 196, 199 y 200, el ponente declarará desierto el recurso. Contra este auto sólo procederá el recurso de súplica para ante los consejeros restantes de la sala.
-
-##### **Artículo 204. Trámite**. Prestada la caución, cuando a ello hubiere lugar y admitido el recurso, se ordenará la notificación del auto que lo admite, por estado, para que si las partes lo consideran conveniente, presenten sus alegatos por escrito, dentro de un término común de diez (10) días; pero no se podrán solicitar ni practicar pruebas.
-
-##### **Artículo 205.Sentencia**. Una vez vencido el traslado de que trata el artículo anterior, se dictará sentencia.
-
-Si el recurso no prospera, se condenará al recurrente al pago de costas y perjuicios. Estas se liquidarán mediante incidente.
-
-En caso de que el recurso prospere, la sala procederá a reponer la sentencia anulada.
+##### **Artículo 205. Derogado.**
 
 ##### **Artículo transitorio.** Adicionado
 
@@ -1537,9 +1527,9 @@ Declarado ajustado a la ley o sin esta declaración por defecto de requisitos, e
 
 **DISPOSICIONES FINALES**
 
-##### **Artículo 265**. **Las cuantías y su reajuste**. Los valores absolutos que este Código expresa en moneda nacional se reajustarán cada dos años, a partir del primero de enero de 1986, en un porcentaje igual a la variación que para el período bienal que termine el 31 de octubre anterior registre el índice de precios al consumidor, nivel de ingresos medios (empleados), que elabora el Departamento Nacional de Estadística, aproximando el resultado a la decena de miles superior. El Gobierno Nacional publicará un decreto con los valores absolutos resultantes, de acuerdo con la certificación que expida el Departamento Nacional de Estadística al terminar el mes de octubre respectivo.
+##### **Artículo 265.** LAS CUANTIAS Y SU REAJUSTE. Los valores expresados en moneda nacional por este Código, se reajustarán en un cuarenta por ciento (40%), cada dos años, desde el primero (1º) de enero de mil novecientos noventa (1990), y se seguirán ajustando automáticamente cada dos años, en el mismo porcentaje y en la misma fecha. Los resultados de estos ajustes se aproximarán a la decena de miles inmediatamente superior.
 
-Si el gobierno no expidiere el decreto, el aumento será de un veinte por ciento (20%).
+La vigencia de los aumentos porcentuales a que se refiere el inciso anterior, no afectará la competencia en los asuntos cuya demanda ya hubiese sido admitida.
 
 ##### **Artículo 266. Vigencia.** En los procesos iniciados antes de la vigencia del presente estatuto, los recursos interpuestos, los términos que hubieren comenzado a correr, y las notificaciones y citaciones que se estén surtiendo, se regirán por la ley vigente cuando se interpuso el recurso, empezó a correr el término o principió a surtirse la notificación.
 
