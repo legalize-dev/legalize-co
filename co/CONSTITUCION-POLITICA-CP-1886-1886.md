@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1975-12-17"
+last_updated: "1975-12-18"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -1097,6 +1097,14 @@ Los miembros del Ejército, de la Policía Nacional y de los Cuerpos armados de 
 ##### **Artículo 169.** Los militares no pueden ser privados de sus grados, honores y pensiones, sino en los casos y del modo que determine la ley.
 
 ##### **Artículo 170.** De los delitos cometidos por los militares en servicio activo y en relación con el mismo servicio, conocerán las Cortes marciales o Tribunales militares, con arreglo a las prescripciones del Código penal militar.
+
+##### **Artículo 171,** Todos los ciudadanos eligen directamente Concejales, Consejeros Intendenciales, Diputados a las Asambleas Departamentales, Representantes, Senadores y Presidente de la República
+
+**Artículo 171. Modificado por el** **ACTO LEGISLATIVO 3 DE 1954.**
+
+**Artículo 171.** La ley podrá establecer una milicia nacional y organizará el Cuerpo de Policía Nacional.
+
+**Artículo 171.** La ley podrá organizar y establecer una milicia nacional.
 
 ## **Título XVII. De las elecciones**
 
