@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "1984-01-10"
+last_updated: "1984-11-21"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -133,7 +133,7 @@ Cuando la petición haya sido verbal, la decisión podrá tomarse y comunicarse 
 
 Los funcionarios no podrán exigir a los particulares constancias, certificaciones o documentos que ellos mismos tengan, o que puedan conseguir en los archivos de la respectiva entidad.
 
-##### **Artículo 11. Peticiones incompletas**. Cuando una petición no se acompañe de los documentos o informaciones necesarias, en el acto de recibo se le indicarán al peticionario los que falten; si insiste en que se radique, se le recibirá la petición dejando constancia expresa de las advertencias que le fueron hechas. Si es verbal, no se le dará trámite.
+##### **Artículo 11.** Peticiones incompletas. Cuando una petición no se acompañe de los documentos o informaciones necesarias, en el acto de recibo se le indicarán al peticionario los que falten; si insiste en que se radique, se le recibirá la petición dejando constancia expresa de las advertencias que le fueron hechas. Si es verbal, no se le dará trámite.
 
 ##### **Artículo 12. Solicitud de informaciones o documentos adicionales**. Si las informaciones o documentos que proporcione el interesado al iniciar una actuación administrativa no son suficientes para decidir, se le requerirá, por una sola vez, con toda precisión y en la misma forma verbal o escrita en que haya actuado, el aporte de lo que haga falta. Este requerimiento interrumpirá los términos establecidos para que las autoridades decidan. Desde el momento en que el interesado aporte nuevos documentos o informaciones con el propósito de satisfacer el requerimiento, comenzarán otra vez a correr los términos pero, en adelante, las autoridades no podrán pedir más complementos, y decidirán con base en aquello de que dispongan.
 
