@@ -1,0 +1,38 @@
+---
+title: "Por la cual se crea un cargo en el Departamento Administrativo del Servicio Civil"
+identifier: "DECRETO-2991-BIS-1959"
+country: "co"
+rank: "decreto"
+publication_date: "1959-11-24"
+last_updated: "1959-11-24"
+status: "in_force"
+source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1506446"
+department: "DEPARTAMENTO ADMINISTRATIVO DEL SERVICIO CIVIL"
+document_status_raw: "Vigente"
+gazette_reference: "DIARIO OFICIAL AÑO XCVI. N. 30106. 24, NOVIEMBRE, 1959. PÁG. 1."
+gazette_number: "30106"
+gazette_page: "385"
+gazette_pdf_page: "1"
+subtype: "DECRETO ORDINARIO"
+sector: "Función Pública"
+entry_into_force: "1959-11-24"
+---
+# Por la cual se crea un cargo en el Departamento Administrativo del Servicio Civil
+
+**El Presidente de la República de Colombia,**
+
+en uso de sus facultades legales, y en especial de las que le confiere el artículo 24 del Decreto número 1153 de 1959,
+
+**DECRETA:**
+
+##### ***Artículo único.*** Créase en el Departamento Administrativo del Servicio Civil el cargo de Aseador, con una asignación de doscientos cincuenta pesos ($250.00) mensuales.
+
+**Comuníquese y publíquese.**
+
+**Dado en Bogotá a 9 de noviembre de 1959.**
+
+**ALBERTO LLERAS.**
+
+**El Director del Departamento Administrativo del Servicio Civil, encargado,**
+
+**Alberto González Fernández.**
