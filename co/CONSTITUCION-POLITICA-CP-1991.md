@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2002-12-20"
+last_updated: "2003-07-02"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -550,7 +550,7 @@ El Estado contribuirá a la organización, promoción y capacitación de las aso
 
 ##### **Artículo 110.** Se prohíbe a quienes desempeñan funciones públicas hacer contribución alguna a los partidos, movimientos o candidatos, o inducir a otros a que lo hagan, salvo las excepciones que establezca la ley. El incumplimiento de cualquiera de estas prohibiciones será causal de remoción del cargo o de pérdida de la investidura.
 
-##### **Artículo 111.** Los partidos y movimientos políticos con personería jurídica tienen derecho a utilizar los medios de comunicación social del Estado en todo tiempo, conforme a la ley. Ella establecerá así mismo los casos y la forma como los candidatos debidamente inscritos tendrán acceso a dichos medios.
+##### **Artículo 111.** Los partidos y movimientos políticos con personería jurídica tienen derecho a utilizar los medios de comunicación que hagan uso del espectro electromagnético, en todo tiempo, conforme a la ley. Ella establecerá así mismo los casos y la forma como los partidos, los movimientos políticos y los candidatos debidamente inscritos, tendrán acceso a dichos medios.
 
 ### **CAPITULO 3**
 
@@ -810,7 +810,11 @@ En el informe a la Cámara plena para segundo debate, el ponente deberá consign
 
 Todo Proyecto de Ley o de Acto Legislativo deberá tener informe de ponencia en la respectiva comisión encargada de tramitarlo, y deberá dársele el curso correspondiente.
 
-##### **Artículo 161.** Cuando surgieren discrepancias en las cámaras respecto de un proyecto, ambas integrarán comisiones accidentales que, reunidas conjuntamente, prepararán el texto que será sometido a decisión final en sesión plenaria de cada cámara. Si después de la repetición del segundo debate persisten las diferencias, se considerará negado el proyecto.
+Ningún proyecto de ley será sometido a votación en sesión diferente a aquella que previamente se haya anunciado. El aviso de que un proyecto será sometido a votación lo dará la Presidencia de cada Cámara o Comisión en sesión distinta a aquella en la cual se realizará la votación.
+
+##### **Artículo 16**1. Cuando surgieren discrepancias en las Cámaras respecto de un proyecto, ambas integrarán comisiones de conciliadores conformadas por un mismo número de Senadores y Representantes, quienes reunidos conjuntamente, procurarán conciliar los textos, y en caso de no ser posible, definirán por mayoría.
+
+Previa publicación por lo menos con un día de anticipación, el texto escogido se someterá a debate y aprobación de las respectivas plenarias. Si después de la repetición del segundo debate persiste la diferencia, se considera negado el proyecto.
 
 ##### **Artículo 162.** Los proyectos de ley que no hubieren completado su tramite en una legislatura y que hubieren recibido primer debate en alguna de las cámaras, continuarán su curso en la siguiente, en el estado en que se encuentren. Ningún proyecto podrá ser considerado en más de dos legislaturas.
 
