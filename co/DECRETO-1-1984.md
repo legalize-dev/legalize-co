@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "1988-04-05"
+last_updated: "1988-12-13"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -1283,9 +1283,7 @@ Con todo, cuando se desconozca el sitio de la residencia del titular de la carta
 
 **De los procesos electorales.**
 
-##### **Artículo 223.** CAUSALES DE NULIDAD.
-
-Las actas de escrutinios de los jurados de votación y de toda corporación electoral son nulas en los siguientes casos:
+##### **Artículo 223.Causales de nulidad**. Las actas de escrutinio de los jurados de votación y de toda corporación electoral son nulas en los siguientes casos:
 
 - 1. Cuando se haya ejercido violencia contra los escrutadores o destruido o mezclado con otras las papeletas de votación, o éstas se hayan destruido por causa de violencia.
 
@@ -1293,25 +1291,11 @@ Las actas de escrutinios de los jurados de votación y de toda corporación elec
 
 - 3. Cuando aparezca que las actas han sufrido alteraciones sustanciales en lo escrito, después de firmadas por los miembros de la corporación que las expiden.
 
-- 4. Cuando los votos emitidos en la respectiva elección se computen con violación del sistema electoral adoptado en la Constitución Política y leyes de la República.
+- 4. Cuando los votos emitidos en la respectiva elección se computen con violación del sistema de cuociente electoral adoptado en la Constitución Política y Leyes de la República.
 
-- 5. Cuando se computen votos a favor de candidatos que no reúnan las calidades constitucionales o legales para ser electos.
+- 5. Cuando se computen votos a favor de candidatos que no reúnen las calidades constitucionales o legales para ser electos.
 
-- 6. Cuando ocurra cualquiera de los eventos previstos en las causales de reclamación de que trata el artículo 42 de esta Ley.
-
-**Artículo 223. Causales de nulidad de las actas de escrutinio de los jurados de votación**. Serán nulas las actas de escrutinio de los jurados de votación en los siguientes casos:
-
-- 1. Cuando funcionen mesas de votación en lugares o sitios no autorizados conforme a la ley.
-
-- 2. Cuando la elección se verifique en días distintos de los señalados por la ley, o de los señalados por la autoridad con facultad legal para este fin.
-
-- 3. Cuando los cuatro ejemplares de las actas de escrutinio de los jurados de votación estén firmados por menos de tres de estos.
-
-- 4. Cuando se haya ejercicio violencia contra los escrutadores o destruido o mezclado con otras las papeletas de votación o éstas se hayan destruido por causa de violencia.
-
-- 5. Cuando se hayan destruido o perdido los votos emitidos en las urnas y no existiere acta de escrutinio en la que conste el resultado de las votaciones, y
-
-- 6. Cuando han sufragado en un jurado de votación mayor número de ciudadanos de los autorizados por la ley.
+- 6. Cuando los jurados de votación o los miembros de las comisiones escrutadoras sean cónyuges o parientes de los candidatos de elección popular en el segundo grado de consanguinidad o afinidad o en el primero civil. En este evento no se anulará el acta de escrutinio, sino los votos del candidato o los candidatos, en cuya elección o escrutinio se haya violado esta disposición.
 
 ##### **Artículo 224. Derogado.**
 
