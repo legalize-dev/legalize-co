@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "1999-03-23"
+last_updated: "2000-07-05"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -1199,6 +1199,8 @@ Sin embargo, si las autoridades administrativas no hubieran dado oportunidad de 
 
 - 8. La de reparación directa caducará al vencimiento del plazo de dos (2) años, contados a partir del día siguiente del acaecimiento del hecho, omisión u operación administrativa o de ocurrida la ocupación temporal o permanente del inmueble de propiedad ajena por causa de trabajo público o por cualquiera otra causa.
 
+**Inciso segundo:** Sin embargo, el término de caducidad de la acción de reparación directa derivada del delito de desaparición forzada, se contará a partir de la fecha en que aparezca la víctima o en su defecto desde la ejecutoria del fallo definitivo adoptado en el proceso penal, sin perjuicio de que tal acción pueda intentarse desde el momento en que ocurrieron los hechos que dieron lugar a la desaparición.
+
 - 9. La de repetición caducará al vencimiento del plazo de dos (2) años, contados a partir del día siguiente de la fecha del pago total efectuado por la entidad.
 
 - 10. En las relativas a contratos, el término de caducidad será de dos (2) años que se contará a partir del día siguiente a la ocurrencia de los motivos de hecho o de derecho que les sirvan de fundamento.
@@ -1226,36 +1228,6 @@ Frente a los actos de confirmación, el término de caducidad de la acción se c
 Parágrafo 1°. Cuando el objeto del litigio lo constituyan bienes estatales imprescriptibles e inenajenables la acción no caducará.
 
 Parágrafo 2°. Los actos de extinción del dominio de bienes distintos a los regulados por la Ley Agraria deberán ser demandados dentro de los mismos término señalado para éstos.
-
-**Artículo 136.** CADUCIDAD DE LAS ACCIONES. La de nulidad absoluta podrá ejercitarse en cualquier tiempo a partir de la expedición del acto.
-
-La de restablecimiento del derecho caducará al cabo de cuatro (4) meses, contados a partir del día de la publicación, notificación o ejecución del acto, según el caso. Si el demandante es una entidad pública, la caducidad será de dos (2) años. Si se demanda un acto presunto, el término de caducidad será de cuatro (4) meses, contados a partir del día siguiente a aquel en que se configure el silencio negativo.
-
-Sin embargo, los actos que reconozcan prestaciones periódicas podrán demandarse en cualquier tiempo, pero no habrá lugar a recuperar las prestaciones pagadas a particulares de buena fe.
-
-La de reparación directa caducará al vencimiento del plazo de dos (2) años, contados a partir del acaecimiento del hecho, omisión u operación administrativa o de ocurrida la ocupación temporal o permanente del inmueble de propiedad ajena por causa de trabajos públicos.
-
-La de nulidad y restablecimiento del derecho contra los actos de adjudicación de baldíos proferidos por el Instituto Colombiano de la Reforma Agraria -Incora-, caducarán en dos (2) años, contados desde la publicación, cuando ella sea necesaria, o desde su ejecutoria, en los demás casos.
-
-Las relativas a contratos caducarán en dos (2) años de ocurridos los motivos de hecho o de derecho que le sirvan de fundamento
-
-**Artículo 136. Caducidad de las acciones**. La de nulidad podrá ejercitarse en cualquier tiempo a partir de la expedición del acto o después de su publicación, si necesita de este requisito para entrar a regir.
-
-La de restablecimiento del derecho caducará al cabo de cuatro (4) meses contados a partir del día de la publicación, comunicación, notificación o ejecución del acto, según el caso. Si el demandante es una entidad pública, la caducidad será de dos (2) años.
-
-Sin embargo, cuando se demanden actos que reconozcan prestaciones periódicas la acción podrá proponerse en cualquier tiempo, pero no habrá lugar a recuperar las prestaciones pagadas a particulares de buena fe.
-
-La de reparación directa y cumplimiento y la de definición de competencias caducarán al vencimiento del plazo de dos (2) años contados a partir de la producción del acto o hecho.
-
-La acción sobre los actos presuntos que resuelvan un recurso podrá interponerse en cualquier tiempo.
-
-Las de nulidad y de restablecimiento del derecho contra los actos de adjudicación de baldíos, proferidos por el Incora, caducarán en dos (2) años contados desde la publicación cuando ella sea necesaria, o desde su ejecutoria en los demás casos.
-
-Las relativas a contratos caducarán a los dos (2) años de expedidos los actos u ocurridos los hechos que den lugar a ella.
-
-Los actos separables distintos del de adjudicación de una licitación sólo serán impugnables jurisdiccionalmente una vez terminado o liquidado el contrato.
-
-La acción electoral caducará en veinte (20) días contados a partir del siguiente a aquel en el que se verifique el acto por medio del cual se declara la elección o se expida el nombramiento.
 
 ##### **Artículo 137. Contenido de la demanda**. Toda demanda ante la jurisdicción administrativa deberá dirigirse al tribunal competente y contendrá:
 
