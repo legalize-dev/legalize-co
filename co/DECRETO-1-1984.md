@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "1998-07-07"
+last_updated: "1998-07-08"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -1099,6 +1099,30 @@ Competencia de los jueces administrativos
 
 ##### **Artículo 134A**. *Competencia de los jueces administrativos en única instancia.* Los Jueces Administrativos conocerán en única instancia del recurso prescrito por los artículos 21 y 24 de la Ley 57 de 1985, cuando la providencia haya sido proferida por funcionario o autoridad del orden municipal o Distrital
 
+##### **Artículo 134B**. *Competencia de los jueces administrativos en primera instancia.* Los Jueces Administrativos conocerán en primera instancia de los siguientes asuntos:
+
+- 1. De los procesos de nulidad y restablecimiento del derecho de carácter laboral, que no provengan de un contrato de trabajo, en los cuales se controviertan Actos Administrativos de cualquier autoridad, cuando la cuantía no exceda de cien (100) salarios mínimos legales mensuales.
+
+- 2. De los procesos de nulidad y restablecimiento del derecho que carezcan de cuantía, cuando se trate de controversias que se originen en una relación laboral legal y reglamentaria o cuando se controviertan Actos Administrativos de carácter laboral expedidos por autoridades del orden nacional, con excepción de los actos referentes a la declaratoria de unidad de empresa y a la calificación de huelga, cuya competencia corresponde al Consejo de Estado en única instancia.
+
+- 3. De los procesos de nulidad y restablecimiento del derecho en que se controviertan Actos Administrativos de cualquier autoridad, cuando la cuantía no exceda de trescientos (300) salarios mínimos legales mensuales.
+
+- 4. De los procesos que se promuevan sobre el monto, distribución o asignación de impuestos, contribuciones y tasas nacionales, departamentales, municipales o distritales, cuando la cuantía no exceda de trescientos (300) salarios mínimos legales mensuales.
+
+- 5. De los referentes a contratos de las entidades estatales en sus distintos órdenes, y de los contratos celebrados por entidades prestadoras de servicios públicos domiciliarios, cuando su finalidad esté vinculada directamente a la prestación del servicio, cuando la cuantía no exceda de quinientos (500) salarios mínimos legales mensuales.
+
+- 6. De los de reparación directa cuando la cuantía no exceda de quinientos (500) salarios mínimos legales mensuales.
+
+- 7. De los procesos ejecutivos originados en condenas impuestas por la jurisdicción contencioso-administrativa, cuando la cuantía no exceda de mil quinientos (1.500) salarios mínimos legales mensuales.
+
+- 8. De las acciones de repetición que el Estado ejerza contra los servidores o ex servidores públicos y personas privadas que de conformidad con la ley cumplan funciones públicas, cuando la cuantía no exceda de quinientos (500) salarios mínimos legales mensuales, y cuya competencia no estuviere asignada al Consejo de Estado en única instancia.
+
+- 9. De los relativos a la acción de nulidad electoral de los Alcaldes y miembros de los Concejos de los municipios que no sean Capital de Departamento, como también de los miembros de las Juntas Administradoras Locales de cualquier Municipio y demás elecciones celebradas dentro del respectivo territorio municipal.
+
+Igualmente de los relativos a la acción de nulidad electoral que se promuevan con motivo de las elecciones o nombramientos hechos por las Corporaciones o funcionarios de que trata el inciso anterior o por cualquier organismo o servidor de los citados municipios.”
+
+- 10. De las acciones dirigidas al cumplimiento de normas con fuerza material de ley o acto administrativo
+
 ##### **Artículo 134C**. *Competencia de los jueces administrativos en segunda instancia.* Los Jueces Administrativos conocerán, en segunda instancia, de los siguientes asuntos:
 
 - 1. De las apelaciones contra el mandamiento de pago, la sentencia de excepciones, el auto aprobatorio de liquidación de crédito y el auto que decrete nulidades procesales, que se interpongan en los procesos por jurisdicción coactiva de que conozcan los funcionarios de los distintos órdenes, cuando la cuantía no exceda de quinientos (500) salarios mínimos legales mensuales.
@@ -1455,6 +1479,42 @@ Los Intendentes y Comisarios también deberán objetar los proyectos de acuerdo 
 
 - 2. Haber conceptuado sobre el acto que se acusa, o sobre el contrato objeto del litigio.
 
+##### **Artículo 160A**. *De los impedimentos.* Para el trámite de los impedimentos se seguirán las siguientes reglas:
+
+- 1. El Juez Administrativo en quien concurra alguna de las causales de que trata el presente artículo, deberá declararse impedido cuando advierta su existencia, expresando los hechos en que se fundamenta, en escrito dirigido al Juez que le siga en turno para que resuelva de plano si es o no fundado el impedimento y, en caso positivo, asumirá el conocimiento del asunto, si lo considera infundado, lo devolverá para que aquel continúe el trámite. Si se trata de Juez único, ordenará, remitirá el expediente al correspondiente Tribunal para que decida si el impedimento es fundado, caso en el cual designará el Juez *ad hoc* que lo reemplace. En caso contrario, devolverá el expediente para que el mismo Juez continúe el trámite del proceso.
+
+- 2. Cuando en un Consejero o Magistrado concurra alguna de las causales señaladas en este artículo, deberá declararse impedido en escrito dirigido al ponente, o a quien le siga en turno si el impedido es éste, expresando los hechos en que se fundamenta tan pronto como advierta su existencia, para que la Sala, Sección o Subsección resuelva de plano sobre la legalidad del impedimento. Si lo encuentra fundado, lo aceptará y sólo ordenará sorteo de Conjuez cuando se afecte el quórum decisorio.
+
+- 3. Si el impedimento comprende a toda la Sección o Subsección del Consejo de Estado o del Tribunal, el expediente se enviará a la Sección o Subsección que le siga en turno en el orden numérico, para que decida de plano sobre el impedimento si lo declara fundado, avocará el conocimiento del proceso. En caso contrario, devolverá el expediente para que la misma Sección o Subsección continúe el trámite del mismo.
+
+- 4. Si el impedimento comprende a todo el Tribunal Administrativo, el expediente se enviará a la Sala Plena de lo Contencioso Administrativo del Consejo de Estado para que lo decida de plano. Si lo declara fundado, designará el Tribunal que conozca del asunto. En caso contrario, devolverá el expediente al Tribunal de origen para que continúe su trámite.
+
+- 5. Si el impedimento comprende a todos los miembros de la Sala Plena de lo Contencioso Administrativo, o de la Sala de Consulta y Servicio Civil del Consejo de Estado, sus integrantes deberán declararse impedidos en forma conjunta o separada, expresando los hechos en que se fundamente.
+
+Declarado el impedimento por la Sala respectiva se procederá al sorteo de Conjueces para que asuman el conocimiento del asunto.
+
+Las decisiones que se profieran durante el trámitede los impedimentos no son susceptibles de recurso alguno.
+
+##### **Artículo 160B**. *De las recusaciones.* Para el trámite de las recusaciones se seguirán las siguientes reglas:
+
+- 1. La recusación se propondrá por escrito ante el Juez, Magistrado o Consejero a quien se trate de separar del conocimiento del proceso, con expresión de la causal legal y de los hechos en que se fundamente, acompañando las pruebas que se pretendan hacer valer.
+
+- 2. Cuando el recusado sea un Juez Administrativo, mediante auto expresará si acepta los hechos y la procedencia de la causal y enviará el expediente al Juez que le siga en turno para que resuelva de plano si es o no fundada la recusación; en caso positivo, asumirá el conocimiento del asunto, si lo encuentra infundado, lo devolverá para que aquel continúe el trámite. Si se trata de Juez único, remitirá el expediente al correspondiente Tribunal para que decida si la recusación es fundada, caso en el cual designará juez *ad hoc* que lo reemplace, en caso contrario, devolverá el expediente para que el mismo Juez continúe el trámite del proceso.
+
+- 3. Cuando el recusado sea un Consejero o Magistrado, en escrito dirigido al ponente, o a quien le siga en turno si el recusado es éste, expresará si acepta o no la procedencia de la causal y los hechos en que se fundamenta, para que la Sala, Sección o Subsección resuelva de plano sobre la recusación. Si la encuentra fundada, la aceptará y sólo ordenará sorteo de Conjuez cuando se afecte el quórum decisorio.
+
+- 4. Si la recusación comprende a toda la Sección o Subsección del Consejo de Estado o del Tribunal, se presentará ante los recusados para que manifiesten conjunta o separadamente si aceptan o no la recusación. El expediente se enviará a la Sección o Subsección que le siga en turno, para que decida de plano sobre la recusación, si la declara fundada, avocará el conocimiento del proceso, en caso contrario, devolverá el expediente para que la misma Sección o Subsección continúe el trámite del mismo.
+
+- 5. Si la recusación comprende a todo el Tribunal Administrativo, se presentará ante los recusados para que manifiesten conjunta o separadamente si aceptan o no la recusación. El expediente se enviará a la Sala Plena de lo Contencioso Administrativo del Consejo de Estado para que la decida de plano. Si la declara fundada, designará el Tribunal que conozca del asunto, en caso contrario, devolverá el expediente al Tribunal de origen para que continúe su trámite.
+
+- 6. Cuando la recusación comprenda a todos los miembros de la Sala Plena de lo Contencioso Administrativo o de la Sala de Consulta y Servicio Civil del Consejo de Estado, se presentará a los recusados para que manifiesten en forma conjunta o separada si aceptan o no la recusación. Declarada la recusación por la Sala respectiva, se procederá al sorteo de Conjueces para que asuman el conocimiento del proceso, en caso contrario, la misma Sala continuará el trámite del proceso.
+
+Las decisiones que se profieran durante el trámite de las recusaciones no son susceptibles de recurso alguno.
+
+En el mismo auto mediante el cual se declare infundada la recusación, si se encontrare que la parte recusante y su apoderado han actuado con temeridad o mala fe, se les condenará solidariamente a pagar una multa en favor del Consejo Superior de la Judicatura de cinco (5) a diez (10) salarios mínimos mensuales legales, sin perjuicio de la investigación disciplinaria a que hubiere lugar.
+
+La decisión en cuanto a la multa, será susceptible únicamente de reposición.
+
 ### **CAPITULO II**
 
 **Impedimentos y recusaciones de los Fiscales.**
@@ -1530,6 +1590,14 @@ La sentencia dictada en procesos relativos a contratos y de reparación directa 
 Cuando por sentencia ejecutoriada se declare la nulidad de una ordenanza o de un acuerdo intendencial, comisarial, distrital o municipal, en todo o en parte., quedarán sin efectos en lo pertinente los decretos reglamentarios.
 
 ##### **Artículo 176. Ejecución**. Las autoridades a quienes corresponda la ejecución de una sentencia dictarán, dentro del término de treinta (30) días contados desde su comunicación, la resolución correspondiente, en la cual se adoptarán las medidas necesarias para su cumplimiento.
+
+##### **Artículo 177.** Cuando se condene a la Nación, a una entidad territorial o descentralizada al pago o devolución de una cantidad líquida de dinero, se enviará inmediatamente copia de la sentencia a quien sea competente para ejercer las funciones del ministerio público frente a la entidad condenada. El agente del ministerio público deberá tener una lista actual de tales sentencias, y dirigirse a los funcionarios competentes cuando preparen proyectos de presupuestos básicos o los adicionales, para exigirles que incluyan partidas que permitan cumplir en forma completa las condenas, todo conforme a las normas de la ley orgánica del presupuesto. El Congreso, las asambleas, los concejos, el Contralor General de la República, los contralores departamentales, municipales y distritales, el Consejo de Estado y los tribunales contencioso administrativos y las demás autoridades del caso deberán abstenerse de aprobar o ejecutar presupuestos en los que no se hayan incluido partidas o apropiaciones suficientes para atender al pago de todas las condenas que haya relacionado el Ministerio Público. Será causal de mala conducta de los funcionarios encargados de ejecutar los presupuestos públicos, pagar las apropiaciones para cumplimiento de condenas más lentamente que el resto. Tales condenas, además, serán ejecutables ante la justicia ordinaria dieciocho (18) meses después de su ejecutoria. Las cantidades líquidas reconocidas en tales sentencias devengarán intereses comerciales durante los seis (6) meses siguientes a su ejecutoria y moratorios después de este término.
+
+Cumplidos seis (6) meses desde la ejecutoria de la providencia que imponga o liquide una condena o de la que apruebe una conciliación, sin que los beneficiarios hayan acudido ante la entidad responsable para hacerla efectiva, acompañando la documentación exigida para el efecto, cesará la causación de intereses de todo tipo desde entonces hasta cuando se presentare la solicitud en legal forma.
+
+En asuntos de carácter laboral, cuando se condene a un reintegro y dentro del término de seis meses siguientes a la ejecutoria de la providencia que así lo disponga, éste no pudiere llevarse a cabo por causas imputables al interesado, en adelante cesará la causación de emolumentos de todo tipo.
+
+**Artículo 177.** Cuando se condene a la Nación, a una entidad territorial o descentralizada al pago o devolución de una cantidad líquida de dinero, se enviará inmediatamente copia de la sentencia a quien sea competente para ejercer las funciones del ministerio público frente a la entidad condenada. El agente del ministerio público deberá tener una lista actual de tales sentencias, y dirigirse a los funcionarios competentes cuando preparen proyectos de presupuestos básicos o los adicionales, para exigirles que incluyan partidas que permitan cumplir en forma completa las condenas, todo conforme a las normas de la ley orgánica del presupuesto. El Congreso, las asambleas, los concejos, el Contralor General de la República, los contralores departamentales, municipales y distritales, el Consejo de Estado y los tribunales contencioso administrativos y las demás autoridades del caso deberán abstenerse de aprobar o ejecutar presupuestos en los que no se hayan incluido partidas o apropiaciones suficientes para atender al pago de todas las condenas que haya relacionado el Ministerio Público. Será causal de mala conducta de los funcionarios encargados de ejecutar los presupuestos públicos, pagar las apropiaciones para cumplimiento de condenas más lentamente que el resto. Tales condenas, además, serán ejecutables ante la justicia ordinaria dieciocho (18) meses después de su ejecutoria. Las cantidades líquidas reconocidas en tales sentencias devengarán intereses comerciales durante los seis (6) meses siguientes a su ejecutoria y moratorios después de este término.
 
 ##### **Artículo 178. Ajuste de valor**. La liquidación de las condenas que se resuelvan mediante sentencias de la jurisdicción en lo contencioso administrativo deberá efectuarse en todos los casos, mediante sumas líquidas de moneda de curso legal en Colombia y cualquier ajuste de dichas condenas sólo podrá determinarse tomando como base el índice de precios al consumidor, o al por mayor.
 
