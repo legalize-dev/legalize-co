@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1886-08-05"
+last_updated: "1898-10-29"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -727,6 +727,14 @@ Y las demás que por la ley le competan.
 ##### **Artículo 203.** Son de cargo de la República las deudas exterior e interior, reconocidas ya, o que en lo sucesivo se reconozcan, y los gastos del servicio público nacional.
 
 La ley determinará el orden y modo de satisfacer estas obligaciones.
+
+##### **Artículo 205.** Toda variación en la Tarifa de Aduanas que tengan por objeto disminuir los derechos de importación, comenzará á ser ejecutada noventa días después de sancionada la ley que se establezca, y la rebaja se hará por décimas partes en los diez meses subsiguientes.
+
+Si la variación tiene por objeto el alza de los derechos, ésta se verificará por terceras partes en los tres meses siguientes á la sanción de la ley.
+
+Esta disposición y la del artículo 204 de la Constitución, no limitan las facultades extraordinarias del Gobierno cuando de ellas esté revestido.
+
+**Artículo 205.** Ninguna variación en la Tarifa de Aduana comenzará a ser ejecutada sino noventa días después de sancionada la ley que la establezca; y toda alza o baja en los derechos de importación se verificará por décimas partes en los diez meses subsiguientes. Esta disposición y la del anterior Artículo, no limitan las facultades extraordinarias del Gobierno cuando de ellas esté revestido.
 
 ##### **Artículo 206.** Cada Ministerio formará cada dos años el Presupuesto de gastos de su servicio, y lo pasará al del Tesoro, por el cual será redactado el general de la Nación, y sometido a la aprobación del Congreso, junto con el de rentas en que se propondrán los medios necesarios para cubrir las obligaciones.
 
