@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1886-1886"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1886-08-04"
-last_updated: "1959-09-15"
+last_updated: "1968-12-10"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1826862"
 department: "CONSEJO NACIONAL CONSTITUYENTE"
@@ -32,55 +32,53 @@ Y con el fin de afianzar la unidad nacional y asegurar los bienes de la justicia
 
 ##### **Artículo 2º.** La soberanía reside esencial y exclusivamente en la Nación, y de ella emanan los poderes públicos, que se ejercerán en los términos que esta Constitución establece.
 
-##### **Artículo 3º.** El territorio de la República tiene por límites con el de las Naciones limítrofes los que se hubieren fijado, ó en lo sucesivo se fijaren, por Tratados públicos debidamente aprobados y ratificados conforme á la Constitución y leyes de la República y por sentencias arbitrales cumplidas y pasadas en autoridad de cosa juzgada.
+##### **Artículo 3º.** Son límites de Colombia con las naciones vecinas los siguientes:
 
-**Artículo 3º.** Son límites de la República los mismos que en 1810 separaban el Virreinato de Nueva Granada de las Capitanías generales de Venezuela y Guatemala, del Virreinato del Perú, y de las posesiones portuguesas del Brasil; y provisionalmente, respecto del Ecuador, los designados en el Tratado de 9 de Julio de 1856.
+Con Venezuela, los definidos en el laudo arbitral pronunciado por el Gobierno del Rey de España el 16 de marzo de 1891 y en el tratado del 5 de abril de 1941; con el Brasil los definidos en los tratados de 24 de abril de 1907 y de 15 de noviembre de 1928; con el Perú, los definidos en el tratado de 24 de marzo de 1922; con el Ecuador, los definidos en el tratado de 15 de julio 1916, y con Panamá, los definidos en el tratado de 20 de agosto de 1924.
 
-Las líneas divisorias de Colombia con las naciones limítrofes se fijarán definitivamente por Tratados Públicos, pudiendo éstos separarse del principio de *uti possidetis* de derecho de 1810.
+Forman, igualmente, parte de Colombia, además de las islas, islotes, cayos, morros y bancos que le pertenecen en los mares limítrofes, la Isla de Malpelo y el Archipiélago de San Andrés y Providencia. (Este último de conformidad con el tratado celebrado entre Colombia y Nicaragua el 24 de marzo de 1928).
+
+También son parte de Colombia: el espacio aéreo, el mar territorial y la plataforma continental, de conformidad con tratados o convenios internacionales aprobados por el Congreso, o con la ley colombiana en ausencia de los mismos.
+
+Los límites de Colombia sólo podrán variarse en virtud de tratados o convenios aprobados por el Congreso.
 
 ##### **Artículo 4º.** El Territorio, con los bienes públicos que de él forman parte, pertenece únicamente a la Nación.
 
-##### **ARTÍCULO 5º.**
+##### **Artículo 5°.**
 
-El territorio nacional se divide en Departamentos, Intendencias y Comisarías; aquéllos y éstas, en Municipios o Distritos Municipales.
+Son entidades territoriales de la República los Departamentos, las Intendencias, las Comisarías y los Municipios o Distritos Municipales, en que se dividen aquellos y éstas.
 
-La ciudad de Bogotá, capital de la República, será organizada como un Distrito especial, sin sujeción al régimen municipal ordinario, dentro de las condiciones que fije la ley. La ley podrá agregar otro u otros Municipios circunvecinos al territorio de la capital de la República, siempre que sea solicitada la anexión por las tres cuartas partes de los concejales del respectivo Municipio.
+La ley podrá decretar la formación de nuevos Departamentos, desmembrando o no las entidades existentes, siempre que se llenen estas condiciones:
 
-Sobre las rentas departamentales que se causen en Bogotá, la ley determinará la participación que le corresponde a la capital de la República.
+1a. Que haya sido solicitada por las tres cuartas partes de los Concejos de la comarca que ha de formar el nuevo Departamento;
 
-La ley podrá decretar la formación de nuevos Departamentos, desmembrando o no las entidades existentes, siempre que se llenen estas condiciones.
+2a. Que el nuevo Departamento tenga por lo menos quinientos mil habitantes y cincuenta millones de pesos de renta anual, sin computar en esta suma las transferencias que reciba de la Nación.
 
-- 1° Que haya sido solicitada por las tres cuartas partes de los concejales de la comarca que ha de formar el nuevo Departamento;
+A partir del año siguiente al de la vigencia de este Acto Legislativo, las bases de población y renta se aumentarán anualmente en un cuatro y quince por ciento, respectivamente;
 
-- 2° Que el nuevo Departamento tenga por lo menos doscientos cincuenta mil habitantes y quinientos mil pesos de renta anual;
+3a. Que aquel o aquellos de que fuere segregado, quede cada uno con población y renta por lo menos iguales a las exigidas para el nuevo Departamento;
 
-- 3° Que aquel o aquellos de que fuere segregado, quede cada uno con una población de doscientos cincuenta mil habitantes por lo menos, y con una renta anual de quinientos mil pesos.
+4a. Concepto previo favorable del Gobierno Nacional sobre la conveniencia de crear el nuevo Departamento;
 
-La ley podrá segregar territorio de un Departamento para agregarlo a otro u otros limítrofes, teniendo en cuenta la opinión de los habitantes del respectivo territorio y el concepto previo de los Gobernadores de los Departamentos interesados.
+5a. Declaración previa del Consejo de Estado de que el proyecto satisface las condiciones exigidas en este Artículo;
+
+La ley que cree un Departamento determinará la forma de liquidación y pago de la deuda pública que quede a cargo de las respectivas entidades.
+
+La ley podrá segregar territorio de un Departamento para agregarlo a otro u otros limítrofes, o para erigirlo en Intendencia o Comisaría, teniendo en cuenta la opinión favorable de los Concejos Municipales del respectivo territorio y el concepto previo de los Gobernadores de los Departamentos interesados y siempre que aquél o aquéllos de que fueren segregados quede cada uno con la población y rentas por lo menos iguales a las exigidas para un nuevo Departamento en el momento de su creación.
 
 La ley reglamentará lo relacionado con esta disposición.
 
-Las líneas divisorias dudosas serán determinadas por comisiones demarcadoras nombradas por el Senado.
+Las líneas divisorias dudosas serán determinadas por comisiones demarcadoras nombradas por el Senado de la República.
 
-Las Intendencias y Comisarías quedan bajo la inmediata administración del Gobierno, y corresponde al legislador proveer a su organización administrativa y al régimen especial de los Municipios que las integran.
+Los Actos Legislativos que sustituyan, deroguen o modifiquen las condiciones para la creación de Departamentos o eximan de alguna de éstas, deberán ser aprobados por los dos tercios de los votos de los miembros de una y otra Cámara.
 
-La ley podrá crear y suprimir Intendencias y Comisarías, anexarlas total o parcialmente a los Departamentos, darles estatutos especiales y reglamentar su organización electoral, judicial y contencioso-administrativa.
+##### **Artículo 6°.**
 
-**Articulo 5°** reformado por Artículo 4° ACTO LEGISLATIVO 3 de 1905
+Las Intendencias y Comisarías quedan bajo la inmediata administración del Gobierno y corresponde al legislador proveer a su organización administrativa, electoral, judicial, contencioso-administrativa y al régimen de los Municipios que las integran. El legislador dictará estatutos especiales para el régimen fiscal, administrativo y el fomento económico, social y cultural del Archipiélago de San Andrés y Providencia, así como para las restantes porciones insulares del territorio nacional.
 
-**Artículo 5º.** La ley Puede decretar la formación de nuevos Departamentos desmembrando los existentes, cuando haya sido solicitada por las cuatro quintas partes de los Consejos municipales de la comarca que ha de formar el nuevo Departamento, y siempre que se llenen estas condiciones:
+La ley podrá crear y suprimir Intendencias y Comisarías; anexarlas total o parcialmente entre sí o a los Departamentos, y darles estatutos especiales.
 
-- 1. Que el nuevo Departamento tenga por lo menos doscientas mil almas;
-
-- 2. Que aquél o aquéllos de que fuere segregado, queden cada uno con una población de doscientos cincuenta mil habitantes, por lo menos;
-
-- 3. Que la creación sea decretada por una ley aprobada en dos Legislaturas ordinarias sucesivas.
-
-##### **Artículo 6°** reformado por Artículo 4° ACTO LEGISLATIVO 3 de 1905
-
-**Artículo 6º.** Sólo por una ley aprobada en la forma expresada en la parte final del artículo anterior, podrán ser variados los actuales límites de los Departamentos.
-
-Por medio de una ley aprobada en la forma ordinaria y sin la condición antedicha, podrá el Congreso separar de los Departamentos a que ahora se reincorporan, o al que han pertenecido, los Territorios a que se refiere el Artículo 4.º, o las Islas, y disponer respecto de unos u otras lo más conveniente.
+La ley podrá erigir en Departamentos las Intendencias y Comisarías, si se llenan las condiciones que establezca el Artículo anterior, pero en tal caso bastará la mitad de la población y renta por él señaladas.
 
 ## **Título II. De los habitantes: nacionales y extranjeros**
 
@@ -158,15 +156,13 @@ En materia criminal, la ley permisiva o favorable, aun cuando sea posterior, se 
 
 - 3. Los Capitanes de buque, que tienen, no estando en puerto, la misma facultad para reprimir delitos cometidos a bordo.
 
-##### **ARTÍCULO 28°.**
+##### **Artículo 28°.**
 
-El Estado puede intervenir por mandato de la ley en la explotación de industrias o empresas públicas y privadas, con el fin de racionalizar la producción, distribución y consumo de las riquezas, o de dar al trabajador la justa protección a que tiene derecho.
+Aún en tiempo de guerra nadie podrá ser penado ex-post facto, sino con arreglo a la ley, orden o decreto en que previamente se haya prohibido el hecho y determinándose la pena correspondiente.
 
-Esta función no podrá ejercerse en uso de las facultades del Artículo 69, ordinal 12, de la Constitución.
+Esta disposición no impide que aún en tiempo de paz, pero habiendo graves motivos para temer perturbación del orden público, sean aprehendidas y retenidas mediante orden del Gobierno, y previo dictamen de los Ministros, las personas contra quienes haya graves indicios de que atentan contra la paz pública.
 
-**Artículo 28.** Aun en tiempo de guerra, nadie podrá ser penado ex-post facto, sino con arreglo a ley, orden o decreto en que previamente se haya prohibido el hecho y determinándose en pena correspondiente.
-
-Esta disposición no impide que aun en tiempo de paz, pero habiendo graves motivos para temer perturbación del orden público, sean aprehendidas y retenidas, de orden del Gobierno y previo dictamen de los Ministros, las personas contra quienes haya graves indicios de que atentan contra la paz pública.
+Transcurridos diez días desde el momento de la aprehensión sin que las personas retenidas hayan sido puestas en libertad, el Gobierno procederá a ordenarla o las pondrá a disposición de los jueces competentes con las pruebas allegadas, para que decidan conforme a la ley.
 
 ##### **Artículo 29.** Sólo impondrá el Legislador la pena capital para castigar, en los casos que se definan como más graves, los siguientes delitos, jurídicamente comprobados, a saber: traición a la Patria en guerra extranjera, parricidio, asesinato, incendio, asalto en cuadrilla de malhechores, piratería, y ciertos delitos militares definidos por las leyes del ejército.
 
@@ -176,13 +172,11 @@ En ningún tiempo podrá aplicarse la pena capital fuera de los casos en este Ar
 
 ##### **Artículo 31°.** Derogado.
 
-##### **Artículo 32°.** Derogado.
+##### **Artículo 32°.**
 
-**Artículo 32°**. En tiempo de paz nadie podrá ser privado de su propiedad, en todo ni en parte, sino en los casos siguientes, con arreglo á leyes expresas: Por contribución general;
+Se garantizan la libertad de empresa y la iniciativa privada dentro de los límites del bien común, pero la dirección general de la economía estará a cargo del Estado. Este intervendrá, por mandato de la ley, en la producción, distribución, utilización y consumo de los bienes y en los servicios públicos y privados, para racionalizar y planificar la economía a fin de lograr el desarrollo integral.
 
-Por motivos de utilidad pública definidos por el legislador, previa Indemnización, salvo el caso de la apertura y construcción de vías de comunicación, en el cual se supone que el beneficio que derivan los precios atravesados es equivalente al precio de la faja de terreno necesario para la vía; pero si se comprobare que vale más dicha faja, la diferencia será pagada.
-
-**Artículo 32.** En tiempo de paz nadie podrá ser privado de su propiedad en todo ni en parte, sino por pena, o apremio, o indemnización, o contribución general, con arreglo a las leyes. Por graves motivos de utilidad pública, definidos por el Legislador, podrá haber lugar a enajenación forzosa, mediante mandamiento judicial, y se indemnizará el valor de la propiedad, antes de verificar la expropiación.
+Intervendrá también el Estado, por mandato de la ley, para dar pleno empleo a los recursos humanos y naturales, dentro de una política de ingresos y salarios, conforme a la cual el desarrollo económico tenga como objetivo principal la justicia social y el mejoramiento armónico e integrado de la comunidad, y de las clases proletarias en particular.
 
 ##### **Artículo 33.** En caso de guerra y sólo para atender al restablecimiento del orden público, la necesidad de una expropiación podrá ser decretada por autoridades que no pertenezcan al orden judicial y no ser previa la indemnización.
 
@@ -396,11 +390,7 @@ Un proyecto de ley que hubiere sido negado en primer debate podrá ser considera
 
 En tales ocasiones el Presidente del Senado y el de la Cámara de Representantes serán, respectivamente, Presidente y Vicepresidente del Congreso.
 
-##### **ARTÍCULO 75°.**
-
-Para la aprobación de todo proyecto de ley en primero y segundo debate, se requiere la asistencia de la Mayoría absoluta de los individuos que componen la Comisión permanente o la Cámara respectiva.
-
-**Artículo 75.** Toda reunión de miembros del Congreso que, con la mira de ejercer el Poder Legislativo, se efectúe fuera de las condiciones constitucionales, será ilegal; los actos que expida, nulos; y los individuos que en las deliberaciones tomen parte, serán castigados conforme a las leyes.
+##### **Artículo 75°**. Toda reunión de miembros del Congreso que, con la mira de ejercer funciones propias de la Rama Legislativa del Poder Público, se efectúe fuera de las condiciones constitucionales, carecerá de validez; a los actos que realice no podrá dárseles efecto alguno, y las personas que en las deliberaciones tomen parte serán sancionadas conforme a las leyes.
 
 ##### **Artículo 77.** El Congreso elegirá en sus reuniones ordinarias y para un bienio, el Designado que ha de ejercer el Poder Ejecutivo a falta de Presidente y Vicepresidente.
 
@@ -450,9 +440,9 @@ Si el Presidente, una vez transcurridos los indicados términos, según el caso,
 
 ##### **Artículo 87.** El proyecto de ley objetado en su conjunto por el Presidente, volverá en las Cámaras a tercer debate. El que fuere objetado sólo en parte, será reconsiderado en segundo debate con el único objeto de tomar en cuenta las observaciones del Gobierno.
 
-**Modificado por el Artículo 34 del ACTO LEGISLATIVO 1 DE 1936.**
+##### Artículo 88. El Presidente de la República sancionará sin poder presentar nuevas objeciones, el proyecto que, reconsiderado, fuere aprobado por la mitad más uno de los miembros de una y otra Cámara.
 
-**Artículo 88.** El Presidente de la República sancionará, sin poder presentar nuevas objeciones, todo proyecto que, reconsiderado, fuere adoptado por dos tercios de los votos en una y otra Cámara.
+Sin embargo, cuando las objeciones se refieran a cualquiera de los proyectos mencionados en los ordinales 2º, 3º, 4º, y 5º del Artículo 76, su rechazo en la Comisión o Cámara respectiva deberá ser aprobado por los dos tercios de los votos de los miembros que componen una y otra.
 
 ##### **Artículo 89.** Si el Gobierno no cumpliere el deber que se lo impone de sancionar las leyes en los términos y según las condiciones que este Título establece, las sancionará y promulgará el Presidente del Congreso.
 
@@ -622,7 +612,7 @@ En todo caso, el Presidente tiene facultad de nombrar y remover libremente sus a
 
 ##### **Artículo 116.** El Presidente de la República electo tomará posesión de su destino ante el Presidente del Congreso, y prestará juramento en estos términos. Juro a Dios cumplir fielmente la Constitución y leyes de Colombia.
 
-##### **Artículo 117.** Si por cualquier motivo el Presidente no pudiere tomar posesión ante el Presidente del Congreso, lo verificará ante el Presidente de la Corte Suprema y, en defecto de ésta, ante dos testigos.
+Si por cualquier motivo el Presidente no pudiere tomar posesión ante el Congreso, lo hará ante la Corte Suprema de Justicia, o en defecto de ésta, ante dos testigos.
 
 ##### **Artículo 118.** Corresponde al Presidente de la República en relación con el Poder Legislativo:
 
@@ -952,13 +942,15 @@ Las fracciones sobrantes de población que sumadas excedan de veinticinco mil ha
 
 Estos Jueces son responsables por las decisiones que dicten, y serán nombrados en la forma y por el tiempo que determine la ley.
 
-##### **Artículo 181.** La ley podrá establecer diversas categorías de Municipios, de acuerdo con su población, recursos fiscales e importancia económica, v señalar distinto régimen para su administración.
+##### **Artículo 181.** En cada uno de los Departamentos habrá un Gobernador, que será al mismo tiempo agente del Gobierno y Jefe de la Administración Seccional.
 
-**Artículo 181.** La ley determinará lo demás concerniente a elecciones y escrutinios, asegurando la independencia de unas y otras funciones; definirá los delitos que menoscaben la verdad y libertad del sufragio y establecerá la competente sanción penal.
+El Gobernador, como agente del Gobierno, dirigirá y coordinará, además, en el Departamento, los servicios nacionales en las condiciones de la delegación que le confiera el Presidente de la República.
 
 ## **Título XVIII. De la Administración departamental y municipal**
 
-##### **Artículo 182.** Los Departamentos para el servicio administrativo, se dividirán en Provincias, y éstas en distritos municipales.
+**Artúculo 182.** Los Departamentos tendrán independencia para la administración de los asuntos seccionales, con las limitaciones que establece la Constitución, y ejercerán sobre los Municipios la tutela administrativa necesaria para planificar y coordinar el desarrollo regional y local y la prestación de servicios, en los términos que las leyes señalen. Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, determinará los servicios a cargo de la Nación y de las entidades territoriales, teniendo en cuenta la naturaleza, importancia y costos de los mismos, y señalará el porcentaje de los ingresos ordinarios de la Nación que deba ser distribuido entre los Departamentos, las Intendencias y Comisarías y el Distrito Especial de Bogotá, para la atención de sus servicios y los de sus respectivos Municipios, conforme a los planes y programas que se establezcan.
+
+El treinta por ciento de esta asignación se distribuirá por partes iguales entre los Departamentos, Intendencias y Comisarías y el Distrito Especial de Bogotá, y el resto proporcionalmente a su población.
 
 ##### **Artículo 184.** Habrá en cada Departamento una corporación administrativa denominada Asamblea Departamental, que se reunirá ordinariamente cada año en la capital del Departamento, por un término de dos meses.
 
@@ -966,43 +958,43 @@ El Gobernador podrá convocarla a sesiones extraordinarias. La ley fijará la é
 
 ##### **Artículo 185.** Las Asambleas Departamentales son de elección popular y se compondrán de tantos Diputados cuantos correspondan a la población del respectivo Departamento, a razón de un Diputado por cada cuarenta mil habitantes, y uno más por fracción igual o mayor a la mitad de dicha cifra. En ningún caso se elegirá un número menor de Diputados de los que hoy se eligen. El número de suplentes será el mismo de los Diputados principales y reemplazarán a éstos en caso de falta absoluta o temporal, según el orden de colocación en la respectiva lista electoral.
 
-**Artículo 185.Sustituido por el ACTO LEGISLATIVO 7 DE 1905.**
+##### **Artículo 186.** Los Senadores y los Representantes tendrán voz en los organismos departamentales de planeación que organice la ley.
 
-**Artículo 185.** Corresponde a las Asambleas dirigir y fomentar, por medio de ordenanzas y con los recursos propios del Departamento, la instrucción primaria y la beneficencia, las industrias establecidas y la introducción de otras nuevas, la inmigración, la importación de capitales extranjeros, la colonización de tierras pertenecientes al Departamento, la apertura de caminos y de canales navegables, la construcción de vías férreas, la explotación de bosques de propiedad del Departamento, la canalización de ríos, lo relativo a la policía local, la fiscalización de las rentas y gastos de los distritos, y cuanto se refiera a los intereses seccionales y al adelantamiento interno.
+##### **Artículo 187.** Corresponde a las Asambleas, por medio de ordenanzas:
 
-##### **artículo 186.** Artículo 186. Las Asambleas Departamentales son de elección popular y se compondrán de tantos Diputados cuantos correspondan a la población del respectivo Departamento, a razón de un Diputado por cada 40.000 habitantes, y uno más por fracción igual o mayor a la mitad de dicha cifra.
+1º. Reglamentar de acuerdo con los preceptos constitucionales y legales, la prestación de los servicios a cargo del Departamento;
 
-"Cuando la base de población dé por resultado para un Departamento número par de Diputados, automáticamente éste tendrá derecho a elegir uno más para que siempre sea impar el número de Diputados elegidos. En ningún caso se elegirá un número menor de Diputados de los que hoy se eligen. El número de suplentes será el mismo de los Diputados principales, y reemplazarán a éstos en caso de falta absoluta o temporal, según el orden de colocación en la respectiva lista electoral.
+2º. Fijar, a iniciativa del Gobernador, los planes y programas de desarrollo económico y social departamental, así como los de las obras públicas que hayan de emprenderse o continuarse, con la determinación de los recursos e inversiones que se autoricen para su ejecución, y de las medidas necesarias para impulsar el cumplimiento de los mismos; tales planes y programas se elaborarán bajo las normas que establezca la ley para que puedan ser coordinados con los planes y programas regionales y nacionales;
 
-Para ser Diputado se necesitan las mismas calidades que para ser Representante".
+3º. Fomentar, de acuerdo con planes y programas generales, las empresas, industrias y actividades convenientes al desarrollo cultural, social y económico del Departamento, y que no correspondan a la Nación o a los Municipios;
 
-**artículo 186.** Corresponde a las Asambleas:
+4º. Crear y suprimir Municipios, segregar o agregar términos municipales y fijar límites entre los Distritos, llenando estrictamente los requisitos que establezca la ley;
 
-- 1° Reglamentar, por medio de ordenanzas y de acuerdo con los preceptos constitucionales y legales, los establecimientos de instrucción primaria y secundaria y los de beneficencia, cuando fueren costeados con fondos del Departamento;
+5º. Determinar, a iniciativa del Gobernador, la estructura de la administración departamental, las funciones de las diferentes dependencias y las escalas de remuneración correspondientes a las distintas categorías de empleo;
 
-- 2° Dirigir y fomentar por medio de ordenanzas y con los recursos propios del Departamento, las industrias establecidas, y la introducción de otras nuevas, la importación de capitales extranjeros, la colonización de tierras pertenecientes al Departamento, la apertura de caminos y de canales navegables, la construcción de vías férreas, la explotación de bosques de propiedad del Departamento, la canalización de ríos, lo relativo a la Policía local en todo aquello que no haya sido materia de reglamentación por la ley la fiscalización de las rentas y gastos de los Distritos, y cuanto se refiera a los intereses seccionales y al adelantamiento interno;
+6º. Crear, a iniciativa del Gobernador, los establecimientos públicos, sociedades de economía mixta y empresas industriales y comerciales, conforme a las normas que determine la ley;
 
-- 3° Organizar la Contraloría Departamental y elegir el Contralor para un período de dos años;
+7º. Expedir anualmente el presupuesto de rentas y gastos del Departamento, con base en el proyecto presentado por el Gobernador y de acuerdo con las correspondientes normas legales. En todo caso, las ordenanzas que decreten inversiones y participaciones de fondos departamentales; las que decreten cesiones de bienes y rentas del Departamento, y las que creen servicios a cargo del mismo o las traspasen a él, sólo podrán ser dictadas o reformadas a iniciativa del Gobernador;
 
-- 4° Crear y suprimir Municipios, segregar o agregar términos municipales, y fijar límites entre los Distritos, llenando estrictamente los requisitos que establezca la ley;
+8º. Organizar la Contraloría Departamental y elegir Contralor para un período de dos años;
 
-- 5° La fijación del número de empleados departamentales, sus atribuciones y sueldos;
+9º. Reglamentar lo relativo a la policía local en todo aquello que no sea materia de disposición legal;
 
-- 6° Llenar las demás funciones que les señalen la Constitución y las leyes.
+- 10. Autorizar al Gobernador para celebrar contratos, negociar empréstitos, enajenar bienes departamentales y ejercer, pro tempore, precisas funciones de las que corresponden a las Asambleas; y,
 
-**Artículo 186.** Compete también a las Asambleas departamentales crear y suprimir Municipios, con arreglo a la base de población que determine la ley, y segregar y agregar términos municipales consultando los intereses locales. Si de un acto de agregación o segregación se quejare algún vecindario interesado en el asunto, la resolución definitiva corresponde al Congreso.
+- 11. Las demás funciones que les señalen la Constitución y las leyes.
 
-##### **Artículo 187.** Las Asambleas departamentales, además de sus atribuciones propias, podrán ejercer otras funciones por autorización del Congreso.
+**Parágrafo.** En los casos de los ordinales 5º, 6º y 7º, las Asambleas conservan el derecho de introducir en los proyectos y respecto a las materias específicas sobre que versan, las modificaciones que acuerden.
 
 ##### **Artículo 188.** Las Asambleas votarán anualmente el presupuesto de rentas y gastos del respectivo Departamento de acuerdo con las normas que establezca la ley.
 
 La ley podrá limitar las apropiaciones departamentales destinadas a asignaciones de los Diputados, gasto del funcionamiento de las Asambleas y de las Contralorías Departamentales.
 
-##### **Artículo 189. Sustituido por el** **ACTO LEGISLATIVO 1 DE 1909.**
+##### **Artículo 189.** La ley, a iniciativa del Gobierno, determinará los procedimientos para la discusión, modificaciones y vigencia de las ordenanzas a que se refiere el ordinal 2º del Artículo 187.
 
-**Artículo 189. sustituido por el **ACTO LEGISLATIVO 2 DE 1907****
+Igualmente, a iniciativa del Gobierno, la ley determinará lo relativo a los planes y programas de desarrollo económico y social y de obras públicas de los Municipios, y podrá también, atendiendo sus categorías conforme al Artículo 193, otorgar exclusivamente al Alcalde la iniciativa de los proyectos de acuerdo sobre determinadas materias.
 
-**Artículo 189.** Las Asambleas votarán cada dos años el Presupuesto de rentas y gastos del respectivo Departamento, y en él apropiarán las partidas necesarias para cubrirlos gastos que les correspondan, conforme a la ley.
+**Parágrafo.** En el Distrito Especial de Bogotá, la iniciativa para los proyectos de acuerdo sobre las materias a que se refieren los ordinales 2º y 7º del Artículo 187 corresponde al Alcalde.
 
 ##### **Artículo 191.** Derogado.
 
@@ -1036,13 +1028,17 @@ La ley podrá limitar las apropiaciones departamentales destinadas a asignacione
 
 - 4° Ejercer las demás funciones que la ley les señale.
 
-##### **Artículo 196.** Derogado.
+##### **Artículo 196.** En cada Distrito Municipal habrá una corporación administrativa de elección popular que se denominará Concejo Municipal, y estará integrada por no menos de seis ni más de veinte miembros, según lo determine la ley, atendida la población respectiva. El número de suplentes será el mismo de los Concejales principales, y reemplazarán a éstos en caso de falta absoluta o temporal, según el orden de colocación en la respectiva lista electoral.
 
-**Artículo 196.** Los Gobernadores estarán sujetos a responsabilidad administrativa y judicial. Son amovibles por el Gobierno, y responsables ante la Corte Suprema por los delitos que cometieren en el ejercicio de sus funciones.
+La ley determinará las calidades e incompatibilidades de los Concejales y la época de sesiones ordinarias de los Concejos.
 
-##### **Artículo 198.** En todo Municipio habrá un Alcalde, que ejercerá las funciones de agente del Gobernador, y que será Jefe de la Administración municipal, conforme a las normas que la ley le señale.
+Los Concejos podrán crear juntas Administradoras locales para sectores del territorio municipal, asignándoles algunas de sus funciones y señalando su organización, dentro de los límites que determine le ley.
 
-**Artículo 198.** En cada Distrito municipal habrá una Corporación popular que se designará con el nombre de Consejo municipal.
+##### **Artículo 198.** La ley podrá establecer diversas categorías de Municipios de acuerdo con su población, recursos fiscales e importancia económica, y señalar distinto régimen para su administración.
+
+Para la mejor administración o prestación de servicios públicos de dos o más Municipios de un mismo Departamento, cuyas relaciones den al conjunto las características de un área metropolitana, la ley podrá organizarlos como tales, bajo autoridades y régimen especiales, con su propia personería, garantizando una adecuada participación de las autoridades municipales en dicha organización. Corresponde a las Asambleas, a iniciativa del Gobernador y oída previamente la opinión de los Concejos de los Municipios interesados, disponer el funcionamiento de las entidades así autorizadas.
+
+La ley establecerá las condiciones y las normas bajo las cuales los Municipios puedan asociarse entre sí para la prestación de los servicios públicos. Las Asambleas, a iniciativa del Gobernador, podrán hacer obligatoria tal asociación, conforme a la ley citada, cuando la más eficiente y económica prestación de los servicios así lo requieran.
 
 ##### **Artículo 199.** Corresponde a los Consejos municipales ordenar lo conveniente, por medio de acuerdos o reglamentos interiores, para la administración del Distrito; votar, en conformidad con las ordenanzas expedidas por las Asambleas, las contribuciones y gastos locales; llevar el movimiento anual de la población; formar el censo civil cuando lo determine la ley ejercer las demás funciones que le sean señaladas.
 
@@ -1064,23 +1060,11 @@ La ley podrá limitar las apropiaciones departamentales destinadas a asignacione
 
 La ley determinará el orden y modo de satisfacer estas obligaciones.
 
-##### **Artículo 204.** Cuando el Congreso no vote la Ley de Presupuesto para el correspondiente año económico, continuará vigente el Presupuesto del año anterior, pero el Gobierno podrá reducir los gastos, y, en consecuencia, suprimir o refundir empleos, cuando así lo aconsejen los cálculos de rentas del nuevo ejercicio.
+##### **Artículo 204.** La Ley que establezca una contribución indirecta o aumento de impuestos de esta clase, determinará la fecha en que comenzarán a cobrarse.
 
-**Artículo 204.** Derogado.
+##### **Artículo 205.** Las variaciones en la tarifa de aduanas se decretarán por el Gobierno, de conformidad con las leyes que contempla el ordinal 22 del Artículo 76, y entrarán en vigencia de acuerdo también con lo que prescriban dichas normas.
 
-**Artículo 204.** Ninguna contribución indirecta ni aumento de impuestos de esta clase, empezará a cobrarse sino seis meses después de promulgada la ley que establezca la contribución o el aumento.
-
-##### **Artículo 205.** Toda variación en la Tarifa de Aduanas que tengan por objeto disminuir los derechos de importación, comenzará á ser ejecutada noventa días después de sancionada la ley que se establezca, y la rebaja se hará por décimas partes en los diez meses subsiguientes.
-
-Si la variación tiene por objeto el alza de los derechos, ésta se verificará por terceras partes en los tres meses siguientes á la sanción de la ley.
-
-Esta disposición y la del artículo 204 de la Constitución, no limitan las facultades extraordinarias del Gobierno cuando de ellas esté revestido.
-
-**Artículo 205.** Ninguna variación en la Tarifa de Aduana comenzará a ser ejecutada sino noventa días después de sancionada la ley que la establezca; y toda alza o baja en los derechos de importación se verificará por décimas partes en los diez meses subsiguientes. Esta disposición y la del anterior Artículo, no limitan las facultades extraordinarias del Gobierno cuando de ellas esté revestido.
-
-##### **Artículo 206.** Cada Ministerio formará cada dos años el Presupuesto de gastos de su servicio, y lo pasará al del Tesoro, por el cual será redactado el general de la Nación, y sometido a la aprobación del Congreso, junto con el de rentas en que se propondrán los medios necesarios para cubrir las obligaciones.
-
-Cuando el Congreso no vote ley de Presupuesto para el correspondiente bienio económico, continuará vigente el Presupuesto del bienio anterior.
+##### **Artículo 206.** En tiempo de paz no se podrá percibir contribución o impuesto que no figure en el Presupuesto de Rentas, ni hacer erogación del Tesoro que no se halle incluida en el de Gastos.
 
 ##### **Artículo 207.** Derogado.
 
@@ -1088,15 +1072,7 @@ Cuando el Congreso no vote ley de Presupuesto para el correspondiente bienio eco
 
 ## **Título XX. De la reforma de esta Constitución y abrogación de la anterior**
 
-##### **Artículo 209.** La vigilancia de la gestión fiscal de la Administración corresponde a la Contraloría General de la República.
-
-La Contraloría será una oficina de contabilidad y de vigilancia fiscal, y no ejercerá funciones administrativas distintas de las inherentes al desarrollo de su propia organización.
-
-El Contralor General de la República será elegido por la Cámara de Representantes para períodos de dos años.
-
-**Aetículo 209.** Sustituido por el **ACTO LEGISLATIVO 9 DE 1905.**
-
-**Artículo 209.** Esta Constitución podrá ser reformada por un acto legislativo, discutido primeramente y aprobado en tres debates por el Congreso en la forma ordinaria, transmitido por el Gobierno, para su examen definitivo, a la Legislatura subsiguiente, y por ésta nuevamente debatido, y últimamente aprobado por dos tercios de los votos en ambas Cámaras.
+**Artíclo 209.** Si el Congreso no expidiere el Presupuesto, regirá el presentado por el Gobierno dentro de los términos del Artículo precedente; si el Presupuesto no hubiere sido presentado dentro de dicho plazo, regirá el del año anterior, pero el Gobierno podrá reducir gastos, y, en consecuencia, suprimir o refundir empleos, cuando así lo aconsejen los cálculos de rentas del nuevo ejercicio.
 
 ## **Título XXI (adicional). Disposiciones transitorias.**
 
