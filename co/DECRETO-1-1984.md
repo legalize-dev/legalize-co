@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "2000-07-05"
+last_updated: "2003-06-05"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -469,7 +469,9 @@ Si fuere posible que la administración o un agente suyo ejecuten los actos que 
 
 ##### **Artículo 70.** IMPROCEDENCIA. No podrá pedirse la revocación directa de los actos administrativos contra los cuales procedan los recursos de la vía gubernativa.
 
-##### **Artículo 71. Oportunidad**. La revocación podrá cumplirse en cualquier tiempo, inclusive en relación con actos en firme o aun cuando se haya acudido a los tribunales contenciosos administrativos, siempre que en este último caso no se haya dictado auto admisorio de la demanda.
+##### **Artículo 71.** *Oportunidad.* la revocación directa podrá cumplirse en cualquier tiempo, inclusive en relación con actos en firme o aun cuando se haya acudido a los tribunales contencioso administrativos, siempre que en este último caso no se haya dictado auto admisorio de la demanda.
+
+En todo caso, las solicitudes de revocación directa de los actos administrativos de contenido general y las que se refieran a aquellos de contenido particular y concreto en relación con los cuales no se haya agotado la vía gubernativa o no se haya admitido la demanda ante los tribunales contencioso administrativos dentro del término de caducidad de la acción de nulidad y restablecimiento del derecho, deberán ser resueltas por la autoridad competente dentro de los tres (3) meses siguientes a su presentación.
 
 ##### **Artículo 72. Efectos**. Ni la petición de revocación de un acto, ni la decisión que sobre ella recaiga revivirán los términos legales para el ejercicio de las acciones contencioso administrativas, ni darán lugar a la aplicación del silencio administrativo.
 
