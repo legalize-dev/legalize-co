@@ -4,7 +4,7 @@ identifier: "DECRETO-97-1989"
 country: "co"
 rank: "decreto"
 publication_date: "1989-01-11"
-last_updated: "1989-01-11"
+last_updated: "1990-06-11"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1704823"
 department: "MINISTERIO DE DEFENSA NACIONAL"
@@ -30,7 +30,7 @@ El Presidente de la República de Colombia, en uso de las facultades extraordina
 
 ##### **Artículo 1**ºDEFINICIÓN. La Policía Nacional es una Institución de carácter permanente y naturaleza oficial, constituida con régimen y disciplina especiales, que depende del Ministerio de Defensa Nacional y hace parte de la Fuerza Pública en los términos de los artículos 167 y 168 de la Constitución Política y cumple con la función y servicio público de Policía a cargo del Estado, encaminado a mantener y garantizar el orden público interno de la Nación, el libre ejercicio de las libertades públicas y la convivencia pacífica de todos los habitantes del territorio nacional.
 
-##### **Artículo 2**º AMBITO DEL ESTATUTO. Por medio de este estatuto se regula la carrera profesional de los Agentes de la Policía Nacional y sus prestaciones sociales.
+##### **Artículo 2**ºAMBITO DEL ESTATUTO. Por medio de este estatuto se regula la carrera profesional de los Agentes de la Policía Nacional y sus prestaciones sociales.
 
 ##### **Artículo 3**ºDETERMINACIÓN DE LA PLANTA. La planta de Agentes de la Policía Nacional, será fijada anualmente por el Gobierno Nacional de acuerdo con las necesidades de la Institución.
 
@@ -196,15 +196,15 @@ Parágrafo 2ºLas entidades pagadoras de la Policía Nacional que cubran las pri
 
 ##### **Artículo 29**. HABERES MENSUALES FUERA DEL PAÍS. Los Agentes de la Policía Nacional en servicio activo que sean destinados en comisión al exterior, tendrán derecho al pago de sus haberes de conformidad con las disposiciones legales vigentes.
 
-##### **Artículo 30**. PRIMA DE ACTIVIDAD. Los Agentes de la Policía Nacional en servicio activo, tendrán derecho a una prima mensual de actividad, que será equivalente al treinta por ciento (30%) del sueldo básico y se aumentará en un cinco por ciento (5%) por cada cinco (5) años de servicio cumplido.
+##### **Artículo 30**.PRIMA DE ACTIVIDAD. Los Agentes de la Policía Nacional en servicio activo, tendrán derecho a una prima mensual de actividad, que será equivalente al treinta por ciento (30%) del sueldo básico y se aumentará en un cinco por ciento (5%) por cada cinco (5) años de servicio cumplido.
 
-##### **Artículo 31**. PRIMA DE SERVICIO ANUAL. Los Agentes de la Policía en servicio activo tendrán derecho al pago de una prima equivalente al cincuenta por ciento (50%) de la totalidad de los haberes devengados en el mes de junio del respectivo año, la cual se pagará dentro de los quince (15) primeros días del mes de julio de cada año.
+##### **Artículo 31**.PRIMA DE SERVICIO ANUAL. Los Agentes de la Policía en servicio activo tendrán derecho al pago de una prima equivalente al cincuenta por ciento (50%) de la totalidad de los haberes devengados en el mes de junio del respectivo año, la cual se pagará dentro de los quince (15) primeros días del mes de julio de cada año.
 
-Parágrafo 1º A quienes se encuentran en comisión del servicio en el exterior, la prima de que trata este artículo se les pagará en pesos colombianos, liquidada sobre los haberes que devengarían si estuvieren prestando sus servicios en la ciudad de Bogotá.
+Parágrafo 1ºA quienes se encuentran en comisión del servicio en el exterior, la prima de que trata este artículo se les pagará en pesos colombianos, liquidada sobre los haberes que devengarían si estuvieren prestando sus servicios en la ciudad de Bogotá.
 
-Parágrafo 2º Cuando el Agente no hubiere servido el año completo, tendrá derecho al pago de esta prima arazón de una doceava parte (1/12) por cada mes completo de servicio, liquidada con base en los haberes devengados en el último mes.
+Parágrafo 2ºCuando el Agente no hubiere servido el año completo, tendrá derecho al pago de esta prima arazón de una doceava parte (1/12) por cada mes completo de servicio, liquidada con base en los haberes devengados en el último mes.
 
-##### **Artículo 32**. PRIMA DE NAVIDAD. Los Agentes de la Policía Nacional en servicio activo, tendrán derecho a recibir anualmente del Tesoro Público una prima de Navidad equivalente a latotalidad de los haberes vengados en el mes de noviembre del respectivo año.
+##### **Artículo 32**.PRIMA DE NAVIDAD. Los Agentes de la Policía Nacional en servicio activo, tendrán derecho a recibir anualmente del Tesoro Público una prima de Navidad equivalente a latotalidad de los haberes vengados en el mes de noviembre del respectivo año.
 
 Parágrafo. Cuando el Agente se encuentre en comisión mayor de noventa (90) días en el exterior, la prima de Navidad será pagada de acuerdo con las normas legales vigentes sobre la materia.
 
@@ -226,9 +226,9 @@ Cuando el traslado o comisión permanente sea al exterior o del exterior al paí
 
 Parágrafo.Los Agentes solteros tendrán derecho a una prima de instalación equivalente al cero punto siete (0.7) sueldos básicos. Si el traslado o comisión permanente fuere al exterior, o del exterior al país, la prima se pagará; de acuerdo con las disposiciones legales vigentes.
 
-##### **Artículo 38**. CANCELACIÓN DE LA PRIMA DE INSTALACIÓN EN PESOS. Cuando la prima de instalación se deba pagar en dólares por traslado del exterior al país y no sea situada oportunamente, el Agente tendrá derecho al pago de ella en pesos colombianos, al tipo oficial vigente para la fecha de su llegada al país.
+##### **Artículo 38**.CANCELACIÓN DE LA PRIMA DE INSTALACIÓN EN PESOS. Cuando la prima de instalación se deba pagar en dólares por traslado del exterior al país y no sea situada oportunamente, el Agente tendrá derecho al pago de ella en pesos colombianos, al tipo oficial vigente para la fecha de su llegada al país.
 
-##### **Artículo 39**. EXCEPCIÓN PAGO PRIMA DE INSTALACIÓN. Esta prima no se reconocerá si el traslado se efectuó a solicitud del Agente.
+##### **Artículo 39**.EXCEPCIÓN PAGO PRIMA DE INSTALACIÓN. Esta prima no se reconocerá si el traslado se efectuó a solicitud del Agente.
 
 ##### **Artículo 40**. ANTICIPO DE HABERES POR COMISIÓN AL EXTERIOR. Los Agentes que sean destinados en comisión al exterior, por más de treinta (30) días, tendrán derecho al anticipo de un mes de los haberes mensuales.
 
@@ -246,9 +246,9 @@ Parágrafo.Esta recompensa no será computable para efectos de asignación de re
 
 La Dirección General de la Policía Nacional señalará el personal que se haga acreedor a este beneficio.
 
-##### **Artículo 44**. SUBSIDIO DE ALIMENTACIÓN. Los Agentes de la Policía Nacional en servicio activo, tendrán derecho a un subsidio mensual de alimentación en cuantía que en todo tiempo determinen las disposiciones legales vigentes sobre la materia.
+##### **Artículo 44**.SUBSIDIO DE ALIMENTACIÓN. Los Agentes de la Policía Nacional en servicio activo, tendrán derecho a un subsidio mensual de alimentación en cuantía que en todo tiempo determinen las disposiciones legales vigentes sobre la materia.
 
-##### **Artículo 45**. SUBSIDIO FAMILIAR. Los Agentes de la Policía Nacional, en servicio activo, tendrán derecho al pago de un subsidio familiar que se liquidará mensualmente sobre el sueldo básico así:
+##### **Artículo 45**.SUBSIDIO FAMILIAR. Los Agentes de la Policía Nacional, en servicio activo, tendrán derecho al pago de un subsidio familiar que se liquidará mensualmente sobre el sueldo básico así:
 
 - a) Casados, el treinta por ciento (30%) más los porcentajes a que tenga derecho, conforme al literal c) de este artículo;
 
@@ -278,7 +278,7 @@ ESTUDIANTE. La persona que concurre regularmente a un centro de educación, capa
 
 DEPENDENCIA ECONÓMICA. Aquella situación en que la persona no puede atender por sí misma a su congrua subsistencia, debiendo recurrir para ello al sostén económico que puede ofrecerle el Agente del cual aparece como dependiente.
 
-##### **Artículo 47**. EXTINCIÓN DEL SUBSIDIO FAMILIAR. El subsidio familiar extingue por razón del cónyuge en los siguientes casos:
+##### **Artículo 47**.EXTINCIÓN DEL SUBSIDIO FAMILIAR. El subsidio familiar extingue por razón del cónyuge en los siguientes casos:
 
 - a) Por muerte del cónyuge;
 
@@ -292,7 +292,7 @@ DEPENDENCIA ECONÓMICA. Aquella situación en que la persona no puede atender po
 
 **Parágrafo**. Se ordenará la extinción cuando se presenta alguno de los casos anteriores, siempre que no hubiere hijos a cargo, por los que exista el derecho a percibir el subsidio familiar.
 
-##### **Artículo 48**. DESCUENTO SUBSIDIO FAMILIAR. La extinción del subsidio familiar tendrá efectos desde que se presente el hecho, en caso de muerte o desde la fecha de ejecutoria de la sentencia o fallo respectivo en los demás eventos; la disminución regirá a partir de la fecha en que se haya producido el hecho que la determina.
+##### **Artículo 48**.DESCUENTO SUBSIDIO FAMILIAR. La extinción del subsidio familiar tendrá efectos desde que se presente el hecho, en caso de muerte o desde la fecha de ejecutoria de la sentencia o fallo respectivo en los demás eventos; la disminución regirá a partir de la fecha en que se haya producido el hecho que la determina.
 
 En uno y otro caso, los interesados están en la obligación de dar el aviso correspondiente dentro de los noventa (90) días siguientes, si no lo hicieren, la Dirección General de la Policía Nacional ordenará el descuento de una suma igual al doble de lo que hubieren recibido en exceso.
 
@@ -346,7 +346,7 @@ Parágrafo. En ningún caso de las comisiones colectivas transitorias darán der
 
 **DESCUENTOS.**
 
-##### **Artículo 59**. AHORRO OBLIGATORIO CAJA DE VIVIENDA MILITAR. Los Agentes de la Policía Nacional en servicio activo contribuirán con el siete por cierto (7%) del sueldo básico mensual, como ahorro obligatorio, con destino a la Caja de Vivienda Militar para efectos de solución de vivienda. Igualmente contribuirán los retirados con derecho a asignación de retiro o pensión que lo soliciten.
+##### **Artículo 59**.AHORRO OBLIGATORIO CAJA DE VIVIENDA MILITAR. Los Agentes de la Policía Nacional en servicio activo contribuirán con el siete por cierto (7%) del sueldo básico mensual, como ahorro obligatorio, con destino a la Caja de Vivienda Militar para efectos de solución de vivienda. Igualmente contribuirán los retirados con derecho a asignación de retiro o pensión que lo soliciten.
 
 ##### **Artículo 60**. AFILIACIÓN Y COTIZACIÓN. Los Agentes de la Policía Nacional en servicio activo contribuirán para el sostenimiento de la Caja de Sueldos de Retiro de la Policía Nacional con un treinta por ciento (30%) del primer sueldo básico como cuota de afiliación y con una cuota mensual equivalente al ocho por ciento (8%) del respectivo sueldo básico.
 
@@ -578,7 +578,7 @@ Parágrafo.Fuera de las partidas especificas señaladas en este artículo ningun
 
 Parágrafo. Queda entendido que no habrá lugar a los reajustes establecidos en este artículo entre el 24 de agosto de 1984 y las iniciaciones de las vigencias fiscales indicadas en esta norma.
 
-##### **Artículo 101**. CESANTÍA E INDEMNIZACIÓN. Los Agentes de la Policía Nacional a partir de la vigencia de este Decreto, que sean retirados o se retiren de servicio activo por cualquier causa, tendrán derecho a que el Tesoro Público les pague por una (1) sola vez, un auxilio de cesantía igual a un (1) mes de los últimos haberes devengados correspondientes a su condición por cada año de servicio o fracción de seis (6) meses o más, tomando como base las partidas señaladas en el artículo 98 de este Decreto y las indemnizaciones que legalmente les corresponden, liquidadas igualmente conforme al citado artículo.
+##### **Artículo 101**.CESANTÍA E INDEMNIZACIÓN. Los Agentes de la Policía Nacional a partir de la vigencia de este Decreto, que sean retirados o se retiren de servicio activo por cualquier causa, tendrán derecho a que el Tesoro Público les pague por una (1) sola vez, un auxilio de cesantía igual a un (1) mes de los últimos haberes devengados correspondientes a su condición por cada año de servicio o fracción de seis (6) meses o más, tomando como base las partidas señaladas en el artículo 98 de este Decreto y las indemnizaciones que legalmente les corresponden, liquidadas igualmente conforme al citado artículo.
 
 ##### **Artículo 102**. ASIGNACIÓN DE RETIRO. Durante la vigencia del presente estatuto los Agentes de la Policía Nacional que sean retirados del servicio activo después de quince (15) años, por disposición de la Dirección General, o por sobrepasar la edad máxima correspondiente a su categoría o por disminución de la capacidad sicofísica, o por conducta deficiente y los que se retiren a solicitud propia después de los veinte (20) años de servicio, tendrán derecho a partir de la fecha en que terminen los tres meses de alta, a que por la Caja de Sueldos de Retiro de la Policía Nacional se les pague una asignación mensual de retiro equivalente a un cincuenta por ciento (50%) del monto de las partidas de que trata el artículo 98 de este estatuto, por los quince (15) primeros años de servicio y un cuatro por ciento (4%) más por cada año que exceda de los quince (15) sin que el total sobrepase del ochenta y cinco por ciento (85%) de los haberes de actividad.
 
@@ -590,15 +590,15 @@ Parágrafo 2ºLos Agentes retirados antes del 17 de diciembre de 1968 con treint
 
 ##### **Artículo 104**. TRES MESES DE ALTA. Los Agentes de la Policía Nacional que pasen a la situación de retiro temporal o absoluto y tengan derecho a asignación de retiro o pensión continuarán dados de alta en la respectiva pagaduría por tres meses a partir de la fecha en que se cause la novedad de retiro, para la formación del expediente de prestaciones sociales. Durante dicho lapso y salvo lo dispuesto en el artículo 28 de este Decreto, continuarán recibiendo la totalidad de los haberes devengados en actividad correspondientes a su categoría. El lapso de los tres (3) meses de alta se considerará como de servicio activo, únicamente para efectos de prestaciones sociales.
 
-##### **Artículo 105.** RETIRO EN ESTADO DE EMBARAZO. Las Agentes de la Policía Nacional que sean retiradas del servicio activo durante el embarazo o los tres (3) meses siguientes al parto o al aborto tendrán derecho a que se les pague una indemnización equivalente a sus haberes de sesenta (60) días, fuera de las demás prestaciones a que hubiere lugar de conformidad con este estatuto y además a pago de la licencia remunerada si el retiro impide el goce de dicha licencia.
+##### **Artículo 105.**RETIRO EN ESTADO DE EMBARAZO. Las Agentes de la Policía Nacional que sean retiradas del servicio activo durante el embarazo o los tres (3) meses siguientes al parto o al aborto tendrán derecho a que se les pague una indemnización equivalente a sus haberes de sesenta (60) días, fuera de las demás prestaciones a que hubiere lugar de conformidad con este estatuto y además a pago de la licencia remunerada si el retiro impide el goce de dicha licencia.
 
-##### **Artículo 106**. PRESTACIONES POR RETIRO O MUERTE ENSITUACIONES ESPECIALES. Las prestaciones sociales de los Agentes de la Policía Nacional que se retiren o sean retirados durante el desempeño de comisiones en el exterior o mientras se encuentren disfrutando de las remuneraciones especiales a que se refiere el artículo 28 de este Decreto, serán las correspondientes a la condición de Agente y se liquidarán y pagarán sobre la base de los haberes que recibirían si se encontraran prestando sus servicios en la ciudad de Bogotá.
+##### **Artículo 106**.PRESTACIONES POR RETIRO O MUERTE ENSITUACIONES ESPECIALES. Las prestaciones sociales de los Agentes de la Policía Nacional que se retiren o sean retirados durante el desempeño de comisiones en el exterior o mientras se encuentren disfrutando de las remuneraciones especiales a que se refiere el artículo 28 de este Decreto, serán las correspondientes a la condición de Agente y se liquidarán y pagarán sobre la base de los haberes que recibirían si se encontraran prestando sus servicios en la ciudad de Bogotá.
 
 En caso de muerte del Agente que se encuentre en las situaciones especiales a que se refiere este artículo, se procederá en igual forma para el reconocimiento de las prestaciones a favor de sus beneficiarios.
 
 ##### **Artículo 107**. CÓMPUTO PARTIDA SUBSIDIO FAMILIAR. A partir de la vigencia del presente Decreto, la partida de subsidio familiar que se haya incluido o se incluya para la liquidación de las asignaciones de retiro y pensiones a que se refiere el literal b) del artículo 98 de este estatuto, no sufrirá variaciones de ninguna especie. Tampoco habrá lugar a la modificación e inclusión de dicha partida por hechos ocurridos con posterioridad al retiro del Agente. Lo anterior no obsta para que en cualquier tiempo se ordene la inclusión, el aumento disminución o extinción de la partida de subsidio familiar como factor de liquidación de la respectiva asignación de retiro o pensión, cuando se compruebe que al Agente se le venía considerando un porcentaje diferente al que legalmente le correspondía.
 
-##### **Artículo 108.** OSCILACIÓN DE ASIGNACIONES DE RETIRO Y PENSIONES. Las asignaciones de retiro y pensiones de que trata el presente Decreto se liquidarán tomando en cuenta las variaciones que en todo tiempo se introduzcan en las asignaciones de actividad para un Agente y de conformidad con lo dispuesto en el artículo 98 de este estatuto; en ningún caso aquellas serán inferiores al salario mínimo legal. Los Agentes o beneficiarios no podrán acogerse a normas que regulen ajustes prestacionales en otros sectores de la Administración Pública, a menos que así lo disponga expresamente la ley.
+##### **Artículo 108.**OSCILACIÓN DE ASIGNACIONES DE RETIRO Y PENSIONES. Las asignaciones de retiro y pensiones de que trata el presente Decreto se liquidarán tomando en cuenta las variaciones que en todo tiempo se introduzcan en las asignaciones de actividad para un Agente y de conformidad con lo dispuesto en el artículo 98 de este estatuto; en ningún caso aquellas serán inferiores al salario mínimo legal. Los Agentes o beneficiarios no podrán acogerse a normas que regulen ajustes prestacionales en otros sectores de la Administración Pública, a menos que así lo disponga expresamente la ley.
 
 ##### **Artículo 109**. LIQUIDACIÓN DE TIEMPO DE SERVICIO. Para efectos de asignación de retiro y demás prestaciones sociales, la Policía Nacional, liquidará el tiempo de servicio, así:
 
@@ -624,13 +624,13 @@ Cuando se trate de obligaciones contraídas con el ramo de defensa, podrá orden
 
 ##### **Artículo 111**. PRESCRIPCIÓN. El derecho a reclamar las prestaciones unitarias y las mesadas de las prestaciones periódicas consagradas en este estatuto, prescribe a los cuatro (4) años, que se cuentan desde la fecha en que la respectiva prestación se hace exigible. El reclamo escrito recibido por la autoridad competente sobre un derecho o prestación determinada interrumpe la prescripción pero sólo por un lapso igual. El derecho al pago de los valores reconocidos prescribe en dos (2) años, contados a partir de la ejecutoria del respectivo acto administrativo y pasarán a la Caja de Sueldos de Retiro de la Policía Nacional.
 
-##### **Artículo 112**. FORMA DE PAGO DE ASIGNACIONES DE RETIRO Y PENSIONES. Las asignaciones de retiro y pensiones policiales se pagarán por mensualidades vencidas durante la vida del agraciado y son compatibles con los sueldos provenientes del desempeño de empleos públicos, incluidos los correspondientes a la actividad policial por movilización o llamamiento colectivo al servicio.
+##### **Artículo 112**.FORMA DE PAGO DE ASIGNACIONES DE RETIRO Y PENSIONES. Las asignaciones de retiro y pensiones policiales se pagarán por mensualidades vencidas durante la vida del agraciado y son compatibles con los sueldos provenientes del desempeño de empleos públicos, incluidos los correspondientes a la actividad policial por movilización o llamamiento colectivo al servicio.
 
 Las asignaciones de retiro y pensiones policiales son incompatibles entre sí y no son reajustables por servicios prestados en entidades de servicio público, igualmente son incompatibles con las pensiones de invalidez o de retiro por vejez, pero el interesado puede optar por la más favorable.
 
 Las asignaciones de retiro y pensiones policiales son compatibles con las pensiones de jubilación e invalidez provenientes de entidades de derecho público.
 
-##### **Artículo 113.** SERVICIOS MEDICO-ASISTENCIALES EN RETIRO. Los Agentes de Policía Nacional en goce de asignación de retiro o pensión tendrán derecho a que el Gobierno les suministre dentro del país, asistencia médica, quirúrgica, odontológica, farmacéutica, hospitalaria y demás servicios asistenciales para ellos, sus cónyuges e hijos hasta la edad de veintiún (21) años, en hospitales y clínicas de la Policía o por medio de contratos con personas naturales o jurídicas.
+##### **Artículo 113.**SERVICIOS MEDICO-ASISTENCIALES EN RETIRO. Los Agentes de Policía Nacional en goce de asignación de retiro o pensión tendrán derecho a que el Gobierno les suministre dentro del país, asistencia médica, quirúrgica, odontológica, farmacéutica, hospitalaria y demás servicios asistenciales para ellos, sus cónyuges e hijos hasta la edad de veintiún (21) años, en hospitales y clínicas de la Policía o por medio de contratos con personas naturales o jurídicas.
 
 Parágrafo. El Gobierno establecerá tarifas para la prestación de los servicios asistenciales a los beneficiarios de los Agentes en goce de asignación de retiro o pensión.
 
@@ -722,7 +722,7 @@ Parágrafo. Se entiende por actos meritorios del servicio para todo efecto, aque
 
 ##### **Artículo 123**. MUERTE CON DOCE AÑOS DE SERVICIO. Cuando el Agente falleciere por accidente en misión del servicio o por causas inherentes al mismo, con doce (12) años o más del servicio pero con menos de quince (15), la pensión a que tienen derecho los beneficiarios se liquidarán como si el Agente hubiere cumplido quince (15) años de servicio.
 
-##### **Artículo 124**. SERVICIOS MEDICO-ASISTENCIALES A FAMILIARES DEL FALLECIDO. El cónyuge e hijos hasta la edad de veintiún (21) años, de los Agentes de la Policía Nacional que fallezcan en actividad con más de doce (12) o quince (15) años de servicio, según el caso, tendrán derecho a que el Gobierno les suministre asistencia médica, quirúrgica, odontológica, servicios hospitalarios y farmacéuticos, mientras disfruten de pensión decretada con base en los servicios del Agente fallecido.
+##### **Artículo 124**.SERVICIOS MEDICO-ASISTENCIALES A FAMILIARES DEL FALLECIDO. El cónyuge e hijos hasta la edad de veintiún (21) años, de los Agentes de la Policía Nacional que fallezcan en actividad con más de doce (12) o quince (15) años de servicio, según el caso, tendrán derecho a que el Gobierno les suministre asistencia médica, quirúrgica, odontológica, servicios hospitalarios y farmacéuticos, mientras disfruten de pensión decretada con base en los servicios del Agente fallecido.
 
 Parágrafo. El Gobierno Nacional establecerá tarifas variables para la prestación de los servicios asistenciales alos beneficiarios de los Agentes de la Policía Nacional fallecidos en servicio activo.
 
@@ -738,7 +738,7 @@ Así mismo la Policía Nacional pagará los pasajes de regreso del cónyuge e hi
 
 ### CAPITULO V. POR MUERTE EN RETIRO.
 
-##### **Artículo 128.** MUERTE EN GOCE DE ASIGNACIÓN DE RETIRO O PENSIÓN. A la muerte de un Agente de la Policía Nacional en goce de asignación de retiro o pensión, sus beneficiarios en el orden y proporción establecidos en el presente estatuto, tendrán derecho a una pensión mensual pagadera por el Tesoro Público o por la Caja de Sueldos de Retiro de la Policía Nacional equivalente en todo caso a la totalidad de la prestación que venía gozando el causante.
+##### **Artículo 128.**MUERTE EN GOCE DE ASIGNACIÓN DE RETIRO O PENSIÓN. A la muerte de un Agente de la Policía Nacional en goce de asignación de retiro o pensión, sus beneficiarios en el orden y proporción establecidos en el presente estatuto, tendrán derecho a una pensión mensual pagadera por el Tesoro Público o por la Caja de Sueldos de Retiro de la Policía Nacional equivalente en todo caso a la totalidad de la prestación que venía gozando el causante.
 
 Así mismo, el cónyuge y los hijos hasta la edad de veintiún (21) años tendrán derecho a que el Gobierno les suministre asistencia médica. quirúrgica, odontológica, servicios hospitalarios y farmacéuticos mientras disfruten de la pensión decretada con base en los servicios del Agente fallecido.
 
@@ -798,7 +798,7 @@ Durante dicho tiempo, los Agentes separados no tendrán derecho a sueldo, primas
 
 Parágrafo. Si de la investigación que se adelante no resultare ningún hecho que pueda considerarse como delito o falta disciplinaria, los beneficiarios, en el orden establecido en el presente estatuto continuarán percibiendo de la pagaduría respectiva la totalidad de los haberes del Agente hasta por un término de dos (2) años. Vencida el lapso anterior, se declarará definitivamente desaparecido, se dará de baja por presunción de muerte y se procederá a reconocer a los beneficiarios las prestaciones sociales ya consolidadas en cabeza deldesaparecido, equivalente a las de muerte en actividad, previa alta de tres (3) meses para la formación de la hoja de servicios.
 
-##### **Artículo 135**. PRISIONEROS. Si el Agente hubiere sido hecho prisionero y esta situación resultare suficientemente comprobada mediante la respectiva investigación, los beneficiarios continuarán recibiendo el setenta y cinco por ciento (75%) de Los haberes que le correspondan.
+##### **Artículo 135**.PRISIONEROS. Si el Agente hubiere sido hecho prisionero y esta situación resultare suficientemente comprobada mediante la respectiva investigación, los beneficiarios continuarán recibiendo el setenta y cinco por ciento (75%) de Los haberes que le correspondan.
 
 Cuando los beneficiarios del Agente prisionero hayan recibido el setenta y cinco por ciento (75%) de que trata este artículo, el veinticinco por ciento (25%) restante será pagado al Agente al ser puesto en libertad o durante su prisión, si ello fuere posible. Si el Agente falleciere durante el cautiverio, sus beneficiarios, en el orden preferencial que este estatuto establece, tendrán derecho al pago de dicho veinticinco por ciento y a las demás prestaciones sociales correspondientes a la categoría y tiempo del servicio del causante, previa alta de tres (3) meses para la formación del expediente de prestaciones sociales.
 
@@ -818,7 +818,7 @@ Cuando los beneficiarios del Agente prisionero hayan recibido el setenta y cinco
 
 ##### **Artículo 139**. PROCEDIMIENTO OFICIOSO. El reconocimiento de las Prestaciones sociales a que tienen derecho los Agentes de la Policía Nacional o sus beneficiarios, será tramitado oficiosamente por la Dirección General de la Policía o por la Caja de Sueldos de Retiro de la Policía, según el caso. Cuando las oficinas de personal no puedan producir de oficio las pruebas relacionadas en este título, corresponderá allegarlas al interesado, y si no existiere la prueba principal será reemplazada por la prueba supletoria que admita la ley.
 
-##### **Artículo 140**. RESOLUCIONES DE LA DIRECCIÓN GENERAL Y DOCUMENTACIÓN. Las prestaciones sociales del personal de Agentes de la Policía Nacional, en actividad o por causa de retiro o a sus beneficiarios en caso de fallecimiento y cuyo pago deba hacerse por el Tesoro Público serán reconocidas mediante resolución de la Dirección General de la Policía con base en los siguientes documentos:
+##### **Artículo 140**.RESOLUCIONES DE LA DIRECCIÓN GENERAL Y DOCUMENTACIÓN. Las prestaciones sociales del personal de Agentes de la Policía Nacional, en actividad o por causa de retiro o a sus beneficiarios en caso de fallecimiento y cuyo pago deba hacerse por el Tesoro Público serán reconocidas mediante resolución de la Dirección General de la Policía con base en los siguientes documentos:
 
 - a) Hoja de servicios;
 
@@ -830,19 +830,19 @@ Cuando los beneficiarios del Agente prisionero hayan recibido el setenta y cinco
 
 - e) Las demás pruebas que sean necesarias para el reconocimiento de prestaciones.
 
-##### **Artículo 141**. RESOLUCIONES DE LA CAJA DE SUELDOS DE RETIRO DE LA POLICÍA NACIONAL. El reconocimiento de asignaciones de retiro y pensiones de beneficiarios que corresponda a la Caja de Sueldos de Retiro de la Policía Nacional, se hará con base en los documentos señalados en el artículo anterior, mediante resolución del Director General de la misma, contra la cual procede el recurso de reposición ante el mismo funcionario.
+##### **Artículo 141**.RESOLUCIONES DE LA CAJA DE SUELDOS DE RETIRO DE LA POLICÍA NACIONAL. El reconocimiento de asignaciones de retiro y pensiones de beneficiarios que corresponda a la Caja de Sueldos de Retiro de la Policía Nacional, se hará con base en los documentos señalados en el artículo anterior, mediante resolución del Director General de la misma, contra la cual procede el recurso de reposición ante el mismo funcionario.
 
 ##### **Artículo 142**. EXPEDIENTES. Los documentos que se requieran para las reclamaciones de prestaciones sociales del personal de Agentes de la Policía Nacional, serán expedidos en papel común, pudiendo aceptarse los que produzcan equipos electrónicos o similares, siempre y cuando éstos sean refrendados con firmas autorizadas. A los interesados no se les podrá gravar con el cobro de copias, timbres, aranceles u otra clase de impuestos por este concepto.
 
-##### **Artículo 143**. HOJA DE SERVICIOS La hoja de servicios será expedida por el Jefe de Personal de la respectiva unidad policial, previa aprobación de la Dirección de Personal de la Policía Nacional.
+##### **Artículo 143**.HOJA DE SERVICIOS La hoja de servicios será expedida por el Jefe de Personal de la respectiva unidad policial, previa aprobación de la Dirección de Personal de la Policía Nacional.
 
-##### **Artículo 144**. LIQUIDACIÓN TIEMPO DE SERVICIO. El tiempo de servicio será liquidado computando trescientos sesenta (360) días por año, treinta (30) días por mes, el residuo si lo hubiere por días de servicio, aumentado el tiempo que resulte de la aplicación del año laboral.
+##### **Artículo 144**.LIQUIDACIÓN TIEMPO DE SERVICIO. El tiempo de servicio será liquidado computando trescientos sesenta (360) días por año, treinta (30) días por mes, el residuo si lo hubiere por días de servicio, aumentado el tiempo que resulte de la aplicación del año laboral.
 
-##### **Artículo 145.** CONTROVERSIA EN LA RECLAMACIÓN. Si se presentare controversia judicial o administrativa entre los reclamantes de una prestación por causa de muerte, el pago de la cuota en litigio se suspenderá, hasta tanto se decida judicialmente a qué persona correspondan el valor de esta cuota.
+##### **Artículo 145.**CONTROVERSIA EN LA RECLAMACIÓN. Si se presentare controversia judicial o administrativa entre los reclamantes de una prestación por causa de muerte, el pago de la cuota en litigio se suspenderá, hasta tanto se decida judicialmente a qué persona correspondan el valor de esta cuota.
 
 ##### **Artículo 146**. RECONOCIMIENTO DE DEUDAS LEGALMENTE DEDUCIBLES. Si el beneficiario de una prestación no se presentare a reclamarla dentro del año siguiente a la novedad fiscal de baja y existieren deudas legalmente deducibles, el Director General de la Policía Nacional y el Director de la Caja de Sueldos de Retiro, según el caso, procederá a reconocerlas, previa solicitud escrita del acreedor.
 
-##### **Artículo 147**. TRÁMITE DE EXPEDIENTES. La Sección de Prestaciones Sociales de la Policía Nacional conformará expedientes administrativos de prueba para el reconocimiento de prestaciones sociales a cargo del Tesoro Público y de la Caja de Sueldos de Retiro de la Policía Nacional, los cuales surtirán el siguiente trámite:
+##### **Artículo 147**.TRÁMITE DE EXPEDIENTES. La Sección de Prestaciones Sociales de la Policía Nacional conformará expedientes administrativos de prueba para el reconocimiento de prestaciones sociales a cargo del Tesoro Público y de la Caja de Sueldos de Retiro de la Policía Nacional, los cuales surtirán el siguiente trámite:
 
 - a) Prestaciones a cargo del Tesoro Público:
 
@@ -854,7 +854,7 @@ El expediente se enviará a la Caja de Sueldos de Retiro de la Policía Nacional
 
 Parágrafo. Ejecutoriada la providencia administrativa los expedientes se enviaran al archivo correspondiente.
 
-##### **Artículo 148**. SUSPENSIÓN DE TERMINOS. Los aspectos relacionados con la suspensión de términos por vacancia o necesidades de tipo colectiva en las dependencias de la Policía Nacional encargadas del trámite y reconocimiento de las prestaciones sociales consagradas con este Decreto, serán reglamentadas por el Director General de la Policía Nacional.
+##### **Artículo 148**.SUSPENSIÓN DE TERMINOS. Los aspectos relacionados con la suspensión de términos por vacancia o necesidades de tipo colectiva en las dependencias de la Policía Nacional encargadas del trámite y reconocimiento de las prestaciones sociales consagradas con este Decreto, serán reglamentadas por el Director General de la Policía Nacional.
 
 ## **TITULO VIII**
 
@@ -914,7 +914,7 @@ En caso de condena, el valor de las prestaciones sociales retenidas se tomará p
 
 También se cubrirán con cargo al presupuesto de la Policía Nacional las cuotas partes pensionales por servicios en las extinguidas policías Departamentales y Municipales.
 
-##### **Artículo 166**. INAPLICABILIDAD DE LA LEY 4º DE 1976. Por estar sometidos al régimen prestacional especial consagrado en este estatuto, la Ley 4º de 1976 no rige para los Agentes de la Policía Nacional en goce de asignación de retiro o pensión policial, ni para los exalumnos de las Escuelas de formación de Agentes en goce de pensión, ni para los beneficiarios de unos y otros.
+##### **Artículo 166**.INAPLICABILIDAD DE LA LEY 4º DE 1976. Por estar sometidos al régimen prestacional especial consagrado en este estatuto, la Ley 4º de 1976 no rige para los Agentes de la Policía Nacional en goce de asignación de retiro o pensión policial, ni para los exalumnos de las Escuelas de formación de Agentes en goce de pensión, ni para los beneficiarios de unos y otros.
 
 ##### **Artículo 167**. FIANZAS. Los Agentes de la Policía Nacional que por razón de las funciones que le sean encomendadas deban constituir fianza, tendrán derecho a que el Tesoro Público les reconozca el valor de la prima que por la garantía correspondiente cobre la entidad aseguradora.
 
