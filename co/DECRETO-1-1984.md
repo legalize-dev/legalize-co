@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "2003-06-05"
+last_updated: "2005-04-26"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -245,7 +245,15 @@ Dichos reglamentos no comprenderán los procedimientos especiales señalados por
 
 Los reglamentos que expidan los gobernadores deberán contener las normas para la tramitación interna de las peticiones que corresponda resolver a las alcaldías.
 
-##### **Artículo 33. Funcionario incompetente.** Si el funcionario a quien se dirige la petición, o ante quien se cumple el deber legal de solicitar que inicie la actuación administrativa, no es el competente, deberá informarlo en el acto al interesado, si éste actúa verbalmente; o dentro del término de diez (10) días, a partir de la recepción si obró por escrito; en este último caso el funcionario a quien se hizo la petición deberá enviar el escrito, dentro del mismo término, al competente, y los términos establecidos para decidir se ampliarán en diez (10) días.
+##### **Artículo 33.** Funcionario incompetente.Si el funcionario a quien se dirige la petición, o ante quien se cumple el deber legal de solicitar que inicie la actuación administrativa, no es el competente, deberá informarlo en el acto al interesado, si éste actúa verbalmente; o dentro del término de diez (10) días, a partir de la recepción si obró por escrito; en este último caso el funcionario a quien se hizo la petición deberá enviar el escrito, dentro del mismo término, al competente, y los términos establecidos para decidir se ampliarán en diez (10) días.
+
+**Parágrafo.** Los conflictos de competencias administrativas se resolverán de oficio, o por solicitud de la persona interesada. La entidad que se considere incompetente remitirá la actuación a la que estime competente; si esta también se declara incompetente remitirá la actuación a la Sala de Consulta y Servicio Civil del Consejo de Estado".
+
+Si dos entidades administrativas se consideran competentes para conocer y definir un determinado asunto, remitirán la actuación a la Sala de Consulta y Servicio Civil del Consejo de Estado.
+
+En los dos eventos descritos se observará el siguiente procedimiento: "Recibida la actuación en la Secretaría de la Sala, se fijará por tres (3) días hábiles comunes en lista a fin de que los representantes de las entidades en conflicto y las personas que tuvieren interés en el asunto puedan presentar sus alegatos o consideraciones. Vencido el anterior término, la Sala decidirá dentro de los veinte (20) días siguientes".
+
+Derógase el artículo 88 del mismo Código Contencioso Administrativo (Decreto número 01 de 1984).
 
 ##### **Artículo 34. Pruebas.** Durante la actuación administrativa se podrán pedir y decretar pruebas y allegar informaciones, sin requisitos ni términos especiales, de oficio o a petición del interesado.
 
@@ -633,15 +641,7 @@ El Ministerio Público o cualquier tercero que acredite un interés directo podr
 
 En los procesos ejecutivos derivados de condenas impuestas por la Jurisdicción Contencioso Administrativa se aplicará la regulación del proceso ejecutivo singular de mayor cuantía contenida en el Código de Procedimiento Civil.
 
-##### Artículo 88. ACCIÓN DE DEFINICIÓN DE COMPETENCIAS ADMINISTRATIVAS. Los conflictos de competencias administrativas se promoverán de oficio o a solicitud de parte.
-
-La entidad que se considere incompetente remitirá la actuación a la que estime competente; si ésta también se declara incompetente, ordenará remitir la actuación al Tribunal correspondiente o al Consejo de Estado.
-
-Recibido el expediente y efectuado el reparto, el Consejero Ponente dispondrá que se dé traslado a las partes por el término común de tres (3) días, para que presenten sus alegatos; vencido el término de traslado, la Sala Plena debe resolver dentro de los diez (10) días.
-
-Si ambas entidades se consideran competentes, remitirán la actuación al correspondiente Tribunal o al Consejo de Estado y el conflicto será dirimido por el procedimiento prescrito en el inciso anterior.
-
-**Artículo 88. Acción de definición de competencias administrativas**. Cuando varias autoridades realicen simultáneamente actos preparatorios o definitivos para ejercer funciones iguales respecto de una misma persona o cosa, o funciones diferentes pero que se opongan entre sí, cualquier persona que demuestre interés directo o cualquiera de esas mismas autoridades, podrá pedir que se suspendan o anulen los actos producidos y que se defina cuál es la autoridad a quien corresponde la decisión, y el alcance de su competencia. En este caso, en la sentencia podrá ejercerse también las facultades previstas en el artículo 170 de este Código.
+##### **Artículo 88.** Derogado
 
 ## **LIBRO TERCERO**
 
@@ -1683,21 +1683,7 @@ Si la demanda no se admite, en el mismo auto se debe ordenar la devolución de l
 
 (Modificado por: Art. 57 Ley 446 de 1998)
 
-##### **Artículo 194**. *Del recurso extraordinario de súplica.* El recurso extraordinario de súplica, procede contra las sentencias ejecutoriadas dictadas por cualquiera de las Secciones o Subsecciones del Consejo de Estado. Es causal del recurso extraordinario de súplica la violación directa de normas sustanciales, ya sea por aplicación indebida, falta de aplicación o interpretación errónea de las mismas. Los miembros de la Sección o Subsección falladora estarán excluidos de la decisión, pero podrán ser oídos si la Sala así lo determina.
-
-En el escrito que contenga el recurso se indicará en forma precisa la norma o normas sustanciales infringidas y los motivos de la infracción; y deberá interponerse dentro de los veinte (20) días siguientes al de la ejecutoria de la sentencia impugnada, ante la Sección o Subsección falladora que lo concederá o rechazará.
-
-Admitido el recurso por el ponente en Sala Plena, se ordenará el traslado a las demás partes para alegar por el término común de diez (10) días. Vencido el término de traslado, dentro de los treinta (30) días siguientes se registrará el proyecto de fallo. Si la Sala hallare procedente la causal invocada, infirmará la sentencia recurrida y dictará la que deba reemplazarla. Si la sentencia recurrida tuvo cumplimiento, declarará sin efectos los actos procesales realizados con tal fin y dispondrá que el Juez de conocimiento proceda a las restituciones y adopte las demás medidas a que hubiere lugar.
-
-Si el recurso es desestimado, la parte recurrente será condenada en costas, para lo cual se aplicarán las normas previstas en el Código de Procedimiento Civil.
-
-La interposición de este recurso no impide la ejecución de la sentencia.
-
-Con todo, cuando se trate de sentencia condenatoria de contenido económico, el recurrente podrá solicitar que se suspenda el cumplimiento de la misma, prestando caución para responder por los perjuicios que dicha suspensión cause a la parte contraria, incluyendo los frutos civiles y naturales que puedan percibirse durante aquella. El ponente fijará el monto, naturaleza y término para constituir la caución, cuyo incumplimiento por parte del recurrente implica que se declare desierto el recurso. Los efectos de la sentencia quedan suspendidos hasta cuando se decida.
-
-**Artículo 194. Derogado.**
-
-**Artículo 194. Procedencia**. El recurso extraordinario de anulación procederá contra las sentencias ejecutoriadas de única o segunda instancia dictadas por las secciones del Consejo de Estado y contra las de única dictadas por los tribunales administrativos.
+##### **Artículo 194. Derogado.**
 
 ##### **Artículo Transitorio 194A.***Del recurso extraordinario de súplica*. Los procesos por recursos extraordinarios de súplica que están en trámite y pendientes de fallo en la Sala Plena de lo Contencioso Administrativo, pasarán al conocimiento y decisión de las Salas Especiales Transitorias de Decisión previstas en la Ley 954 de 2005.
 
