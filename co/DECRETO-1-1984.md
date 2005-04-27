@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "2005-04-26"
+last_updated: "2005-04-27"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -1461,7 +1461,7 @@ Los Intendentes y Comisarios también deberán objetar los proyectos de acuerdo 
 
 - 3. Si el impedimento comprende a toda la Sección o Subsección del Consejo de Estado o del Tribunal, el expediente se enviará a la Sección o Subsección que le siga en turno en el orden numérico, para que decida de plano sobre el impedimento si lo declara fundado, avocará el conocimiento del proceso. En caso contrario, devolverá el expediente para que la misma Sección o Subsección continúe el trámite del mismo.
 
-- 4. Si el impedimento comprende a todo el Tribunal Administrativo, el expediente se enviará a la Sala Plena de lo Contencioso Administrativo del Consejo de Estado para que lo decida de plano. Si lo declara fundado, designará el Tribunal que conozca del asunto. En caso contrario, devolverá el expediente al Tribunal de origen para que continúe su trámite.
+- 4. Si el impedimento comprende a todo el Tribunal Administrativo, el expediente se enviará a la Sección del Consejo de Estado que conoce del tema relacionado con la materia objeto de controversia, para que decida de plano. Si se declara fundado, devolverá el expediente al Tribunal de origen para el sorteo de conjueces, quienes deberán conocer del asunto. En caso contrario, devolverá el expediente al referido Tribunal para que continúe su trámite.
 
 - 5. Si el impedimento comprende a todos los miembros de la Sala Plena de lo Contencioso Administrativo, o de la Sala de Consulta y Servicio Civil del Consejo de Estado, sus integrantes deberán declararse impedidos en forma conjunta o separada, expresando los hechos en que se fundamente.
 
@@ -1479,7 +1479,7 @@ Las decisiones que se profieran durante el trámitede los impedimentos no son su
 
 - 4. Si la recusación comprende a toda la Sección o Subsección del Consejo de Estado o del Tribunal, se presentará ante los recusados para que manifiesten conjunta o separadamente si aceptan o no la recusación. El expediente se enviará a la Sección o Subsección que le siga en turno, para que decida de plano sobre la recusación, si la declara fundada, avocará el conocimiento del proceso, en caso contrario, devolverá el expediente para que la misma Sección o Subsección continúe el trámite del mismo.
 
-- 5. Si la recusación comprende a todo el Tribunal Administrativo, se presentará ante los recusados para que manifiesten conjunta o separadamente si aceptan o no la recusación. El expediente se enviará a la Sala Plena de lo Contencioso Administrativo del Consejo de Estado para que la decida de plano. Si la declara fundada, designará el Tribunal que conozca del asunto, en caso contrario, devolverá el expediente al Tribunal de origen para que continúe su trámite.
+- 5. Si la recusación comprende a todo el Tribunal Administrativo, se presentará ante los recusados para que manifiesten conjunta o separadamente si aceptan o no la recusación. El expediente se enviará a la Sección del Consejo de Estado que conoce del tema relacionado con la materia objeto de controversia, para que decida de plano. Si se declara fundada la recusación, enviará el expediente al Tribunal de origen para el sorteo de conjueces, quienes deberán conocer del asunto. En caso contrario, devolverá el expediente al referido Tribunal para que continúe su trámite.
 
 - 6. Cuando la recusación comprenda a todos los miembros de la Sala Plena de lo Contencioso Administrativo o de la Sala de Consulta y Servicio Civil del Consejo de Estado, se presentará a los recusados para que manifiesten en forma conjunta o separada si aceptan o no la recusación. Declarada la recusación por la Sala respectiva, se procederá al sorteo de Conjueces para que asuman el conocimiento del proceso, en caso contrario, la misma Sala continuará el trámite del proceso.
 
