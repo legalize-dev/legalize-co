@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "2005-04-27"
+last_updated: "2006-12-26"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -585,35 +585,11 @@ Lo dispuesto en este artículo se entenderá sin perjuicio de las facultades y d
 
 **Objeto de la jurisdicción en lo contencioso administrativo.**
 
-##### **Artículo 82**. *Objeto de la jurisdicción de lo contencioso administrativo.*
-
-La Jurisdicción de lo Contencioso Administrativo está instituida para juzgar las controversias y litigios administrativos originados en la actividad de las Entidades Públicas y de las personas privadas que desempeñen funciones propias de los distintos órganos del Estado. Se ejerce por el Consejo de Estado, los Tribunales Administrativos y los Juzgados Administrativos de conformidad con la Constitución y la ley.
+##### **Artículo 82**. Objeto de la jurisdicción de lo contencioso administrativo. La jurisdicción de lo contencioso administrativo está instituida para juzgar las controversias y litigios originados en la actividad de las entidades públicas incluidas las sociedades de economía mixta con capital público superior al 50% y de las personas privadas que desempeñen funciones propias de los distintos órganos del Estado. Se ejerce por el Consejo de Estado, los tribunales administrativos y los juzgados administrativos de conformidad con la Constitución y la ley.
 
 Esta jurisdicción podrá juzgar, inclusive, las controversias que se originen en actos políticos o de Gobierno.
 
-La Jurisdicción de lo Contencioso Administrativo no juzga las decisiones proferidas en juicios de policía regulados especialmente por la ley.
-
-Las decisiones jurisdiccionales adoptadas por las Salas Jurisdiccionales Disciplinarias del Consejo Superior de la Judicatura y de los Consejos Seccionales de la Judicatura, no tendrán control jurisdiccional.
-
-Artículo 82. OBJETO DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO. La Jurisdicción de lo Contencioso Administrativo está instituida por la Constitución para juzgar las controversias y litigios administrativos originados en la actividad de las entidades públicas y de las personas privadas que desempeñen funciones administrativas.
-
-Se ejerce por el Consejo de Estado y los Tribunales Administrativos de conformidad con la Constitución y la Ley.
-
-Esta Jurisdicción podrá juzgar, inclusive, las controversias que se originen en actos políticos; o de gobierno.
-
-La Jurisdicción de lo Contencioso Administrativo no juzga las decisiones proferidas en juicios civiles o penales de policía regulados especialmente por la Ley.
-
-**Artículo 82. Objeto de la jurisdicción en lo contencioso administrativo.** La jurisdicción en lo contencioso administrativo está instituida para juzgar las controversias originadas en actos y hechos administrativos de las entidades públicas, y de las privadas cuando cumplan funciones públicas. Se ejercerá por el Consejo de Estado y los Tribunales Administrativos de conformidad con la Constitución Política y la ley.
-
-Esta jurisdicción podrá juzgar, inclusive, las controversias que se origen en los actos políticos o de gobierno, pero sólo por vicios de forma.
-
-La jurisdicción en lo contencioso administrativo no juzgará las providencias dictadas en juicios de policía de carácter penal o civil, ni las sanciones que imponga el Tribunal Disciplinario.
-
-**Artículo 82. Objeto de la jurisdicción en lo contencioso administrativo.** La jurisdicción en lo contencioso administrativo está instituida para juzgar las controversias originadas en actos y hechos administrativos de las entidades públicas, y de las privadas cuando cumplan funciones públicas. Se ejercerá por el Consejo de Estado y los Tribunales Administrativos de conformidad con la Constitución Política y la ley.
-
-Esta jurisdicción podrá juzgar, inclusive, las controversias que se origen en los actos políticos o de gobierno, pero sólo por vicios de forma.
-
-La jurisdicción en lo contencioso administrativo no juzgará las providencias dictadas en juicios de policía de carácter penal o civil, ni las sanciones que imponga el Tribunal Disciplinario.
+La jurisdicción de lo contencioso administrativo no juzga las decisiones proferidas en juicios de policía regulados especialmente por la ley. Las decisiones jurisdiccionales adoptadas por las Salas Jurisdiccionales Disciplinarias del Consejo Superior de la Judicatura y de los Consejos Seccionales de la Judicatura, no tendrán control jurisdiccional.
 
 ## **TITULO XI**
 
