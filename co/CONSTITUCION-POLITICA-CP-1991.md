@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2005-07-25"
+last_updated: "2007-10-28"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -2201,6 +2201,44 @@ Su régimen político, fiscal y administrativo será el que determinen la Consti
 Con base en las normas generales que establezca la ley, el concejo a iniciativa del alcalde, dividirá el territorio distrital en localidades, de acuerdo con las características sociales de sus habitantes, y hará el correspondiente reparto de competencias y funciones administrativas.
 
 A las autoridades distritales corresponderá garantizar el desarrollo armónico e integrado de la ciudad y la eficiente prestación de los servicios a cargo del Distrito; a las locales, la gestión de los asuntos propios de su territorio.
+
+##### **Artículo 323.El Concejo Distrital se compondrá de cuarenta y cinco (45) concejales.**
+
+En cada una de las localidades habrá una junta administradora elegida popularmente para períodos de cuatro (4) años que estará integrada por no menos de siete ediles, según lo determine el concejo distrital, atendida la población respectiva.
+
+La elección de Alcalde Mayor, de concejales distritales y de ediles se hará en un mismo día por períodos de cuatro (4) años y el alcalde no podrá ser reelegido para el período siguiente.
+
+Siempre que se presente falta absoluta a más de dieciocho (18) meses de la terminación del período, se elegirá alcalde mayor para el tiempo que reste. En caso de que faltare menos de dieciocho (18) meses, el Presidente de la República designará alcalde mayor para lo que reste del período, respetando el partido, grupo político o coalición por el cual fue inscrito el alcalde elegido.
+
+Los alcaldes locales serán designados por el alcalde mayor de terna enviada por la correspondiente junta administradora.
+
+En los casos taxativamente señalados por la ley, el Presidente de la República suspenderá o destituirá al alcalde mayor.
+
+Los concejales y los ediles no podrán hacer parte de las juntas directivas de las entidades descentralizadas.
+
+**Artículo 323.** El concejo distrital se compondrá de un concejal por cada ciento cincuenta mil habitantes o fracción mayor de setenta y cinco mil que tenga su territorio.
+
+En cada una de las localidades habrá una junta administradora elegida popularmente para períodos de cuatro (4) años que estará integrada por no menos de siete ediles, según lo determine el concejo distrital, atendida la población respectiva.
+
+La elección de Alcalde Mayor, de concejales distritales y de ediles se hará en un mismo día por períodos de cuatro (4) años y el alcalde no podrá ser reelegido para el período siguiente.
+
+Siempre que se presente falta absoluta a más de dieciocho (18) meses de la terminación del período, se elegirá alcalde mayor para el tiempo que reste. En caso de que faltare menos de dieciocho (18) meses, el Presidente de la República designará alcalde mayor para lo que reste del período, respetando el partido, grupo político o coalición por el cual fue inscrito el alcalde elegido.
+
+Los alcaldes locales serán designados por el alcalde mayor de terna enviada por la correspondiente junta administradora.
+
+En los casos taxativamente señalados por la ley, el Presidente de la República suspenderá o destituirá al alcalde mayor.
+
+Los concejales y los ediles no podrán hacer parte de las juntas directivas de las entidades descentralizadas.
+
+**Artículo 323.** El concejo distrital se compondrá de un concejal por cada ciento cincuenta mil habitantes o fracción mayor de setenta y cinco mil que tenga su territorio.
+
+En cada una de las localidades habrá una junta administradora, elegida popularmente para períodos de tres años, que estará integrada por no menos de siete ediles, según lo determine el concejo distrital, atendida la población respectiva.
+
+La elección de Alcalde Mayor, de concejales distritales y de ediles se hará en un mismo día para períodos de tres años. Los alcaldes locales serán designados por el Alcalde Mayor de terna enviada por la correspondiente junta administradora.
+
+En los casos taxativamente señalados por la ley, el Presidente de la República suspenderá o destituirá al Alcalde Mayor.
+
+Los concejales y los ediles no podrán hacer parte de las juntas directivas de las entidades descentralizadas.
 
 ##### **Artículo 324.** Las juntas administradoras locales distribuirán y apropiarán las partidas globales que en el presupuesto anual del Distrito se asignen a las localidades teniendo en cuenta las necesidades básicas insatisfechas de su población.
 
