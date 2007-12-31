@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2007-10-28"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -782,8 +782,6 @@ El elegido es responsable políticamente ante la sociedad y frente a sus elector
 
 - 1. Elegir sus mesas directivas.
 
-- 2. Elegir al Secretario General para períodos de cuatro (4) años, contados a partir del 20 de julio, quien deberá reunir las mismas calidades señaladas para ser miembro de la respectiva Cámara.
-
 - 2. Elegir a su Secretario General, para períodos de dos años, contados a partir del 20 de julio, quien deberá reunir las mismas calidades señaladas para ser miembro de la respectiva Cámara.
 
 - 3. Solicitar al Gobierno los informes que necesite, salvo lo dispuesto en el numeral 2 del Artículo siguiente.
@@ -796,53 +794,9 @@ El elegido es responsable políticamente ante la sociedad y frente a sus elector
 
 - 7. Organizar su Policía interior.
 
-- 8. Citar y requerir a los Ministros para que concurran a las sesiones. Las citaciones deberán hacerse con una anticipación no menor de cinco días y formularse en cuestionario escrito. En caso de que los Ministros no concurran, sin excusa aceptada por la respectiva Cámara, ésta podrá proponer moción de censura. Los Ministros deberán ser oídos en la sesión para la cual fueron citados, sin perjuicio de que el debate continúe en sesiones posteriores por decisión de la respectiva Cámara. El debate no podrá extenderse a asuntos ajenos al cuestionario y deberá encabezar el orden del día de la sesión.
+- 8. Citar y requerir a los Ministros, Superintendentes y Directores de Departamentos Administrativos para que concurran a las sesiones. Las citaciones deberán hacerse con una anticipación no menor de cinco días y formularse en cuestionario escrito. En caso de que los Ministros, Superintendentes o Directores de Departamentos Administrativos no concurran, sin excusa aceptada por la respectiva cámara, esta podrá proponer moción de censura. Los Ministros, Superintendentes o Directores Administrativos deberán ser oídos en la sesión para la cual fueron citados, sin perjuicio de que el debate continúe en las sesiones posteriores por decisión de la respectiva cámara. El debate no podrá extenderse a asuntos ajenos al cuestionario y deberá encabezar el orden del día de la sesión.
 
-- 9. Proponer moción de censura respecto de los ministros por asuntos relacionados con funciones propias del cargo. La moción de censura, si hubiere lugar a ella, deberá proponerla por lo menos la décima parte de los miembros que componen la respectiva cámara. La votación se hará entre el tercero y el décimo día siguientes a la terminación del debate, en Congreso pleno, con audiencia de los ministros respectivos. Su aprobación requerirá la mayoría absoluta de los integrantes de cada cámara. Una vez aprobada, el ministro quedará separado de su cargo. Si fuere rechazada, no podrá presentarse otra sobre la misma materia a menos que la motiven hechos nuevos.
-
-**PARÁGRAFO TRANSITORIO.**Para efecto de lo dispuesto en el numeral 2 del presente artículo, el período comenzará a regir a partir del 20 de julio de 2002.
-
-**Artículo 135.** Son facultades de cada Cámara:
-
-- 1. Elegir sus mesas directivas.
-
-- 2. Elegir al Secretario General para períodos de cuatro (4) años, contados a partir del 20 de julio, quien deberá reunir las mismas calidades señaladas para ser miembro de la respectiva Cámara.
-
-- 3. Solicitar al Gobierno los informes que necesite, salvo lo dispuesto en el numeral 2 del Artículo siguiente.
-
-- 4. Determinar la celebración de sesiones reservadas en forma prioritaria a las preguntas orales que formulen los Congresistas a los Ministros y a las respuestas de éstos. El reglamento regulará la materia.
-
-- 5. Proveer los empleos creados por la ley para el cumplimiento de sus funciones.
-
-- 6. Recabar del Gobierno la cooperación de los organismos de la administración pública para el mejor desempeño de sus atribuciones.
-
-- 7. Organizar su Policía interior.
-
-- 8. Citar y requerir a los Ministros para que concurran a las sesiones. Las citaciones deberán hacerse con una anticipación no menor de cinco días y formularse en cuestionario escrito. En caso de que los Ministros no concurran, sin excusa aceptada por la respectiva Cámara, ésta podrá proponer moción de censura. Los Ministros deberán ser oídos en la sesión para la cual fueron citados, sin perjuicio de que el debate continúe en sesiones posteriores por decisión de la respectiva Cámara. El debate no podrá extenderse a asuntos ajenos al cuestionario y deberá encabezar el orden del día de la sesión.
-
-- 9. Proponer moción de censura respecto de los ministros por asuntos relacionados con funciones propias del cargo. La moción de censura, si hubiere lugar a ella, deberá proponerla por lo menos la décima parte de los miembros que componen la respectiva cámara. La votación se hará entre el tercero y el décimo día siguientes a la terminación del debate, en Congreso pleno, con audiencia de los ministros respectivos. Su aprobación requerirá la mayoría absoluta de los integrantes de cada cámara. Una vez aprobada, el ministro quedará separado de su cargo. Si fuere rechazada, no podrá presentarse otra sobre la misma materia a menos que la motiven hechos nuevos.
-
-**PARÁGRAFO TRANSITORIO.**Para efecto de lo dispuesto en el numeral 2 del presente artículo, el período comenzará a regir a partir del 20 de julio de 2002.
-
-**Artículo 135.** Son facultades de cada Cámara:
-
-- 1. Elegir sus mesas directivas.
-
-- 2. Elegir a su Secretario General, para períodos de dos años, contados a partir del 20 de julio, quien deberá reunir las mismas calidades señaladas para ser miembro de la respectiva Cámara.
-
-- 3. Solicitar al Gobierno los informes que necesite, salvo lo dispuesto en el numeral 2 del Artículo siguiente.
-
-- 4. Determinar la celebración de sesiones reservadas en forma prioritaria a las preguntas orales que formulen los Congresistas a los Ministros y a las respuestas de éstos. El reglamento regulará la materia.
-
-- 5. Proveer los empleos creados por la ley para el cumplimiento de sus funciones.
-
-- 6. Recabar del Gobierno la cooperación de los organismos de la administración pública para el mejor desempeño de sus atribuciones.
-
-- 7. Organizar su Policía interior.
-
-- 8. Citar y requerir a los Ministros para que concurran a las sesiones. Las citaciones deberán hacerse con una anticipación no menor de cinco días y formularse en cuestionario escrito. En caso de que los Ministros no concurran, sin excusa aceptada por la respectiva Cámara, ésta podrá proponer moción de censura. Los Ministros deberán ser oídos en la sesión para la cual fueron citados, sin perjuicio de que el debate continúe en sesiones posteriores por decisión de la respectiva Cámara. El debate no podrá extenderse a asuntos ajenos al cuestionario y deberá encabezar el orden del día de la sesión.
-
-- 9. Proponer moción de censura respecto de los ministros por asuntos relacionados con funciones propias del cargo. La moción de censura, si hubiere lugar a ella, deberá proponerla por lo menos la décima parte de los miembros que componen la respectiva cámara. La votación se hará entre el tercero y el décimo día siguientes a la terminación del debate, en Congreso pleno, con audiencia de los ministros respectivos. Su aprobación requerirá la mayoría absoluta de los integrantes de cada cámara. Una vez aprobada, el ministro quedará separado de su cargo. Si fuere rechazada, no podrá presentarse otra sobre la misma materia a menos que la motiven hechos nuevos.
+- 9. Proponer moción de censura respecto de los Ministros, Superintendentes y Directores de Departamentos Administrativos por asuntos relacionados con funciones propias del cargo, o por desatención a los requerimientos y citaciones del Congreso de la República. La moción de censura, si hubiere lugar a ella, deberá proponerla por lo menos la décima parte de los miembros que componen la respectiva Cámara. La votación se hará entre el tercero y el décimo día siguientes a la terminación del debate, con audiencia pública del funcionario respectivo. Su aprobación requerirá el voto afirmativo de la mitad más uno de los integrantes de la Cámara que la haya propuesto. Una vez aprobada, el funcionario quedará separado de su cargo. Si fuere rechazada, no podrá presentarse otra sobre la misma materia a menos que la motiven hechos nuevos. La renuncia del funcionario respecto del cual se haya promovido moción de censura no obsta para que la misma sea aprobada conforme a lo previsto en este artículo. Pronunciada una Cámara sobre la moción de censura su decisión inhibe a la otra para pronunciarse sobre la misma.
 
 ##### **Artículo 136.** Se prohíbe al Congreso y a cada una de sus Cámaras:
 
@@ -1912,101 +1866,47 @@ Los departamentos ejercen funciones administrativas, de coordinación, de comple
 
 La ley reglamentará lo relacionado con el ejercicio de las atribuciones que la Constitución les otorga.
 
-##### **Artículo 299.Inexequible .** En cada Departamento habrá una Corporación administrativa de elección popular que se denominará Asamblea Departamental, la cual estará integrada por no menos de once miembros ni más de treinta y uno. Dicha corporación gozará de autonomía administrativa y presupuesto propio.
+##### **Artículo 299.**En cada departamento habrá una corporación político - administrativa de elección popular que se denominará asamblea departamental, la cual estará integrada por no menos de 11 miembros ni más de 31. Dicha corporación gozará de autonomía administrativa y presupuesto propio, y podrá ejercer control político sobre la administración departamental.
 
-El régimen de inhabilidades e incompatibilidades de los diputados será fijado por la ley. No podrá ser menos estricto que el señalado para los congresistas en lo que corresponda. El período de los diputados será de cuatro años y tendrán la calidad de servidores públicos.
-
-Para ser elegido diputado se requiere ser ciudadano en ejercicio, no haber sido condenado a pena privativa de la libertad, con excepción de los delitos políticos o culposos y haber residido en la respectiva circunscripción electoral durante el año inmediatamente anterior a la fecha de la elección.
-
-Los miembros de la Asamblea Departamental tendrán derecho a una remuneración durante las sesiones correspondientes y estarán amparados por un régimen de prestaciones y seguridad social, en los términos que fije la Ley.
-
-**Artículo 299.**En cada departamento habrá una Corporación de elección popular que ejercerá el control político sobre los actos de los Gobernadores, Secretarios de despacho, Gerentes y Directores de Institutos Descentralizados y, que se denominará Asamblea Departamental, la cual estará integrada por siete (7) miembros para el caso de las Comisarías erigidas en departamentos por el artículo 309 de la Constitución Nacional y, en los demás departamentos por no menos de once (11) ni más de treinta y un (31) miembros. Dicha Corporación gozará de autonomía administrativa y presupuesto propio.
-
-El régimen de inhabilidades e incompatibilidades de los diputados será fijado por la ley. No podrá ser menos estricto que el señalado para los congresistas en lo que corresponda. El período de los diputados será de cuatro años y tendrán la calidad de servidores públicos.
+El régimen de inhabilidades e incompatibilidades de los diputados será fijado por la ley. No podrá ser menos estricto que el señalado para los congresistas en lo que corresponda. El periodo de los diputados será de cuatro años y tendrá la calidad de servidores públicos.
 
 Para ser elegido diputado se requiere ser ciudadano en ejercicio, no haber sido condenado a pena privativa de la libertad, con excepción de los delitos políticos o culposos y haber residido en la respectiva circunscripción electoral durante el año inmediatamente anterior a la fecha de la elección.
 
-Los miembros de la Asamblea Departamental tendrán derecho a una remuneración durante las sesiones correspondientes y estarán amparados por un régimen de prestaciones y seguridad social, en los términos que fije la Ley.
-
-**Artículo 299.** En cada Departamento habrá una corporación administrativa de elección popular que se denominará Asamblea Departamental, la cual estará integrada por no menos de once miembros ni más de treinta y uno. Dicha corporación gozará de autonomía administrativa y presupuesto propio.
-
-El régimen de inhabilidades e incompatibilidades de los diputados será fijado por la ley. No podrá ser menos estricto que el señalado para los congresistas en lo que corresponda. El período de los diputados será de cuatro años y tendrán la calidad de servidores públicos.
-
-Para ser elegido diputado se requiere ser ciudadano en ejercicio, no haber sido condenado a pena privativa de la libertad, con excepción de los delitos políticos o culposos y haber residido en la respectiva circunscripción electoral durante el año inmediatamente anterior a la fecha de la elección.
-
-Los miembros de la Asamblea Departamental tendrán derecho a una remuneración durante las sesiones correspondientes y estarán amparados por un régimen de prestaciones y seguridad social, en los términos que fije la Ley.
-
-**Artículo 299.** En cada Departamento habrá una corporación administrativa de elección popular que se denominará Asamblea Departamental, la cual estará integrada por no menos de once miembros ni más de treinta y uno. Dicha corporación gozará de autonomía administrativa y presupuesto propio.
-
-El régimen de inhabilidades e incompatibilidades de los diputados será fijado por la Ley. No podrá ser menos estricto que el señalado para los congresistas en lo que corresponda. El período de los diputados será de tres (3) años, y tendrán la calidad de servidores públicos.
-
-Para ser elegido diputado se requiere ser ciudadano en ejercicio, no haber sido condenado a pena privativa de la libertad, con excepción de los delitos políticos o culposos y haber residido en la respectiva circunscripción electoral durante el año inmediatamente anterior a la fecha de la elección.
-
-Los miembros de la Asamblea Departamental tendrán derecho a una remuneración durante las sesiones correspondientes y estarán amparados por un régimen de prestaciones y seguridad social, en los términos que fije la Ley.
-
-**Artículo 299.** En cada departamento habrá una Corporación administrativa de elección popular que se denominará Asamblea Departamental, la cual estará integrada por no menos de once miembros ni más de treinta y uno.
-
-El Consejo Nacional Electoral podrá formar dentro de los límites de cada departamento, con base en su población, círculos para la elección de diputados, previo concepto de la Comisión de Ordenamiento Territorial. El régimen de inhabilidades e incompatibilidades de los diputados será fijado por la ley. No podrá ser menos estricto que el señalado para los congresistas en lo que corresponda. Los diputados no tendrán la calidad de funcionarios públicos. El período de los diputados será de tres años. Con las limitaciones que establezca la ley, tendrán derecho a honorarios por su asistencia a las sesiones correspondientes.
-
-Para ser elegido diputado se requiere ser ciudadano en ejercicio, tener más de veintiún años de edad, no haber sido condenado a pena privativa de la libertad, con excepción de los delitos políticos o culposos y haber residido en la respectiva circunscripción electoral durante el año inmediatamente anterior a la fecha de la elección.
+Los miembros de la Asamblea Departamental tendrán derecho a una remuneración durante las sesiones correspondientes y estarán amparados por un régimen de prestaciones y seguridad social, en los términos que fijen la ley.
 
 ##### **Artículo 300.** Corresponde a las Asambleas Departamentales, por medio de ordenanzas:
 
-1°. Reglamentar el ejercicio de las funciones y la prestación de los servicios a cargo del Departamento.
+**1°.** Reglamentar el ejercicio de las funciones y la prestación de los servicios a cargo del Departamento.
 
-2°. Expedir las disposiciones relacionadas con la planeación, el desarrollo económico y social, el apoyo financiero y crediticio a los municipios, el turismo, el transporte, el ambiente, las obras públicas, las vías de comunicación y el desarrollo de sus zonas de frontera.
+**2°**. Expedir las disposiciones relacionadas con la planeación, el desarrollo económico y social, el apoyo financiero y crediticio a los municipios, el turismo, el transporte, el ambiente, las obras públicas, las vías de comunicación y el desarrollo de sus zonas de frontera.
 
-3°. Adoptar de acuerdo con la Ley los planes y programas de desarrollo económico y social y los de obras públicas, con la determinación de las inversiones y medidas que se consideren necesarias para impulsar su ejecución y asegurar su cumplimiento.
+**3°.** Adoptar de acuerdo con la Ley los planes y programas de desarrollo económico y social y los de obras públicas, con la determinación de las inversiones y medidas que se consideren necesarias para impulsar su ejecución y asegurar su cumplimiento.
 
-4°. Decretar, de conformidad con la Ley, los tributos y contribuciones necesarios para el cumplimiento de las funciones departamentales.
+**4°**. Decretar, de conformidad con la Ley, los tributos y contribuciones necesarios para el cumplimiento de las funciones departamentales.
 
-5°. Expedir las normas orgánicas del presupuesto departamental y el presupuesto anual de rentas y gastos.
+**5°**. Expedir las normas orgánicas del presupuesto departamental y el presupuesto anual de rentas y gastos.
 
-6°. Con sujeción a los requisitos que señale la Ley, crear y suprimir municipios, segregar y agregar territorios municipales, y organizar provincias.
+**6°**. Con sujeción a los requisitos que señale la Ley, crear y suprimir municipios, segregar y agregar territorios municipales, y organizar provincias.
 
-7°. Determinar la estructura de la Administración Departamental, las funciones de sus dependencias, las escalas de remuneración correspondientes a sus distintas categorías de empleo; crear los establecimientos públicos y las empresas industriales o comerciales del departamento y autorizar la formación de sociedades de economía mixta.
+**7°**. Determinar la estructura de la Administración Departamental, las funciones de sus dependencias, las escalas de remuneración correspondientes a sus distintas categorías de empleo; crear los establecimientos públicos y las empresas industriales o comerciales del departamento y autorizar la formación de sociedades de economía mixta.
 
-8°. Dictar normas de policía en todo aquello que no sea materia de disposición legal.
+**8°.** Dictar normas de policía en todo aquello que no sea materia de disposición legal.
 
-9°. Autorizar al Gobernador del Departamento para celebrar contratos, negociar empréstitos, enajenar bienes y ejercer, pro tempore, precisas funciones de las que corresponden a las Asambleas Departamentales.
+**9°**. Autorizar al Gobernador del Departamento para celebrar contratos, negociar empréstitos, enajenar bienes y ejercer, pro tempore, precisas funciones de las que corresponden a las Asambleas Departamentales.
 
-10°. Regular, en concurrencia con el municipio, el deporte, la educación y la salud en los términos que determina la Ley.
+**10°**. Regular, en concurrencia con el municipio, el deporte, la educación y la salud en los términos que determina la Ley.
 
-1l°. Solicitar informes sobre el ejercicio de sus funciones al Contralor General del Departamento, Secretarios de Gabinete, Jefes de Departamentos Administrativos y Directores de Institutos Descentralizados del orden Departamental.
+**11°.** Solicitar informes sobre el ejercicio de sus funciones al Contralor General del Departamento, Secretarios de Gabinete, Jefes de Departamentos Administrativos y Directores de Institutos Descentralizados del orden Departamental.
 
-12°. Cumplir las demás funciones que le asignen la Constitución y la Ley.
+**12°.** Cumplir las demás funciones que le asignen la Constitución y la Ley.
 
 Los planes y programas de desarrollo de obras públicas, serán coordinados e integrados con los planes y programas municipales, regionales y nacionales.
 
 Las ordenanzas a que se refieren los numerales 3, 5 y 7 de este artículo, la que decretan inversiones, participaciones o cesiones de rentas y bienes departamentales y las que creen servicios a cargo del Departamento o los traspasen a él, solo podrán ser dictadas o reformadas a iniciativa del Gobernador.
 
-**Artículo 300.** Corresponde a las Asambleas Departamentales por medio de ordenanzas:
+**13 °** Citar y requerir a los Secretarios del Despacho del Gobernador para que concurran a las sesiones de la asamblea. Las citaciones deberán hacerse con una anticipación no menor de cinco días y formularse en cuestionario escrito. En caso de que los Secretarios del Despacho del Gobernador no concurran, sin excusa aceptada por la asamblea, esta podrá proponer moción de censura. Los Secretarios deberán ser oídos en la sesión para la cual fueron citados, sin perjuicio de que el debate continúe en las sesiones posteriores por decisión de la asamblea. El debate no podrá extenderse a asuntos ajenos al cuestionario y deberá encabezar el orden del día de la sesión.
 
-- 1. Reglamentar el ejercicio de las funciones y la prestación de los servicios a cargo del departamento.
-
-- 2. Expedir las disposiciones relacionadas con la planeación, el desarrollo económico y social, el apoyo financiero y crediticio a los municipios, el turismo, el transporte, el ambiente, las obras públicas, las vías de comunicación, y el desarrollo de sus zonas de frontera.
-
-- 3. Adoptar de acuerdo con la ley los planes y programas de desarrollo económico y social y los de obras públicas, con la determinación de las inversiones y medidas que se consideren necesarias para impulsar su ejecución y asegurar su cumplimiento.
-
-- 4. Decretar, de conformidad con la ley, los tributos y contribuciones necesarios para el cumplimiento de las funciones departamentales.
-
-- 5. Expedir las normas orgánicas del presupuesto departamental y el presupuesto anual de rentas y gastos.
-
-- 6. Con sujeción a los requisitos que señale la ley, crear y suprimir municipios, segregar y agregar territorios municipales, y organizar provincias.
-
-- 7. Determinar la estructura de la administración departamental, las funciones de sus dependencias, las escalas de remuneración correspondientes a sus distintas categorías de empleo; crear los establecimientos públicos y las empresas industriales o comerciales del departamento y autorizar la formación de sociedades de economía mixta.
-
-- 8. Dictar normas de policía en todo aquello que no sea materia de disposición legal.
-
-- 9. Autorizar al gobernador para celebrar contratos, negociar empréstitos, enajenar bienes y ejercer, *pro tempore,* precisas funciones de las que corresponden a las asambleas departamentales.
-
-- 10. Regular, en concurrencia con el municipio, el deporte, la educación y la salud en los términos que determine la ley; y
-
-- 11. Cumplir las demás funciones que les asignen la Constitución y la ley. Los planes y programas de desarrollo y de obras públicas, serán coordinados e integrados con los planes y programas municipales, regionales y nacionales.
-
-- 12. Cumplir las demás funciones que le asignen la Constitución y la ley. Los planes y programas de desarrollo de obras públicas, serán coordinados e integrados con los planes y programas municipales, regionales y nacionales.
-
-Las ordenanzas a que se refieren los numerales 3, 5 y 7 de este artículo, las que decreten inversiones, participaciones o cesiones de rentas y bienes departamentales y las que creen servicios a cargo del departamento o los traspasen a él, sólo podrán ser dictadas o reformadas a iniciativa del gobernador.
+**14 °.** Proponer moción de censura respecto de los Secretarios de Despacho del Gobernador por asuntos relacionados con funciones propias del cargo, o por desatención a los requerimientos y citaciones de la asamblea. La moción de censura deberá ser propuesta por la tercera parte de los miembros que componen la asamblea. La votación se hará entre el tercero y el décimo día siguientes a la terminación del debate, con audiencia pública del funcionario respectivo. Su aprobación requerirá el voto afirmativo de las dos terceras partes de los miembros que integran la corporación. Una vez aprobada, el funcionario quedará separado de su cargo. Si fuere rechazada, no podrá presentarse otra sobre la misma materia a menos que la motiven hechos nuevos. La renuncia del funcionario respecto del cual se haya promovido moción de censura no obsta para que la misma sea aprobada conforme a lo previsto en este artículo.
 
 ##### **Artículo 301.** La ley señalará los casos en los cuales las asambleas podrán delegar en los concejos municipales las funciones que ella misma determine. En cualquier momento, las asambleas podrán reasumir el ejercicio de las funciones delegadas.
 
@@ -2082,21 +1982,13 @@ Mediante la creación de los municipios a que hubiere lugar, la Asamblea Departa
 
 ##### **Artículo 311.** Al municipio como entidad fundamental de la división político-administrativa del Estado le corresponde prestar los servicios públicos que determine la ley, construir las obras que demande el progreso local, ordenar el desarrollo de su territorio, promover la participación comunitaria, el mejoramiento social y cultural de sus habitantes y cumplir las demás funciones que le asignen la Constitución y las leyes.
 
-##### **Artículo 312.** En cada municipio habrá una corporación administrativa elegida popularmente para períodos de cuatro (4) años que se denominará concejo municipal, integrado por no menos de siete, ni más de veintiún miembros según lo determine la ley, de acuerdo con la población respectiva.
+##### **Artículo 312.** En cada municipio habrá una corporación político - administrativa elegida popularmente para períodos de cuatro (4) años que se denominará concejo municipal, integrado por no menos de 7, ni más de 21 miembros según lo determine la ley de acuerdo con la población respectiva. Esta corporación podrá ejercer control político sobre la administración municipal.
 
-La ley determinará las calidades, inhabilidades e incompatibilidades de los concejales y la época de sesiones ordinarias de los concejos. Los concejales no tendrán la calidad de empleados públicos.
-
-La ley podrá determinar los casos en que tengan derecho a honorarios por su asistencia a sesiones.
-
-Su aceptación de cualquier empleo público, constituye falta absoluta.
-
-**Artículo 312.** En cada municipio habrá una corporación administrativa elegida popularmente para períodos de tres años que se denominará concejo municipal, integrada por no menos de siete, ni más de veintiún miembros según lo determine la ley, de acuerdo con la población respectiva.
-
-La ley determinará las calidades, inhabilidades e incompatibilidades de los concejales y la época de sesiones ordinarias de los concejos. Los concejales no tendrán la calidad de empleados públicos.
+La ley determinará las calidades, inhabilidades, e incompatibilidades de los concejales y la época de sesiones ordinarias de los concejos. Los concejales no tendrán la calidad de empleados públicos.
 
 La ley podrá determinar los casos en que tengan derecho a honorarios por su asistencia a sesiones.
 
-Su aceptación de cualquier empleo público, constituye falta absoluta.
+Su aceptación de cualquier empleo público constituye falta absoluta.
 
 ##### **Artículo 313.** Corresponde a los concejos:
 
@@ -2119,6 +2011,12 @@ Su aceptación de cualquier empleo público, constituye falta absoluta.
 - 9. Dictar las normas necesarias para el control, la preservación y defensa del patrimonio ecológico y cultural del municipio.
 
 - 10. Las demás que la Constitución y la ley le asignen.
+
+- 11. En las capitales de los departamentos y los municipios con población mayor de veinticinco mil habitantes, citar y requerir a los secretarios del despacho del alcalde para que concurran a las sesiones. Las citaciones deberán hacerse con una anticipación no menor de cinco (5) días y formularse en cuestionario escrito. En caso de que los Secretarios no concurran, sin excusa aceptada por el Concejo Distrital o Municipal, éste podrá proponer moción de censura. Los Secretarios deberán ser oídos en la sesión para la cual fueron citados, sin perjuicio de que el debate continúe en las sesiones posteriores por decisión del concejo. El debate no podrá extenderse a asuntos ajenos al cuestionario y deberá encabezar el orden del día de la sesión.
+
+Los concejos de los demás municipios, podrán citar y requerir a los Secretarios del despacho del Alcalde para que concurran a las sesiones. Las citaciones deberán hacerse con una anticipación no menor de cinco (5) días y formularse en cuestionario escrito. En caso de que los Secretarios no concurran, sin excusa aceptada por el Concejo Distrital o Municipal, cualquiera de sus miembros podrá proponer moción de observaciones que no conlleva al retiro del funcionario correspondiente. Su aprobación requerirá el voto afirmativo de las dos terceras partes de los miembros que integran la corporación.
+
+- 12. Proponer moción de censura respecto de los Secretarios del Despacho del Alcalde por asuntos relacionados con funciones propias del cargo o por desatención a los requerimientos y citaciones del Concejo Distrital o Municipal. La moción de censura deberá ser propuesta por la mitad más uno de los miembros que componen el Concejo Distrital o Municipal. La votación se hará entre el tercero y el décimo día siguientes a la terminación del debate, con audiencia pública del funcionario respectivo. Su aprobación requerirá el voto afirmativo de las dos terceras partes de los miembros que integran la Corporación. Una vez aprobada, el funcionario quedará separado de su cargo. Si fuere rechazada, no podrá presentarse otra sobre la misma materia a menos que la motiven hechos nuevos. La renuncia del funcionario respecto del cual se haya promovido moción de censura no obsta para que la misma sea aprobada conforme a lo previsto en este artículo.
 
 ##### **Artículo 314.** En cada municipio habrá un alcalde, jefe de la administración local y representante legal del municipio, que será elegido popularmente para períodos institucionales de cuatro (4) años, y no podrá ser reelegido para el período siguiente.
 
