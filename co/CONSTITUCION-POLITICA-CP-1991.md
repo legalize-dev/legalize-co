@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2007-12-31"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -2319,6 +2319,74 @@ El Gobierno, en los niveles nacional, departamental, distrital y municipal podr�
 ### **CAPITULO 4**
 
 **DE LA DISTRIBUCION DE RECURSOS Y DE LAS COMPETENCIAS**
+
+##### **Artículo 357.** El Sistema General de Participaciones de los Departamentos, Distritos y Municipios se incrementará anualmente en un porcentaje igual al promedio de la variación porcentual que hayan tenido los ingresos corrientes de la Nación durante los cuatro (4) años anteriores, incluido el correspondiente al aforo del presupuesto en ejecución.
+
+Para efectos del cálculo de la variación de los ingresos corrientes de la Nación a que se refiere el inciso anterior, estarán excluidos los tributos que se arbitren por medidas de estado de excepción salvo que el Congreso, durante el año siguiente, les otorgue el carácter permanente.
+
+El diecisiete por ciento (17%) de los recursos de Propósito General del Sistema General de Participaciones, será distribuido entre los municipios con población inferior a 25.000 habitantes. Estos recursos se destinarán exclusivamente para inversión, conforme a las competencias asignadas por la ley. Estos recursos se distribuirán con base en los mismos criterios de población y pobreza definidos por la ley para la Participación de Propósito General.
+
+Los municipios clasificados en las categorías cuarta, quinta y sexta, de conformidad con las normas vigentes, podrán destinar libremente, para inversión y otros gastos inherentes al funcionamiento de la administración municipal, hasta un cuarenta y dos (42%) de los recursos que perciban por concepto del Sistema General de Participaciones de Propósito General, exceptuando los recursos que se distribuyan de acuerdo con el inciso anterior.
+
+Cuando una entidad territorial alcance coberturas universales y cumpla con los estándares de calidad establecidos por las autoridades competentes, en los sectores de educación, salud y/o servicios públicos domiciliarios de agua potable y saneamiento básico, previa certificación de la entidad nacional competente, podrá destinar los recursos excedentes a inversión en otros sectores de su competencia. El Gobierno Nacional reglamentará la materia.
+
+**Parágrafo transitorio 1º.**El monto del Sistema General de Participaciones, SGP, de los Departamentos, Distritos y Municipios se incrementará tomando como base el monto liquidado en la vigencia anterior. Durante los años 2008 y 2009 el SGP se incrementará en un porcentaje igual al de la tasa de inflación causada, más una tasa de crecimiento real de 4%. Durante el año 2010 el incremento será igual a la tasa de inflación causada, más una tasa de crecimiento real de 3.5%. Entre el año 2011 y el año 2016 el incremento será igual a la tasa de inflación causada, más una tasa de crecimiento real de 3%.
+
+**Parágrafo transitorio 2º.**Si la tasa de crecimiento real de la economía (Producto Interno Bruto, PIB) certificada por el DANE para el año respectivo es superior al 4%, el incremento del SGP será igual a la tasa de inflación causada, más la tasa de crecimiento real señalada en el parágrafo transitorio 1º del presente artículo, más los puntos porcentuales de diferencia resultantes de comparar la tasa de crecimiento real de la economía certificada por el DANE y el 4%. Estos recursos adicionales se destinarán a la atención integral de la primera infancia. El aumento del SGP por mayor crecimiento económico, de que trata el presente parágrafo, no generará base para la liquidación del SGP en años posteriores.
+
+**Parágrafo transitorio 3º.**El Sistema General de Participaciones, SGP, tendrá un crecimiento adicional a lo establecido en los parágrafos transitorios anteriores para el sector educación. La evolución de dicho crecimiento adicional será así: en los años 2008 y 2009 de uno punto tres por ciento (1.3%), en el año 2010 de uno punto seis por ciento (1.6%), y durante los años 2011 a 2016 de uno punto ocho por ciento (1.8%). En cada uno de estos años, este aumento adicional del Sistema no generará base para la liquidación del monto del SGP de la siguiente vigencia. Estos recursos se destinarán para cobertura y calidad.
+
+**Parágrafo transitorio 4º.**El Gobierno Nacional definirá unos criterios y transiciones en la aplicación de los resultados del último censo realizado, con el propósito de evitar los efectos negativos derivados de las variaciones de los datos censales en la distribución del Sistema General de Participaciones. El Sistema orientará los recursos necesarios para que de ninguna manera, se disminuyan, por razón de la población, los recursos que reciben las entidades territoriales actualmente.
+
+**Artículo 357.** El monto del Sistema General de Participaciones de los Departamentos, Distritos y Municipios se incrementará anualmente en un porcentaje igual al promedio de la variación porcentual que hayan tenido los ingresos Corrientes de la Nación durante los cuatro (4) años anteriores, incluida la correspondiente al aforo del presupuesto en ejecución.
+
+Para efectos del cálculo de la variación de los ingresos corrientes de la Nación a que se refiere el inciso anterior, estarán excluidos los tributos que se arbitren por medidas de estados de excepción, salvo que el Congreso, durante el año siguiente les otorgue el carácter permanente.
+
+Los municipios clasificados en las categorías cuarta, quinta y sexta, de conformidad con las normas vigentes, podrán destinar libremente, para inversión y otros gastos inherentes al funcionamiento de la administración municipal, hasta un veintiocho (28%) de los recursos que perciban por concepto del Sistema General de Participaciones de los Departamentos, Distritos y Municipios, exceptuando los recursos que se destinen para educación y salud.
+
+**Parágrafo transitorio 1°.**El Sistema General de Participaciones de los Departamentos, Distritos y Municipios tendrá como base inicial el monto de los recursos que la Nación transfería a las entidades territoriales antes de entrar en vigencia este acto legislativo, por concepto de situado fiscal, participación de los municipios en los ingresos corrientes de la Nación y las transferencias complementarias al situado fiscal para educación, que para el año 2001 se valoran en la suma de diez punto novecientos sesenta y dos (10.962) billones de pesos.
+
+En el caso de educación, la base inicial contempla los costos por concepto de docentes y administrativos pagados con situado fiscal y el fondo de compensación educativa, docentes y otros gastos en educación financiados a nivel distrital y municipal con las participaciones en los ingresos corrientes de la nación, y los docentes, personal administrativo de los planteles educativos y directivos docentes departamentales y municipales pagados con recursos propios, todos ellos a 1º de noviembre del 2000. Esta incorporación será automática a partir del 1º de enero de 2002.
+
+**Parágrafo transitorio 2°.**Durante los años comprendidos entre 2002 y 2008 el monto del Sistema General de Participaciones crecerá en un porcentaje igual al de la tasa de inflación causada, más un crecimiento adicional que aumentará en forma escalonada así: Para los años 2002, 2003, 2004 y 2005 el incremento será de 2%; para los años 2006, 2007 y 2008 el incremento será de 2.5%.
+
+Si durante el período de transición el crecimiento real de la economía (producto interno bruto) certificado por el DANE en el mes de mayo del año siguiente es superior al 4%, el crecimiento adicional del Sistema General de Participaciones de que trata el presente parágrafo se incrementará en una proporción equivalente al crecimiento que supere el 4%, previo descuento de los porcentajes que la Nación haya tenido que asumir, cuando el crecimiento real de la economía no haya sido suficiente para financiar el 2% adicional durante los años 2002, 2003, 2004 y 2005, y 2.5% adicional para los años 2006, 2007 y 2008.
+
+**Parágrafo transitorio 3°.**Al finalizar el período de transición, el porcentaje de los ingresos corrientes de la Nación destinados para el Sistema General de Participación será como mínimo el porcentaje que constitucionalmente se transfiera en el año 2001. La Ley, a iniciativa del Congreso, establecerá la gradualidad del incremento autorizado en este parágrafo.
+
+En todo caso, después del período de transición, el Congreso, cada cinco años y a iniciativa propia a través de ley, podrá incrementar el porcentaje.
+
+Igualmente durante la vigencia del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, el Congreso de la República, podrá revisar por iniciativa propia cada cinco años, la base de liquidación de éste.
+
+**Artículo 357.** Los municipios participarán en los ingresos corrientes de la Nación. La ley, a iniciativa del Gobierno, determinará el porcentaje mínimo de esa participación y definirá las áreas prioritarias de inversión social que se financiarán con dichos recursos. Para los efectos de esa participación, la ley determinará los resguardos indígenas que serán considerados como municipios.
+
+Los recursos provenientes de esa participación serán distribuidos por la ley de conformidad con los siguientes criterios: el sesenta por ciento (60%) en proporción directa al número de habitantes con necesidades básicas insatisfechas y al nivel relativo de pobreza de la población del respectivo municipio; el resto en función de la población total, la eficiencia fiscal y administrativa y el progreso demostrado en calidad de vida, asignando en forma exclusiva un porcentaje de esa parte a los municipios menores de 50.000 habitantes".
+
+La ley precisará el alcance, los criterios de distribución aquí previstos, y dispondrá que un porcentaje de éstos ingresos se invierta en las zonas rurales.
+
+Cada cinco (5) años, la ley a iniciativa del Congreso, podrá revisar éstos porcentajes de distribución".
+
+**Parágrafo.** La participación de los municipios en los ingresos corrientes de la Nación se incrementará, año por año, del catorce por ciento (14%) de 1993 hasta alcanzar el veintidós por ciento (22%) como mínimo en el 2001. La ley fijará el aumento gradual de éstas transferencias y definirá las nuevas responsabilidades que en materia de inversión social asumirán los municipios y las condiciones para su cumplimiento. Sus autoridades deberán demostrar a los organismos de evaluación y control de resultados la eficiente y correcta aplicación de estos recursos y, en caso de mal manejo, se harán acreedores a las sanciones que establezca la ley .
+
+Estarán excluidos de la participación anterior, los impuestos nuevos cuando el Congreso así lo determine y, por el primer año de vigencia, los ajustes a los tributos existentes y los que se arbitren por medidas de emergencia económica.
+
+A partir del año 2000, los municipios clasificados en las categorías cuarta, quinta y sexta, de conformidad con las normas vigentes, podrán destinar libremente, para inversión o para otros gastos, hasta un quince por ciento (15%) de los recursos que perciban por concepto de la participación.
+
+**Parágrafo transitorio primero.** Establécese para los años 1995 a 1999, inclusive, un período de transición durante el cual los municipios, de conformidad con la categorización consagrada en las normas vigentes, destinarán libremente para inversión o para otros gastos, un porcentaje máximo de los recursos de la participación, de la siguiente forma:
+
+Categorías 2º. y 3º.: Hasta el 25 % en 1995; hasta el 20% en 1996; hasta el 15% en 1997; hasta el 10% en 1998; y hasta el 5% en 1999.
+
+Categorías 4º., 5º. y 6º.: Hasta el 30% en 1995; hasta el 27% en 1996; hasta el 24% en 1997; hasta el 21 % en 1998, y hasta el 18% en 1999.
+
+**El parágrafo transitorio segundo.** A partir de 1996 y hasta el año 1999, inclusive, un porcentaje creciente de la participación se distribuirá entre los municipios de acuerdo con los criterios establecidos en este artículo, de la siguiente manera: el 50% en 1996; el 60% en 1997; el 70% en 1998 y el 85% en 1999. El porcentaje restante de la participación en cada uno de los años del período de transición, se distribuirá en proporción directa al valor que hayan recibido los municipios y distritos por concepto de la transferencia del IVA en 1992. A partir del año 2000 entrarán en plena vigencia los criterios establecidos en el presente artículo para distribuir la participación.
+
+**Artículo 357.** Los municipios participarán en los ingresos corrientes de la Nación. La ley, a iniciativa del Gobierno, determinará el porcentaje mínimo de esa participación y definirá las áreas prioritarias de inversión social que se financiarán con dichos recursos. Para los efectos de esta participación, la ley determinará los resguardos indígenas que serán considerados como municipios.
+
+Los recursos provenientes de esta participación serán distribuidos por la ley de conformidad con los siguientes criterios: sesenta por ciento en proporción directa al número de habitantes con necesidades básicas insatisfechas y al nivel relativo de pobreza de la población del respectivo municipio; el resto en función de la población total, la eficiencia fiscal y administrativa y el progreso demostrado en calidad de vida, asignando en forma exclusiva un porcentaje de esta parte a los municipios menores de 50.000 habitantes. La ley precisará el alcance, los criterios de distribución aquí previstos y dispondrá que un porcentaje de estos ingresos se invierta en las zonas rurales. Cada cinco años, la ley a iniciativa del Congreso, podrá revisar estos porcentajes de distribución.
+
+**Parágrafo.** La participación de los municipios en los ingresos corrientes de la Nación se incrementará, año por año, del catorce por ciento de 1993 hasta alcanzar el veintidós por ciento como mínimo en el 2002. La ley fijará el aumento gradual de estas transferencias y definirá las nuevas responsabilidades que en materia de inversión social asumirán los municipios y las condiciones para su cumplimiento. Sus autoridades deberán demostrar a los organismos de evaluación y control de resultados la eficiente y correcta aplicación de estos recursos y, en caso de mal manejo, se harán acreedores a las sanciones que establezca la ley.
+
+Estarán excluidos de la participación anterior, los impuestos nuevos cuando el Congreso así lo determine y, por el primer año de vigencia, los ajustes a tributos existentes y los que se arbitren por medidas de emergencia económica.
 
 ##### **Artículo 358.** Para los efectos contemplados en los dos artículos anteriores, entiéndese por ingresos corrientes los constituidos por los ingresos tributarios y no tributarios con excepción de los recursos de capital.
 
