@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2008-01-01"
+last_updated: "2008-12-26"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -729,6 +729,48 @@ Los servidores públicos están al servicio del Estado y de la comunidad; ejerce
 La ley determinará el régimen aplicable a los particulares que temporalmente desempeñen funciones públicas y regulará su ejercicio.
 
 ##### **Artículo 124.** La ley determinará la responsabilidad de los servidores públicos y la manera de hacerla efectiva.
+
+##### **Artículo 125.** Los empleos en los órganos y entidades del Estado son de carrera. Se exceptúan los de elección popular, los de libre nombramiento y remoción, los de trabajadores oficiales y los demás que determine la ley.
+
+Los funcionarios, cuyo sistema de nombramiento no haya sido determinado por la Constitución o la ley, serán nombrados por concurso público.
+
+El ingreso a los cargos de carrera y el ascenso en los mismos, se harán previo cumplimiento de los requisitos y condiciones que fije la ley para determinar los méritos y calidades de los aspirantes.
+
+El retiro se hará: por calificación no satisfactoria en el desempeño del empleo; por violación del régimen disciplinario y por las demás causales previstas en la Constitución o la ley.
+
+En ningún caso la filiación política de los ciudadanos podrá determinar su nombramiento para un empleo de carrera, su ascenso o remoción.
+
+**Parágrafo.** Los períodos establecidos en la Constitución Política o en la ley para cargos de elección tienen el carácter de institucionales. Quienes sean designados o elegidos para ocupar tales cargos, en reemplazo por falta absoluta de su titular, lo harán por cl resto del período para el cual este fue elegido.
+
+**Parágrafo transitorio.** Durante un tiempo de tres (3) años contados a partir de la vigencia del presente acto legislativo, la Comisión Nacional del Servicio Civil implementará los mecanismos necesarios para inscribir en carrera administrativa de manera extraordinaria y sin necesidad de concurso público a los servidores que a la fecha de publicación de la Ley 909 del 2004 estuviesen ocupando cargos de carrera vacantes de forma definitiva en calidad de provisionales o de encargados del sistema general de carrera siempre y cuando cumplieran las calidades y requisitos exigidos para su desempeño al momento de comenzar a ejercerlo y que a la fecha de la inscripción extraordinaria continúen desempeñando dichos cargos de carrera. Igual derecho y en las mismas condiciones tendrán los servidores de los sistemas especiales y específicos de la carrera, para lo cual la entidad competente, dentro del mismo término adelantará los trámites respectivos de inscripción.
+
+Mientras se cumpla este procedimiento, se suspenden todos los trámites relacionados con los concursos públicos que actualmente se están adelantando sobre los cargos ocupados por empleados a quienes les asiste el derecho previsto en el presente parágrafo.
+
+La Comisión Nacional del Servicio Civil deberá desarrollar, dentro de los tres (3) meses siguientes a la publicación del presente acto legislativo, instrumentos de calificación del servicio que midan de manera real el desempeño de los servidores públicos inscritos de manera extraordinaria en carrera administrativa.
+
+Quedan exceptuados de estas normas los procesos de selección que se surtan en desarrollo de lo previsto por el artículo 131 de la Constitución Política y los servidores regidos por el artículo 256 de la Constitución Política, carrera docente y carrera diplomática consular.
+
+**Artículo 125.** Los empleos en los órganos y entidades del Estado son de carrera. Se exceptúan los de elección popular, los de libre nombramiento y remoción, los de trabajadores oficiales y los demás que determine la ley.
+
+Los funcionarios, cuyo sistema de nombramiento no haya sido determinado por la Constitución o la ley, serán nombrados por concurso público.
+
+El ingreso a los cargos de carrera y el ascenso en los mismos, se harán previo cumplimiento de los requisitos y condiciones que fije la ley para determinar los méritos y calidades de los aspirantes.
+
+El retiro se hará: por calificación no satisfactoria en el desempeño del empleo; por violación del régimen disciplinario y por las demás causales previstas en la Constitución o la ley.
+
+En ningún caso la filiación política de los ciudadanos podrá determinar su nombramiento para un empleo de carrera, su ascenso o remoción.
+
+**Parágrafo.** Los períodos establecidos en la Constitución Política o en la ley para cargos de elección tienen el carácter de institucionales. Quienes sean designados o elegidos para ocupar tales cargos, en reemplazo por falta absoluta de su titular, lo harán por cl resto del período para el cual este fue elegido.
+
+**Artículo 125.** Los empleos en los órganos y entidades del Estado son de carrera. Se exceptúan los de elección popular, los de libre nombramiento y remoción, los de trabajadores oficiales y los demás que determine la ley.
+
+Los funcionarios, cuyo sistema de nombramiento no haya sido determinado por la Constitución o la ley, serán nombrados por concurso público.
+
+El ingreso a los cargos de carrera y el ascenso en los mismos, se harán previo cumplimiento de los requisitos y condiciones que fije la ley para determinar los méritos y calidades de los aspirantes.
+
+El retiro se hará: por calificación no satisfactoria en el desempeño del empleo; por violación del régimen disciplinario y por las demás causales previstas en la Constitución o la ley.
+
+En ningún caso la filiación política de los ciudadanos podrá determinar su nombramiento para un empleo de carrera, su ascenso o remoción.
 
 ##### **Artículo 127.**Los servidores públicos no podrán celebrar, por si o por interpuesta persona, o en representación de otro, contrato alguno con entidades publicas o con personas privadas que manejen o administren recursos públicos, salvo las excepciones legales.
 
