@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2008-12-26"
+last_updated: "2009-07-13"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -626,43 +626,61 @@ El Estado contribuirá a la organización, promoción y capacitación de las aso
 
 ##### **Artículo 107.** Se garantiza a todos los ciudadanos el derecho a fundar, organizar y desarrollar partidos y movimientos políticos, y la libertad de afiliarse a ellos o de retirarse.
 
-En ningún caso se permitirá a los ciudadanos pertenecer simultáneamente a más de un partido o movimiento políticos con personería jurídica.
+En ningún caso se permitirá a los ciudadanos pertenecer simultáneamente a más de un partido o movimiento político con personería jurídica.
 
-Los partidos y movimientos políticos se organizarán democráticamente. Para la toma de sus decisiones o la escogencia de sus candidatos podrán celebrar consultas populares o internas que coincidan o no con las elecciones a corporaciones públicas, de acuerdo con lo previsto en sus estatutos. En el caso de las consultas populares se aplicarán las normas sobre financiación y publicidad de campañas y acceso a los medios de comunicación del Estado, que rigen para las elecciones ordinarias. Quien participe en las consultas de un partido o movimiento político no podrá inscribirse por otro en el mismo proceso electoral
+Los Partidos y Movimientos Políticos se organizarán democráticamente y tendrán como principios rectores la transparencia, objetividad, moralidad, la equidad de género, y el deber de presentar y divulgar sus programas políticos.
 
-También se garantiza a las organizaciones sociales el derecho a manifestarse y participar en eventos políticos.
+Para la toma de sus decisiones o la escogencia de sus candidatos propios o por coalición, podrán celebrar consultas populares o internas o interpartidistas que coincidan o no con las elecciones a Corporaciones Públicas, de acuerdo con lo previsto en sus Estatutos y en la ley.
 
-**Artículo 107.** Se garantiza a todos los nacionales el derecho a fundar, organizar y desarrollar partidos y movimientos políticos, y la libertad de afiliarse a ellos o de retirarse.
+En el caso de las consultas populares se aplicarán las normas sobre financiación y publicidad de campañas y acceso a los medios de comunicación del Estado, que rigen para las elecciones ordinarias. Quien participe en las consultas de un partido o movimiento político o en consultas interpartidistas, no podrá inscribirse por otro en el mismo proceso electoral. El resultado de las consultas será obligatorio.
+
+Los directivos de los Partidos y Movimientos Políticos deberán propiciar procesos de democratización interna y el fortalecimiento del régimen de bancadas.
+
+Los Partidos y Movimientos Políticos deberán responder por toda violación o contravención a las normas que rigen su organización, funcionamiento o financiación, así como también por avalar candidatos elegidos en cargos o Corporaciones Públicas de elección popular, quienes hayan sido o fueren condenados durante el ejercicio del cargo al cual se avaló mediante sentencia ejecutoriada en Colombia o en el exterior por delitos relacionados con la vinculación a grupos armados ilegales y actividades del narcotráfico o de delitos contra los mecanismos de participación democrática o de lesa humanidad.
+
+Los partidos o movimientos políticos también responderán por avalar a candidatos no elegidos para cargos o Corporaciones Públicas de Elección Popular, si estos hubieran sido o fueren condenados durante el período del cargo público al cual se candidatizó, mediante sentencia ejecutoriada en Colombia o en el exterior por delitos relacionados con la vinculación a grupos armados ilegales y actividades del narcotráfico, cometidos con anterioridad a la expedición del aval correspondiente.
+
+Las sanciones podrán consistir en multas, devolución de los recursos públicos percibidos mediante el sistema de reposición de votos, hasta la cancelación de la personería jurídica. Cuando se trate de estas condenas a quienes fueron electos para cargos uninominales, el partido o movimiento que avaló al condenado, no podrá presentar candidatos para las siguientes elecciones en esa Circunscripción. Si faltan menos de 18 meses para las siguientes elecciones, no podrán presentar terna, caso en el cual, el nominador podrá libremente designar el reemplazo.
+
+Los directivos de los partidos a quienes se demuestre que no han procedido con el debido cuidado y diligencia en el ejercicio de los derechos y obligaciones que les confiere Personería Jurídica también estarán sujetos a las sanciones que determine la ley.
 
 También se garantiza a las organizaciones sociales el derecho a manifestarse y a participar en eventos políticos.
 
-##### **Artículo 109.** El Estado concurrirá a la financiación de los partidos y movimientos políticos con personería jurídica, de conformidad con la ley.
+Quien siendo miembro de una corporación pública decida presentarse a la siguiente elección, por un partido distinto, deberá renunciar a la curul al menos doce (12) meses antes del primer día de inscripciones.
 
-Las campañas que adelanten los partidos y movimientos con personería jurídica y los grupos significativos de ciudadanos que postulen candidatos serán financiadas con recursos estatales mediante el sistema de reposición por votos depositados.
+**Parágrafo transitorio 1°.**Sin perjuicio de lo dispuesto por el artículo 134, dentro de los dos (2) meses siguientes a la entrada en vigencia del presente acto legislativo, autorízase, por una sola vez, a los miembros de los Cuerpos Colegiados de elección popular, o a quienes hubieren renunciado a su curul con anterioridad a la vigencia del presente acto legislativo, para inscribirse en un partido distinto al que los avaló, sin renunciar a la curul o incurrir en doble militancia.
+
+**Parágrafo transitorio 2°**. El Gobierno Nacional o los miembros del Congreso presentarán, antes del 1º de agosto de 2009, un Proyecto de Ley Estatutaria que desarrolle este artículo.
+
+El Proyecto tendrá mensaje de urgencia y sesiones conjuntas y podrá ser objeto de mensaje de insistencia si fuere necesario. Se reducen a la mitad los términos para la revisión previa de exequibilidad del Proyecto de Ley Estatutaria, por parte de la Corte Constitucional.
+
+##### **Artículo 109.** El Estado concurrirá a la financiación política y electoral de los Partidos y Movimientos Políticos con personería jurídica, de conformidad con la ley.
+
+Las campañas electorales que adelanten los candidatos avalados por partidos y movimientos con Personería Jurídica o por grupos significativos de ciudadanos, serán financiadas parcialmente con recursos estatales.
 
 La ley determinará el porcentaje de votación necesario para tener derecho a dicha financiación.
 
-También se podrá limitar el monto de los gastos que los partidos, movimientos o candidatos puedan realizar en las campañas electorales, así como la máxima cuantía de las contribuciones privadas, de acuerdo con la ley.
+También se podrá limitar el monto de los gastos que los partidos, movimientos, grupos significativos de ciudadanos o candidatos puedan realizar en las campañas electorales, así como la máxima cuantía de las contribuciones privadas, de acuerdo con la ley.
+
+Un porcentaje de esta financiación se entregará a partidos y movimientos con Personería Jurídica vigente, y a los grupos significativos de ciudadanos que avalen candidatos, previamente a la elección, o las consultas de acuerdo con las condiciones y garantías que determine la ley y con autorización del Consejo Nacional Electoral.
 
 Las campañas para elegir Presidente de la República dispondrán de acceso a un máximo de espacios publicitarios y espacios institucionales de radio y televisión costeados por el Estado, para aquellos candidatos de partidos, movimientos y grupos significativos de ciudadanos cuya postulación cumpla los requisitos de seriedad que, para el efecto, determine la ley.
 
 Para las elecciones que se celebren a partir de la vigencia del presente acto legislativo, la violación de los topes máximos de financiación de las campañas, debidamente comprobada, será sancionada con la pérdida de investidura o del cargo. La ley reglamentará los demás efectos por la violación de este precepto.
 
-Los partidos, movimientos y candidatos deberán rendir públicamente cuentas sobre el volumen, origen y destino de sus ingresos.
+Los partidos, movimientos, grupos significativos de ciudadanos y candidatos deberán rendir públicamente cuentas sobre el volumen, origen y destino de sus ingresos.
 
-**Parágrafo.** La financiación anual de los partidos y movimientos políticos con Personería Jurídica ascenderá como mínimo a dos punto siete veces la aportada en el año 2003, manteniendo su valor en el tiempo.
+Es prohibido a los Partidos y Movimientos Políticos y a grupos significativos de ciudadanos, recibir financiación para campañas electorales, de personas naturales o jurídicas extranjeras. Ningún tipo de financiación privada podrá tener fines antidemocráticos o atentatorios del orden público.
 
-La cuantía de la financiación de las campañas de los partidos y movimientos políticos con personería jurídica será por lo menos tres veces la aportada en el período 1999-2002 en pesos constantes de 2003. Ello incluye el costo del transporte del día de elecciones y el costo de las franquicias de correo hoy financiadas.
+**Parágrafo.** La financiación anual de los Partidos y Movimientos Políticos con Personería Jurídica ascenderá como mínimo a dos punto siete (2.7) veces la aportada en el año 2003, manteniendo su valor en el tiempo.
 
-Las consultas populares internas de los partidos y movimientos que opten por este mecanismo recibirán financiación mediante el sistema de reposición por votos depositados, manteniendo para ello el valor en pesos constantes vigente en el momento de aprobación de este Acto Legislativo.
+La cuantía de la financiación de las campañas de los Partidos y Movimientos Políticos con Personería Jurídica será por lo menos tres veces la aportada en el período 1999-2002 en pesos constantes de 2003. Ello incluye el costo del transporte del día de elecciones y el costo de las franquicias de correo hoy financiadas.
 
-**Parágrafo transitorio.** El Congreso reglamentará estas materias. En lo concerniente a las elecciones departamentales y municipales, tal reglamentación deberá estar lista a más tardar tres meses antes de su realización. Si no lo hiciere, el Gobierno Nacional dictará un decreto con fuerza de ley antes del cierre de las inscripciones correspondientes.
+Las consultas de los partidos y movimientos que opten por este mecanismo recibirán financiación mediante el sistema de reposición por votos depositados, manteniendo para ello el valor en pesos constantes vigente en el momento de aprobación de este Acto Legislativo.
 
-**Artículo 109.** El Estado contribuirá a la financiación del funcionamiento y de las campanas electorales de los partidos y movimientos políticos con personería jurídica.
+**Parágrafo transitorio.** El Gobierno Nacional o los miembros del Congreso presentarán, antes del 1 º de agosto de 2009, un Proyecto de Ley Estatutaria que desarrolle este artículo.
 
-Los demás partidos, movimientos y grupos significativos de ciudadanos que postulen candidatos. se harán acreedores a este beneficio siempre que obtengan el porcentaje de votación que señale la ley.
-
-La ley podrá limitar el monto de los gastos que los partidos, movimientos o candidatos puedan realizar en las campañas electorales, así como la máxima cuantía de las contribuciones individuales. Los partidos, movimientos y candidatos deberán rendir públicamente cuentas sobre el volumen, origen y destino de sus ingresos.
+El proyecto tendrá mensaje de urgencia y podrá ser objeto de mensaje de insistencia si fuere necesario. Se reducen a la mitad los términos para la revisión previa de exequibilidad del Proyecto de Ley Estatutaria, por parte de la Corte Constitucional.
 
 ##### **Artículo 110.** Se prohíbe a quienes desempeñan funciones públicas hacer contribución alguna a los partidos, movimientos o candidatos, o inducir a otros a que lo hagan, salvo las excepciones que establezca la ley. El incumplimiento de cualquiera de estas prohibiciones será causal de remoción del cargo o de pérdida de la investidura.
 
@@ -816,7 +834,7 @@ Corresponde al Gobierno la creación, supresión y fusión de los círculos de n
 
 ##### **Artículo 132.** Los senadores y los representantes serán elegidos para un periodo de cuatro años, que se inicia el 20 de julio siguiente a la elección.
 
-##### **Artículo 133.** Los miembros de cuerpos colegiados de elección directa representan al pueblo, y deberán actuar consultando la justicia y el bien común.
+##### **Artículo 133.** Los miembros de cuerpos colegiados de elección directa representan al pueblo, y deberán actuar consultando la justicia y el bien común. El voto de sus miembros será nominal y público, excepto en los casos que determine la ley.
 
 El elegido es responsable políticamente ante la sociedad y frente a sus electores del cumplimiento de las obligaciones propias de su investidura.
 
@@ -892,7 +910,9 @@ Cuando sesionen conjuntamente las Comisiones Constitucionales Permanentes, el qu
 
 ##### **Artículo 143.** El Senado de la República y la Cámara de Representantes podrán disponer que cualquiera de las comisiones permanentes sesione durante el receso, con el fin de debatir los asuntos que hubieren quedado pendientes en el período anterior, de realizar los estudios que la corporación respectiva determine y de preparar los proyectos que las Cámaras les encarguen.
 
-##### **Artículo 144.** Las sesiones de las Cámaras y de sus comisiones permanentes serán publicas, con las limitaciones a que haya lugar conforme a su reglamento.
+##### **Artículo 144.** Las sesiones de las Cámaras y de sus Comisiones Permanentes serán públicas, con las limitaciones a que haya lugar conforme a su reglamento.
+
+El ejercicio del cabildeo será reglamentado mediante ley.
 
 ##### **Artículo 145.** El Congreso pleno, las Cámaras y sus comisiones no podrán abrir sesiones ni deliberar con menos de una cuarta parte de sus miembros. Las decisiones sólo podrán tomarse con la asistencia de la mayoría de los integrantes de la respectiva corporación, salvo que la Constitución determine un quórum diferente.
 
@@ -1500,7 +1520,9 @@ En los casos de tránsito de tropas extranjeras por el territorio nacional, de e
 
 - 5. Conocer de los casos sobre pérdida de la investidura de los congresistas, de conformidad con esta Constitución y la ley.
 
-- 6. Darse su propio reglamento y ejercer las demás funciones que determine la ley.
+- 6. Conocer de la acción de nulidad electoral con sujeción a las reglas de competencia establecidas en la ley.
+
+**Parágrafo**. Para ejercer el Contencioso Electoral ante la Jurisdicción Administrativa contra el acto de elección de carácter popular cuando la demanda se fundamente en causales de nulidad por irregularidades en el proceso de votación y en el escrutinio, es requisito de procedibilidad someterlas, antes de la declaratoria de elección, a examen de la autoridad administrativa correspondiente, que encabeza el Consejo Nacional Electoral".
 
 ##### **Artículo 238.** La jurisdicción de lo contencioso administrativo podrá suspender provisionalmente, por los motivos y con los requisitos que establezca la ley, los efectos de los actos administrativos que sean susceptibles de impugnación por vía judicial.
 
@@ -1650,11 +1672,9 @@ La Comisión Nacional de Disciplina Judicial será la encargada de examinar la c
 
 ##### **Artículo 258**. *El voto es un derecho y un deber ciudadano.* El Estado velará porque se ejerza sin ningún tipo de coacción y en forma secreta por los ciudadanos en cubículos individuales instalados en cada mesa de votación sin perjuicio del uso de medios electrónicos o informáticos. En las elecciones de candidatos podrán emplearse tarjetas electorales numeradas e impresas en papel que ofrezca seguridad, las cuales serán distribuidas oficialmente. La Organización Electoral suministrará igualitariamente a los votantes instrumentos en los cuales deben aparecer identificados con claridad y en iguales condiciones los movimientos y partidos políticos con personería jurídica y los candidatos. La ley podrá implantar mecanismos de votación que otorguen más y mejores garantías para el libre ejercicio de este derecho de los ciudadanos.
 
-**Parágrafo 1°.** Deberá repetirse por una sola vez la votación para elegir miembros de una corporación pública, gobernador, alcalde o la primera vuelta en las elecciones presidenciales, cuando los votos en blanco constituyan mayoría absoluta en relación con los votos válidos. Tratándose de elecciones unipersonales no podrán presentarse los mismos candidatos, mientras que en las de corporaciones públicas no se podrán presentar a las nuevas elecciones las listas que no hayan alcanzado el umbral.
+Parágrafo 1º. Deberá repetirse por una sola vez la votación para elegir miembros de una Corporación Pública, Gobernador, Alcalde o la primera vuelta en las elecciones presidenciales, cuando del total de votos válidos, los votos en blanco constituyan la mayoría. Tratándose de elecciones unipersonales no podrán presentarse los mismos candidatos, mientras en las de Corporaciones Públicas no se podrán presentar a las nuevas elecciones las listas que no hayan alcanzado el umbral.
 
 **Parágrafo 2°.** Se podrá implementar el voto electrónico para lograr agilidad y transparencia en todas las votaciones.
-
-**Artículo 258.** El voto es un derecho y un deber ciudadano. En todas las elecciones los ciudadanos votarán secretamente en cubículos individuales instalados en cada mesa de votación, con tarjetas electorales numeradas e impresas en papel que ofrezca seguridad, las cuales serán distribuidas oficialmente. La organización electoral suministrará igualitariamente a los votantes instrumentos en los cuales deben aparecer identificados con claridad y en iguales condiciones todos los candidatos. La ley podrá implantar mecanismos de votación que otorguen más y mejores garantías para el libre ejercicio de este derecho de los ciudadanos.
 
 ##### **Artículo 259.** Quienes elijan gobernadores y alcaldes, imponen por mandato al elegido el programa que presentó al inscribirse como candidato. La ley reglamentará el ejercicio del voto programático.
 
@@ -1684,31 +1704,35 @@ En los casos de única instancia, según la ley, el término para decidir no pod
 
 **Artículo 264.** El Consejo Nacional Electoral se compondrá del número de miembros que determine la ley, que no debe ser menor de siete. Serán elegidos por el Consejo de Estado para un período de cuatro años, de ternas elaboradas por los partidos y movimientos políticos con personería jurídica. El Consejo deberá reflejar la composición política del Congreso. Sus miembros deberán reunir las mismas calidades que exige la Constitución para ser Magistrado de la Corte Suprema de Justicia y no serán reelegibles.
 
-##### **Artículo 265.** El Consejo Nacional Electoral tendrá, de conformidad con la ley, las siguientes atribuciones especiales:
+##### **Artículo 265.** El Consejo Nacional Electoral regulará, inspeccionará, vigilará y controlará toda la actividad electoral de los partidos y movimientos políticos, de los grupos significativos de ciudadanos, de sus representantes legales, directivos y candidatos, garantizando el cumplimiento de los principios y deberes que a ellos corresponden, y gozará de autonomía presupuestal y administrativa. Tendrá las siguientes atribuciones especiales:
 
-- 1. Ejercer la suprema inspección y vigilancia de la organización electoral.
+- 1. Ejercer la suprema inspección, vigilancia y control de la organización electoral.
 
-- 2. Elegir y remover al Registrador Nacional del Estado Civil.
+- 2. Dar posesión de su cargo al Registrador Nacional del Estado Civil.
 
 - 3. Conocer y decidir definitivamente los recursos que se interpongan contra las decisiones de sus delegados sobre escrutinios generales y en tales casos hacer la declaratoria de elección y expedir las credenciales correspondientes.
 
-- 4. Servir de cuerpo consultivo del Gobierno en materias de su competencia, presentar proyectos de acto legislativo y de ley, y recomendar proyectos de decreto.
+- 4. Además, de oficio, o por solicitud, revisar escrutinios y los documentos electorales concernientes a cualquiera de las etapas del proceso administrativo de elección con el objeto de que se garantice la verdad de los resultados.
 
-- 5. Velar por el cumplimiento de las normas sobre partidos y movimientos políticos y de las disposiciones sobre publicidad y encuestas de opinión política; por los derechos de la oposición y de las minorías, y por el desarrollo de los procesos electorales en condiciones de plenas garantías.
+- 5. Servir de cuerpo consultivo del Gobierno en materias de su competencia, presentar proyectos de acto legislativo y de ley, y recomendar proyectos de decreto.
 
-- 6. Distribuir los aportes que para el financiamiento de las campañas electorales y para asegurar el derecho de participación política de los ciudadanos, establezca la ley.
+- 6. Velar por el cumplimiento de las normas sobre Partidos y Movimientos Políticos y de las disposiciones sobre publicidad y encuestas de opinión política; por los derechos de la oposición y de las minorías, y por el desarrollo de los procesos electorales en condiciones de plenas garantías.
 
-- 7. Efectuar el escrutinio general de toda votación nacional, hacer la declaratoria de elección y expedir las credenciales a que haya lugar.
+- 7. Distribuir los aportes que para el financiamiento de las campañas electorales y para asegurar el derecho de participación política de los ciudadanos, establezca la ley.
 
-- 8. Reconocer la personería jurídica de los partidos y movimientos políticos.
+- 8. Efectuar el escrutinio general de toda votación nacional, hacer la declaratoria de elección y expedir las credenciales a que haya lugar.
 
-- 9. Reglamentar la participación de los partidos y movimientos políticos en los medios de comunicación social del Estado.
+- 9. Reconocer y revocar la Personería Jurídica de los partidos y movimientos políticos.
 
-- 10. Colaborar para la realización de consultas internas de los partidos y movimientos para la escogencia de sus candidatos.
+- 10. Reglamentar la participación de los Partidos y Movimientos Políticos en los medios de comunicación social del Estado.
 
-- 11. Darse su propio reglamento.
+- 11. Colaborar para la realización de consultas de los partidos y movimientos para la toma de decisiones y la escogencia de sus candidatos.
 
-- 12. Las demás que le confiera la ley.
+- 12. Decidir la revocatoria de la inscripción de candidatos a Corporaciones Públicas o cargos de elección popular, cuando exista plena prueba de que aquellos están incursos en causal de inhabilidad prevista en la Constitución y la ley. En ningún caso podrá declarar la elección de dichos candidatos.
+
+- 13. Darse su propio reglamento.
+
+- 14. Las demás que le confiera la ley.
 
 ##### **Artículo 266.** El Registrador Nacional del Estado Civil será escogido por los Presidentes de la Corte Constitucional, la Corte Suprema de Justicia y el Consejo de Estado, mediante concurso de méritos organizado según la ley. Su período será de cuatro (4) años, deberá reunir las mismas calidades que exige la Constitución Política para ser Magistrado de la Corte Suprema de Justicia y no haber ejercido funciones en cargos directivos en partidos o movimientos políticos dentro del año inmediatamente anterior a su elección.
 
