@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2009-07-13"
+last_updated: "2009-07-14"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -654,6 +654,58 @@ Quien siendo miembro de una corporación pública decida presentarse a la siguie
 
 El Proyecto tendrá mensaje de urgencia y sesiones conjuntas y podrá ser objeto de mensaje de insistencia si fuere necesario. Se reducen a la mitad los términos para la revisión previa de exequibilidad del Proyecto de Ley Estatutaria, por parte de la Corte Constitucional.
 
+##### **Artículo 108.** El Consejo Nacional Electoral reconocerá Personería Jurídica a los partidos, movimientos políticos y grupos significativos de ciudadanos. Estos podrán obtenerlas con votación no inferior al tres por ciento (3%) de los votos emitidos válidamente en el territorio nacional en elecciones de Cámara de Representantes o Senado. Las perderán si no consiguen ese porcentaje en las elecciones de las mismas Corporaciones Públicas. Se exceptúa el régimen excepcional que se estatuya en la ley para las circunscripciones de minorías étnicas y políticas, en las cuales bastará haber obtenido representación en el Congreso.
+
+También será causal de pérdida de la Personería Jurídica de los partidos y movimientos políticos si estos no celebran por lo menos durante cada dos (2) años convenciones que posibiliten a sus miembros influir en la toma de las decisiones más importantes de la organización política.
+
+Los Partidos y Movimientos Políticos con Personería Jurídica reconocida podrán inscribir candidatos a elecciones. Dicha inscripción deberá ser avalada para los mismos efectos por el respectivo representante legal del partido o movimiento o por quien él delegue.
+
+Los movimientos sociales y grupos significativos de ciudadanos también podrán inscribir candidatos.
+
+Toda inscripción de candidato incurso en causal de inhabilidad, será revocada por el Consejo Nacional Electoral con respeto al debido proceso.
+
+Los Estatutos de los Partidos y Movimientos Políticos regularán lo atinente a su Régimen Disciplinario Interno. Los miembros de las Corporaciones Públicas elegidos por un mismo Partido o Movimiento Político o grupo significativo de ciudadanos actuarán en ellas como bancada en los términos que señale la ley y de conformidad con las decisiones adoptadas democráticamente por estas.
+
+Los Estatutos Internos de los Partidos y Movimientos Políticos determinarán los asuntos de conciencia respecto de los cuales no se aplicará este régimen y podrán establecer sanciones por la inobservancia de sus directrices por parte de los miembros de las bancadas, las cuales se fijarán gradualmente hasta la expulsión, y podrán incluir la pérdida del derecho de voto del Congresista, Diputado, Concejal o Edil por el resto del período para el cual fue elegido.
+
+Los Partidos y Movimientos Políticos que habiendo obtenido su Personería Jurídica como producto de la circunscripción especial de minorías étnicas podrán avalar candidatos sin más requisitos que su afiliación a dicho partido, con una antelación no inferior a un año respecto a la fecha de la inscripción.
+
+**Parágrafo Transitorio.** Para las elecciones al Congreso de la República a celebrarse en 2010, el porcentaje a que se refiere el inciso primero del presente artículo será del dos por ciento (2%), y no se requerirá del requisito de inscripción con un año de antelación del que habla el inciso 8º.
+
+**Artículo 108.** El Consejo Nacional Electoral reconocerá personería jurídica a los partidos, movimientos políticos y grupos significativos de ciudadanos. Estos podrán obtenerlas con votación no inferior al dos por ciento (2%) de los votos emitidos válidamente en el territorio nacional en elecciones de Cámara de Representantes o Senado. Las perderán si no consiguen ese porcentaje en las elecciones de las mismas Corporaciones Públicas. Se exceptúa el régimen excepcional que se estatuya en la ley para las circunscripciones de minorías, en las cuales bastará haber obtenido representación en el Congreso.
+
+Los partidos y movimientos políticos con personería jurídica reconocida podrán inscribir candidatos a elecciones sin requisito adicional alguno.
+
+Dicha inscripción deberá ser avalada para los mismos efectos por el respectivo representante legal del partido o movimiento o por quien él delegue.
+
+Los movimientos sociales y grupos significativos de ciudadanos también podrán inscribir candidatos.
+
+La ley determinará los requisitos de seriedad para la inscripción de candidatos.
+
+Los estatutos de los partidos y movimientos políticos regularán lo atinente a su régimen disciplinario interno. Los miembros de las Corporaciones Públicas elegidos por un mismo partido o movimiento político o ciudadano actuarán en ellas como bancada en los términos que señale la ley y de conformidad con las decisiones adoptadas democráticamente por estas.
+
+Los estatutos internos de los partidos y movimientos políticos determinarán los asuntos de conciencia respecto de los cuales no se aplicará este régimen y podrán establecer sanciones por la inobservancia de sus directrices por parte de los miembros de las bancadas, las cuales se fijarán gradualmente hasta la expulsión, y podrán incluir la pérdida del derecho de voto del congresista, diputado, concejal o edil por el resto del período para el cual fue elegido.
+
+**Parágrafo transitorio 1º.** Los partidos y movimientos políticos con Personería Jurídica reconocida actualmente y con representación en el Congreso, conservarán tal personería hasta las siguientes elecciones de Congreso que se realicen con posterioridad a la promulgación del presente Acto Legislativo, de cuyos resultados dependerá que la conserven de acuerdo con las reglas dispuestas en la Constitución.
+
+Para efectos de participar en cualquiera de las elecciones que se realicen desde la entrada en vigencia de esta Reforma hasta las siguientes elecciones de Congreso, los partidos y movimientos políticos con representación en el Congreso podrán agruparse siempre que cumplan con los requisitos de votación exigidos en la presente Reforma para la obtención de las personerías jurídicas de los partidos y movimientos políticos y obtengan personería jurídica que reemplazará a la de quienes se agrupen. La nueva agrupación así constituida gozará de los beneficios y cumplirá las obligaciones, consagrados en la Constitución para los partidos y movimientos políticos en materia electoral.
+
+**Parágrafo transitorio 2º.** Un número plural de Senadores o Representantes a la Cámara, cuya sumatoria de votos en las pasadas elecciones de Congreso hayan obtenido más del dos por ciento (2%) de los votos válidos emitidos para Sena do de la República en el Territorio Nacional, podrán solicitar el reconocimiento de la Personería jurídica de partido o movimiento político. Esta norma regirá por tres (3) meses a partir de su promulgación.
+
+**Artículo 108.** El Consejo Nacional Electoral reconocerá personería jurídica a los partidos o movimientos políticos que se organicen para participar en la vida democrática del país, cuando comprueben su existencia con no menos de cincuenta mil firmas, o cuando en la elección anterior hayan obtenido por lo menos la misma cifra de votos o alcanzado representación en el Congreso de la República.
+
+En ningún caso podrá la ley establecer exigencias en relación con la organización interna de los partidos y movimientos políticos, ni obligar la afiliación a ellos para participar en las elecciones.
+
+Los partidos y movimientos políticos con personería jurídica reconocida podrán inscribir candidatos a elecciones sin requisito adicional alguno. Dicha inscripción deberá ser avalada para los mismos efectos por el respectivo representante legal del partido o movimiento o por quien él delegue.
+
+Los movimientos sociales y grupos significativos de ciudadanos también podrán inscribir candidatos.
+
+La ley podrá establecer requisitos para garantizar la seriedad de las inscripciones de candidatos.
+
+La personería de que trata el presente artículo quedará extinguida por no haberse obtenido el número de votos mencionado o alcanzado representación como miembros del Congreso, en la elección anterior.
+
+Se perderá también dicha personería cuando en los comicios electorales que se realicen en adelante no se obtengan por el partido o movimiento político a través de sus candidatos por lo menos 50.000 votos o no se alcance la representación en el Congreso de la República.
+
 ##### **Artículo 109.** El Estado concurrirá a la financiación política y electoral de los Partidos y Movimientos Políticos con personería jurídica, de conformidad con la ley.
 
 Las campañas electorales que adelanten los candidatos avalados por partidos y movimientos con Personería Jurídica o por grupos significativos de ciudadanos, serán financiadas parcialmente con recursos estatales.
@@ -739,6 +791,38 @@ Las gobernaciones y las alcaldías, así como las superintendencias, los estable
 ### **CAPITULO 2**
 
 **DE LA FUNCION PUBLICA**
+
+##### **Artículo 122.** No habrá empleo público que no tenga funciones detalladas en ley o reglamento y para proveer los de carácter remunerado se requiere que estén contemplados en la respectiva planta y previstos sus emolumentos en el presupuesto correspondiente.
+
+Ningún servidor público entrará a ejercer su cargo sin prestar juramento de cumplir y defender la Constitución y desempeñar los deberes que le incumben.
+
+Antes de tomar posesión del cargo, al retirarse del mismo o cuando autoridad competente se lo solicite deberá declarar, bajo juramento, el monto de sus bienes y rentas.
+
+Dicha declaración sólo podrá ser utilizada para los fines y propósitos de la aplicación de las normas del servidor público.
+
+Sin perjuicio de las demás sanciones que establezca la ley, no podrán ser inscritos como candidatos a cargos de elección popular, ni elegidos, ni designados como servidores públicos, ni celebrar personalmente, o por interpuesta persona, contratos con el Estado, quienes hayan sido condenados, en cualquier tiempo, por la comisión de delitos que afecten el patrimonio del Estado o quienes hayan sido condenados por delitos relacionados con la pertenencia, promoción o financiación de grupos armados ilegales, delitos de lesa humanidad o por narcotráfico en Colombia o en el exterior.
+
+Tampoco quien haya dado lugar, como servidores públicos, con su conducta dolosa o gravemente culposa, así calificada por sentencia ejecutoriada, a que el Estado sea condenado a una reparación patrimonial, salvo que asuma con cargo a su patrimonio el valor del daño.
+
+**Artículo 122.** No habrá empleo público que no tenga funciones detalladas en ley o reglamento y para proveer los de carácter remunerado se requiere que estén contemplados en la respectiva planta y previstos sus emolumentos en el presupuesto correspondiente.
+
+Ningún servidor público entrará a ejercer su cargo sin prestar juramento de cumplir y defender la Constitución y desempeñar los deberes que le incumben.
+
+Antes de tomar posesión del cargo, al retirarse del mismo o cuando autoridad competente se lo solicite deberá declarar, bajo juramento, el monto de sus bienes y rentas.
+
+Dicha declaración sólo podrá ser utilizada para los fines y propósitos de la aplicación de las normas del servidor público.
+
+Sin perjuicio de las demás sanciones que establezca la ley, no podrán ser inscritos como candidatos a cargos de elección popular, ni elegidos, ni designados como servidores públicos, ni celebrar personalmente, o por interpuesta persona, contratos con el Estado, quienes hayan sido condenados, en cualquier tiempo, por la Comisión de Delitos que afecten el patrimonio del Estado. Tampoco quien haya dado lugar, como servidor público, con su conducta dolosa o gravemente culposa, así calificada por sentencia judicial ejecutoriada, a que el Estado sea condenado a una reparación patrimonial, salvo que asuma con cargo a su patrimonio el valor del daño.
+
+**Artículo 122.** No habrá empleo público que no tenga funciones detalladas en ley o reglamento y para proveer los de carácter remunerado se requiere que estén contemplados en la respectiva planta y previstos sus emolumentos en el presupuesto correspondiente.
+
+Ningún servidor público entrará a ejercer su cargo sin prestar juramento de cumplir y defender la Constitución y desempeñar los deberes que le incumben.
+
+Antes de tomar posesión del cargo, al retirarse del mismo o cuando autoridad competente se lo solicite deberá declarar, bajo juramento, el monto de sus bienes y rentas.
+
+Dicha declaración sólo podrá ser utilizada para los fines y propósitos de la aplicación de las normas del servidor público.
+
+Sin perjuicio de las demás sanciones que establezca la ley, el servidor público que sea condenado por delitos contra el patrimonio del Estado, quedará inhabilitado para el desempeño de funciones públicas.
 
 ##### **Artículo 123.** Son servidores públicos los miembros de las corporaciones públicas, los empleados y trabajadores del Estado y de sus entidades descentralizadas territorialmente y por servicios.
 
@@ -837,6 +921,24 @@ Corresponde al Gobierno la creación, supresión y fusión de los círculos de n
 ##### **Artículo 133.** Los miembros de cuerpos colegiados de elección directa representan al pueblo, y deberán actuar consultando la justicia y el bien común. El voto de sus miembros será nominal y público, excepto en los casos que determine la ley.
 
 El elegido es responsable políticamente ante la sociedad y frente a sus electores del cumplimiento de las obligaciones propias de su investidura.
+
+##### **Artículo 134.** Los miembros de las Corporaciones Públicas de elección popular no tendrán suplentes. Solo podrán ser reemplazados en caso de muerte, incapacidad física absoluta para el ejercicio del cargo, declaración de nulidad de la elección, renuncia justificada, y aceptada por la respectiva Corporación, sanción disciplinaria consistente en destitución, pérdida de investidura, condena penal o medida de aseguramiento por delitos distintos a las relacionadas con pertenencia, promoción o financiación a/o por grupos armados ilegales, de narcotráfico, delitos contra los mecanismos de participación democrática o de lesa humanidad o cuando el miembro de una Corporación pública decida presentarse por un partido distinto según lo planteado en el Parágrafo Transitorio 1º del artículo 107 de la Constitución Política.
+
+En tales casos, el titular será reemplazado por el candidato no elegido que, según el orden de inscripción o votación obtenida, le siga en forma sucesiva y descendente en la misma lista electoral.
+
+Como consecuencia de la regla general establecida en el presente artículo, no podrá ser reemplazado un miembro de una corporación pública de elección popular a partir del momento en que le sea proferida orden de captura, dentro de un proceso penal al cual se le vinculare formalmente, por delitos relacionados con la pertenencia, promoción o financiación a/o por grupos armados ilegales, de narcotráfico o delitos de lesa humanidad. La sentencia condenatoria producirá como efecto la pérdida definitiva de la curul, para el partido al que pertenezca el miembro de la Corporación Pública.
+
+No habrá faltas temporales, salvo cuando las mujeres, por razón de licencia de maternidad deban ausentarse del cargo. La renuncia de un miembro de corporación pública de elección popular, cuando se le haya iniciado vinculación formal por delitos cometidos en Colombia o en el exterior, relacionados con pertenencia, promoción o financiación a/o por grupos armados ilegales, de narcotráfico o delitos contra los mecanismos de participación democrática o de lesa humanidad, generará la pérdida de su calidad de congresista, diputado, concejal o edil, y no producirá como efecto el ingreso de quien corresponda en la lista. Las faltas temporales no darán lugar a reemplazos.
+
+Cuando ocurra alguna de las circunstancias que implique que no pueda ser reemplazado un miembro elegido a una Corporación Pública, para todos los efectos de conformación de quórum, se tendrá como número de miembros la totalidad de los integrantes de la Corporación con excepción de aquellas curules que no puedan ser reemplazadas.
+
+Si por faltas absolutas, que no den lugar a reemplazo, los miembros de cuerpos colegiados elegidos por una misma circunscripción electoral quedan reducidos a la mitad o menos, el Gobierno convocará a elecciones para llenar las vacantes, siempre y cuando falte más de dieciocho (18) meses para la terminación del período.
+
+**Parágrafo Transitorio.**El régimen de reemplazos establecido en el presente artículo se aplicará para las investigaciones judiciales que se inicien a partir de la vigencia del presente acto legislativo.
+
+**Artículo 134.** Las faltas absolutas o temporales de los Miembros de las Corporaciones Públicas, serán suplidas por los candidatos que, según el orden de inscripción, en forma sucesiva y descendente, correspondan a la misma lista electoral.
+
+**Artículo 134.** Las vacancias por faltas absolutas de los congresistas serán suplidas por los candidatos no elegidos, según el orden de inscripción en la lista correspondiente.
 
 ##### **Artículo 135.** Son facultades de cada Cámara:
 
@@ -1135,6 +1237,88 @@ Los representantes de las comunidades indígenas que aspiren a integrar el Senad
 ### **CAPITULO 6**
 
 **DE LOS CONGRESISTAS**
+
+##### **ARTICULO 179.** No podrán ser congresistas:
+
+- 1. Quienes hayan sido condenados en cualquier época por sentencia judicial, a pena privativa de la libertad, excepto por delitos políticos o culposos.
+
+- 2. Quienes hubieren ejercido, como empleados públicos, jurisdicción o autoridad política, civil, administrativa o militar, dentro de los doce meses anteriores a la fecha de la elección.
+
+- 3. Quienes hayan intervenido en gestión de negocios ante entidades públicas, o en la celebración de contratos con ellas en interés propio, o en el de terceros, o hayan sido representantes legales de entidades que administren tributos o contribuciones parafiscales, dentro de los seis meses anteriores a la fecha de la elección.
+
+- 4. Quienes hayan perdido la investidura de congresista.
+
+- 5. Quienes tengan vínculos por matrimonio, o unión permanente, o de parentesco en tercer grado de consanguinidad, primero de afinidad, o único civil, con funcionarios que ejerzan autoridad civil o política.
+
+- 6. Quienes estén vinculados entre sí por matrimonio, o unión permanente, o parentesco dentro del tercer grado de consanguinidad, segundo de afinidad, o primero civil, y se inscriban por el mismo partido, movimiento o grupo para elección de cargos, o de miembros de corporaciones públicas que deban realizarse en la misma fecha.
+
+- 7. Quienes tengan doble nacionalidad, exceptuando los colombianos por nacimiento.
+
+- 8. Nadie podrá ser elegido para más de una Corporación o cargo público, ni para una Corporación y un cargo si los respectivos períodos coinciden en el tiempo, así fuere parcialmente. La renuncia un (1) año antes de la elección al cargo al que se aspire elimina la inhabilidad.
+
+**Parágrafo transitorio.** La inhabilidad establecida en el numeral anterior no aplicará para quienes hayan renunciado al menos seis (6) meses antes del último día de inscripciones para la realización de las elecciones al Congreso de la República en el año 2010.
+
+**ARTICULO 179.** No podrán ser congresistas:
+
+- 1. Quienes hayan sido condenados en cualquier época por sentencia judicial, a pena privativa de la libertad, excepto por delitos políticos o culposos.
+
+- 2. Quienes hubieren ejercido, como empleados públicos, jurisdicción o autoridad política, civil, administrativa o militar, dentro de los doce meses anteriores a la fecha de la elección.
+
+- 3. Quienes hayan intervenido en gestión de negocios ante entidades públicas, o en la celebración de contratos con ellas en interés propio, o en el de terceros, o hayan sido representantes legales de entidades que administren tributos o contribuciones parafiscales, dentro de los seis meses anteriores a la fecha de la elección.
+
+- 4. Quienes hayan perdido la investidura de congresista.
+
+- 5. Quienes tengan vínculos por matrimonio, o unión permanente, o de parentesco en tercer grado de consanguinidad, primero de afinidad, o único civil, con funcionarios que ejerzan autoridad civil o política.
+
+- 6. Quienes estén vinculados entre sí por matrimonio, o unión permanente, o parentesco dentro del tercer grado de consanguinidad, segundo de afinidad, o primero civil, y se inscriban por el mismo partido, movimiento o grupo para elección de cargos, o de miembros de corporaciones públicas que deban realizarse en la misma fecha.
+
+- 7. Quienes tengan doble nacionalidad, exceptuando los colombianos por nacimiento.
+
+- 8. Nadie podrá ser elegido para más de una corporación o cargo público, ni para una corporación y un cargo, si los respectivos períodos coinciden en el tiempo, así fuere parcialmente. La renuncia a alguno de ellos no elimina la inhabilidad.
+
+**Parágrafo Transitorio** Lo dispuesto en el numeral 8 del presente artículo no se aplicará a quienes hubiesen renunciado con anterioridad a la vigencia del presente Acto Legislativo.
+
+**ARTICULO 179.** No podrán ser congresistas:
+
+- 1. Quienes hayan sido condenados en cualquier época por sentencia judicial, a pena privativa de la libertad, excepto por delitos políticos o culposos.
+
+- 2. Quienes hubieren ejercido, como empleados públicos, jurisdicción o autoridad política, civil, administrativa o militar, dentro de los doce meses anteriores a la fecha de la elección.
+
+- 3. Quienes hayan intervenido en gestión de negocios ante entidades públicas, o en la celebración de contratos con ellas en interés propio, o en el de terceros, o hayan sido representantes legales de entidades que administren tributos o contribuciones parafiscales, dentro de los seis meses anteriores a la fecha de la elección.
+
+- 4. Quienes hayan perdido la investidura de congresista.
+
+- 5. Quienes tengan vínculos por matrimonio, o unión permanente, o de parentesco en tercer grado de consanguinidad, primero de afinidad, o único civil, con funcionarios que ejerzan autoridad civil o política.
+
+- 6. Quienes estén vinculados entre sí por matrimonio, o unión permanente, o parentesco dentro del tercer grado de consanguinidad, segundo de afinidad, o primero civil, y se inscriban por el mismo partido, movimiento o grupo para elección de cargos, o de miembros de corporaciones públicas que deban realizarse en la misma fecha.
+
+- 7. Quienes tengan doble nacionalidad, exceptuando los colombianos por nacimiento.
+
+- 8. Nadie podrá ser elegido para más de una corporación o cargo público, ni para una corporación y un cargo, si los respectivos períodos coinciden en el tiempo, así fuere parcialmente. La renuncia a alguno de ellos no elimina la inhabilidad.
+
+**Parágrafo Transitorio** Lo dispuesto en el numeral 8 del presente artículo no se aplicará a quienes hubiesen renunciado con anterioridad a la vigencia del presente Acto Legislativo.
+
+**ARTICULO 179.** No podrán ser congresistas:
+
+- 1. Quienes hayan sido condenados en cualquier época por sentencia judicial, a pena privativa de la libertad, excepto por delitos políticos o culposos.
+
+- 2. Quienes hubieren ejercido, como empleados públicos, jurisdicción o autoridad política, civil, administrativa o militar, dentro de los doce meses anteriores a la fecha de la elección.
+
+- 3. Quienes hayan intervenido en gestión de negocios ante entidades públicas, o en la celebración de contratos con ellas en interés propio, o en el de terceros, o hayan sido representantes legales de entidades que administren tributos o contribuciones parafiscales, dentro de los seis meses anteriores a la fecha de la elección.
+
+- 4. Quienes hayan perdido la investidura de congresista.
+
+- 5. Quienes tengan vínculos por matrimonio, o unión permanente, o de parentesco en tercer grado de consanguinidad, primero de afinidad, o único civil, con funcionarios que ejerzan autoridad civil o política.
+
+- 6. Quienes estén vinculados entre sí por matrimonio, o unión permanente, o parentesco dentro del tercer grado de consanguinidad, segundo de afinidad, o primero civil, y se inscriban por el mismo partido, movimiento o grupo para elección de cargos, o de miembros de corporaciones públicas que deban realizarse en la misma fecha.
+
+- 7. Quienes tengan doble nacionalidad, exceptuando los colombianos por nacimiento.
+
+- 8. Nadie podrá ser elegido para más de una corporación o cargo público, ni para una corporación y un cargo, si los respectivos períodos coinciden en el tiempo, así sea parcialmente.
+
+Las inhabilidades previstas en los numerales 2, 3, 5 y 6 se refieren a situaciones que tengan lugar en la circunscripción en la cual deba efectuarse la respectiva elección. La ley reglamentará los demás casos de inhabilidades por parentesco, con las autoridades no contemplados en estas disposiciones.
+
+Para los fines de este artículo se considera que la circunscripción nacional coincide con cada una de las territoriales, excepto para la inhabilidad consignada en el numeral 5.
 
 ##### **Artículo 180.** Los congresistas no podrán:
 
@@ -1680,7 +1864,55 @@ Parágrafo 1º. Deberá repetirse por una sola vez la votación para elegir miem
 
 ##### **Artículo 260.** Los ciudadanos eligen en forma directa Presidente y Vicepresidente de la República, Senadores, Representantes, Gobernadores, Diputados, Alcaldes, Concejales municipales y distritales, miembros de las juntas administradoras locales, y en su oportunidad, los miembros de la Asamblea Constituyente y las demás autoridades o funcionarios que la Constitución señale.
 
+##### **Artículo 261.** Las faltas absolutas serán suplidas por los candidatos que según el orden de inscripción, o de votación, en forma sucesiva y descendente, correspondan a la misma lista electoral, según se trate de listas cerradas o con voto preferente.
+
+**Artículo 261.** Las faltas absolutas o temporales serán suplidas por los candidatos que según el orden de inscripción en forma sucesiva y descendente, correspondan a la misma lista electoral.
+
+Son faltas absolutas: Además de las establecidas por la ley; las que se causan por: Muerte; la renuncia motivada y aceptada por la plenaria de la respectiva Corporación; la pérdida de la investidura; la incapacidad física permanente y la sentencia condenatoria en firme dictada por autoridad judicial competente.
+
+Son faltas temporales las causadas por: La suspensión del ejercicio de la investidura popular, en virtud de decisión judicial en firme; la licencia sin remuneración; la licencia por incapacidad certificada por médico oficial; la calamidad doméstica debidamente probada y la fuerza mayor.
+
+La licencia sin remuneración no podrá ser inferior a tres (3) meses.
+
+Los casos de incapacidad, calamidad doméstica y licencias no remuneradas deberán ser aprobadas por la Mesa Directiva de la respectiva Corporación.
+
+**PARÁGRAFO 1º.** Las inhabilidades e incompatibilidades previstas en la Constitución Nacional y las leyes, se extenderán en igual forma a quienes asuman las funciones de las faltas temporales durante el tiempo de su asistencia.
+
+**PARÁGRAFO 2º.** El numeral 3º. del artículo 180 de la Constitución, quedará así:
+
+Numeral 3º ser miembro de juntas o consejos directivos de entidades oficiales descentralizadas de cualquier nivel o de instituciones que administren tributos.
+
+**Artículo 261.** Ningún cargo de elección popular en corporaciones públicas tendrá suplente. Las vacancias absolutas serán ocupadas por los candidatos no elegidos en la misma lista, en orden de inscripción, sucesivo y descendente.
+
 ##### **Artículo 262.** La elección del Presidente y Vicepresidente no podrá coincidir con otra elección. La de Congreso se hará en fecha separada de la elección de autoridades departamentales y municipales.
+
+##### **Artículo 263.** Para todos los procesos de elección popular, los Partidos y Movimientos Políticos presentarán listas y candidatos únicos, cuyo número de integrantes no podrá exceder el de curules o cargos a proveer en la respectiva elección.
+
+Para garantizar la equitativa representación de los Partidos y Movimientos Políticos y grupos significativos de ciudadanos, las curules de las Corporaciones Públicas se distribuirán mediante el sistema de cifra repartidora entre las listas de candidatos que superen un mínimo de votos que no podrá ser inferior al tres por ciento (3%) de los sufragados para Senado de la República o al cincuenta por ciento (50%) del cociente electoral en el caso de las demás Corporaciones, conforme lo establezcan la Constitución y la ley.
+
+Cuando ninguna de las listas de aspirantes supere el umbral, las curules se distribuirán de acuerdo con el sistema de cifra repartidora.
+
+La ley reglamentará los demás efectos de esta materia.
+
+Las listas para Corporaciones en las circunscripciones en la que se eligen hasta dos (2) miembros para la correspondiente Corporación, podrán estar integradas hasta por tres (3) candidatos. En las circunscripciones en las que se elige un miembro, la curul se adjudicará a la lista mayoritaria. En las circunscripciones en las que se eligen dos miembros se aplicará el sistema de cociente electoral entre las listas que superen en votos el 30% de dicho cociente.
+
+**Parágrafo Transitorio.**Para las elecciones al Congreso de la República a celebrarse en 2010, el porcentaje a que se refiere el inciso 2º del presente artículo será del dos por ciento (2%).
+
+**Artículo 263.** Para todos los procesos de elección popular, los partidos y movimientos políticos presentarán listas y candidatos únicos, cuyo número de integrantes no podrá exceder el de curules o cargos a proveer en las respectiva elección.
+
+Para garantizar la equitativa representación de los partidos *y* movimientos políticos y grupos significativos de ciudadanos, las curules de las corporaciones públicas se distribuirán mediante el sistema de cifra repartidora entre las listas de candidatos que superen un mínimo de votos que no podrá ser inferior al dos por ciento (2%) de los sufragados para Senado de la República o al cincuenta por ciento (50%) del cociente electoral en el caso de las demás corporaciones, conforme lo establezca la Constitución y la Ley.
+
+Cuando ninguna de las listas de aspirantes supere el umbral, las curules se distribuirán de acuerdo con el sistema de cifra repartidora.
+
+La Ley reglamentará los demás efectos de esta materia.
+
+**Parágrafo transitorio.** Sin perjuicio del ejercicio de las competencias propias del Congreso de la República, para las elecciones de las autoridades de las entidades territoriales que sigan a la entrada en vigencia del presente acto legislativo, facúltese al Consejo Nacional Electoral para que dentro del mes siguiente a su promulgación se ocupe de regular el tema.
+
+En las circunscripciones electorales donde se elijan dos (2) curules se aplicará el sistema del cociente electoral, con sujeción a un umbral del treinta por ciento (30%), del cociente electoral.
+
+**Artículo 263.** Para asegurar la representación proporcional de los partidos, cuando se vote por dos o más individuos en elección popular o en una corporación pública, se empleará el sistema de cuociente electoral.
+
+El cuociente será el número que resulte de dividir el total de los votos válidos por el de puestos por proveer. La adjudicación de puestos a cada lista se hará en el número de veces que el cuociente quepa en el respectivo número de votos válidos. Si quedaren puestos por proveer, se adjudicarán a los mayores residuos, en orden descendente.
 
 ##### **Artículo 263A.** La adjudicación de curules entre los miembros de la respectiva corporación se hará por el sistema de cifra repartidora. Esta resulta de dividir sucesivamente por uno, dos, tres o más el número de votos obtenidos por cada lista, ordenando los resultados en forma decreciente hasta que se obtenga un número total de resultados igual al número de curules a proveer.
 
