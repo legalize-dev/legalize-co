@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2009-07-14"
+last_updated: "2009-08-26"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -851,28 +851,6 @@ Mientras se cumpla este procedimiento, se suspenden todos los trámites relacion
 La Comisión Nacional del Servicio Civil deberá desarrollar, dentro de los tres (3) meses siguientes a la publicación del presente acto legislativo, instrumentos de calificación del servicio que midan de manera real el desempeño de los servidores públicos inscritos de manera extraordinaria en carrera administrativa.
 
 Quedan exceptuados de estas normas los procesos de selección que se surtan en desarrollo de lo previsto por el artículo 131 de la Constitución Política y los servidores regidos por el artículo 256 de la Constitución Política, carrera docente y carrera diplomática consular.
-
-**Artículo 125.** Los empleos en los órganos y entidades del Estado son de carrera. Se exceptúan los de elección popular, los de libre nombramiento y remoción, los de trabajadores oficiales y los demás que determine la ley.
-
-Los funcionarios, cuyo sistema de nombramiento no haya sido determinado por la Constitución o la ley, serán nombrados por concurso público.
-
-El ingreso a los cargos de carrera y el ascenso en los mismos, se harán previo cumplimiento de los requisitos y condiciones que fije la ley para determinar los méritos y calidades de los aspirantes.
-
-El retiro se hará: por calificación no satisfactoria en el desempeño del empleo; por violación del régimen disciplinario y por las demás causales previstas en la Constitución o la ley.
-
-En ningún caso la filiación política de los ciudadanos podrá determinar su nombramiento para un empleo de carrera, su ascenso o remoción.
-
-**Parágrafo.** Los períodos establecidos en la Constitución Política o en la ley para cargos de elección tienen el carácter de institucionales. Quienes sean designados o elegidos para ocupar tales cargos, en reemplazo por falta absoluta de su titular, lo harán por cl resto del período para el cual este fue elegido.
-
-**Artículo 125.** Los empleos en los órganos y entidades del Estado son de carrera. Se exceptúan los de elección popular, los de libre nombramiento y remoción, los de trabajadores oficiales y los demás que determine la ley.
-
-Los funcionarios, cuyo sistema de nombramiento no haya sido determinado por la Constitución o la ley, serán nombrados por concurso público.
-
-El ingreso a los cargos de carrera y el ascenso en los mismos, se harán previo cumplimiento de los requisitos y condiciones que fije la ley para determinar los méritos y calidades de los aspirantes.
-
-El retiro se hará: por calificación no satisfactoria en el desempeño del empleo; por violación del régimen disciplinario y por las demás causales previstas en la Constitución o la ley.
-
-En ningún caso la filiación política de los ciudadanos podrá determinar su nombramiento para un empleo de carrera, su ascenso o remoción.
 
 ##### **Artículo 127.**Los servidores públicos no podrán celebrar, por si o por interpuesta persona, o en representación de otro, contrato alguno con entidades publicas o con personas privadas que manejen o administren recursos públicos, salvo las excepciones legales.
 
