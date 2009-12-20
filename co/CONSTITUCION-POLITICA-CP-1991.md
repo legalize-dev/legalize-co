@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2009-08-26"
+last_updated: "2009-12-20"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -296,7 +296,11 @@ Los servicios de salud se organizarán en forma descentralizada, por niveles de 
 
 La ley señalará los términos en los cuales la atención básica para todos los habitantes será gratuita y obligatoria.
 
-Toda persona tiene el deber de procurar el cuidado integral de su salud y la de su comunidad.
+Toda persona tiene el deber de procurar el cuidado integral de su salud y de su comunidad.
+
+El porte y el consumo de sustancias estupefacientes o sicotrópicas está prohibido, salvo prescripción médica. Con fines preventivos y rehabilitadores la ley establecerá medidas y tratamientos administrativos de orden pedagógico, profiláctico o terapéutico para las personas que consuman dichas sustancias. El sometimiento a esas medidas y tratamientos requiere el consentimiento informado del adicto.
+
+Así mismo el Estado dedicará especial atención al enfermo dependiente o adicto y a su familia para fortalecerla en valores y principios que contribuyan a prevenir comportamientos que afecten el cuidado integral de la salud de las personas y, por consiguiente, de la comunidad, y desarrollará en forma permanente campañas de prevención contra el consumo de drogas o sustancias estupefacientes y en favor de la recuperación de los adictos.
 
 ##### **Artículo 50.** Todo niño menor de un año que no esté cubierto por algún tipo de protección o de seguridad social, tendrá derecho a recibir atención gratuita en todas las instituciones de salud que reciban aportes del Estado. La ley reglamentará la materia.
 
