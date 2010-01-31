@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2009-12-20"
+last_updated: "2010-01-31"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1221,66 +1221,6 @@ Los representantes de las comunidades indígenas que aspiren a integrar el Senad
 **DE LOS CONGRESISTAS**
 
 ##### **ARTICULO 179.** No podrán ser congresistas:
-
-- 1. Quienes hayan sido condenados en cualquier época por sentencia judicial, a pena privativa de la libertad, excepto por delitos políticos o culposos.
-
-- 2. Quienes hubieren ejercido, como empleados públicos, jurisdicción o autoridad política, civil, administrativa o militar, dentro de los doce meses anteriores a la fecha de la elección.
-
-- 3. Quienes hayan intervenido en gestión de negocios ante entidades públicas, o en la celebración de contratos con ellas en interés propio, o en el de terceros, o hayan sido representantes legales de entidades que administren tributos o contribuciones parafiscales, dentro de los seis meses anteriores a la fecha de la elección.
-
-- 4. Quienes hayan perdido la investidura de congresista.
-
-- 5. Quienes tengan vínculos por matrimonio, o unión permanente, o de parentesco en tercer grado de consanguinidad, primero de afinidad, o único civil, con funcionarios que ejerzan autoridad civil o política.
-
-- 6. Quienes estén vinculados entre sí por matrimonio, o unión permanente, o parentesco dentro del tercer grado de consanguinidad, segundo de afinidad, o primero civil, y se inscriban por el mismo partido, movimiento o grupo para elección de cargos, o de miembros de corporaciones públicas que deban realizarse en la misma fecha.
-
-- 7. Quienes tengan doble nacionalidad, exceptuando los colombianos por nacimiento.
-
-- 8. Nadie podrá ser elegido para más de una Corporación o cargo público, ni para una Corporación y un cargo si los respectivos períodos coinciden en el tiempo, así fuere parcialmente. La renuncia un (1) año antes de la elección al cargo al que se aspire elimina la inhabilidad.
-
-**Parágrafo transitorio.** La inhabilidad establecida en el numeral anterior no aplicará para quienes hayan renunciado al menos seis (6) meses antes del último día de inscripciones para la realización de las elecciones al Congreso de la República en el año 2010.
-
-**ARTICULO 179.** No podrán ser congresistas:
-
-- 1. Quienes hayan sido condenados en cualquier época por sentencia judicial, a pena privativa de la libertad, excepto por delitos políticos o culposos.
-
-- 2. Quienes hubieren ejercido, como empleados públicos, jurisdicción o autoridad política, civil, administrativa o militar, dentro de los doce meses anteriores a la fecha de la elección.
-
-- 3. Quienes hayan intervenido en gestión de negocios ante entidades públicas, o en la celebración de contratos con ellas en interés propio, o en el de terceros, o hayan sido representantes legales de entidades que administren tributos o contribuciones parafiscales, dentro de los seis meses anteriores a la fecha de la elección.
-
-- 4. Quienes hayan perdido la investidura de congresista.
-
-- 5. Quienes tengan vínculos por matrimonio, o unión permanente, o de parentesco en tercer grado de consanguinidad, primero de afinidad, o único civil, con funcionarios que ejerzan autoridad civil o política.
-
-- 6. Quienes estén vinculados entre sí por matrimonio, o unión permanente, o parentesco dentro del tercer grado de consanguinidad, segundo de afinidad, o primero civil, y se inscriban por el mismo partido, movimiento o grupo para elección de cargos, o de miembros de corporaciones públicas que deban realizarse en la misma fecha.
-
-- 7. Quienes tengan doble nacionalidad, exceptuando los colombianos por nacimiento.
-
-- 8. Nadie podrá ser elegido para más de una corporación o cargo público, ni para una corporación y un cargo, si los respectivos períodos coinciden en el tiempo, así fuere parcialmente. La renuncia a alguno de ellos no elimina la inhabilidad.
-
-**Parágrafo Transitorio** Lo dispuesto en el numeral 8 del presente artículo no se aplicará a quienes hubiesen renunciado con anterioridad a la vigencia del presente Acto Legislativo.
-
-**ARTICULO 179.** No podrán ser congresistas:
-
-- 1. Quienes hayan sido condenados en cualquier época por sentencia judicial, a pena privativa de la libertad, excepto por delitos políticos o culposos.
-
-- 2. Quienes hubieren ejercido, como empleados públicos, jurisdicción o autoridad política, civil, administrativa o militar, dentro de los doce meses anteriores a la fecha de la elección.
-
-- 3. Quienes hayan intervenido en gestión de negocios ante entidades públicas, o en la celebración de contratos con ellas en interés propio, o en el de terceros, o hayan sido representantes legales de entidades que administren tributos o contribuciones parafiscales, dentro de los seis meses anteriores a la fecha de la elección.
-
-- 4. Quienes hayan perdido la investidura de congresista.
-
-- 5. Quienes tengan vínculos por matrimonio, o unión permanente, o de parentesco en tercer grado de consanguinidad, primero de afinidad, o único civil, con funcionarios que ejerzan autoridad civil o política.
-
-- 6. Quienes estén vinculados entre sí por matrimonio, o unión permanente, o parentesco dentro del tercer grado de consanguinidad, segundo de afinidad, o primero civil, y se inscriban por el mismo partido, movimiento o grupo para elección de cargos, o de miembros de corporaciones públicas que deban realizarse en la misma fecha.
-
-- 7. Quienes tengan doble nacionalidad, exceptuando los colombianos por nacimiento.
-
-- 8. Nadie podrá ser elegido para más de una corporación o cargo público, ni para una corporación y un cargo, si los respectivos períodos coinciden en el tiempo, así fuere parcialmente. La renuncia a alguno de ellos no elimina la inhabilidad.
-
-**Parágrafo Transitorio** Lo dispuesto en el numeral 8 del presente artículo no se aplicará a quienes hubiesen renunciado con anterioridad a la vigencia del presente Acto Legislativo.
-
-**ARTICULO 179.** No podrán ser congresistas:
 
 - 1. Quienes hayan sido condenados en cualquier época por sentencia judicial, a pena privativa de la libertad, excepto por delitos políticos o culposos.
 
