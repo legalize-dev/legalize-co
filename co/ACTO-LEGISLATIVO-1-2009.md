@@ -4,7 +4,7 @@ identifier: "ACTO-LEGISLATIVO-1-2009"
 country: "co"
 rank: "acto_legislativo"
 publication_date: "2009-07-14"
-last_updated: "2009-07-14"
+last_updated: "2010-01-31"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1825408"
 department: "CONGRESO DE LA REPUBLICA"
@@ -201,11 +201,7 @@ El Consejo Nacional Electoral regulará, inspeccionará, vigilará y controlará
 
 - 14. Las demás que le confiera la ley.
 
-##### **Artículo 13.***El numeral 8 del artículo 179 de la Constitución Política, quedará así:*
-
-- 8. Nadie podrá ser elegido para más de una Corporación o cargo público, ni para una Corporación y un cargo si los respectivos períodos coinciden en el tiempo, así fuere parcialmente. La renuncia un (1) año antes de la elección al cargo al que se aspire elimina la inhabilidad.
-
-**Parágrafo transitorio.** La inhabilidad establecida en el numeral anterior no aplicará para quienes hayan renunciado al menos seis (6) meses antes del último día de inscripciones para la realización de las elecciones al Congreso de la República en el año 2010.
+##### **Artículo 13.**DECLARADO INEXEQUIBLE
 
 ##### **Artículo 14.***La Constitución Política tendrá un artículo nuevo transitorio, así:*
 
