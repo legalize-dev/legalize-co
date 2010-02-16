@@ -4,7 +4,7 @@ identifier: "DECRETO-96-1989"
 country: "co"
 rank: "decreto"
 publication_date: "1989-01-11"
-last_updated: "1990-05-31"
+last_updated: "2010-02-16"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1704557"
 department: "MINISTERIO DE DEFENSA NACIONAL"
@@ -1012,9 +1012,7 @@ Así mismo, la Policía Nacional pagará los pasajes de regreso del cónyuge e h
 
 --A falta de descendientes, ascendientes, hijos adoptivos, padres adoptivos, hermanos y cónyuges, la prestación corresponderá a la Caja de Sueldos de Retiro de la Policía Nacional.
 
-##### **Artículo 173**. Declarado Inexequible.
-
-**Artículo 173**. EXTINCION DE PENSIONES. A partir de la vigencia del presente Decreto, las pensiones que se otorguen por fallecimiento de un Oficial o Suboficial de la Policía Nacional en servicio activo o en goce de asignación de retiro o pensión policial, se extinguirán para el cónyuge si contrae nuevas nupcias y para los hijos por muerte, matrimonio, independencia económica, o por haber llegado a la edad de veintiún (21) años salvo las hijas célibes, los hijos inválidos absolutos y los estudiantes hasta la edad de veinticuatro (24) años, cuando hayan dependido económicamente del Oficial o Suboficial.
+##### **Artículo 173**. EXTINCION DE PENSIONES. A partir de la vigencia del presente Decreto, las pensiones que se otorguen por fallecimiento de un Oficial o Suboficial de la Policía Nacional en servicio activo o en goce de asignación de retiro o pensión policial, se extinguirán para el cónyuge si contrae nuevas nupcias y para los hijos por muerte, matrimonio, independencia económica, o por haber llegado a la edad de veintiún (21) años salvo las hijas célibes, los hijos inválidos absolutos y los estudiantes hasta la edad de veinticuatro (24) años, cuando hayan dependido económicamente del Oficial o Suboficial.
 
 La extinción se irá decretando a partir de la fecha del hecho que la motive y por la cuota parte correspondiente.
 
