@@ -4,7 +4,7 @@ identifier: "DECRETO-1-1984"
 country: "co"
 rank: "decreto"
 publication_date: "1984-01-10"
-last_updated: "2006-12-26"
+last_updated: "2010-07-11"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1698916"
 department: "PRESIDENCIA DE LA REPUBLICA"
@@ -975,89 +975,7 @@ Igualmente de los relativos a la acción de nulidad electoral que se promuevan c
 
 - 13. De las acciones contra los actos de expropiación por vía administrativa.
 
-**Artículo 132. En primera instancia**. Los Tribunales Administrativos conocerán en primera instancia de los siguientes procesos:
-
-- 1. De los de nulidad de los actos administrativos proferidos por funcionarios y organismos administrativos del orden departamental, intendencial, comisarial o distrital.
-
-- 2. De los de nulidad de los actos administrativos proferidos por funcionarios y organismos administrativos del orden municipal, cuando no sean de única instancia.
-
-- 3. De los de restablecimiento del derecho que carezcan de cuantía y en los cuales se controviertan actos administrativos del orden departamental, intendencial, comisarial y distrital, o municipal, cuando en este último caso no sean de única instancia.
-
-- 4. De los de nulidad de las elecciones de diputados a las asambleas, miembros de los concejos municipales o distritales, así como de los que se susciten con motivo de las elecciones o nombramientos hechos por estas corporaciones o por cualquiera autoridad, funcionario u organismo administrativo del orden departamental, intendencial, comisarial y distrital, o municipal, siempre que en este último caso no sean de única instancia.
-
-- 5. De los que se promuevan sobre el monto, distribución o asignación de impuestos, tasas y contribuciones, nacionales, departamentales, intendenciales, comisariales, municipales o distritales, cuando la cuantía exceda de quinientos mil pesos ($ 500.000.00).
-
-La competencia por razón del territorio se determinará por el lugar donde se presentó o debió presentarse la declaración, en los casos en que ésta proceda; en los demás casos, donde se practicó la liquidación.
-
-En este caso, la competencia, por razón del territorio, se determinará por el lugar donde se realizò el acto o el hecho que dio origen a la sanción.
-
-- 6. De los de restablecimiento del derecho de carácter laboral, de que trata el numeral 6° del artículo 131, cuando la cuantía exceda de trescientos mil pesos ($ 300.000.00).
-
-En este caso, la cuantía se determinará en la forma prevista en los ordinales a) y b) de la misma norma.
-
-Sin embargo, de los procesos en los cuales se controviertan actos que impliquen destitución, declaración de insubsistencia, revocación de nombramiento o cualesquiera otros que impliquen retiro del servicio, conocerán los Tribunales Administrativos en primera instancia, cuando la asignación mensual correspondiente al cargo exceda de cincuenta mil pesos ($ 50.000.00).
-
-La competencia por razón del territorio se determinará en todo caso por el último lugar donde se prestaron o debieron prestarse los servicios personales.
-
-- 7. **Derogado.**
-
-- 8. De los referentes a contratos administrativos, interadministrativos, y de los de derecho privado de la administración en que se haya incluido la cláusula de caducidad, celebrados por la Nación, las entidades territoriales o descentralizadas de los distintos órdenes, cuando la cuantía exceda de dos millones de pesos ($2.000.000.00).
-
-La competencia por razón del territorio se determinará por el lugar donde se ejecutó o debía ejecutarse el contrato; si este comprendiere varios departamentos será tribunal competente, a prevención, el escogido por el demandante;
-
-- 9. De los de restablecimiento del derecho en que se controviertan actos del orden nacional, de las entidades territoriales o de las entidades descentralizadas de los distintos órdenes, cuando la cuantía exceda de quinientos mil pesos ($ 500.000).
-
-Cuando sea del caso, la cuantía para efectos de la competencia se determinará por el valor de los perjuicios causados, estimados en la demanda por el actor en forma razonada, conforme al artículo 20, numeral 1°, del Código de Procedimiento Civil.
-
-La competencia por razón de territorio se determinará por el lugar donde se produjo el acto;
-
-- 10. De los de reparación directa y cumplimiento que se promuevan contra la Nación, las entidades territoriales o las entidades descentralizadas de los diferentes órdenes, cuando la cuantía exceda de dos millones de pesos ($ 2.000.000.00).
-
-La competencia por razón del territorio y la cuantía, se determinará de conformidad con lo prescrito por el artículo 131, numeral 10, incisos segundo y tercero de este Código;
-
-- 11. De los de nulidad de los actos administrativos de las entidades territoriales y descentralizadas de carácter local que deban someterse para su validez a la aprobación de autoridad superior, o que hayan sido dictados en virtud de delegación de funciones hecha por la misma.
-
-**Artículo 132. En primera instancia**. Los Tribunales Administrativos conocerán en primera instancia de los siguientes procesos:
-
-- 1. De los de nulidad de los actos administrativos proferidos por funcionarios y organismos administrativos del orden departamental, intendencial, comisarial o distrital.
-
-- 2. De los de nulidad de los actos administrativos proferidos por funcionarios y organismos administrativos del orden municipal, cuando no sean de única instancia.
-
-- 3. De los de restablecimiento del derecho que carezcan de cuantía y en los cuales se controviertan actos administrativos del orden departamental, intendencial, comisarial y distrital, o municipal, cuando en este último caso no sean de única instancia.
-
-- 4. De los de nulidad de las elecciones de diputados a las asambleas, miembros de los concejos municipales o distritales, así como de los que se susciten con motivo de las elecciones o nombramientos hechos por estas corporaciones o por cualquiera autoridad, funcionario u organismo administrativo del orden departamental, intendencial, comisarial y distrital, o municipal, siempre que en este último caso no sean de única instancia.
-
-- 5. De los que se promuevan sobre el monto, distribución o asignación de impuestos, tasas y contribuciones, nacionales, departamentales, intendenciales, comisariales, municipales o distritales, cuando la cuantía exceda de quinientos mil pesos ($ 500.000.00).
-
-La competencia por razón del territorio se determinará por el lugar donde se presentó o debió presentarse la declaración, en los casos en que ésta proceda; en los demás casos, donde se practicó la liquidación.
-
-En este caso, la competencia, por razón del territorio, se determinará por el lugar donde se realizò el acto o el hecho que dio origen a la sanción.
-
-- 6. De los de restablecimiento del derecho de carácter laboral, de que trata el numeral 6° del artículo 131, cuando la cuantía exceda de trescientos mil pesos ($ 300.000.00).
-
-En este caso, la cuantía se determinará en la forma prevista en los ordinales a) y b) de la misma norma.
-
-Sin embargo, de los procesos en los cuales se controviertan actos que impliquen destitución, declaración de insubsistencia, revocación de nombramiento o cualesquiera otros que impliquen retiro del servicio, conocerán los Tribunales Administrativos en primera instancia, cuando la asignación mensual correspondiente al cargo exceda de cincuenta mil pesos ($ 50.000.00).
-
-La competencia por razón del territorio se determinará en todo caso por el último lugar donde se prestaron o debieron prestarse los servicios personales.
-
-- 7. De los de nulidad absoluta de los contratos administrativos, interadministrativos y de los de derecho privado de la administración en que se haya incluido la cláusula de caducidad, celebrados por entidades del orden departamental, intendencial, comisarial y distrital, o municipal, cuando en este último caso no sean de única instancia.
-
-- 8. De los referentes a contratos administrativos, interadministrativos, y de los de derecho privado de la administración en que se haya incluido la cláusula de caducidad, celebrados por la Nación, las entidades territoriales o descentralizadas de los distintos órdenes, cuando la cuantía exceda de dos millones de pesos ($2.000.000.00).
-
-La competencia por razón del territorio se determinará por el lugar donde se ejecutó o debía ejecutarse el contrato; si este comprendiere varios departamentos será tribunal competente, a prevención, el escogido por el demandante;
-
-- 9. De los de restablecimiento del derecho en que se controviertan actos del orden nacional, de las entidades territoriales o de las entidades descentralizadas de los distintos órdenes, cuando la cuantía exceda de quinientos mil pesos ($ 500.000).
-
-Cuando sea del caso, la cuantía para efectos de la competencia se determinará por el valor de los perjuicios causados, estimados en la demanda por el actor en forma razonada, conforme al artículo 20, numeral 1°, del Código de Procedimiento Civil.
-
-La competencia por razón de territorio se determinará por el lugar donde se produjo el acto;
-
-- 10. De los de reparación directa y cumplimiento que se promuevan contra la Nación, las entidades territoriales o las entidades descentralizadas de los diferentes órdenes, cuando la cuantía exceda de dos millones de pesos ($ 2.000.000.00).
-
-La competencia por razón del territorio y la cuantía, se determinará de conformidad con lo prescrito por el artículo 131, numeral 10, incisos segundo y tercero de este Código;
-
-- 11. De los de nulidad de los actos administrativos de las entidades territoriales y descentralizadas de carácter local que deban someterse para su validez a la aprobación de autoridad superior, o que hayan sido dictados en virtud de delegación de funciones hecha por la misma.
+- 14. De las acciones populares y de cumplimiento que se interpongan contra entidades del nivel nacional.
 
 ##### **Artículo 133**. *Competencia de los tribunales administrativos en segunda instancia.* Los Tribunales Administrativos conocerán en segunda instancia:
 
@@ -1077,29 +995,9 @@ Competencia de los jueces administrativos
 
 ##### **Artículo 134A**. *Competencia de los jueces administrativos en única instancia.* Los Jueces Administrativos conocerán en única instancia del recurso prescrito por los artículos 21 y 24 de la Ley 57 de 1985, cuando la providencia haya sido proferida por funcionario o autoridad del orden municipal o Distrital
 
-##### **Artículo 134B**. *Competencia de los jueces administrativos en primera instancia.* Los Jueces Administrativos conocerán en primera instancia de los siguientes asuntos:
+##### **Artículo 134B.** *Competencia de los jueces administrativos en primera instancia*. Los jueces administrativos conocerán en primera instancia de los siguientes asuntos:
 
-- 1. De los procesos de nulidad y restablecimiento del derecho de carácter laboral, que no provengan de un contrato de trabajo, en los cuales se controviertan Actos Administrativos de cualquier autoridad, cuando la cuantía no exceda de cien (100) salarios mínimos legales mensuales.
-
-- 2. De los procesos de nulidad y restablecimiento del derecho que carezcan de cuantía, cuando se trate de controversias que se originen en una relación laboral legal y reglamentaria o cuando se controviertan Actos Administrativos de carácter laboral expedidos por autoridades del orden nacional, con excepción de los actos referentes a la declaratoria de unidad de empresa y a la calificación de huelga, cuya competencia corresponde al Consejo de Estado en única instancia.
-
-- 3. De los procesos de nulidad y restablecimiento del derecho en que se controviertan Actos Administrativos de cualquier autoridad, cuando la cuantía no exceda de trescientos (300) salarios mínimos legales mensuales.
-
-- 4. De los procesos que se promuevan sobre el monto, distribución o asignación de impuestos, contribuciones y tasas nacionales, departamentales, municipales o distritales, cuando la cuantía no exceda de trescientos (300) salarios mínimos legales mensuales.
-
-- 5. De los referentes a contratos de las entidades estatales en sus distintos órdenes, y de los contratos celebrados por entidades prestadoras de servicios públicos domiciliarios, cuando su finalidad esté vinculada directamente a la prestación del servicio, cuando la cuantía no exceda de quinientos (500) salarios mínimos legales mensuales.
-
-- 6. De los de reparación directa cuando la cuantía no exceda de quinientos (500) salarios mínimos legales mensuales.
-
-- 7. De los procesos ejecutivos originados en condenas impuestas por la jurisdicción contencioso-administrativa, cuando la cuantía no exceda de mil quinientos (1.500) salarios mínimos legales mensuales.
-
-- 8. De las acciones de repetición que el Estado ejerza contra los servidores o ex servidores públicos y personas privadas que de conformidad con la ley cumplan funciones públicas, cuando la cuantía no exceda de quinientos (500) salarios mínimos legales mensuales, y cuya competencia no estuviere asignada al Consejo de Estado en única instancia.
-
-- 9. De los relativos a la acción de nulidad electoral de los Alcaldes y miembros de los Concejos de los municipios que no sean Capital de Departamento, como también de los miembros de las Juntas Administradoras Locales de cualquier Municipio y demás elecciones celebradas dentro del respectivo territorio municipal.
-
-Igualmente de los relativos a la acción de nulidad electoral que se promuevan con motivo de las elecciones o nombramientos hechos por las Corporaciones o funcionarios de que trata el inciso anterior o por cualquier organismo o servidor de los citados municipios.”
-
-- 10. De las acciones dirigidas al cumplimiento de normas con fuerza material de ley o acto administrativo
+- 10. De las acciones populares y de cumplimiento que se interpongan contra entidades de carácter departamental, distrital o municipal.
 
 ##### **Artículo 134C**. *Competencia de los jueces administrativos en segunda instancia.* Los Jueces Administrativos conocerán, en segunda instancia, de los siguientes asuntos:
 
@@ -1243,17 +1141,7 @@ Al efecto, deberá acompañarse con la demanda la prueba del recurso o petición
 
 Deberá acompañarse copias de la demanda y sus anexos para la notificación a las partes.
 
-**Artículo 139. La demanda y sus anexos**. A la demanda deberá acompañar el actor una copia del acto acusado, con las constancias de su publicación, notificación o ejecución, si son del caso; y los documentos, contratos y pruebas anticipadas que se pretenda hacer valer y que se encuentren en su poder.
-
-Se reputan copias hábiles para los efectos de este artículo las publicadas en los medios oficiales, sin que para el efecto se requiera la autenticación.
-
-Cuando la publicación se haya hecho por otros medios, la copia tendrá que venir autenticada por el funcionario correspondiente.
-
-Cuando el acto no ha sido publicado o se deniega la copia o la certificación sobre publicación, se expresará así en la demanda bajo juramento que se considerará prestado por la presentación de la misma, con la indicación de la oficina donde se encuentre el original o del periódico en que se hubiere publicado, a fin de que se solicite por el ponente antes de la admisión de la demanda.
-
-Deberá acompañarse también el documento idóneo que acredite el carácter con que el actor se presenta al proceso, cuando tenga la representación de otra persona, o cuando el derecho que reclama proviene de haberlo otro trasmitido a cualquier título, y la prueba de la existencia y representación de las personas jurídicas distintas de las de derecho público que intervengan en el proceso.
-
-Deberá acompañarse copias de la demanda y sus anexos para la notificación a las partes.
+El demandante deberá aportar con la demanda todas las pruebas documentales que tenga en su poder y que pretenda hacer valer en el proceso.
 
 ##### **Artículo 140. Comprobante de consignación**. Si se trata de demanda de impuestos, tasas, contribuciones o multas que se exijan o de créditos definitivamente liquidados a favor del Tesoro Público deberá acompañarse el respectivo comprobante de haberse consignado, en calidad de depósito, la suma correspondiente. Terminado el proceso, la cantidad deducida en la sentencia a cargo del contribuyente o deudor, ingresará definitivamente en los fondos del tesoro y se devolverá al interesado el saldo que resultare, si lo hubiere, con intereses comerciales corrientes sobre este saldo desde que se hizo la consignación.
 
@@ -1303,9 +1191,7 @@ La reconvención deberá reunir los requisitos de toda demanda y será admisible
 
 Vencido el término de fijación en lista, se resolverá sobre la admisión de la reconvención y, si fuere el caso, se aplicará el artículo 143 de este Código. Si la admite, la fijará en lista. En lo sucesivo ambas se sustanciarán conjuntamente y se decidirán en la misma sentencia.
 
-**Artículo 145. Derogado.**
-
-**Artículo 145.Falta de contestación de la demanda**. La falta de contestación de la demanda será apreciada como indicio en contra del demandado, siempre que éste no sea una entidad de derecho público.
+**Parágrafo.** El demandado deberá aportar con la contestación de la demanda todas las pruebas que tenga en su poder y que pretenda hacer valer en el proceso. La omisión de este deber se tendrá como indicio grave en su contra.
 
 ##### **Artículo 146**. *Intervención de terceros.* En los procesos de simple nulidad cualquier persona podrá pedir que se lo tenga como parte coadyuvante o impugnadora, hasta el vencimiento del término de traslado para alegar en primera o en única instancia.
 
@@ -1529,6 +1415,8 @@ Dicho auto es susceptible del recurso de apelación.
 
 ##### **Artículo 173. Sentencia**. **Notificación.** Una vez dictada la sentencia conforme lo dispone el artículo 103 de este Código se notificará personalmente a las partes, o por medio de edicto, en la forma prevista en el artículo 323 del Código de Procedimiento Civil tres (3) días después de haberse proferido. Al ministerio público se hará siempre notificación personal. Una vez en firme la sentencia deberá comunicarse con copia integra de su texto, para su ejecución y cumplimiento.
 
+Ejecutoriada la sentencia de segunda instancia, para su cumplimiento, la Secretaría remitirá los oficios correspondientes.
+
 ##### **Artículo 174. Obligatoriedad de la sentencia**. Las sentencias ejecutoriadas serán obligatorias para los particulares y la administración, no estarán sujetas a recursos distintos de los establecidos en este Código, y quedan sometidas a la formalidad del registro en los mismos casos en que la ley lo exige para las dictadas por los jueces comunes.
 
 ##### **Artículo 175. Cosa juzgada**. La sentencia que declare la nulidad de un acto administrativo tendrá fuerza de cosa juzgada " erga omnes".
@@ -1703,43 +1591,15 @@ Si la demanda no se admite, en el mismo auto se debe ordenar la devolución de l
 
 Si la persona emplazada no compareciere al proceso, se designará curador ad litem para que la represente en él.
 
-- 4. Que el demandante deposite, en el término que al efecto se le señale, la suma que prudencialmente se considere necesarias para pagar los gastos ordinarios del proceso, cuando hubiere lugar a ellos. El remanente, si existiere, se devolverá al interesado, cuando el proceso finalice.
+- 4. Que el demandante deposite, en el término que al efecto se le señale, la suma que prudencialmente se considere necesaria para pagar los gastos ordinarios del proceso, cuando hubiere lugar a ellos. El remanente, si existiere, se devolverá al interesado, cuando el proceso finalice.
+
+Si dentro del mes siguiente al vencimiento del plazo previsto en el inciso anterior no se acredita el pago de los gastos procesales, se entenderá que el demandante ha desistido de la demanda y se procederá en forma inmediata al archivo del expediente.
 
 - 5. Que se fije en lista, por el término de diez (10) días, para que los demandados puedan contestar la demanda, proponer excepciones y solicitar pruebas y para que los terceros intervinientes la impugnen o coadyuven.
 
 - 6. Que se solicite al correspondiente funcionario el envío de los antecedentes administrativos, dentro del término que al efecto se le señale. El desacato a esta solicitud o la inobservancia del plazo indicado constituye falta disciplinaria.
 
 Cuando se pida la suspensión provisional, ésta se resolverá en el auto que admita la demanda, el cual debe ser proferido por la Sala, Sección o Subsección y contra este auto sólo procede, en los procesos de única instancia, el recurso de reposición y, en los de primera instancia, el de apelación.
-
-**Artículo 207.** AUTO ADMISORIO DE LA DEMANDA. Recibida la demanda y efectuado el reparto, si aquélla reúne los requisitos legales, el Ponente debe admitirla y además disponer lo siguiente:
-
-- 1. Que se notifique al representante legal de la entidad demandada, o a su delegado, conforme a lo dispuesto por el artículo 150 del Código Contencioso Administrativo.
-
-- 2. Que se notifique personalmente al Ministerio Público.
-
-- 3. Que se notifique personalmente a la persona o personas que, según la demanda o los actos acusados, tengan interés directo en el resultado del proceso. Si no fuere posible hacerles la notificación personal en el término de cinco (5) días, contados desde el siguiente a aquel en que el interesado haga el depósito que prescribe esta disposición, sin necesidad de orden especial, se las emplazará por edicto para que en el término de cinco (5) días se presenten a notificarse del auto admisorio de la demanda. El edicto determinará, con toda claridad, el asunto de que se trate, se fijará en la Secretaría durante el término indicado y se publicará dos (2) veces en días distintos dentro del mismo lapso en un periódico de amplia circulación nacional o local, según el caso. El edicto y las publicaciones se agregarán al expediente. Copia del edicto se enviará por correo certificado a la dirección indicada en la demanda y a la que figure en el directorio telefónico del lugar, de lo cual se dejará constancia en el expediente.
-
-Si la persona emplazada no compareciere al proceso, se designará curador ad litem para que la represente en él.
-
-- 4. Que el demandante deposite, en el término que al efecto se le señale, la suma que prudencialmente se considere necesarias para pagar los gastos ordinarios del proceso, cuando hubiere lugar a ellos. El remanente, si existiere, se devolverá al interesado, cuando el proceso finalice.
-
-- 5. Que se fije en lista, por el término de cinco (5) días, para que los demandados o los intervinientes puedan contestar la demanda, proponer excepciones y solicitar la práctica de pruebas.
-
-- 6. Que se solicite al correspondiente funcionario el envío de los antecedentes administrativos, dentro del término que al efecto se le señale. El desacato a esta solicitud o la inobservancia del plazo indicado constituye falta disciplinaria.
-
-Cuando se pida la suspensión provisional, ésta se resolverá en el auto que admita la demanda, el cual debe ser proferido por la Sala, Sección o Subsección y contra este auto sólo procede, en los procesos de única instancia, el recurso de reposición y, en los de primera instancia, el de apelación.
-
-**Artículo 207. Auto admisorio de la demanda.** Recibida la demanda y verificado el reparto, el ponente dispondrá, en el auto que la admita, lo siguiente:
-
-- 1. Que se notifique personalmente a los funcionarios señalados y en la forma prevista en los artículos 149 y 150.
-
-- 2. Que se notifique personalmente al agente del ministerio público y a los particulares que, según la demanda o los actos acusados, puedan tener interés directo en los resultados del proceso. En el caso de que no sea posible notificar personalmente a los particulares afectados dentro de los diez (10) días siguientes a aquél en que el interesado suministre lo necesario, a solicitud de parte, se procederá a su emplazamiento por edicto en el cual se expresará la naturaleza del proceso y el nombre del demandante. El edicto se fijará en la secretaría por el término de diez (10) días y se aplicará dos veces en días distintos dentro del mismo término en un periódico de amplia circulación nacional o local según el caso. El edicto y las publicaciones se incorporarán al expediente.
-
-Copia del edicto se enviará por correo certificado a la dirección indicada en la demanda o en la solicitud de emplazamiento y a la que figure en el directorio telefónico del lugar, de lo cual se dejará constancia en el expediente.
-
-- 3. Que se fije en lista por el término de diez (10) días, para que los demandados y los intervinientes puedan contestar la demanda, proponer excepciones o solicitar la práctica de pruebas.
-
-- 4. Que se solicite a la autoridad correspondiente el envío de los antecedentes administrativos.
 
 ##### **Artículo 208.** ACLARACIÓN O CORRECCIÓN DE LA DEMANDA. Hasta el último día de fijación en lista podrá aclararse o corregirse la demanda.
 
@@ -1769,51 +1629,31 @@ La Sala, Sección o Subsección tendrá veinte (20) días para fallar.
 
 **SEGUNDA INSTANCIA ANTE EL CONSEJO DE ESTADO**
 
-##### **Artículo 212.** APELACIÓN DE LAS SENTENCIAS. En el Consejo de Estado el recurso de apelación de las sentencias proferidas en primera instancia tendrá el siguiente procedimiento:
+##### **Artículo 212.** *Apelación de sentencias*. El recurso de apelación contra la sentencia de primera instancia se interpondrá y sustentará ante el *a quo*. Una vez sustentado el recurso, se enviará al superior para su admisión. Si el recurso no es sustentado oportunamente, se declarará desierto por el inferior.
 
-Recibido el expediente y efectuado el reparto, se dará traslado al recurrente por el término de tres (3) días, para que sustente el recurso, si aún no lo hubiere hecho. Si el recurso no se sustenta oportunamente, se lo declarará desierto y ejecutoriada la sentencia objeto del mismo.
+El término para interponer y sustentar la apelación será de 10 días, contados a partir de la notificación de la sentencia.
 
-Si el recurso fue sustentado oportunamente y reúne los demás requisitos legales, será admitido mediante auto que se notificará personalmente al Ministerio Público y por estado a las otras partes.
+Recibido el expediente por el superior y efectuado el reparto, el recurso, si reúne los requisitos legales, será admitido mediante auto que se notificará personalmente al Ministerio Público y por estado a las otras partes.
 
-Las partes, dentro del término de ejecutoria del auto que admita el recurso, podrán pedir pruebas, que sólo se decretarán en los casos previstos en el artículo 214 del Código Contencioso Administrativo. Para practicarlas se fijará un término hasta de diez (10) días.
+Las partes, dentro del término de ejecutoria del auto que admita el recurso, podrán pedir pruebas, que solo se decretarán en los casos previstos en el artículo 214 de Código Contencioso Administrativo. Para practicarlas se fijará un término hasta de diez (10) días.
 
-Ejecutoriado el auto admisorio del recurso o vencido el término probatorio, se ordenará correr traslado a las partes, por el término común de diez (10) días, para alegar de conclusión y se dispondrá que, vencido este, se dé traslado del expediente al Ministerio Público por diez (10) días, para que emita su concepto.
+Ejecutoriado el auto admisorio del recurso o vencido el término probatorio, se ordenará correr traslado a las partes por el término común de diez (10) días para alegar de conclusión y se dispondrá que vencido este, se dé traslado del expediente al Ministerio Público, para que emita su concepto.
 
 Vencido este término se enviará el expediente al ponente para que elabore el proyecto de sentencia. Este se debe registrar dentro del término de treinta (30) días y la Sala o Sección tendrá quince (15) días para fallar.
 
-Se ordenará devolver el expediente al Tribunal de origen para obedecimiento y cumplimiento.
+Se ordenará devolver el expediente al tribunal de origen para obedecimiento y cumplimiento.
 
-**Artículo 212. Apelación de sentencias**. Cuando el Consejo de Estado conoce por apelación de la sentencia dictada en primera instancia en los procesos ordinarios, procederá así:
+##### **Artículo 213.***Apelación de autos*. Con excepción del auto de suspensión provisional, cuyo recurso de apelación se resuelve de plano, el procedimiento para decidir el que se interponga contra los demás que sean objeto del mismo, será el siguiente:
 
-Recibido el expediente y efectuado el reparto, el ponente dará traslado al recurrente por cinco (5) días para que sustente el recurso si no lo hubiere hecho al interponerlo.
+El recurso se interpondrá y sustentará ante el *a quo* dentro de los cinco (5) días siguientes a la notificación del auto recurrido. Una vez sustentado el recurso, se enviará al superior para su admisión. Si el recurso no es sustentado oportunamente, se declarará desierto por el inferior y ejecutoriado el auto objeto de la apelación.
 
-Cumplida esta exigencia, se proveerá sobre la admisión del recurso y se notificará al fiscal. Si no se sustenta el recurso, se declarará desierto y ejecutoriada la sentencia objeto de la apelación.
-
-Dentro del término de ejecutoria del auto de admisión del recurso, el opositor y el ministerio público podrán pedir pruebas, las cuales sólo se decretarán en los casos del artículo 214, sin perjuicio de que el ponente antes del fallo pueda decretar pruebas de oficio, que se practicarán en el término de diez (10) días. El recurrente sólo podrá solicitar sus pruebas en el escrito de sustentación del recurso.
-
-Ejecutoriado el auto admisorio del recurso o vencido el término para practicar las pruebas, se dará traslado común por diez (10) días a las partes.
-
-Surtido este traslado, el proceso entrará al despacho para sentencia de segunda instancia.
-
-Dictada la sentencia, se notificará en la forma prevista en el artículo 173.
-
-El expediente será devuelto al tribunal para obedecimiento y cumplimiento de lo resuelto por el Consejo de Estado.
-
-##### **Artículo 213.** APELACIÓN DE AUTOS. Con excepción del auto de suspensión provisional, cuyo recurso de apelación se resuelve de plano, el procedimiento para decidir el que se interponga contra los demás que sean objeto del mismo, será el siguiente:
-
-Se dará traslado al recurrente, por tres (3) días para que sustente el recurso, si aún no lo hubiera hecho.
-
-Si el recurrente no sustenta oportunamente el recurso se declara desierto y ejecutoriado el auto objeto de la apelación.
-
-Si el recurso fue sustentado y reúne los demás requisitos legales, debe ser admitido mediante auto que ordene poner el memorial que lo fundamente a disposición de la parte contraria, durante tres (3) días, en la Secretaria.
+Si el recurso reúne los requisitos legales, será admitido por el superior mediante auto que ordene poner el memorial que lo fundamente a disposición de la parte contraria, durante tres (3) días, en la Secretaría.
 
 Si ambas partes apelaren, los términos serán comunes.
 
-Vencido el término de traslado a las partes, se debe remitir al ponente para que elabore proyecto de decisión.
+Vencido el término de traslado a las partes, se debe remitir al ponente para que elabore el proyecto de decisión.
 
-El ponente registrará proyecto de decisión en el término de diez (10) días y la Sala debe resolver dentro de los cinco (5) días siguientes.
-
-**Artículo 213. Apelación de autos**. Salvo el auto de suspensión provisional, cuya apelación se resolverá de plano por el superior, el trámite de la segunda instancia de los autos susceptibles de este recurso, será el siguiente: admitido el recurso se dará traslado al recurrente por tres (3) días para que lo sustente. El escrito se agregará al expediente y se mantendrá en la secretaría a disposición de la parte contraria por otros tres (3), contados a partir del vencimiento del primer traslado; si ambas partes apelaren, los términos serán comunes. Si no se sustentare el recurso, se declarará desierto y ejecutoriada la providencia objeto de la apelación.
+El ponente registrará proyecto de decisión en el término de diez (10) días y la Sala debe resolver dentro de los cinco días siguientes.
 
 ##### **Artículo 214. Pruebas en segunda instancia**. Cuando se trate de apelación de sentencia, las partes podrán pedir pruebas, que se decretarán únicamente en los siguientes casos:
 
@@ -1921,11 +1761,11 @@ Cada Consejero de Estado de la Sección Quinta tendrá un Magistrado Auxiliar de
 
 **Parágrafo**. La elección de los miembros del Consejo Nacional Electoral podrá ser demandada ante la Corte Suprema de Justicia. El procedimiento para seguir en estos procesos es el señalado en los artículos 223 a 251 y concordantes del Código de lo Contencioso Administrativo.
 
-##### **Artículo 232. Trámite de la demanda.** Recibida por el tribunal la demanda, deberá ser repartida el mismo día o a más tardar el siguiente hábil.
+##### **Artículo 232.***Trámite de la demanda electoral.* Recibida la demanda deberá se repartida el mismo día o a más tardar el siguiente hábil.
 
-Contra el auto que admita la demanda no habrá ningún recurso; contra la resolución de inadmisión podrá recurrirse en súplica ante el resto de los magistrados cuando el proceso fuere de única instancia y apelación cuando fuere de dos. Los recursos deberán proponerse dentro de los dos días siguientes a la notificación del auto, y se resolverán de plano.
+Contra el auto que admita la demanda o su reforma no habrá recursos; contra el que lo rechaza, cuando el proceso fuere de única instancia, procede el recurso de súplica ante el resto de los magistrados o de reposición ante el juez administrativo y cuando fuere de dos, el de apelación. Los recursos deberán proponerse dentro de los dos (2) días siguientes a la notificación del auto y se resolverán de plano.
 
-El auto admisorio de la demanda se ejecutoría al día siguiente de la notificación.
+El auto admisorio de la demanda se ejecutará al día siguiente de su notificación.
 
 ##### **Artículo 233.** AUTO ADMISORIO DE LA DEMANDA. El auto admisorio de la demanda deberá disponer:
 
@@ -1947,21 +1787,31 @@ Cuando se pida la suspensión provisional del acto acusado, ésta se resolverá 
 
 Las pruebas que se soliciten por las partes o por el Ministerio Público se ordenará practicarlas junto con las que de oficio decrete el ponente por medio de auto que se proferirá al día siguiente de la desfijación en lista. Sin embargo el ponente conservará la facultad para decretar pruebas de oficio hasta antes de ordenar el traslado para alegar. Para la práctica de las pruebas se concederá un término de veinte (20) días que se contarán desde el siguiente a la expedición del auto que ordene practicarlas. Podrán concederse veinte (20) días más cuando hubiere de practicarse pruebas fuera del lugar de la residencia del tribunal. Este auto se notificará por estado y quedará ejecutoriado una vez notificado. Contra él no procede ningún recurso. Si se denegare alguna de las pruebas solicitadas, podrá ocurrirse en súplica contra el auto respectivo dentro del día siguiente a su notificación, y se resolverá de plano. El Consejo de Estado no podrá comisionar para la práctica de las pruebas en los procesos que se refieren a corporaciones de elección popular cuando ellas deban practicarse en el lugar de su sede; pero el Consejero Ponente podrá en todos los casos comisionar para su práctica a su Magistrado Auxiliar. Los tribunales tampoco podrán, dentro de su jurisdicción, comisionar para la práctica de pruebas.
 
-##### **Artículo 235.** INTERVENCION DE TERCEROS. DESISTIMIENTO.
+##### **Artículo 235.***Intervención de terceros*-*Desistimiento.* En los procesos electorales cualquier persona puede pedir que se la tenga como impugnador o coadyuvante.
 
-En los procesos electorales no podrán actuar como coadyuvantes o impugnadores sino quienes demuestren un interés directo en el juicio. En los procesos en que se controvierta una elección popular bastará con acreditar que figuró como candidato legalmente inscrito para la respectiva corporación pública. Las intervenciones adhesivas sólo se admiten hasta cuando quede ejecutoriado el auto que ordena el traslado para alegar. Los intervinientes adhesivos pueden desistir libremente de su intervención. El demandante sólo puede desistir con la aceptación del Ministerio Público.
+Las intervenciones de terceros solo se admitirán hasta cuando finalice el término de fijación en lista.
 
-**Artículo 235.** INTERVENCION DE TERCEROS. DESISTIMIENTO.
-
-En los procesos electorales no podrán actuar como coadyuvantes o impugnadores sino quienes demuestren un interés directo en el juicio. En los procesos en que se controvierta una elección popular bastará con acreditar que figuró como candidato legalmente inscrito para la respectiva corporación pública. Las intervenciones adhesivas sólo se admiten hasta cuando quede ejecutoriado el auto que ordena el traslado para alegar. Los intervinientes adhesivos pueden desistir libremente de su intervención. El demandante sólo puede desistir con la aceptación del Ministerio Público.
-
-**Artículo 235. Improcedencia del desistimiento.** En los procesos electorales es improcedente el desistimiento de las coadyuvancias o impugnaciones de las pretensiones de la demanda. El ponente rechazará de plano el que se presente.
+En estos procesos, ni el demandante ni los intervinientes podrán desistir.
 
 ##### **Artículo 236.** TÉRMINOS PARA ALEGAR. Practicadas las pruebas decretadas o vencido el término probatorio, se ordena correr traslado a las partes por el término común de cinco (5) días, para que formulen sus alegatos por escrito. Si no se pidieron pruebas en la demanda o en el término de fijación en lista se ordenará inmediatamente el traslado previsto en este artículo. Vencido el traslado a las partes se ordenará la entrega del expediente al Agente del Ministerio Público, por diez (10) días para que emita concepto de fondo.
 
 ##### **Artículo 236A.***Acumulación de pretensiones en la demanda electoral.* En una misma demanda electoral no pueden acumularse pretensiones de nulidad relativas a vicios en las calidades, requisitos e inhabilidades del elegido o nombrado, con las que se funden en irregularidades en el proceso de votación y en los escrutinios. La indebida acumulación de pretensiones es causal de inadmisión de la demanda para que el demandante, dentro del término legal, las separe en demandas diferentes y se proceda al reparto.
 
-##### **Artículo 237. Acumulación de procesos.** Cuando existan dos o más procesos que deban tramitarse bajo una misma cuerda, según lo dispuesto por el artículo siguiente, y vencido el término para la práctica de las pruebas, el secretario así lo informará al ponente, indicando el estado en que se encuentren. Acumulados los expedientes se convocará a audiencia pública dentro de las setenta y dos (72) horas siguientes para el sorteo del ponente que deba conocer de los distintos procesos.
+##### **Artículo 237.***Acumulación de procesos.* Deberán fallarse en una sola sentencia:
+
+- a) Los procesos en que se impugne una misma elección o un mismo nombramiento cuando la nulidad se impetre por irregularidades en la votación o en los escrutinios.
+
+- b) Los procesos fundados en falta de calidades, requisitos o en inhabilidades cuando se refieran al mismo demandado.
+
+En el Consejo de Estado y en los Tribunales Administrativos, vencido el término para la fijación en lista en el proceso que llegue primero a esta etapa, el Secretario informará al ponente el estado en que se encuentren los demás procesos posibles de acumulación.
+
+En los juzgados administrativos y para efectos de la acumulación, proferido el auto admisorio de la demanda el Despacho ordenará remitir oficios a los demás Juzgados de Circuito Judicial comunicando el auto respectivo.
+
+Si se decreta la acumulación, se ordenará fijar aviso que permanecerá en la Secretaría por un (1) día, convocando a las partes para la audiencia pública de sorteo del magistrado ponente o del juez que deba conocer de los procesos acumulados. Contra estas decisiones no procede recurso.
+
+Para la diligencia se señalará el día siguiente a la desfijación del aviso. Esta se practicará en presencia de los jueces o de los magistrados de la Sección, o del tribunal a quienes fueron repartidos los procesos. Al acto asistirán el Secretario, el Ministerio Público, las partes y los demás interesados.
+
+La inasistencia de alguna o algunas de las personas que tienen derecho a hacerlo no invalidará la audiencia, siempre que se verifique con asistencia de la mayoría de los jueces o magistrados o, en su lugar, por ante el Secretario correspondiente y dos testigos.
 
 ##### **Artículo 238. Causales de la acumulación.** Deberán fallarse en una sola sentencia los procesos que se adelanten en ejercicio de alguna de las acciones consagradas en este capítulo, en los casos siguientes:
 
@@ -1985,13 +1835,17 @@ La falta de asistencia de alguna o algunas de las personas que tienen derecho a 
 
 ##### **Articulo 241. Deberes del ponente.** El magistrado a quien designe la suerte aprehenderá el conocimiento de los negocios acumulados y adelantará la tramitación hasta poner el proceso en estado de dictar sentencia.
 
-##### **Artículo 242. Término para fallar.** En los procesos electorales el ponente deberá registrar proyecto de sentencia dentro de los veinte días (20) días siguientes a la fecha en que haya entrado el expediente para fallo, y éste deberá proferirse dentro del término improrrogable de treinta (30) días contados desde la fecha en que se registró el proyecto.
+##### **Artículo 242.***Términos para fallar.* En los procesos electorales de competencia del Consejo de Estado y de los Tribunales Administrativos el ponente deberá registrar proyecto de sentencia dentro de los veinte (20) días siguientes a la fecha en que haya entrado el expediente para fallo, y este deberá proferirse dentro del término improrrogable de treinta (30) días contados desde la fecha en que se registró el proyecto. En los juzgados administrativos el término para proferir sentencia será de veinte (20) días siguientes a la fecha en que el expediente haya entrado para fallo.
 
-En los procesos que se refieran a elecciones de corporaciones públicas de origen popular, por ningún motivo podrá prorrogarse los términos.
+En los procesos que se refieran a elecciones de corporaciones públicas de origen popular, por ningún motivo podrán prorrogarse los términos.
 
-El incumplimiento de lo previsto en este artículo constituirá causal de mala conducta, que se sancionará con la pérdida del empleo; no obstante, podrá dictase auto para mejor proveer con el fin de aclarar los puntos dudosos de la controversia. Las pruebas así decretadas se practicarán en el término improrrogable de veinte días. Contra el auto que las decreta no cabrá recurso alguno.
+No obstante, en todos los procesos podrá dictarse auto para mejor proveer con el fin de aclarar los puntos dudosos de la controversia.
 
-Vencido el término para alegar no se admitirá incidente alguno distinto al de recusación, si el magistrado hubiere comenzado a conocer después de aquel, y de nulidad, por falta de competencia sobre el cual, una vez decidido, no cabrá recurso.
+Las pruebas así decretadas se practicarán en el término improrrogable de diez (10) días y una vez recaudadas el Secretario correrá traslado a las partes por tres (3) días. Contra el auto que las decreta no cabrá recurso alguno.
+
+El incumplimiento de los términos para fallar previstos en este artículo constituirá causal de mala conducta, que se sancionará con la pérdida del empleo.
+
+Vencido el término para alegar no se admitirá incidente alguno distinto de recusación, si el magistrado o juez hubiere comenzado a conocer después de aquel, y de nulidad por falta de competencia funcional sobre el cual, una vez decidido, no cabrá recurso.
 
 ##### **Artículo 242A.***Nulidades procesales y no remisión inmediata de escritos y recurso improcedentes.* En la segunda instancia no se podrán proponer hechos constitutivos de nulidad que debieron ser alegados en primera instancia, salvo la falta de competencia funcional y la indebida notificación del auto admisorio de la demanda al demandado o a su representante.
 
@@ -2007,11 +1861,17 @@ Mediante auto no susceptible de recurso, el Juez o Magistrado Ponente rechazará
 
 ##### **Artículo 245. Notificación de la sentencia**. La sentencia se notificará a más tardar el día siguiente a su expedición, personalmente a las partes y al agente del ministerio público. Pasados dos días sin que se haya hecho notificación personal, se notificará por medio de edicto, que durará fijado por tres días.
 
-##### **Artículo 246. Aclaración**. Hasta los dos días siguientes a aquel en el cual quede notificada podrán las partes o el ministerio público pedir que la sentencia se aclare.
+##### **Artículo 246.***Aclaración y adición.* Hasta los dos días siguientes a aquel en el cual quede notificada la sentencia podrán las partes o el Ministerio Público pedir que la sentencia se aclare o se adicione.
 
-También podrá aclararse por el tribunal de oficio, dentro de dicho término, en el caso de que se hubiere incurrido en error aritmético o hubiere motivo de duda respecto de alguna de sus disposiciones.
+También podrá aclararse el fallo de oficio, dentro de dicho término, en caso de que se hubiere incurrido en error aritmético o hubiere motivo de duda respecto de conceptos o frases que estén contenidos en la parte resolutiva de la sentencia o que influyan en ella.
 
-La aclaración se hará por medio de auto que se notificará por estado al día siguiente de dictado, y contra él no será admisible recurso alguno. En la misma forma se procederá cuando la aclaración se deniega.
+Deberá adicionarse de oficio o a solicitud de parte, dentro del término previsto, por medio de sentencia complementaria, cuando omita la resolución de cualquiera de los extremos de la *litis* o de cualquier otro punto que de conformidad con la ley deba ser objeto de pronunciamiento.
+
+El superior deberá complementar la sentencia del a quo cuando pronuncie la de segunda instancia, siempre que la parte perjudicada con la omisión haya apelado o adherido a la apelación; pero si dejó de resolver la demanda de un proceso acumulado le devolverá el expediente para que se dicte sentencia complementaria.
+
+Los autos solo podrán adicionarse de oficio o a solicitud de parte dentro del término de ejecutoria.
+
+La decisión sobre la aclaración o adición no es susceptible de recursos. Los escritos y peticiones que contravengan esta disposición son improcedentes y el Secretario los enviará al Despacho una vez comunicada la sentencia.
 
 ##### **Artículo 246A.** *Incidente de regulación de honorarios.* En el proceso electoral, en segunda instancia no se tramitará incidente de regulación de honorarios. Resuelta la apelación, el proceso se remitirá al juez de primera instancia para que lo tramite y decida.
 
@@ -2029,17 +1889,25 @@ Estas reglas se aplicarán igualmente cuando se trate de la rectificación total
 
 ##### **Artículo 249. Expedición de credenciales.** En los casos de los artículos anteriores la entidad que haga el nuevo escrutinio expedirá las credenciales a los que resulten elegidos y, por el mismo hecho, quedarán sin valor ni efecto las expedidas a otras personas.
 
-##### **Artículo 250.Apelación**. Si el proceso tiene dos instancias, podrá intentarse el recurso de apelación en el acto de la notificación o dentro de los dos días siguientes. La apelación de la sentencia se concederá por el tribunal en el efecto suspensivo.
+##### **Artículo 250.** *Apelación.* El recurso de apelación contra la sentencia de primera instancia se interpondrá y sustentará ante el *a quo* en el acto de notificación o dentro de los cinco (5) días siguientes. Esta apelación se concederá en el efecto suspensivo.
 
-Contra el auto que concede la apelación no cabrá ningún recurso; deberá notificarse por estado y remitirse el expediente por el inmediato correo.
+Si el recurso no es sustentado oportunamente el inferior lo declarará desierto y ejecutoriada la sentencia.
 
-Los secretarios serán responsables de las demoras que ocurran en el envío de los expedientes.
+Sustentado el recurso, se enviará al superior a más tardar al día siguiente para que decida sobre su admisión. Si reúne los requisitos legales, será admitido mediante auto en el que ordenará a la Secretaría poner el memorial que lo fundamente a disposición de la parte contraria, por tres (3) días.
 
-##### **Artículo 251. Trámite de la segunda instancia**. La segunda instancia se regirá por el siguiente trámite:
+Si ambas partes apelaren, los términos serán comunes.
 
-El reparto del negocio se hará a más tardar dentro del segundo día a su llegada al Consejo.
+Contra el auto que concede y el que admite la apelación no procede recurso.
 
-El mismo día, o al siguiente, el ponente dispondrá en un solo auto que se fije en lista el negocio por tres días, vencidos los cuales quedará en la secretaría por otros tres para que las partes presenten sus alegatos por escrito.
+Los Secretarios serán responsables de las demoras que ocurran en el envío de los expedientes.
+
+##### **Artículo 251.***Trámite en segunda instancia.* La segunda instancia se regirá por el siguiente trámite:
+
+El reparto del negocio se hará, a más tardar, dentro de los dos (2) días siguientes a su llegada al Consejo de Estado o al Tribunal Administrativo.
+
+Para la apelación de sentencias el mismo día o al siguiente, el ponente dispondrá en un solo auto que se fije en lista el negocio por tres (3) días, vencidos los cuales quedará en la Secretaría por otros tres (3) días para que las partes presenten sus alegatos por escrito. Cumplido el término anterior el Ministerio Público tendrá cinco (5) días para que emita su concepto.
+
+Vencido este término, al día siguiente se enviará el expediente al Despacho del ponente.
 
 Los términos para fallar se reducirán a la mitad de los señalados en el artículo 242.
 
