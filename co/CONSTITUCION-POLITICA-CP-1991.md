@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2010-01-31"
+last_updated: "2010-09-05"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -675,40 +675,6 @@ Los Estatutos Internos de los Partidos y Movimientos Políticos determinarán lo
 Los Partidos y Movimientos Políticos que habiendo obtenido su Personería Jurídica como producto de la circunscripción especial de minorías étnicas podrán avalar candidatos sin más requisitos que su afiliación a dicho partido, con una antelación no inferior a un año respecto a la fecha de la inscripción.
 
 **Parágrafo Transitorio.** Para las elecciones al Congreso de la República a celebrarse en 2010, el porcentaje a que se refiere el inciso primero del presente artículo será del dos por ciento (2%), y no se requerirá del requisito de inscripción con un año de antelación del que habla el inciso 8º.
-
-**Artículo 108.** El Consejo Nacional Electoral reconocerá personería jurídica a los partidos, movimientos políticos y grupos significativos de ciudadanos. Estos podrán obtenerlas con votación no inferior al dos por ciento (2%) de los votos emitidos válidamente en el territorio nacional en elecciones de Cámara de Representantes o Senado. Las perderán si no consiguen ese porcentaje en las elecciones de las mismas Corporaciones Públicas. Se exceptúa el régimen excepcional que se estatuya en la ley para las circunscripciones de minorías, en las cuales bastará haber obtenido representación en el Congreso.
-
-Los partidos y movimientos políticos con personería jurídica reconocida podrán inscribir candidatos a elecciones sin requisito adicional alguno.
-
-Dicha inscripción deberá ser avalada para los mismos efectos por el respectivo representante legal del partido o movimiento o por quien él delegue.
-
-Los movimientos sociales y grupos significativos de ciudadanos también podrán inscribir candidatos.
-
-La ley determinará los requisitos de seriedad para la inscripción de candidatos.
-
-Los estatutos de los partidos y movimientos políticos regularán lo atinente a su régimen disciplinario interno. Los miembros de las Corporaciones Públicas elegidos por un mismo partido o movimiento político o ciudadano actuarán en ellas como bancada en los términos que señale la ley y de conformidad con las decisiones adoptadas democráticamente por estas.
-
-Los estatutos internos de los partidos y movimientos políticos determinarán los asuntos de conciencia respecto de los cuales no se aplicará este régimen y podrán establecer sanciones por la inobservancia de sus directrices por parte de los miembros de las bancadas, las cuales se fijarán gradualmente hasta la expulsión, y podrán incluir la pérdida del derecho de voto del congresista, diputado, concejal o edil por el resto del período para el cual fue elegido.
-
-**Parágrafo transitorio 1º.** Los partidos y movimientos políticos con Personería Jurídica reconocida actualmente y con representación en el Congreso, conservarán tal personería hasta las siguientes elecciones de Congreso que se realicen con posterioridad a la promulgación del presente Acto Legislativo, de cuyos resultados dependerá que la conserven de acuerdo con las reglas dispuestas en la Constitución.
-
-Para efectos de participar en cualquiera de las elecciones que se realicen desde la entrada en vigencia de esta Reforma hasta las siguientes elecciones de Congreso, los partidos y movimientos políticos con representación en el Congreso podrán agruparse siempre que cumplan con los requisitos de votación exigidos en la presente Reforma para la obtención de las personerías jurídicas de los partidos y movimientos políticos y obtengan personería jurídica que reemplazará a la de quienes se agrupen. La nueva agrupación así constituida gozará de los beneficios y cumplirá las obligaciones, consagrados en la Constitución para los partidos y movimientos políticos en materia electoral.
-
-**Parágrafo transitorio 2º.** Un número plural de Senadores o Representantes a la Cámara, cuya sumatoria de votos en las pasadas elecciones de Congreso hayan obtenido más del dos por ciento (2%) de los votos válidos emitidos para Sena do de la República en el Territorio Nacional, podrán solicitar el reconocimiento de la Personería jurídica de partido o movimiento político. Esta norma regirá por tres (3) meses a partir de su promulgación.
-
-**Artículo 108.** El Consejo Nacional Electoral reconocerá personería jurídica a los partidos o movimientos políticos que se organicen para participar en la vida democrática del país, cuando comprueben su existencia con no menos de cincuenta mil firmas, o cuando en la elección anterior hayan obtenido por lo menos la misma cifra de votos o alcanzado representación en el Congreso de la República.
-
-En ningún caso podrá la ley establecer exigencias en relación con la organización interna de los partidos y movimientos políticos, ni obligar la afiliación a ellos para participar en las elecciones.
-
-Los partidos y movimientos políticos con personería jurídica reconocida podrán inscribir candidatos a elecciones sin requisito adicional alguno. Dicha inscripción deberá ser avalada para los mismos efectos por el respectivo representante legal del partido o movimiento o por quien él delegue.
-
-Los movimientos sociales y grupos significativos de ciudadanos también podrán inscribir candidatos.
-
-La ley podrá establecer requisitos para garantizar la seriedad de las inscripciones de candidatos.
-
-La personería de que trata el presente artículo quedará extinguida por no haberse obtenido el número de votos mencionado o alcanzado representación como miembros del Congreso, en la elección anterior.
-
-Se perderá también dicha personería cuando en los comicios electorales que se realicen en adelante no se obtengan por el partido o movimiento político a través de sus candidatos por lo menos 50.000 votos o no se alcance la representación en el Congreso de la República.
 
 ##### **Artículo 109.** El Estado concurrirá a la financiación política y electoral de los Partidos y Movimientos Políticos con personería jurídica, de conformidad con la ley.
 
