@@ -4,7 +4,7 @@ identifier: "DECRETO-16-2011"
 country: "co"
 rank: "decreto"
 publication_date: "2011-01-06"
-last_updated: "2011-01-20"
+last_updated: "2011-04-05"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1691071"
 department: "MINISTERIO DE LA PROTECCION SOCIAL"
@@ -63,13 +63,13 @@ Que en mérito de lo expuesto,
 
 - d) No habrá lugar al pago de aportes parafiscales al ICBF, SENA y cajas de compensación familiar.
 
-##### **Artículo 3°.** Requisitos para acceder al empleo de emergencia. Las personas que deseen acceder a un empleo de emergencia deberán cumplir los siguientes requisitos: 1. Ser mayor de 18 años. 2. Ser una persona damnificada o afectada por la situación de desastre Nacional declarada, que se encuentre en los registros que para tal efecto disponga el Gobierno Nacional. 3. Estar registrado en la base del Sisbén y tener un puntaje que lo clasifique en el nivel I o II o pertenecer a la estrategia Red Juntos, de los municipios afectados por la ola invernal".
-
-**Artículo 3°.***Requisitos para acceder al empleo de emergencia.* Las personas que deseen acceder a un empleo de emergencia deberán cumplir los siguientes requisitos:
+##### **Artículo 3°.***Requisitos para acceder al empleo de emergencia.* Las personas que deseen acceder a un empleo de emergencia deberán cumplir los siguientes requisitos:
 
 - 1. Ser mayor de 18 años.
 
 - 2. Estar inscrito en el Sistema Nacional de Recurso Humano del Servicio Nacional de Aprendizaje SENA o demás entidades de intermediación laboral autorizadas para este evento por el Ministerio de la Protección Social.
+
+**Nota:** Declarado inexequible el Decreto 130 de 2011, que modificó el artículo 3 del Decreto 016 de 2011, mediante Sentencia C-252 de 2011. Se reincorpora texto original Decreto 016 de 2011.
 
 **Artículo 4.***Criterios para priorizar el ingreso al empleo de emergencia.* Accederán preferentemente al empleo de emergencia las personas que cumplan con los siguientes requisitos:
 
@@ -79,15 +79,13 @@ Que en mérito de lo expuesto,
 
 **Artículo 5.***Obligación de reporte de vacantes y de contrataciones.* Las entidades del Gobierno Nacional, Departamental o Municipal y las empresas contratistas del Estado, que ejecuten actividades de construcción de vivienda e infraestructura, mejora de áreas públicas y demás actividades conexas o complementarias que se requieran para la recuperación social, económica y ecológica de las zonas afectadas por el invierno, deberán realizar el reporte de personal vacante para la realización de estas actividades ante el Sistema Nacional de Recurso Humano del Servicio Nacional de Aprendizaje, SENA. Así mismo tendrán la obligación de reportar la duración de los contratos y los datos de las personas que contrate bajo el esquema de empleo de emergencia.
 
-##### **Artículo 6°.** *Obligación de Focalizar.* Las entidades del Gobierno Nacional, Departamental, Distrital o Municipal y las empresas contratistas del Estado, que ejecuten actividades de construcción de vivienda e infraestructura, mejora de áreas públicas y demás actividades conexas o complementarias a estas que se requieran para la recuperación social, económica y ecológica de las zonas afectadas por el invierno, deberán vincular preferencialmente a las personas que cumplan los requisitos para acceder a un empleo de emergencia de conformidad con el artículo 3° del presente decreto".
+##### **Artículo 6.** *Obligación de Focalizar.* Las entidades del Gobierno Nacional, Departamental o Municipal y las empresas contratistas del Estado, que ejecuten actividades de construcción de vivienda e infraestructura, mejora de áreas públicas y demás actividades conexas o complementarias que se requieran para la recuperación social, económica y ecológica de las zonas afectadas por el invierno, deberán vincular preferencialmente a las personas que sean objeto de un empleo de emergencia.
 
-***Nota:** Declarado Inexequible Decreto 130 de 2011, que modificó artículo 6 del Decreto 016 de 2011, mediante sentencia C-252 de 2011.*
+***Nota:** Declarado Inexequible Decreto 130 de 2011, que modificó artículo 6 del Decreto 016 de 2011, mediante sentencia C-252 de 2011.Se reincorpora texto original Decreto 016 de 2011.*
 
-**Artículo 6.** *Obligación de Focalizar.* Las entidades del Gobierno Nacional, Departamental o Municipal y las empresas contratistas del Estado, que ejecuten actividades de construcción de vivienda e infraestructura, mejora de áreas públicas y demás actividades conexas o complementarias que se requieran para la recuperación social, económica y ecológica de las zonas afectadas por el invierno, deberán vincular preferencialmente a las personas que sean objeto de un empleo de emergencia.
+##### **Artículo 7.***Vigencia.* El presente decreto rige a partir de la fecha de su publicación y tendrá una vigencia de un año, sin exceder el 31 de diciembre de 2011.
 
-##### **Artículo 7°.** *Vigencia*. Las disposiciones contenidas en el presente decreto tendrán vigencia hasta el 30 de junio de 2012".
-
-**Artículo 7.***Vigencia.* El presente decreto rige a partir de la fecha de su publicación y tendrá una vigencia de un año, sin exceder el 31 de diciembre de 2011.
+***Nota:** Declarado Inexequible Decreto 130 de 2011, que modificó artículo 7 del Decreto 016 de 2011, mediante sentencia C-252 de 2011.Se reincorpora texto original Decreto 016 de 2011.*
 
 **Publíquese, comuníquese y cúmplase.**
 
