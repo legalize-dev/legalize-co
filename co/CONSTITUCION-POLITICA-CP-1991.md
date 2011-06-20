@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2011-05-31"
+last_updated: "2011-06-20"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -422,15 +422,9 @@ El secreto profesional es inviolable.
 
 Para garantizar el pluralismo informativo y la competencia, el Estado intervendrá por mandato de la ley para evitar las prácticas monopolísticas en el uso del espectro electromagnético.
 
-##### **Artículo 76.** La intervención estatal en el espectro electromagnético utilizado para los servicios de televisión, estará a cargo de un organismo de derecho público con personería jurídica, autonomía administrativa, patrimonial y técnica, sujeto a un régimen legal propio.
+##### **Artículo 76. Derogado**
 
-Dicho organismo desarrollará y ejecutará los planes y programas del Estado en el servicio a que hace referencia el inciso anterior.
-
-##### **Artículo 77.** La dirección de la política que en materia de televisión determine la ley sin menoscabo de las libertades consagradas en esta Constitución, estará a cargo del organismo mencionado.
-
-La televisión será regulada por una entidad autónoma del orden nacional, sujeta a un régimen propio. La dirección y ejecución de las funciones de la entidad estarán a cargo de una Junta Directiva integrada por cinco (5) miembros, la cual nombrará al director. Los miembros de la Junta tendrán período fijo. El gobierno nacional designará dos de ellos. Otro será escogido entre los representantes legales de los canales regionales de televisión. La ley dispondrá lo relativo al nombramiento de los demás miembros y regulará la organización y funcionamiento de la Entidad.
-
-**Parágrafo.** Se garantizarán y respetarán la estabilidad y los derechos de los trabajadores de Inravisión.
+##### **Artículo 77.** El Congreso de la República expedirá la ley que fijará la política en materia de televisión.
 
 ### **CAPITULO 3**
 
