@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2011-06-20"
+last_updated: "2011-06-30"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -2412,11 +2412,15 @@ El Estado, por mandato de la ley, impedirá que se obstruya o se restrinja la li
 
 La ley delimitará el alcance de la libertad económica cuando así lo exijan el interés social, el ambiente y el patrimonio cultural de la Nación.
 
-##### **Artículo 334.** La dirección general de la economía estará a cargo del Estado. Este intervendrá, por mandato de la ley, en la explotación de los recursos naturales, en el uso del suelo, en la producción, distribución, utilización y consumo de los bienes, y en los servicios públicos y privados, para racionalizar la economía con el fin de conseguir el mejoramiento de la calidad de vida de los habitantes, la distribución equitativa de las oportunidades y los beneficios del desarrollo y la preservación de un ambiente sano.
+##### **Artículo 334.** La dirección general de la economía estará a cargo del Estado. Este intervendrá, por mandato de la ley, en la explotación de los recursos naturales, en el uso del suelo, en la producción, distribución, utilización y consumo de los bienes, y en los servicios públicos y privados, para racionalizar la economía con el fin de conseguir en el plano nacional y territorial, en un marco de sostenibilidad fiscal, el mejoramiento de la calidad de vida de los habitantes, la distribución equitativa de las oportunidades y los beneficios del desarrollo y la preservación de un ambiente sano. Dicho marco de sostenibilidad fiscal deberá fungir como instrumento para alcanzar de manera progresiva los objetivos del Estado Social de Derecho. En cualquier caso el gasto público social será prioritario.
 
-El Estado, de manera especial, intervendrá para dar pleno empleo a los recursos humanos y asegurar que todas las personas, en particular las de menores ingresos, tengan acceso efectivo a los bienes y servicios básicos.
+El Estado, de manera especial, intervendrá para dar pleno empleo a los recursos humanos y asegurar, de manera progresiva, que todas las personas, en particular las de menores ingresos, tengan acceso efectivo al conjunto de los bienes y servicios básicos. También para promover la productividad y competitividad y el desarrollo armónico de las regiones.
 
-También para promover la productividad y la competitividad y el desarrollo armónico de las regiones.
+La sostenibilidad fiscal debe orientar a las Ramas y Órganos del Poder Público, dentro de sus competencias, en un marco de colaboración armónica.
+
+El Procurador General de la Nación o uno de los Ministros del Gobierno, una vez proferida la sentencia por cualquiera de las máximas corporaciones judiciales, podrán solicitar la apertura de un Incidente de Impacto Fiscal, cuyo trámite será obligatorio. Se oirán las explicaciones de los proponentes sobre las consecuencias de la sentencia en las finanzas públicas, así como el plan concreto para su cumplimiento y se decidirá si procede modular, modificar o diferir los efectos de la misma, con el objeto de evitar alteraciones serias de la sostenibilidad fiscal. En ningún caso se afectará el núcleo esencial de los derechos fundamentales.
+
+**Parágrafo.** Al interpretar el presente artículo, bajo ninguna circunstancia, autoridad alguna de naturaleza administrativa, legislativa o judicial, podrá invocar la sostenibilidad fiscal para menoscabar Los derechos fundamentales, restringir su alcance o negar su protección efectiva.
 
 ##### **Artículo 335.** Las actividades financiera, bursátil, aseguradora y cualquier otra relacionada con el manejo, aprovechamiento e inversión de los recursos de captación a las que se refiere el literal d) del numeral 19 del artículo 150 son de interés público y sólo pueden ser ejercidas previa autorización del Estado, conforme a la ley, la cual regulará la forma de intervención del Gobierno en estas materias y promoverá la democratización del crédito.
 
@@ -2448,7 +2452,7 @@ Las leyes, ordenanzas o acuerdos que regulen contribuciones en las que la base s
 
 **DE LOS PLANES DE DESARROLLO**
 
-##### **Artículo 339.** Habrá un Plan Nacional de Desarrollo conformado por una parte general y un plan de inversiones de las entidades públicas del orden nacional. En la parte general se señalarán los propósitos y objetivos nacionales de largo plazo, las metas y prioridades de la acción estatal a mediano plazo y las estrategias y orientaciones generales de la política económica, social y ambiental que serán adoptadas por el gobierno. El plan de inversiones públicas contendrá los presupuestos plurianuales de los principales programas y proyectos de inversión pública nacional y la especificación de los recursos financieros requeridos para su ejecución.
+##### **Artículo 339.** Habrá un Plan Nacional de Desarrollo conformado por una parte general y un plan de inversiones de las entidades públicas del orden nacional. En la parte general se señalarán los propósitos y objetivos nacionales de largo plazo, las metas y prioridades de la acción estatal a mediano plazo y las estrategias y orientaciones generales de la política económica, social y ambiental que serán adoptadas por el Gobierno. El plan de inversiones públicas contendrá los presupuestos plurianuales de los principales programas y proyectos de inversión pública nacional y la especificación de los recursos financieros requeridos para su ejecución, dentro de un marco que garantice la sostenibilidad fiscal.
 
 Las entidades territoriales elaborarán y adoptarán de manera concertada entre ellas y el gobierno nacional, planes de desarrollo, con el objeto de asegurar el uso eficiente de sus recursos y el desempeño adecuado de las funciones que les hayan sido asignadas por la Constitución y la ley.
 
@@ -2480,7 +2484,7 @@ En todo caso el organismo nacional de planeación, de manera selectiva, podrá e
 
 Tampoco podrá hacerse ningún gasto público que no haya sido decretado por el Congreso, por las asambleas departamentales, o por los concejos distritales o municipales, ni transferir crédito alguno a objeto no previsto en el respectivo presupuesto.
 
-##### **Artículo 346.** El Gobierno formulará anualmente el Presupuesto de Rentas y Ley de Apropiaciones que deberá corresponder al Plan Nacional de Desarrollo y lo presentará al Congreso, dentro de los primeros diez días de cada legislatura.
+##### **Artículo 346.**El Gobierno formulará anualmente el presupuesto de rentas y ley de apropiaciones, que será presentado al Congreso dentro de los primeros diez días de cada legislatura. El presupuesto de rentas y ley de apropiaciones deberá elaborarse, presentarse y aprobarse dentro de un marco de sostenibilidad fiscal y corresponder al Plan Nacional de Desarrollo.
 
 En la Ley de Apropiaciones no podrá incluirse partida alguna que no corresponda a un crédito judicialmente reconocido, o a un gasto decretado conforme a la ley anterior, o a uno propuesto por el Gobierno para atender debidamente el funcionamiento de las ramas del poder público, o al servicio de la deuda, o destinado a dar cumplimiento al Plan Nacional de Desarrollo.
 
