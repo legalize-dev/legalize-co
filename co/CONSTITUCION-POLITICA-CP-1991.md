@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2011-07-07"
+last_updated: "2011-07-17"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -2614,11 +2614,9 @@ Se exceptúan:
 
 - 3. Las que, con base en leyes anteriores, la Nación asigna a entidades de previsión social y a las antiguas intendencias y comisarías.
 
-##### **Artículo 360.** La ley determinará las condiciones para la explotación de los recursos naturales no renovables así como los derechos de las entidades territoriales sobre los mismos.
+##### **Artículo 360.** La explotación de un recurso natural no renovable causará, a favor del Estado, una contraprestación económica a título de regalía, sin perjuicio de cualquier otro derecho o compensación que se pacte. La ley determinará las condiciones para la explotación de los recursos naturales no renovables.
 
-La explotación de un recurso natural no renovable causará a favor del Estado, una contraprestación económica a título de regalía, sin perjuicio de cualquier otro derecho o compensación que se pacte.
-
-Los departamentos y municipios en cuyo territorio se adelanten explotaciones de recursos naturales no renovables, así como los puertos marítimos y fluviales por donde se transporten dichos recursos o productos derivados de los mismos, tendrán derecho a participar en las regalías y compensaciones.
+Mediante otra ley, a iniciativa del Gobierno, la ley determinará la distribución, objetivos, fines, administración, ejecución, control, el uso eficiente y la destinación de los ingresos provenientes de la explotación de los recursos naturales no renovables precisando las condiciones de participación de sus beneficiarios. Este conjunto de ingresos, asignaciones, órganos, procedimientos y regulaciones constituye el Sistema General de Regalías.
 
 ##### **Artículo 362.** Los bienes y rentas tributarias o no tributarias o provenientes de la explotación de monopolios de las entidades territoriales, son de su propiedad exclusiva y gozan de las mismas garantías que la propiedad y renta de los particulares.
 
