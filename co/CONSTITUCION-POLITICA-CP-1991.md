@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2011-07-17"
+last_updated: "2011-11-23"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1710,7 +1710,7 @@ La Fiscalía General de la Nación forma parte de la rama judicial y tendrá aut
 
 ##### **Artículo 251.** Son funciones especiales del Fiscal General de la Nación:
 
-- 1. Investigar y acusar, si hubiere lugar, a los altos servidores que gocen de fuero constitucional, con las excepciones previstas en la Constitución.
+- 1. Investigar y acusar, si hubiere lugar, directamente o por conducto del Vicefiscal General de la Nación o de sus delegados de la unidad de fiscalías ante la Corte Suprema de Justicia, a los altos servidores que gocen de fuero Constitucional, con las excepciones previstas en la Constitución.
 
 - 2. Nombrar y remover, de conformidad con la ley, a los servidores bajo su dependencia.
 
@@ -1721,18 +1721,6 @@ La Fiscalía General de la Nación forma parte de la rama judicial y tendrá aut
 - 5. Otorgar, atribuciones transitorias a entes públicos que puedan cumplir funciones de Policía Judicial, bajo la responsabilidad y dependencia funcional de la Fiscalía General de la Nación.
 
 - 6. Suministrar al Gobierno información sobre las investigaciones que se estén adelantando, cuando sea necesaria para la preservación del orden público.
-
-**Artículo 251.** Son funciones especiales del Fiscal General de la Nación:
-
-- 1. Investigar y acusar, si hubiere lugar, a los altos funcionarios que gocen de fuero constitucional, con las excepciones previstas en la Constitución.
-
-- 2. Nombrar y remover, de conformidad con la ley, a los empleados bajo su dependencia.
-
-- 3. Participar en el diseño de la política del Estado en materia criminal y presentar proyectos de ley al respecto.
-
-- 4. Otorgar atribuciones transitorias a entes públicos que puedan cumplir funciones de policía judicial, bajo la responsabilidad y dependencia funcional de la Fiscalía General de la Nación.
-
-- 5. Suministrar al Gobierno información sobre las investigaciones que se estén adelantando, cuando sea necesaria para la preservación del orden público.
 
 ##### **Artículo 252.** Aun durante los Estados de Excepción de que trata la Constitución en sus artículos 212 y 213, el Gobierno no podrá suprimir, ni modificar los organismos ni las funciones básicas de acusación y juzgamiento.
 
