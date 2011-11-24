@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2011-11-23"
+last_updated: "2011-11-24"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1707,6 +1707,190 @@ Ninguna autoridad podrá reproducir el contenido material del acto jurídico dec
 El Fiscal General de la Nación será elegido para un período de cuatro años por la Corte Suprema de Justicia, de terna enviada por el Presidente de la República y no podrá ser reelegido. Debe reunir las mismas calidades exigidas para ser Magistrado de la Corte Suprema de Justicia.
 
 La Fiscalía General de la Nación forma parte de la rama judicial y tendrá autonomía administrativa y presupuestal.
+
+##### **Artículo 250.** La Fiscalía General de la Nación está obligada a adelantar el ejercicio de la acción penal y realizar la investigación de los hechos que revistan las características de un delito que lleguen a su conocimiento por medio de denuncia, petición especial, querella o de oficio, siempre y cuando medien suficientes motivos y circunstancias fácticas que indiquen la posible existencia del mismo. No podrá, en consecuencia, suspender, interrumpir, ni renunciar a la persecución penal, salvo en los casos que establezca la ley para la aplicación del principio de oportunidad regulado dentro del marco de la política criminal del Estado, el cual estará sometido al control de legalidad por parte del juez que ejerza las funciones de control de garantías. Se exceptúan los delitos cometidos por Miembros de la Fuerza Pública en servicio activo y en relación con el mismo servicio.
+
+En ejercicio de sus funciones la Fiscalía General de la Nación, deberá:
+
+- 1. Solicitar al juez que ejerza las funciones de control de garantías las medidas necesarias que aseguren la comparecencia de los imputados al proceso penal, la conservación de la prueba y la protección de la comunidad, en especial, de las víctimas.
+
+El juez que ejerza las funciones de control de garantías, no podrá ser, en ningún caso, el juez de conocimiento, en aquellos asuntos en que haya ejercido esta función.
+
+La ley podrá facultar a la Fiscalía General de la Nación para realizar excepcionalmente capturas; igualmente, la ley fijará los límites y eventos en que proceda la captura. En estos casos el juez que cumpla la función de control de garantías lo realizará a más tardar dentro de las treinta y seis (36) horas siguientes.
+
+- 2. Adelantar registros, allanamientos, incautaciones e interceptaciones de comunicaciones. En estos eventos el juez que ejerza las funciones de control de garantías efectuará el control posterior respectivo, a más tardar dentro de las treinta y seis (36) horas siguientes, al solo efecto de determinar su validez.
+
+- 3. Asegurar los elementos materiales probatorios, garantizando la cadena de custodia mientras se ejerce su contradicción. En caso de requerirse medidas adicionales que impliquen afectación de derechos fundamentales, deberá obtenerse la respectiva autorización por parte del juez que ejerza las funciones de control de garantías para poder proceder a ello.
+
+- 4. Presentar escrito de acusación ante el juez de conocimiento, con el fin de dar inicio a un juicio público, oral, con inmediación de las pruebas, contradictorio, concentrado y con todas las garantías.
+
+- 5. Solicitar ante el juez de conocimiento la preclusión de las investigaciones cuando según lo dispuesto en la ley no hubiere mérito para acusar.
+
+- 6. Solicitar ante el juez de conocimiento las medidas judiciales necesarias para la asistencia a las víctimas, lo mismo que disponer el restablecimiento del derecho y la reparación integral a los afectados con el delito.
+
+- 7. Velar por la protección de las víctimas, los jurados, los testigos y demás intervinientes en el proceso penal, la ley fijará los términos en que podrán intervenir las víctimas en el proceso penal y los mecanismos de justicia restaurativa.
+
+- 8. Dirigir y coordinar las funciones de policía Judicial que en forma permanente cumple la Policía Nacional y los demás organismos que señale la ley.
+
+- 9. Cumplir las demás funciones que establezca la ley.
+
+El Fiscal General y sus delegados tienen competencia en todo el territorio nacional.
+
+En el evento de presentarse escrito de acusación, el Fiscal General o sus delegados deberán suministrar, por conducto del juez de conocimiento, todos los elementos probatorios e informaciones de que tenga noticia incluidos los que le sean favorables al procesado.
+
+**Parágrafo.** La Procuraduría General de la Nación continuará cumpliendo en el nuevo sistema de indagación, investigación y juzgamiento penal, las funciones contempladas en el artículo 277 de la Constitución Nacional.
+
+**Parágrafo 2°.** Para combatir el terrorismo y los delitos contra la seguridad pública, y en aquellos sitios del territorio nacional donde no exista una autoridad judicial a la que se pueda acudir en forma inmediata o donde el acceso de los funcionarios ordinarios de policía judicial no sea posible por excepcionales circunstancias de orden público, la Fiscalía General de la Nación conformará unidades especiales de Policía Judicial con miembros de las Fuerzas Militares, las cuales estarán bajo su dirección y coordinación. Para el desarrollo de las labores propias de esta función, los miembros de la Unidad pertenecientes a las fuerzas militares se regirán, sin excepción, por los mismos principios de responsabilidad que los demás miembros de la unidad especial.
+
+**Parágrafo 2°.** Atendiendo la naturaleza del bien jurídico y la menor lesividad de la conducta punible, el legislador podrá asignarle el ejercicio de la acción penal a la víctima o a otras autoridades distintas a la Fiscalía General de la Nación. En todo caso, la Fiscalía General de la Nación podrá actuar en forma preferente.
+
+**Artículo 250.** La Fiscalía General de la Nación está obligada a adelantar el ejercicio de la acción penal y realizar la investigación de los hechos que revistan las características de un delito que lleguen a su conocimiento por medio de denuncia, petición especial, querella o de oficio, siempre y cuando medien suficientes motivos y circunstancias fácticas que indiquen la posible existencia del mismo. No podrá, en consecuencia, suspender, interrumpir, ni renunciar a la persecución penal, salvo en los casos que establezca la ley para la aplicación del principio de oportunidad regulado dentro del marco de la política criminal del Estado, el cual estará sometido al control de legalidad por parte del juez que ejerza las funciones de control de garantías. Se exceptúan los delitos cometidos por Miembros de la Fuerza Pública en servicio activo y en relación con el mismo servicio.
+
+En ejercicio de sus funciones la Fiscalía General de la Nación, deberá:
+
+- 1. Solicitar al juez que ejerza las funciones de control de garantías las medidas necesarias que aseguren la comparecencia de los imputados al proceso penal, la conservación de la prueba y la protección de la comunidad, en especial, de las víctimas.
+
+El juez que ejerza las funciones de control de garantías, no podrá ser, en ningún caso, el juez de conocimiento, en aquellos asuntos en que haya ejercido esta función.
+
+La ley podrá facultar a la Fiscalía General de la Nación para realizar excepcionalmente capturas; igualmente, la ley fijará los límites y eventos en que proceda la captura. En estos casos el juez que cumpla la función de control de garantías lo realizará a más tardar dentro de las treinta y seis (36) horas siguientes.
+
+- 2. Adelantar registros, allanamientos, incautaciones e interceptaciones de comunicaciones. En estos eventos el juez que ejerza las funciones de control de garantías efectuará el control posterior respectivo, a más tardar dentro de las treinta y seis (36) horas siguientes, al solo efecto de determinar su validez.
+
+- 3. Asegurar los elementos materiales probatorios, garantizando la cadena de custodia mientras se ejerce su contradicción. En caso de requerirse medidas adicionales que impliquen afectación de derechos fundamentales, deberá obtenerse la respectiva autorización por parte del juez que ejerza las funciones de control de garantías para poder proceder a ello.
+
+- 4. Presentar escrito de acusación ante el juez de conocimiento, con el fin de dar inicio a un juicio público, oral, con inmediación de las pruebas, contradictorio, concentrado y con todas las garantías.
+
+- 5. Solicitar ante el juez de conocimiento la preclusión de las investigaciones cuando según lo dispuesto en la ley no hubiere mérito para acusar.
+
+- 6. Solicitar ante el juez de conocimiento las medidas judiciales necesarias para la asistencia a las víctimas, lo mismo que disponer el restablecimiento del derecho y la reparación integral a los afectados con el delito.
+
+- 7. Velar por la protección de las víctimas, los jurados, los testigos y demás intervinientes en el proceso penal, la ley fijará los términos en que podrán intervenir las víctimas en el proceso penal y los mecanismos de justicia restaurativa.
+
+- 8. Dirigir y coordinar las funciones de policía Judicial que en forma permanente cumple la Policía Nacional y los demás organismos que señale la ley.
+
+- 9. Cumplir las demás funciones que establezca la ley.
+
+El Fiscal General y sus delegados tienen competencia en todo el territorio nacional.
+
+En el evento de presentarse escrito de acusación, el Fiscal General o sus delegados deberán suministrar, por conducto del juez de conocimiento, todos los elementos probatorios e informaciones de que tenga noticia incluidos los que le sean favorables al procesado.
+
+**Parágrafo.** La Procuraduría General de la Nación continuará cumpliendo en el nuevo sistema de indagación, investigación y juzgamiento penal, las funciones contempladas en el artículo 277 de la Constitución Nacional.
+
+**Parágrafo 2°.** Para combatir el terrorismo y los delitos contra la seguridad pública, y en aquellos sitios del territorio nacional donde no exista una autoridad judicial a la que se pueda acudir en forma inmediata o donde el acceso de los funcionarios ordinarios de policía judicial no sea posible por excepcionales circunstancias de orden público, la Fiscalía General de la Nación conformará unidades especiales de Policía Judicial con miembros de las Fuerzas Militares, las cuales estarán bajo su dirección y coordinación. Para el desarrollo de las labores propias de esta función, los miembros de la Unidad pertenecientes a las fuerzas militares se regirán, sin excepción, por los mismos principios de responsabilidad que los demás miembros de la unidad especial.
+
+**Artículo 250.** La Fiscalía General de la Nación está obligada a adelantar el ejercicio de la acción penal y realizar la investigación de los hechos que revistan las características de un delito que lleguen a su conocimiento por medio de denuncia, petición especial, querella o de oficio, siempre y cuando medien suficientes motivos y circunstancias fácticas que indiquen la posible existencia del mismo. No podrá, en consecuencia, suspender, interrumpir, ni renunciar a la persecución penal, salvo en los casos que establezca la ley para la aplicación del principio de oportunidad regulado dentro del marco de la política criminal del Estado, el cual estará sometido al control de legalidad por parte del juez que ejerza las funciones de control de garantías. Se exceptúan los delitos cometidos por Miembros de la Fuerza Pública en servicio activo y en relación con el mismo servicio.
+
+En ejercicio de sus funciones la Fiscalía General de la Nación, deberá:
+
+- 1. Solicitar al juez que ejerza las funciones de control de garantías las medidas necesarias que aseguren la comparecencia de los imputados al proceso penal, la conservación de la prueba y la protección de la comunidad, en especial, de las víctimas.
+
+El juez que ejerza las funciones de control de garantías, no podrá ser, en ningún caso, el juez de conocimiento, en aquellos asuntos en que haya ejercido esta función.
+
+La ley podrá facultar a la Fiscalía General de la Nación para realizar excepcionalmente capturas; igualmente, la ley fijará los límites y eventos en que proceda la captura. En estos casos el juez que cumpla la función de control de garantías lo realizará a más tardar dentro de las treinta y seis (36) horas siguientes.
+
+- 2. Adelantar registros, allanamientos, incautaciones e interceptaciones de comunicaciones. En estos eventos el juez que ejerza las funciones de control de garantías efectuará el control posterior respectivo, a más tardar dentro de las treinta y seis (36) horas siguientes, al solo efecto de determinar su validez.
+
+- 3. Asegurar los elementos materiales probatorios, garantizando la cadena de custodia mientras se ejerce su contradicción. En caso de requerirse medidas adicionales que impliquen afectación de derechos fundamentales, deberá obtenerse la respectiva autorización por parte del juez que ejerza las funciones de control de garantías para poder proceder a ello.
+
+- 4. Presentar escrito de acusación ante el juez de conocimiento, con el fin de dar inicio a un juicio público, oral, con inmediación de las pruebas, contradictorio, concentrado y con todas las garantías.
+
+- 5. Solicitar ante el juez de conocimiento la preclusión de las investigaciones cuando según lo dispuesto en la ley no hubiere mérito para acusar.
+
+- 6. Solicitar ante el juez de conocimiento las medidas judiciales necesarias para la asistencia a las víctimas, lo mismo que disponer el restablecimiento del derecho y la reparación integral a los afectados con el delito.
+
+- 7. Velar por la protección de las víctimas, los jurados, los testigos y demás intervinientes en el proceso penal, la ley fijará los términos en que podrán intervenir las víctimas en el proceso penal y los mecanismos de justicia restaurativa.
+
+- 8. Dirigir y coordinar las funciones de policía Judicial que en forma permanente cumple la Policía Nacional y los demás organismos que señale la ley.
+
+- 9. Cumplir las demás funciones que establezca la ley.
+
+El Fiscal General y sus delegados tienen competencia en todo el territorio nacional.
+
+En el evento de presentarse escrito de acusación, el Fiscal General o sus delegados deberán suministrar, por conducto del juez de conocimiento, todos los elementos probatorios e informaciones de que tenga noticia incluidos los que le sean favorables al procesado.
+
+**Parágrafo.** La Procuraduría General de la Nación continuará cumpliendo en el nuevo sistema de indagación, investigación y juzgamiento penal, las funciones contempladas en el artículo 277 de la Constitución Nacional.
+
+**Parágrafo 2°.** Para combatir el terrorismo y los delitos contra la seguridad pública, y en aquellos sitios del territorio nacional donde no exista una autoridad judicial a la que se pueda acudir en forma inmediata o donde el acceso de los funcionarios ordinarios de policía judicial no sea posible por excepcionales circunstancias de orden público, la Fiscalía General de la Nación conformará unidades especiales de Policía Judicial con miembros de las Fuerzas Militares, las cuales estarán bajo su dirección y coordinación. Para el desarrollo de las labores propias de esta función, los miembros de la Unidad pertenecientes a las fuerzas militares se regirán, sin excepción, por los mismos principios de responsabilidad que los demás miembros de la unidad especial.
+
+**Artículo 250.** La Fiscalía General de la Nación está obligada a adelantar el ejercicio de la acción penal y realizar la investigación de los hechos que revistan las características de un delito que lleguen a su conocimiento por medio de denuncia, petición especial, querella o de oficio, siempre y cuando medien suficientes motivos y circunstancias fácticas que indiquen la posible existencia del mismo. No podrá, en consecuencia, suspender, interrumpir, ni renunciar a la persecución penal, salvo en los casos que establezca la ley para la aplicación del principio de oportunidad regulado dentro del marco de la política criminal del Estado, el cual estará sometido al control de legalidad por parte del juez que ejerza las funciones de control de garantías. Se exceptúan los delitos cometidos por Miembros de la Fuerza Pública en servicio activo y en relación con el mismo servicio.
+
+En ejercicio de sus funciones la Fiscalía General de la Nación, deberá:
+
+- 1. Solicitar al juez que ejerza las funciones de control de garantías las medidas necesarias que aseguren la comparecencia de los imputados al proceso penal, la conservación de la prueba y la protección de la comunidad, en especial, de las víctimas.
+
+El juez que ejerza las funciones de control de garantías, no podrá ser, en ningún caso, el juez de conocimiento, en aquellos asuntos en que haya ejercido esta función.
+
+La ley podrá facultar a la Fiscalía General de la Nación para realizar excepcionalmente capturas; igualmente, la ley fijará los límites y eventos en que proceda la captura. En estos casos el juez que cumpla la función de control de garantías lo realizará a más tardar dentro de las treinta y seis (36) horas siguientes.
+
+- 2. Adelantar registros, allanamientos, incautaciones e interceptaciones de comunicaciones. En estos eventos el juez que ejerza las funciones de control de garantías efectuará el control posterior respectivo, a más tardar dentro de las treinta y seis (36) horas siguientes, al solo efecto de determinar su validez.
+
+- 3. Asegurar los elementos materiales probatorios, garantizando la cadena de custodia mientras se ejerce su contradicción. En caso de requerirse medidas adicionales que impliquen afectación de derechos fundamentales, deberá obtenerse la respectiva autorización por parte del juez que ejerza las funciones de control de garantías para poder proceder a ello.
+
+- 4. Presentar escrito de acusación ante el juez de conocimiento, con el fin de dar inicio a un juicio público, oral, con inmediación de las pruebas, contradictorio, concentrado y con todas las garantías.
+
+- 5. Solicitar ante el juez de conocimiento la preclusión de las investigaciones cuando según lo dispuesto en la ley no hubiere mérito para acusar.
+
+- 6. Solicitar ante el juez de conocimiento las medidas judiciales necesarias para la asistencia a las víctimas, lo mismo que disponer el restablecimiento del derecho y la reparación integral a los afectados con el delito.
+
+- 7. Velar por la protección de las víctimas, los jurados, los testigos y demás intervinientes en el proceso penal, la ley fijará los términos en que podrán intervenir las víctimas en el proceso penal y los mecanismos de justicia restaurativa.
+
+- 8. Dirigir y coordinar las funciones de policía Judicial que en forma permanente cumple la Policía Nacional y los demás organismos que señale la ley.
+
+- 9. Cumplir las demás funciones que establezca la ley.
+
+El Fiscal General y sus delegados tienen competencia en todo el territorio nacional.
+
+En el evento de presentarse escrito de acusación, el Fiscal General o sus delegados deberán suministrar, por conducto del juez de conocimiento, todos los elementos probatorios e informaciones de que tenga noticia incluidos los que le sean favorables al procesado.
+
+**Parágrafo.** La Procuraduría General de la Nación continuará cumpliendo en el nuevo sistema de indagación, investigación y juzgamiento penal, las funciones contempladas en el artículo 277 de la Constitución Nacional.
+
+**Artículo 250.** La Fiscalía General de la Nación está obligada a adelantar el ejercicio de la acción penal y realizar la investigación de los hechos que revistan las características de un delito que lleguen a su conocimiento por medio de denuncia, petición especial, querella o de oficio, siempre y cuando medien suficientes motivos y circunstancias fácticas que indiquen la posible existencia del mismo. No podrá, en consecuencia, suspender, interrumpir, ni renunciar a la persecución penal, salvo en los casos que establezca la ley para la aplicación del principio de oportunidad regulado dentro del marco de la política criminal del Estado, el cual estará sometido al control de legalidad por parte del juez que ejerza las funciones de control de garantías. Se exceptúan los delitos cometidos por Miembros de la Fuerza Pública en servicio activo y en relación con el mismo servicio.
+
+En ejercicio de sus funciones la Fiscalía General de la Nación, deberá:
+
+- 1. Solicitar al juez que ejerza las funciones de control de garantías las medidas necesarias que aseguren la comparecencia de los imputados al proceso penal, la conservación de la prueba y la protección de la comunidad, en especial, de las víctimas.
+
+El juez que ejerza las funciones de control de garantías, no podrá ser, en ningún caso, el juez de conocimiento, en aquellos asuntos en que haya ejercido esta función.
+
+La ley podrá facultar a la Fiscalía General de la Nación para realizar excepcionalmente capturas; igualmente, la ley fijará los límites y eventos en que proceda la captura. En estos casos el juez que cumpla la función de control de garantías lo realizará a más tardar dentro de las treinta y seis (36) horas siguientes.
+
+- 2. Adelantar registros, allanamientos, incautaciones e interceptaciones de comunicaciones. En estos eventos el juez que ejerza las funciones de control de garantías efectuará el control posterior respectivo, a más tardar dentro de las treinta y seis (36) horas siguientes, al solo efecto de determinar su validez.
+
+- 3. Asegurar los elementos materiales probatorios, garantizando la cadena de custodia mientras se ejerce su contradicción. En caso de requerirse medidas adicionales que impliquen afectación de derechos fundamentales, deberá obtenerse la respectiva autorización por parte del juez que ejerza las funciones de control de garantías para poder proceder a ello.
+
+- 4. Presentar escrito de acusación ante el juez de conocimiento, con el fin de dar inicio a un juicio público, oral, con inmediación de las pruebas, contradictorio, concentrado y con todas las garantías.
+
+- 5. Solicitar ante el juez de conocimiento la preclusión de las investigaciones cuando según lo dispuesto en la ley no hubiere mérito para acusar.
+
+- 6. Solicitar ante el juez de conocimiento las medidas judiciales necesarias para la asistencia a las víctimas, lo mismo que disponer el restablecimiento del derecho y la reparación integral a los afectados con el delito.
+
+- 7. Velar por la protección de las víctimas, los jurados, los testigos y demás intervinientes en el proceso penal, la ley fijará los términos en que podrán intervenir las víctimas en el proceso penal y los mecanismos de justicia restaurativa.
+
+- 8. Dirigir y coordinar las funciones de policía Judicial que en forma permanente cumple la Policía Nacional y los demás organismos que señale la ley.
+
+- 9. Cumplir las demás funciones que establezca la ley.
+
+El Fiscal General y sus delegados tienen competencia en todo el territorio nacional.
+
+En el evento de presentarse escrito de acusación, el Fiscal General o sus delegados deberán suministrar, por conducto del juez de conocimiento, todos los elementos probatorios e informaciones de que tenga noticia incluidos los que le sean favorables al procesado.
+
+**Parágrafo.** La Procuraduría General de la Nación continuará cumpliendo en el nuevo sistema de indagación, investigación y juzgamiento penal, las funciones contempladas en el artículo 277 de la Constitución Nacional.
+
+**Artículo 250.** Corresponde a la Fiscalía General de la Nación, de oficio o mediante denuncia o querella, investigar los delitos y acusar a los presuntos infractores ante los juzgados y tribunales competentes. Se exceptúan los delitos cometidos por miembros de la Fuerza Pública en servicio activo y en relación con el mismo servicio. Para tal efecto la Fiscalía General de la Nación deberá:
+
+- 1. Asegurar la comparecencia de los presuntos infractores de la ley penal, adoptando las medidas de aseguramiento. Además, y si fuere del caso, tomar las medidas necesarias para hacer efectivos el restablecimiento del derecho y la indemnización de los perjuicios ocasionados por el delito.
+
+- 2. Calificar y declarar precluidas las investigaciones realizadas.
+
+- 3. Dirigir y coordinar las funciones de policía judicial que en forma permanente cumplen la Policía Nacional y los demás organismos que señale la ley.
+
+- 4. Velar por la protección de las víctimas, testigos e intervinientes en el proceso.
+
+- 5. Cumplir las demás funciones que establezca la ley.
+
+El Fiscal General de la Nación y sus delegados tienen competencia en todo el territorio nacional.
+
+La Fiscalía General de la Nación está obligada a investigar tanto lo favorable como lo desfavorable al imputado, y a respetar sus derechos fundamentales y las garantías procesales que le asisten.
 
 ##### **Artículo 251.** Son funciones especiales del Fiscal General de la Nación:
 
