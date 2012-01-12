@@ -4,7 +4,7 @@ identifier: "DECRETO-19-2012"
 country: "co"
 rank: "decreto"
 publication_date: "2012-01-10"
-last_updated: "2012-01-10"
+last_updated: "2012-01-12"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1004430"
 department: "MINISTERIO DE JUSTICIA Y DEL DERECHO"
@@ -96,41 +96,9 @@ Que mediante el parágrafo 1 del artículo 75 de la Ley 1474 de 2011, el Congres
 
 ##### **ARTÍCULO 21. PROHIBICIÓN DE EXIGENCIA DE PRESENTACIONES PERSONALES O CERTIFICADOS PARA PROBAR LA FE DE VIDA (SUPERVIVENCIA).**
 
-##### **Artículo 22.** Acreditación de la fe de vida (supervivencia) de connacionales fuera del país. En todos los casos, la fe de vida (supervivencia) de los connacionales fuera del país, se probará ante las entidades que forman parte del Sistema General de Seguridad Social Integral cada seis (6) meses mediante una de las siguientes opciones:
-
-- 1. Ante el consulado de la circunscripción donde se encuentra el connacional. El cónsul, con fundamento en los medios que a su criterio le permitan tener certeza del estado vital del solicitante, expedirá el correspondiente certificado de super¬vivencia y lo enviará a la respectiva entidad de seguridad social a través del canal que para tal fin se tenga establecido.
-
-- 2. Mediante documento expedido por parte de la autoridad pública del lugar sede donde se encuentre el connacional en el que se evidencie la supervivencia. Esta constancia deberá ser apostillada o legalizada, según el caso, y remitida por el interesado a la dirección y dependencia que para tal fin determine la respectiva entidad de seguridad social.
-
-**ARTÍCULO 22. ACREDITACIÓN DE LA FE DE VIDA (SUPERVIVIENCIA) DE CONNACIONALES FUERA DEL PAÍS.** En todos los casos, la fe de vida (supervivencia) de los connacionales fuera del país, se probará ante las entidades que forman parte del Sistema General de Seguridad Social Integral, cada seis (6) meses.
-
 ##### **ARTÍCULO 23. ADMINISTRACIÓN DE LA BASE DE DATOS DEL REGISTRO CIVIL DE DEFUNCIÓN.** La Registraduría Nacional del Estado Civil administrará la base de datos del Registro Civil de Defunción la cual se alimentará con la información que remitan las notarías, los consulados, los registradores del estado civil y las demás autoridades encargadas de llevar el registro civil.
 
 ##### **ARTÍCULO 24. FUNCIONES ESPECIALES DE LAS NOTARIAS.** Las notarías que presten sus servicios en municipios o distritos hasta de segunda categoría están obligadas a expedir los registros civiles de nacimiento y defunción en los hospitales y clínicas, mediante mecanismos de obtención electrónica de la huella dactilar, si ello fuere posible.
-
-##### **Articulo 25*. Eliminación de autenticaciones y reconocimientos.*** Todos los actos de funcionario público competente se presumen auténticos. Por lo tanto no se requiere la autenticación en sede administrativa o notarial de los mismos. Los documentos producidos por las autoridades públicas o los particulares que cumplan funciones administrativas en sus distintas actuaciones, siempre que reposen en sus archivos, tampoco requieren autenticación o reconocimiento.
-
-Ninguna autoridad administrativa podrá exigir la presentación, suministro o entrega de documentos originales autenticados o copias o fotocopias autenticados, sin perjuicio de los controles o verificaciones que dichas entidades deban realizar, salvo para el reconocimiento o pago de pensiones.
-
-Los documentos privados, tuvieren o no como destino servir de prueba en actuaciones administrativas, incluyendo los provenientes de terceros, se presumen auténticos, mientras no se compruebe lo contrario mediante tacha de falsedad, con excepción de los poderes especiales y de las actas de asamblea general de accionistas, junta de socios y demás actos de personas jurídicas que deban registrarse ante las Cámaras de Comercio, las cuales deberán ser presentadas por sus otorgantes ante el Secretario de la respectiva Cámara.
-
-Las copias simples que expidan los notarios de los documentos que reposan en los respectivos protocolos no se autenticarán, salvo que el interesado así lo solicite
-
-Todos los actos de funcionario público competente se presumen auténticos. Por lo tanto no se requiere la autenticación en sede administrativa o notarial de los mismos. Los documentos producidos por las autoridades públicas o los particulares que cumplan funciones administrativas en sus distintas actuaciones, siempre que reposen en sus archivos, tampoco requieren autenticación o reconocimiento.
-
-Ninguna autoridad administrativa podrá exigir la presentación, suministro o entrega de documentos originales autenticados o copias o fotocopias autenticados, sin perjuicio de los controles o verificaciones que dichas entidades deban realizar, salvo para el reconocimiento o pago de pensiones.
-
-Los documentos privados, tuvieren o no como destino servir de prueba en actuaciones administrativas, incluyendo los provenientes de terceros, se presumen auténticos, mientras no se compruebe lo contrario mediante tacha de falsedad, con excepción de los poderes especiales y de las actas de asamblea general de accionistas, junta de socios y demás actos de personas jurídicas que deban registrarse ante las Cámaras de Comercio, las cuales deberán ser presentadas por sus otorgantes ante el Secretario de la respectiva Cámara.
-
-Las copias simples que expidan los notarios de los documentos que reposan en los respectivos protocolos no se autenticarán, salvo que el interesado así lo solicite.
-
-**Articulo 25*. Eliminación de autenticaciones y reconocimientos.*** Todos los actos de funcionario público competente se presumen auténticos. Por lo tanto no se requiere la autenticación en sede administrativa o notarial de los mismos. Los documentos producidos por las autoridades públicas o los particulares que cumplan funciones administrativas en sus distintas actuaciones, siempre que reposen en sus archivos, tampoco requieren autenticación o reconocimiento.
-
-Ninguna autoridad administrativa podrá exigir la presentación, suministro o entrega de documentos originales autenticados o copias o fotocopias autenticados, sin perjuicio de los controles o verificaciones que dichas entidades deban realizar, salvo para el reconocimiento o pago de pensiones.
-
-Los documentos privados, tuvieren o no como destino servir de prueba en actuaciones administrativas, incluyendo los provenientes de terceros, se presumen auténticos, mientras no se compruebe lo contrario mediante tacha de falsedad, con excepción de los poderes especiales y de las actas de asamblea general de accionistas, junta de socios y demás actos de personas jurídicas que deban registrarse ante las Cámaras de Comercio, las cuales deberán ser presentadas por sus otorgantes ante el Secretario de la respectiva Cámara.
-
-Las copias simples que expidan los notarios de los documentos que reposan en los respectivos protocolos no se autenticarán, salvo que el interesado así lo solicite
 
 ##### **ARTÍCULO 26. DIVULGACIÓN Y GRATUIDAD DE FORMULARIOS OFICIALES PARA LA PRESENTACIÓN DE DECLARACIONES Y REALIZACIÓN DE PAGOS.** El artículo 4 de la Ley 962 de 2005, quedará así:
 
@@ -1466,7 +1434,7 @@ En defecto de dichos medios de comunicación, en los pequeños poblados, de acue
 
 Los avisos contendrán información sobre el objeto y características esenciales de la respectiva licitación".
 
-##### **ARTÍCULO 225. Derogatorias.** A partir de la vigencia de la presente ley se derogan las siguientes disposiciones: El parágrafo 3 del artículo 41 de la Ley 80 de 1993, los artículos 59, 60, 61 y 62 de la ley 190 de 1995 y el parágrafo 2 del artículo 3 de la Ley 1150 de 2007
+##### ***Artículo 225.Derogatorias***. A partir del primero de junio de 2012 se derogan las siguientes disposiciones: El parágrafo 3° del artículo 41 de la Ley 80 de 1993, los artículos 59, 60, 61 y 62 de la Ley 190 de 1995 y el parágrafo 2° del artículo 3° de la Ley 1150 de 2007.
 
 ### **CAPÍTULO XVIII**
 
