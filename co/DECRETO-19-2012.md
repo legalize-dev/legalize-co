@@ -4,7 +4,7 @@ identifier: "DECRETO-19-2012"
 country: "co"
 rank: "decreto"
 publication_date: "2012-01-10"
-last_updated: "2012-01-13"
+last_updated: "2012-07-10"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1004430"
 department: "MINISTERIO DE JUSTICIA Y DEL DERECHO"
@@ -719,6 +719,10 @@ Dentro de los criterios de ponderación se incluirán aspectos como experiencia 
 La conformación de las Juntas Regionales de Calificación de Invalidez podrá ser regionalizada y el manejo de sus recursos será reglamentado por el Gobierno Nacional de manera equitativa. El proceso de selección de los integrantes de las juntas de calificación de invalidez se financiará con recursos del Fondo de Riesgos Profesionales.
 
 **Parágrafo2.** Las entidades de seguridad social, los miembros de las Juntas Regionales y Nacional de Invalidez y los profesionales que califiquen serán responsables solidariamente por los dictámenes que produzcan perjuicios a los afiliados o a los Administradores del Sistema de Seguridad Social Integral, cuando este hecho esté plenamente probado".
+
+A la Junta de Calificación Nacional compete la resolución de las controversias que en segunda instancia sean sometidas para su decisión por las Juntas Regionales.
+
+La calificación se realizará con base en el manual único para la calificación de invalidez, expedido por el Gobierno Nacional, vigente a la fecha de calificación, que deberá contener los criterios técnicos-científicos de evaluación y calificación de pérdida de capacidad laboral porcentual por sistemas ante una deficiencia, discapacidad y minusvalía que hayan generado secuelas como consecuencia de una enfermedad o accidente..
 
 ##### **ARTÍCULO 143. CONSULTA DE DATOS DE ACCESO PÚBLICO.** Para los casos de trámites de pensión ante las entidades de seguridad social, el peticionario podrá autorizar expresamente a la administradora para que consulte las bases de datos disponibles en la Registraduría Nacional del Estado Civil sobre la fecha de nacimiento, lugar y demás aspectos que pudieran influir en el reconocimiento y cuantificación de las prestaciones y servicios.
 
