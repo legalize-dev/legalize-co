@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2012-07-31"
+last_updated: "2012-12-05"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1237,20 +1237,6 @@ Quien fuere llamado a ocupar el cargo, quedará sometido al mismo régimen de in
 **Parágrafo.** La causal 1 en lo referido al régimen de conflicto de intereses no tendrá aplicación cuando los Congresistas participen en el debate y votación de proyectos de actos legislativos.
 
 Las causales 2 y 3 no tendrán aplicación cuando medie fuerza mayor.
-
-**Artículo 183.** Los congresistas perderán su investidura:
-
-- 1. Por violación del régimen de inhabilidades e incompatibilidades, o del régimen de conflicto de intereses.
-
-- 2. Por la inasistencia, en un mismo periodo de sesiones, a seis reuniones plenarias en las que se voten proyectos de acto legislativo, de ley o mociones de censura.
-
-- 3. Por no tomar posesión del cargo dentro de los ocho días siguientes a la fecha de instalación de las Cámaras, o a la fecha en que fueren llamados a posesionarse.
-
-- 4. Por indebida destinación de dineros públicos.
-
-- 5. Por tráfico de influencias debidamente comprobado.
-
-**Parágrafo.** Las causales 2 y 3 no tendrán aplicación cuando medie fuerza mayor.
 
 ##### **Artículo 184.** La pérdida de la investidura será decretada por el Consejo de Estado de acuerdo con la ley y en un término no mayor de veinte días hábiles, contados a partir de la fecha de la solicitud formulada por la mesa directiva de la cámara correspondiente o por cualquier ciudadano.
 
