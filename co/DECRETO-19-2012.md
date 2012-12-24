@@ -4,7 +4,7 @@ identifier: "DECRETO-19-2012"
 country: "co"
 rank: "decreto"
 publication_date: "2012-01-10"
-last_updated: "2012-09-25"
+last_updated: "2012-12-24"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1004430"
 department: "MINISTERIO DE JUSTICIA Y DEL DERECHO"
@@ -232,11 +232,7 @@ Para el ejercicio de las funciones públicas, la información contenida en el Re
 
 **Parágrafo Transitorio:** Lo dispuesto en este artículo entrará a regir a partir del 1 de enero de 2013.
 
-##### **ARTICULO 64. REPORTES DE INFORMACION FINANCIERA.** El Ministerio de Hacienda y Crédito Público, coordinará el diseño y la aplicación de un formulario para los reportes de información financiera, que deben presentar los particulares a las distintas entidades públicas que soliciten información de esa naturaleza.
-
-Las entidades solicitantes de la información financiera están en la obligación de aplicar el formulario o formularios que se adopten para tal efecto.
-
-A partir del 1º de enero de 2013 sólo se recibirán los reportes de información financiera en los formularios que determine el Ministerio de Hacienda y Crédito Público en cumplimiento del presente artículo.
+##### **ARTICULO 64. Derogado.**
 
 ##### **ARTICULO 65. DIRECTORES DE LAS INSTITUCIONES VIGILADAS POR LA SUPERINTENDENCIA FINANCIERA DE COLOMBIA.** Modifíquese el numeral 3 del artículo 73 del Estatuto Orgánico del Sistema Financiero el cual quedará así:
 
