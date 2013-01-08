@@ -1,0 +1,75 @@
+---
+title: "por el cual se ordena la emisión de “Títulos de Tesorería TES - Clase B para regular la liquidez de la economía” para la vigencia 2013"
+identifier: "DECRETO-4-2013"
+country: "co"
+rank: "decreto"
+publication_date: "2013-01-08"
+last_updated: "2013-01-08"
+status: "in_force"
+source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1001116"
+department: "MINISTERIO DE HACIENDA Y CREDITO PUBLICO"
+document_status_raw: "Vigente"
+gazette_reference: "DIARIO OFICIAL. AÑO CXLVIII. N. 48667. 8, ENERO, 2013. PAG. 2."
+gazette_number: "48667"
+gazette_page: "2"
+gazette_pdf_page: "2"
+subtype: "DECRETO REGLAMENTARIO"
+sector: "Hacienda y Crédito Público"
+entry_into_force: "2013-01-08"
+modification_count: "2"
+modification_summary: "Modificado [Artículo 1 DECRETO 653 de 2013](https://www.suin-juriscol.gov.co/viewDocument.asp?id=1139997#ver_1140002) · Modificado [Artículo 1 DECRETO 1640 de 2013](https://www.suin-juriscol.gov.co/viewDocument.asp?id=1864631#ver_1864636)"
+---
+# por el cual se ordena la emisión de “Títulos de Tesorería TES - Clase B para regular la liquidez de la economía” para la vigencia 2013
+
+El Presidente de la República de Colombia, en uso de sus facultades constitucionales y legales, en especial de las que le confieren el numeral 11 del artículo 189 de la Constitución Política y el artículo 6 de la Ley 51 de 1990, y
+
+**CONSIDERANDO:**
+
+Que los artículos 4 y 6 de la Ley 51 de 1990 autorizan al Gobierno Nacional para emitir, colocar y mantener en circulación "Títulos de Tesorería TES - Clase B" para sustituir los Títulos de Ahorro Nacional (TAN), obtener recursos para financiar apropiaciones del Presupuesto General de la Nación, efectuar operaciones temporales de tesorería y para regular la liquidez de la economía;
+
+Que el segundo inciso del literal (b) del artículo 6 de la Ley 51 de 1990, modificado por el artículo 268 de la Ley 1450 de 2011 autorizó al Gobierno Nacional para emitir, colocar y mantener en circulación Títulos de Tesorería TES - Clase B para que, a través de este instrumento, el Banco de la República regule la liquidez de la economía. Asimismo, dispuso que los recursos provenientes de dichas colocaciones no podrán utilizarse para financiar apropiaciones del Presupuesto General de la Nación y serán administrados mediante depósito remunerado en el Banco de la República;
+
+Que el artículo 9° de la Ley 1593 de 2012 estableció las reglas para los títulos de Tesorería TES - Clase B, y específicamente dispuso para los "Títulos de Tesorería TES - Clase B para regular la liquidez de la economía", las siguientes reglas: (i) sus rendimientos y su redención no se atenderán con cargo al Presupuesto General de la Nación, (ii) su emisión solo requerirá del decreto que la autorice, fije el monto y sus condiciones financieras y, (iii) su emisión no afectará el cupo de endeudamiento;
+
+Que el literal b) del artículo 16 de la Ley 31 de 1992 dispone que son atribuciones del Banco de la República disponer la realización de operaciones en el mercado abierto con sus propios títulos, con títulos de deuda pública o con los que autorice la Junta Directiva;
+
+Que en cumplimiento de los fines del Estado, como lo es la prosperidad general, contemplado en el artículo 2° de la Constitución Política aunado a la función del Banco de la República de velar por el mantenimiento de la capacidad adquisitiva de la moneda, el Gobierno Nacional con base en el artículo 209 de la Constitución Política coordinará sus actuaciones para el adecuado cumplimiento de los fines del Estado emitiendo los "Títulos de Tesorería TES - Clase B para regular la liquidez de la economía";
+
+Que en cumplimiento de lo dispuesto en el artículo 16 de la Ley 31 de 1992, mediante la Resolución Externa número 10 de 2012 adicionada por la Resolución Externa número 14 de 2012, la Junta Directiva del Banco de la República determinó las condiciones financieras a las cuales debe sujetarse la Nación para colocar títulos en moneda legal para regular la liquidez de la economía,
+
+**DECRETA:**
+
+##### **Artículo 1°.** *Emisión de "Títulos de Tesorería TES - Clase B para regular la liquidez de la economía".* Ordénese la emisión, a través del Ministerio de Hacienda y Crédito Público, de "Títulos de Tesorería TES - Clase B", hasta por la suma de seis billones de pesos ($6.000.000.000.000) moneda legal colombiana, para regular la liquidez de la economía para la vigencia 2013.
+
+##### **Artículo 2°.** *Características financieras y condiciones de emisión y colocación.* Los "Títulos de Tesorería TES - Clase B" de que trata el artículo primero del presente Decreto tendrán las siguientes características financieras y condiciones de emisión y colocación:
+
+| 1. Nombre de los títulos: | Títulos de Tesorería TES - Clase B. |
+| --- | --- |
+| 2. Objeto de la Emisión: | Regular la Liquidez de la Economía y en ningún caso financiar apropiaciones del Presupuesto General de la Nación. |
+| 3. Denominación: | Moneda legal colombiana. |
+| 4. Moneda de pago de principal e intereses: | Moneda legal colombiana. |
+| 5. Ley de circulación y recompra anticipada: | Serán títulos a la orden y libremente negociables en el mercado. Podrán tener cupones para intereses, también libremente negociables. No podrán colocarse con derecho de recompra anticipada. |
+| 6. Cuantía mínima de los títulos: | La cuantía mínima será de quinientos mil pesos ($500.000) y para sumas superiores, esta cuantía se adicionará en múltiplos de cien mil pesos ($100.000). |
+| 7. Plazo: | Los títulos no podrán emitirse con plazo inferior a treinta (30) días calendario. |
+| 8. Tasas Máximas de Interés: | Las tasas de rentabilidad efectiva estarán dentro de los límites que registre el mercado, según las directrices que establezca la Junta Directiva del Banco de la República. |
+| 9. Lugar de Colocación: | Mercado de Capitales Colombiano. |
+| 10. Forma de Colocación: | Podrán ser colocados en el mercado, bien directamente o por medio de sistemas de oferta, remates o subastas, según lo determine el Ministerio de Hacienda y Crédito Público. Para este propósito se podrán utilizar como intermediarios a las personas legalmente habilitadas para el efecto. |
+| 11. Compra: | Con descuento o prima sobre su valor nominal, según las condiciones del mercado, que serán reflejadas mediante los sistemas previstos en la forma de colocación que determine el Ministerio de Hacienda y Crédito Público, de conformidad con lo dispuesto en el presente decreto. |
+
+##### **Artículo 3°.** *Administración.* Los "Títulos de Tesorería TES - Clase B para regular la liquidez de la economía" podrán ser administrados directamente por la Nación, o esta podrá celebrar con el Banco de la República o con otras entidades nacionales o extranjeras contratos de administración fiduciaria y todos aquellos necesarios para la agencia, administración o servicio de los respectivos títulos, en los cuales se podrá prever que la administración de los "Títulos de Tesorería TES - Clase B para regular la liquidez de la economía" y de los cupones que representan los rendimientos de los mismos se realice a través de depósitos centralizados de valores.
+
+##### **Artículo 4°.** *Depósito Remunerado.* El Ministerio de Hacienda y Crédito Público deberá depositar de manera inmediata en el Banco de la República los recursos provenientes de la colocación de los "Títulos de Tesorería TES - Clase B para regular la liquidez de la economía" como una inversión denominada "Depósitos Remunerados de Control Monetario", que replicará los flujos de los respectivos títulos. Los recursos provenientes de la redención de los depósitos y sus rendimientos serán tales que cubran el servicio de la deuda correspondiente a los "Títulos de Tesorería TES - Clase B para regular la liquidez de la economía", en las respectivas fechas de exigibilidad.
+
+##### **Artículo 5°.** *Amortización y Pago de Intereses.* El Ministerio de Hacienda y Crédito Público atenderá el pago de la amortización y de los intereses de los "Títulos de Tesorería TES - Clase B para regular la liquidez de la economía" sin generar efectos en el Presupuesto General de la Nación, únicamente con los recursos disponibles en el Depósito Remunerado constituido por la Nación - Ministerio de Hacienda y Crédito Público en el Banco de la República, los cuales deberán ser suficientes para tal fin.
+
+##### **Artículo 6°** *Vigencia y derogatoria.* El presente Decreto rige a partir de la fecha de su publicación en el ***Diario Oficial*** y deroga las disposiciones que le sean contrarias.
+
+**Publíquese y cúmplase.**
+
+**Dado en Bogotá, D. C., a 8 de enero de 2013.**
+
+**JUAN MANUEL SANTOS CALDERÓN**
+
+**La Viceministra Técnica del Ministerio de Hacienda y Crédito Público, Encargada de las Funciones del Despacho del Ministro de Hacienda y Crédito Público.**
+
+**Ana Fernanda Maiguashca Olano.**
