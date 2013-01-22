@@ -4,7 +4,7 @@ identifier: "DECRETO-19-2012"
 country: "co"
 rank: "decreto"
 publication_date: "2012-01-10"
-last_updated: "2012-12-24"
+last_updated: "2013-01-22"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1004430"
 department: "MINISTERIO DE JUSTICIA Y DEL DERECHO"
@@ -202,15 +202,11 @@ Las copias simples que expidan los notarios de los documentos que reposan en los
 
 ##### **ARTÍCULO 59. DIRECCION PARA NOTIFICACIONES.** El artículo 563 del Estatuto Tributario quedará así:
 
-**ARTÍCULO 59. DIRECCION PARA NOTIFICACIONES.** El artículo 563 del Estatuto Tributario quedará así:
-
 **"Artículo 563. Dirección para notificaciones.** La notificación de las actuaciones de la Administración Tributaria deberá efectuarse a la dirección informada por el contribuyente, responsable, agente retenedor o declarante, en su última declaración de renta o de ingresos y patrimonio, según el caso, o mediante formato oficial de cambio de dirección; la antigua dirección continuará siendo válida durante los tres (3) meses siguientes, sin perjuicio de la validez de la nueva dirección informada.
 
 Cuando el contribuyente, responsable, agente retenedor o declarante, no hubiere informado una dirección a la Administración de Impuestos, la actuación administrativa correspondiente se podrá notificar a la que establezca la Administración mediante verificación directa o mediante la utilización de guías telefónicas, directorios y en general de información oficial, comercial o bancaria.
 
 Cuando no haya sido posible establecer la dirección del contribuyente, responsable, agente retenedor o declarante, por ninguno de los medios señalados en el inciso anterior, los actos de la Administración le serán notificados por medio de la publicación en el portal de la web de la DIAN, que deberá incluir mecanismos de búsqueda por número identificación personal.
-
-**ARTÍCULO 59. DIRECCION PARA NOTIFICACIONES.** El artículo 563 del Estatuto Tributario quedará así:
 
 ##### **ARTÍCULO 60. NOTIFICACIONES MEDIANTE AVISO.** Modifíquese el inciso tercero del artículo 562 del Decreto 2685 de 1999, el cual quedará así:
 
@@ -218,13 +214,9 @@ Cuando no haya sido posible establecer la dirección del contribuyente, responsa
 
 ##### **ARTÍCULO 61. NOTIFICACIONES POR CORREO.** Modifíquese el inciso tercero del artículo 567 del Decreto 2685 de 1999, modificado por el artículo 56 del Decreto 1232 de 2001, el cual quedará así:
 
-**ARTÍCULO 61. NOTIFICACIONES POR CORREO.** Modifíquese el inciso tercero del artículo 567 del Decreto 2685 de 1999, modificado por el artículo 56 del Decreto 1232 de 2001, el cual quedará así:
-
 "Las actuaciones notificadas por correo que por cualquier razón sean devueltas, serán notificadas mediante aviso en el portal web de la DIAN que deberá incluir mecanismos de búsqueda por número de identificación personal; la notificación se entenderá surtida para efectos de los términos de la administración, en la primera fecha de introducción al correo, pero para el responsable, el término para responder o impugnar se contará desde el día hábil siguiente a la publicación en el portal o de la corrección de la notificación. Lo anterior no se aplicará cuando la devolución se produzca por notificación a una dirección distinta a la informada en el RUT, en cuyo caso se deberá notificar a la dirección correcta dentro del término legal.
 
 Cuando no haya sido posible establecer la dirección del investigado por ninguno de los medios señalados anteriormente, los actos administrativos se deberán notificar mediante aviso en el portal web de la DIAN, que deberá incluir mecanismos de búsqueda por número de identificación personal."
-
-**ARTÍCULO 61. NOTIFICACIONES POR CORREO.** Modifíquese el inciso tercero del artículo 567 del Decreto 2685 de 1999, modificado por el artículo 56 del Decreto 1232 de 2001, el cual quedará así:
 
 ##### **ARTÍCULO 63. INFORMACIÓN BÁSICA DE IDENTIFICACIÓN Y UBICACIÓN TRIBUTARIA.** Para efectos fiscales del orden nacional y territorial se deberá tener como información básica de identificación, clasificación y ubicación de los clientes, la utilizada por el Sistema Informático Electrónico Registro Único Tributario que administra la Dirección de Impuestos y Aduanas Nacionales, conservando la misma estructura y validación de datos. De igual manera deberán hacerlo las Cámaras de Comercio para efectos del registro mercantil.
 
