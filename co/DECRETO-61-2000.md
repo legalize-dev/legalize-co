@@ -4,7 +4,7 @@ identifier: "DECRETO-61-2000"
 country: "co"
 rank: "decreto"
 publication_date: "2000-02-07"
-last_updated: "2000-02-07"
+last_updated: "2013-02-06"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1013804"
 department: "MINISTERIO DE CULTURA"
@@ -31,6 +31,82 @@ Que el Ministerio de Cultura presentó los estudios de que tratan los artículos
 Que la Dirección General del Presupuesto Nacional del Ministerio de Hacienda y Crédito Público, otorgó el certificado de viabilidad presupuestal,
 
 **DECRETA:**
+
+##### **Artículo 1º.** Apruébase la supresión de Cuatro (4) cargos de Trabajador Oficial de la planta de personal del Instituto Colombiano de Antropología e Historia.
+
+**Artículo 1º.**Suprímanse los siguientes empleos de la planta de personal del Instituto Colombiano de Cultura Hispánica, así:
+
+**DESPACHO DEL DIRECTOR**
+
+| **Nº de Cargos** | **Denominación del Empleo** | **Código** | **Grado** |
+| --- | --- | --- | --- |
+| 1 (uno) | Director General de Entidad descentralizada | 0015 | 06 |
+| 1 (uno) | Secretario | 5140 10 | 10 |
+| 1 (uno) | Conductor Mecánico | 5310 | 06 |
+| **PLANTA GLOBAL** | **PLANTA GLOBAL** | **PLANTA GLOBAL** | **PLANTA GLOBAL** |
+| 1 (uno) | Secretario General de Entidad Descentralizada | 0037 | 01 |
+| 1 (uno) | Jefe de División | 2040 | 09 |
+| 1 (uno) | Jefe de Sección | 2075 | 08 |
+| 1 (uno) | Jefe de Sección | 2075 | 02 |
+| 1 (uno) | Técnico Administrativo | 4065 | 13 |
+| 1 (uno) | Técnico Administrativo | 4065 | 11 |
+| 1 (uno) | Técnico Administrativo | 4065 | 09 |
+| 1 (uno) | Tesorero | 5015 | 22 |
+| 1 (uno) | Auxiliar Administrativo | 5120 | 13 |
+| 1 (uno) | Auxiliar Administrativo | 5120 | 11 |
+| 1 (uno) | Auxiliar Administrativo | 5120 | 10 |
+| 2 (dos) | Auxiliar Administrativo | 5120 | 09 |
+| 3 (tres) | Auxiliar Administrativo | 5120 | 07 |
+| 3 (tres) | Auxiliar Administrativo | 5120 | 05 |
+| 1 (uno) | Operario Calificado | 5300 | 07 |
+| 4 (cuatro) | Celador | 5320 | 04 |
+| 2 (dos) | Celador | 5320 | 03 |
+| 3 (tres) | Auxiliar de Servicios Generales | 5335 | 05 |
+| 1 (uno) | Auxiliar de Servicios Generales | 5335 | 03 |
+
+##### **Artículo 2º.** Apruébase la creación en la planta de personal del Instituto Colombiano de Antropología e Historia del siguiente cargo:
+
+| **N° de Cargos** | **Denominación del Cargo** | **Código** | **Grado** |
+| --- | --- | --- | --- |
+| **Planta Global** | **Planta Global** | **Planta Global** | **Planta Global** |
+| 1 | Profesional Especializado | 2028 | 15 |
+
+**Artículo 2º.** Las funciones propias del Instituto Colombiano de Antropología e Historia, serán cumplidas por la planta de personal que se establece a continuación, así:
+
+**DESPACHO DEL DIRECTOR**
+
+| **Nº de Cargos** | **Denominación del Empleo** | **Código** | **Grado** |
+| --- | --- | --- | --- |
+| 1 (uno) | Director General de Entidad descentralizada | 0015 | 06 |
+| 1 (uno) | Asesor | 1020 | 06 |
+| 1 (uno) | Secretario | 5140 10 | 10 |
+| 1 (uno) | Conductor Mecánico | 5310 | 06 |
+| **PLANTA GLOBAL** | **PLANTA GLOBAL** | **PLANTA GLOBAL** | **PLANTA GLOBAL** |
+| 1 (uno) | Subdirector Administrativo y Financiero | 0150 | 16 |
+| 1 (uno) | Subdirector Técnico | 0150 | 16 |
+| 2 (dos) | Investigador Científico | 3000 | 25 |
+| 7 (siete) | Investigador Científico | 3000 | 23 |
+| 1 (uno) | Investigador Científico | 3000 | 20 |
+| 1 (uno) | Investigador Científico | 3000 | 18 |
+| 2 (dos) | Profesional Especializado | 3010 | 20 |
+| 7 (siete) | Profesional Especializado | 3010 | 18 |
+| 2 (dos) | Profesional Especializado | 3010 | 17 |
+| 1 (uno) | Profesional Especializado | 3010 | 16 |
+| 2 (dos) | Profesional Universitario | 3020 | 14 |
+| 1 (uno) | Profesional Universitario | 3020 | 13 |
+| 1 (uno) | Técnico Operativo | 4080 | 16 |
+| 3 (tres) | Técnico Operativo | 4080 | 12 |
+| 1 (uno) | Asistente Administrativo | 4140 | 12 |
+| 4 (cuatro) | Secretario Ejecutivo | 5040 | 16 |
+| 2 (dos) | Auxiliar Administrativo | 5120 | 16 |
+
+##### **Artículo 3º.** Fíjase en treinta y siete (37) el número de Trabajadores Oficiales al servicio del Instituto Colombiano de Antropología e Historia.
+
+**Artículo 3º.** Establécese en cuarenta y uno (41) el número de Trabajadores Oficiales del Instituto Colombiano de Antropología e Historia.
+
+##### **Artículo 4º**.El Director General del Instituto Colombiano de Antropología e Historia, distribuirá el cargo de la planta global a que se refiere el artículo 2° del presente Decreto, mediante acto administrativo y ubicará al personal teniendo en cuenta la organización interna, las necesidades del servicio, los planes y programas de la entidad.
+
+**Artículo 4º**. El Director del Instituto Colombiano de Antropología e Historia, mediante Resolución, distribuirá los cargos de la planta global y ubicará el personal teniendo en cuenta la estructura, los planes, los programas y las necesidades del servicio.
 
 ##### **Artículo 5º.** La incorporación de los empleados a la planta de personal establecida en el artículo 20 del presente Decreto, se efectuará dentro de los treinta (30) días siguientes a la fecha de su publicación, teniendo en cuenta lo dispuesto en el Decreto 1173 de 1999 y demás normas vigentes sobre la materia.
 
