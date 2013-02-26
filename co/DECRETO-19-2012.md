@@ -4,7 +4,7 @@ identifier: "DECRETO-19-2012"
 country: "co"
 rank: "decreto"
 publication_date: "2012-01-10"
-last_updated: "2013-01-22"
+last_updated: "2013-02-26"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1004430"
 department: "MINISTERIO DE JUSTICIA Y DEL DERECHO"
@@ -248,8 +248,6 @@ Los representantes legales de las instituciones vigiladas cuya designación corr
 
 ##### **ARTÍCULO 73. INSPECCIÓN Y VIGILANCIA PARA OPERADORES DE LA PILA:** El artículo 31 de la Ley 1393 de 2010, quedará así:
 
-**ARTÍCULO 73. INSPECCIÓN Y VIGILANCIA PARA OPERADORES DE LA PILA:** El artículo 31 de la Ley 1393 de 2010, quedará así:
-
 "La actividad del Operador de Información de la Planilla Integrada de Liquidación de Aportes-PILA- será objeto de inspección y vigilancia de la Superintendencia Financiera de Colombia, con base en las facultades legales previstas en el Estatuto Orgánico del Sistema Financiero y demás disposiciones que lo modifiquen y bajo los criterios técnicos aplicados a las demás entidades vigiladas, en materia de riesgo operativo, seguridad y calidad de la información.
 
 El régimen sancionatorio aplicable a los Operadores de Información de la Planilla Integrada de Liquidación de Aportes-PILA- será el previsto en el Estatuto Orgánico del Sistema Financiero, en concordancia con lo dispuesto en el artículo 5 del Decreto 1465 de 2005 y demás disposiciones que los modifiquen o sustituyan.
@@ -258,29 +256,15 @@ La inspección y vigilancia se ejercerá por parte de la Superintendencia Financ
 
 **Parágrafo Transitorio.** La Superintendencia Financiera de Colombia asumirá la función señalada en este artículo, seis (6) meses después de entrada en vigencia el presente decreto. El Gobierno Nacional adoptará las medidas necesarias para adecuar la estructura de la citada Superintendencia, dotándola de la capacidad presupuestal y técnica necesaria para cumplir con dicha función.
 
-**ARTÍCULO 73. INSPECCIÓN Y VIGILANCIA PARA OPERADORES DE LA PILA:** El artículo 31 de la Ley 1393 de 2010, quedará así:
-
 ##### **ARTÍCULO 74. RÉGIMEN DE AUTORIZACIÓN PREVIA.** Las personas que pretendan desarrollar la actividad de Operador de Información de la Planilla Integrada de Liquidación de Aportes -PILA-, deberán acreditar ante la Superintendencia Financiera de Colombia que cuentan con la infraestructura técnica y operativa necesaria para funcionar en condiciones de seguridad, calidad y eficiencia.
-
-**ARTÍCULO 74. RÉGIMEN DE AUTORIZACIÓN PREVIA.** Las personas que pretendan desarrollar la actividad de Operador de Información de la Planilla Integrada de Liquidación de Aportes -PILA-, deberán acreditar ante la Superintendencia Financiera de Colombia que cuentan con la infraestructura técnica y operativa necesaria para funcionar en condiciones de seguridad, calidad y eficiencia.
-
-**ARTÍCULO 74. RÉGIMEN DE AUTORIZACIÓN PREVIA.** Las personas que pretendan desarrollar la actividad de Operador de Información de la Planilla Integrada de Liquidación de Aportes -PILA-, deberán acreditar ante la Superintendencia Financiera de Colombia que cuentan con la infraestructura técnica y operativa necesaria para funcionar en condiciones de seguridad, calidad y eficiencia.
 
 ##### **ARTÍCULO 75. REGIMEN DE TRANSICIÓN PARA LOS ACTUALES OPERADORES DE INFORMACIÓN DE LA PLANILLA INTEGRADA DE LIQUIDACIÓN -PILA-.** Las personas que, a la fecha de entrada en vigencia del presente decreto desarrollen la actividad propia del Operador de Información de la Planilla Integrada de Liquidación de Aportes -PILA-, previamente autorizadas por el Ministerio de Salud y Protección Social, y que en la actualidad no están bajo la inspección y vigilancia de la Superintendencia Financiera de Colombia, deberán acreditar ante este Organismo, dentro de los seis (6) meses siguientes a la fecha en que la Superintendencia asuma la competencia para la vigilancia de los operadores de la PILA, el cumplimiento de las exigencias previstas en el artículo anterior para continuar operando.
 
-**ARTÍCULO 75. REGIMEN DE TRANSICIÓN PARA LOS ACTUALES OPERADORES DE INFORMACIÓN DE LA PLANILLA INTEGRADA DE LIQUIDACIÓN -PILA-.** Las personas que, a la fecha de entrada en vigencia del presente decreto desarrollen la actividad propia del Operador de Información de la Planilla Integrada de Liquidación de Aportes -PILA-, previamente autorizadas por el Ministerio de Salud y Protección Social, y que en la actualidad no están bajo la inspección y vigilancia de la Superintendencia Financiera de Colombia, deberán acreditar ante este Organismo, dentro de los seis (6) meses siguientes a la fecha en que la Superintendencia asuma la competencia para la vigilancia de los operadores de la PILA, el cumplimiento de las exigencias previstas en el artículo anterior para continuar operando.
-
 **Parágrafo:** Las entidades que actualmente desarrollen la actividad de operación de información de la Planilla Integrada de Liquidación de Aportes -PILA- que no cumplan con los requerimientos establecidos por la Superintendencia Financiera de Colombia, no podrán continuar desarrollando esta actividad a partir del vencimiento del plazo señalado en este artículo y deberán disponer lo necesario para la entrega de la información y culminación de sus actividades como operadores de la PILA.
-
-**ARTÍCULO 75. REGIMEN DE TRANSICIÓN PARA LOS ACTUALES OPERADORES DE INFORMACIÓN DE LA PLANILLA INTEGRADA DE LIQUIDACIÓN -PILA-.** Las personas que, a la fecha de entrada en vigencia del presente decreto desarrollen la actividad propia del Operador de Información de la Planilla Integrada de Liquidación de Aportes -PILA-, previamente autorizadas por el Ministerio de Salud y Protección Social, y que en la actualidad no están bajo la inspección y vigilancia de la Superintendencia Financiera de Colombia, deberán acreditar ante este Organismo, dentro de los seis (6) meses siguientes a la fecha en que la Superintendencia asuma la competencia para la vigilancia de los operadores de la PILA, el cumplimiento de las exigencias previstas en el artículo anterior para continuar operando.
 
 ##### **ARTÍCULO 76. OTRAS FACULTADES DE LA SUPERINTENDENCIA FINANCIERA.** En caso que la Superintendencia Financiera de Colombia en ejercicio de sus funciones de inspección y vigilancia determine que los operadores de información de la Planilla Integrada de Liquidación de Aportes -PILA- no cumplen con las condiciones señaladas en el presente decreto podrá impartir las órdenes e instrucciones necesarias para su ajuste, pudiendo incluso ordenar la suspensión y el desmonte de las actividades autorizadas, si a ello hay lugar.
 
-**ARTÍCULO 76. OTRAS FACULTADES DE LA SUPERINTENDENCIA FINANCIERA.** En caso que la Superintendencia Financiera de Colombia en ejercicio de sus funciones de inspección y vigilancia determine que los operadores de información de la Planilla Integrada de Liquidación de Aportes -PILA- no cumplen con las condiciones señaladas en el presente decreto podrá impartir las órdenes e instrucciones necesarias para su ajuste, pudiendo incluso ordenar la suspensión y el desmonte de las actividades autorizadas, si a ello hay lugar.
-
 Los operadores de información podrán reiniciar la realización de las actividades autorizadas cuando acrediten el restablecimiento de las condiciones que establezca la Superintendencia Financiera para el cumplimiento de dicha actividad.
-
-**ARTÍCULO 76. OTRAS FACULTADES DE LA SUPERINTENDENCIA FINANCIERA.** En caso que la Superintendencia Financiera de Colombia en ejercicio de sus funciones de inspección y vigilancia determine que los operadores de información de la Planilla Integrada de Liquidación de Aportes -PILA- no cumplen con las condiciones señaladas en el presente decreto podrá impartir las órdenes e instrucciones necesarias para su ajuste, pudiendo incluso ordenar la suspensión y el desmonte de las actividades autorizadas, si a ello hay lugar.
 
 ##### **ARTÍCULO 77. INVERSIONES EN INMUEBLES.** El numeral 6 del artículo 110 del Estatuto Orgánico del Sistema Financiero quedará así:
 
