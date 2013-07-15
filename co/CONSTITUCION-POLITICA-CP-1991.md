@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2012-12-28"
+last_updated: "2013-07-15"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1247,6 +1247,60 @@ Los representantes de las comunidades indígenas que aspiren a integrar el Senad
 ### **CAPITULO 5**
 
 **DE LA CAMARA DE REPRESENTANTES**
+
+##### **Artículo 176.***La Cámara de Representantes se elegirá en circunscripciones territoriales y circunscripciones especiales.*
+
+Habrá dos representantes por cada circunscripción territorial y uno más por cada 365.000 habitantes o fracción mayor de 182.500 que tengan en exceso sobre los primeros 365.000.
+
+Para la elección de Representantes a la Cámara, cada departamento y el Distrito Capital de Bogotá conformarán una circunscripción territorial.
+
+Las circunscripciones especiales asegurarán la participación en la Cámara de Representantes de los grupos étnicos y los colombianos residentes en el exterior. Mediante estas circunscripciones se elegirán cinco (5) representantes, distribuidos así: dos (2) por la circunscripción de las comunidades afrodescendientes, uno (1) por la circunscripción de las comunidades indígenas, y dos (2) por la circunscripción internacional. En esta última, solo se contabilizarán los votos depositados fuera del territorio nacional por ciudadanos residentes en el exterior.
+
+**Parágrafo 1°.**A partir de 2014, la base para la asignación de las curules adicionales se ajustará en la misma proporción del crecimiento de la población nacional, de acuerdo con lo que determine el censo. Le corresponderá a la organización electoral ajustar la cifra para la asignación de curules.
+
+**Parágrafo 2°.**Si como resultado de la aplicación de la fórmula contenida en el presente artículo, una circunscripción territorial pierde una o más curules, mantendrá las mismas que le correspondían a 20 de julio de 2002.
+
+**Parágrafo transitorio.**El Congreso de la República reglamentará la circunscripción internacional a más tardar el 16 de diciembre de 2013; de lo contrario, lo hará el Gobierno Nacional dentro de los treinta (30) días siguientes a esa fecha. En dicha reglamentación se incluirán, entre otros temas, la inscripción de candidatos, y la inscripción de ciudadanos habilitados para votar en el exterior, los mecanismos para promover la participación y realización del escrutinio de votos a través de los Consulados y Embajadas, y la financiación estatal para visitas al exterior por parte de los Representantes elegidos.
+
+**Artículo 176.** La Cámara de Representantes se elegirá en circunscripciones territoriales, circunscripciones especiales y una circunscripción internacional.
+
+Habrá dos representantes por cada circunscripción territorial y uno más por cada 365.000 habitantes o fracción mayor de 182.500 que tengan en exceso sobre los primeros 365.000.
+
+Para la elección de Representantes a la Cámara, cada departamento y el Distrito Capital de Bogotá conformarán una circunscripción territorial.
+
+La ley podrá establecer una circunscripción especial para asegurar la participación en la Cámara de Representantes de los grupos étnicos y de las minorías políticas.
+
+Mediante esta circunscripción se podrán elegir hasta cuatro representantes.
+
+Para los colombianos residentes en el exterior existirá una circunscripción internacional mediante la cual se elegirá un Representante a la Cámara. En ella solo se contabilizarán los votos depositados fuera del territorio nacional por ciudadanos residentes en el exterior.
+
+**Parágrafo 1°.**A partir de 2014, la base para la asignación de las curules adicionales se ajustará en la misma proporción del crecimiento de la población nacional, de acuerdo con lo que determine el censo. Le corresponderá a la organización electoral ajustar la cifra para la asignación de curules.
+
+**Parágrafo 2º.**Si como resultado de la aplicación de la fórmula contenida en el presente artículo, una circunscripción territorial pierde una o más curules, mantendrá las mismas que le correspondieron a 20 de julio de 2002.
+
+**Parágrafo Transitorio.**El Congreso de la República reglamentará la circunscripción internacional a más tardar el 15 de diciembre de 2005, caso contrario, lo hará el Gobierno Nacional dentro de los quince (15) días siguientes a esa fecha; incluirá entre otros temas: inscripción de candidatos, inscripción de ciudadanos habilitados para votar en el exterior, mecanismos para promover la participación y realización del escrutinio de votos a través de los Consulados y financiación estatal para visitas al exterior por parte del Representante elegido.
+
+**Artículo 176.**La Cámara de Representantes se elegirá en circunscripciones territoriales, circunscripciones especiales y una circunscripción internacional.
+
+Habrá dos representantes por cada circunscripción territorial y uno más por cada doscientos cincuenta mil habitantes o fracción mayor de ciento veinticinco mil que tengan en exceso sobre los primeros doscientos cincuenta mil.
+
+Para la elección de Representantes a la Cámara, cada Departamento y el Distrito Capital de Bogotá conformarán una circunscripción territorial.
+
+La ley podrá establecer una circunscripción especial para asegurar la participación en la Cámara de Representantes de los grupos étnicos y de las minorías políticas.
+
+Mediante esta circunscripción se podrá elegir hasta cuatro Representantes.
+
+Para los colombianos residentes en el exterior existirá una circunscripción internacional mediante la cual se elegirá un Representante a la Cámara. En ella, sólo se contabilizarán los votos depositados fuera del territorio nacional por ciudadanos residentes en el exterior.
+
+**Parágrafo transitorio.**El Congreso de la República reglamentará la circunscripción internacional a más tardar el 16 de diciembre de 2005, caso contrario, lo hará el Gobierno Nacional dentro de los quince (15) días siguientes a esa fecha; incluirá entre otros temas: Inscripción de candidatos, inscripción de ciudadanos habilitados para votar en el exterior, mecanismos para promover la participación y realización del escrutinio de votos a través de los Consulados y financiación estatal para visitas al exterior por parte del Representante elegido.
+
+**Artículo 176.** La Cámara de Representantes se elegirá en circunscripciones territoriales y circunscripciones especiales.
+
+Habrá dos representantes por cada circunscripción territorial y uno mas por cada doscientos cincuenta mil habitantes o fracción mayor de ciento veinticinco mil que tengan en exceso sobre los primeros doscientos cincuenta mil.
+
+Para la elección de representantes a la Cámara, cada departamento y el Distrito Capital de Bogotá conformarán una circunscripción territorial. La ley podrá establecer una circunscripción especial para asegurar la participación en la Cámara de Representantes de los grupos étnicos y de las minorías políticas y de los colombianos residentes en el exterior.
+
+Mediante esta circunscripción se podrá elegir hasta cinco representantes.
 
 ##### **Artículo 177.** Para ser elegido representante se requiere ser ciudadano en ejercicio y tener más de veinticinco años de edad en la fecha de la elección.
 
