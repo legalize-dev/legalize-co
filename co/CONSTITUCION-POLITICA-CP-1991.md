@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2013-07-15"
+last_updated: "2013-10-22"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1067,58 +1067,6 @@ Compete al Congreso expedir el estatuto general de contratación de la administr
 El proyecto tendrá mensaje de urgencia y podrá ser objeto de mensaje de insistencia si fuere necesario. El Congreso de la República expedirá la Ley Estatutaria antes del 20 de junio de 2005. Se reducen a la mitad los términos para la revisión previa de exequibilidad del Proyecto de Ley Estatutaria, por parte de la Corte Constitucional.
 
 Si el Congreso no expidiere la ley en el término señalado o el proyecto fuere declarado inexequible por la Corte Constitucional, el Consejo de Estado, en un plazo de dos (2) meses reglamentará transitoriamente la materia.
-
-**Artículo 152.** Mediante las leyes estatutarias, el Congreso de la República regulará las siguientes materias:
-
-- a) Derechos y deberes fundamentales de las personas y los procedimientos y recursos para su protección;
-
-- b) Administración de justicia;
-
-- c) Organización y régimen de los partidos y movimientos políticos; estatuto de la oposición y funciones electorales;
-
-- d) Instituciones y mecanismos de participación ciudadana;
-
-- e) Estados de excepción.
-
-- f) La igualdad electoral entre los candidatos a la Presidencia de la República que reúnan los requisitos que determine la ley.
-
-**Parágrafo transitorio.** El Gobierno Nacional o los miembros del Congreso presentarán, antes del 1º de marzo de 2005, un Proyecto de Ley Estatutaria que desarrolle el literal f) del artículo 152 de la Constitución y regule además, entre otras, las siguientes materias: Garantías a la oposición, participación en política de servidores públicos, derecho al acceso equitativo a los medios de comunicación que hagan uso del espectro electromagnético, financiación preponderantemente estatal de las campañas presidenciales, derecho de réplica en condiciones de equidad cuando el Presidente de la República sea candidato y normas sobre inhabilidades para candidatos a la Presidencia de la República.
-
-El proyecto tendrá mensaje de urgencia y podrá ser objeto de mensaje de insistencia si fuere necesario. El Congreso de la República expedirá la Ley Estatutaria antes del 20 de junio de 2005. Se reducen a la mitad los términos para la revisión previa de exequibilidad del Proyecto de Ley Estatutaria, por parte de la Corte Constitucional.
-
-Si el Congreso no expidiere la ley en el término señalado o el proyecto fuere declarado inexequible por la Corte Constitucional, el Consejo de Estado, en un plazo de dos (2) meses reglamentará transitoriamente la materia.
-
-**Artículo 152.** Mediante las leyes estatutarias, el Congreso de la República regulará las siguientes materias:
-
-- a) Derechos y deberes fundamentales de las personas y los procedimientos y recursos para su protección;
-
-- b) Administración de justicia;
-
-- c) Organización y régimen de los partidos y movimientos políticos; estatuto de la oposición y funciones electorales;
-
-- d) Instituciones y mecanismos de participación ciudadana;
-
-- e) Estados de excepción.
-
-- f) La igualdad electoral entre los candidatos a la Presidencia de la República que reúnan los requisitos que determine la ley.
-
-**Parágrafo transitorio.** El Gobierno Nacional o los miembros del Congreso presentarán, antes del 1º de marzo de 2005, un Proyecto de Ley Estatutaria que desarrolle el literal f) del artículo 152 de la Constitución y regule además, entre otras, las siguientes materias: Garantías a la oposición, participación en política de servidores públicos, derecho al acceso equitativo a los medios de comunicación que hagan uso del espectro electromagnético, financiación preponderantemente estatal de las campañas presidenciales, derecho de réplica en condiciones de equidad cuando el Presidente de la República sea candidato y normas sobre inhabilidades para candidatos a la Presidencia de la República.
-
-El proyecto tendrá mensaje de urgencia y podrá ser objeto de mensaje de insistencia si fuere necesario. El Congreso de la República expedirá la Ley Estatutaria antes del 20 de junio de 2005. Se reducen a la mitad los términos para la revisión previa de exequibilidad del Proyecto de Ley Estatutaria, por parte de la Corte Constitucional.
-
-Si el Congreso no expidiere la ley en el término señalado o el proyecto fuere declarado inexequible por la Corte Constitucional, el Consejo de Estado, en un plazo de dos (2) meses reglamentará transitoriamente la materia.
-
-**Artículo 152.** Mediante las leyes estatutarias, el Congreso de la República regulará las siguientes materias:
-
-- a) Derechos y deberes fundamentales de las personas y los procedimientos y recursos para su protección;
-
-- b) Administración de justicia;
-
-- c) Organización y régimen de los partidos y movimientos políticos; estatuto de la oposición y funciones electorales;
-
-- d) Instituciones y mecanismos de participación ciudadana;
-
-- e) Estados de excepción.
 
 ##### **Artículo 153.** La aprobación, modificación o derogación de las leyes estatutarias exigirá la mayoría absoluta de los miembros del Congreso y deberá efectuarse dentro de una sola legislatura.
 
