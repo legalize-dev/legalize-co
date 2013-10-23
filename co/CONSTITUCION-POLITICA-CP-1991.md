@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2013-10-22"
+last_updated: "2013-10-23"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1599,6 +1599,30 @@ La ley determinará su régimen de carrera, prestacional y disciplinario.
 Los miembros de la Fuerza Pública no podrán ejercer la función del sufragio mientras permanezcan en servicio activo, ni intervenir en actividades o debates de partidos o movimientos políticos.
 
 ##### **Artículo 220.** Los miembros de la Fuerza Pública no pueden ser privados de sus grados, honores y pensiones, sino en los casos y del modo que determine la Ley.
+
+##### **Artículo 221.** De los delitos cometidos por los miembros de la fuerza pública en servicio activo, y en relación con el mismo servicio, conocerán las Cortes Marciales o Tribunales Militares, con arreglo a las prescripciones del Código Penal Militar. Tales Cortes o Tribunales estarán integrados por miembros de la Fuerza Pública en servicio activo o en retiro.
+
+**Artículo 221.**De los delitos cometidos por los miembros de la Fuerza Pública en servicio activo, y en relación con el mismo servicio, conocerán las cortes marciales o tribunales militares, con arreglo a las prescripciones del Código Penal Militar. Tales cortes o tribunales estarán integrados por miembros de la Fuerza Pública en servicio activo o en retiro.
+
+En ningún caso la Justicia Penal Militar o policial conocerá de los crímenes de lesa humanidad, ni de los delitos de genocidio, desaparición forzada, ejecución extrajudicial, violencia sexual, tortura y desplazamiento forzado. Las infracciones al Derecho Internacional Humanitario cometidas por miembros de la Fuerza Pública, salvo los delitos anteriores, serán conocidas exclusivamente por las cortes marciales o tribunales militares o policiales.
+
+Cuando la conducta de los miembros de la Fuerza Pública en relación con un conflicto armado sea investigada y juzgada por las autoridades judiciales, se aplicará siempre el Derecho Internacional Humanitario. Una ley estatutaria especificará sus reglas de interpretación y aplicación, y determinará la forma de armonizar el derecho penal con el Derecho Internacional Humanitario.
+
+Si en desarrollo de una acción, operación o procedimiento de la Fuerza Pública, ocurre alguna conducta que pueda ser punible y exista duda sobre la competencia de la Justicia Penal Militar, excepcionalmente podrá intervenir una comisión técnica de coordinación integrada por representantes de la jurisdicción penal militar y de la jurisdicción penal ordinaria, apoyada por sus respectivos órganos de policía judicial. La ley estatutaria regulará la composición y funcionamiento de esta comisión, la forma en que será apoyada por los órganos de policía judicial de las jurisdicciones ordinarias y penal militar y los plazos que deberá cumplir.
+
+La ley ordinaria podrá crear juzgados y tribunales penales policiales, y adoptar un Código Penal Policial.
+
+La ley estatutaria desarrollará las garantías de autonomía e imparcialidad de la Justicia Penal Militar. Además, una ley ordinaria regulará una estructura y un sistema de carrera propio e independiente del mando institucional.
+
+Créase un fondo destinado específicamente a financiar el Sistema de Defensa Técnica y Especializada de los miembros de la Fuerza Pública, en la forma en que lo regule la ley, bajo la dependencia, orientación y coordinación del Ministerio de Defensa Nacional.
+
+Los miembros de la Fuerza Pública cumplirán la detención preventiva en centros de reclusión establecidos para ellos y a falta de estos, en las instalaciones de la Unidad a que pertenezcan. Cumplirán la condena en centros penitenciarios y carcelarios establecidos para miembros de la Fuerza Pública.
+
+**(Declarado INEXEQUIBLE el cambio introducido por Acto legislativo 02 de 2012 por sentencia 740 de 2013)**
+
+**Artículo 221.** De los delitos cometidos por los miembros de la fuerza pública en servicio activo, y en relación con el mismo servicio, conocerán las Cortes Marciales o Tribunales Militares, con arreglo a las prescripciones del Código Penal Militar. Tales Cortes o Tribunales estarán integrados por miembros de la Fuerza Pública en servicio activo o en retiro".
+
+**Artículo 221.** De los delitos cometidos por los miembros de la Fuerza Pública en servicio activo, y en relación con el mismo servicio, conocerán las cortes marciales o tribunales militares, con arreglo a las prescripciones del Código Penal Militar.
 
 ##### **Artículo 222.** La ley determinará los sistemas de promoción profesional, cultural y social de los miembros de la Fuerza Pública. En las etapas de su formación, se les impartirá la enseñanza de los fundamentos de la democracia y de los derechos humanos.
 
