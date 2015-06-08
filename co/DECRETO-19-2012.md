@@ -4,7 +4,7 @@ identifier: "DECRETO-19-2012"
 country: "co"
 rank: "decreto"
 publication_date: "2012-01-10"
-last_updated: "2013-02-26"
+last_updated: "2015-06-08"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1004430"
 department: "MINISTERIO DE JUSTICIA Y DEL DERECHO"
@@ -930,15 +930,7 @@ Los libros podrán llevarse en archivos electrónicos, que garanticen en forma o
 
 **TRÁMITES, PROCEDIMIENTOS Y REGULACIONES DEL SECTOR ADMINISTRATIVO DE AMBIENTE Y DESARROLLO SOSTENIBLE**
 
-##### **Articulo 178.** El Ministerio de Educación Nacional contará con dos (2) meses para resolver las solicitudes de convalidación de títulos, cuando la institución que otorgó el título que se somete a convalidación o el programa académico que conduce a la expedición del título a convalidar se encuentren acreditados, o cuenten con un reconocimiento equivalente por parte de una entidad certificadora o evaluadora de alta calidad, reconocida en el país de procedencia del título o a nivel internacional.
-
-Igualmente, contará con dos (2) meses cuando el título que se somete a convalidación corresponda a un programa académico que hubiese sido evaluado con anterioridad por el Ministerio de Educación Nacional o el ICFES, y en estos casos resolverá en el mismo sentido en que se resolvió el caso que sirve como referencia, siempre que se trate del mismo programa académico, ofrecido por la misma institución y con una diferencia entre las fechas de otorgamiento de los títulos no mayor a ocho (8) años.
-
-Si el título que se somete a convalidación no se enmarca en los presupuestos señalados en el inciso anterior, o no existe certeza sobre el nivel académico de los estudios que se están convalidando, o su denominación, el Ministerio de Educación Nacional someterá la documentación a un proceso de evaluación académica y en estos casos contará con cuatro (4) meses para resolver la solicitud de convalidación.
-
-Los términos establecidos en el presente artículo se contarán a partir de la fecha de recibo en debida forma de la documentación requerida.
-
-**PARÁGRAFO**. Si vencidos los términos establecidos en el presente artículo, el Ministerio de Educación Nacional no se ha pronunciado de fondo frente a la solicitud de convalidación, el Ministerio contará con cinco (5) días hábiles para decidir.
+##### **Articulo 178.** Derogado.
 
 ##### **ARTÍCULO 179. ACTIVIDADES DE INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA.** La institución de educación superior o centro de investigación y desarrollo tecnológico que se encuentre realizando actividades de investigación científica y tecnológica que requiera de la obtención, uso, transporte y mantenimiento de recursos genéticos o productos derivados, podrá continuar tales actividades, siempre y cuando dentro del año siguiente a la entrada en vigencia de este decreto-ley celebre el respectivo contrato de acceso a los recursos genéticos o productos derivados para investigación científica sin interés comercial con el Ministerio de Ambiente y Desarrollo Sostenible y obtenga la autorización correspondiente.
 
