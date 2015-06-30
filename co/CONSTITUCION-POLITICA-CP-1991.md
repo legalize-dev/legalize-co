@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2015-06-24"
+last_updated: "2015-06-30"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -712,11 +712,13 @@ Los partidos y movimientos minoritarios con personería jurídica tendrán derec
 
 Una ley estatutaria reglamentará íntegramente la materia.
 
-**Artículo 112.** Los partidos y movimientos políticos que no participen en el Gobierno podrán ejercer libremente la función crítica frente a éste y plantear y desarrollar alternativas políticas. Para estos efectos, salvo las restricciones legales, se les garantizan los siguientes derechos: de acceso a la información y a la documentación oficiales; de uso de los medios de comunicación social del Estado de acuerdo con la representación obtenida en las elecciones para Congreso inmediatamente anteriores; de réplica en los medios de comunicación del Estado frente a tergiversaciones graves y evidentes o ataques públicos proferidos por altos funcionarios oficiales, y de participación en los organismos electorales.
+El candidato que le siga en votos a quien la autoridad electoral declare elegido en el cargo de Presidente y Vicepresidente de la República, Gobernador de Departamento, Alcalde Distrital y Alcalde municipal tendrá el derecho personal a ocupar una curul en el Senado, Cámara de Representantes, Asamblea Departamental, Concejo Distrital y Concejo Municipal, respectivamente, durante el período de la correspondiente corporación.
 
-Los partidos y movimientos minoritarios tendrán derecho a participar en las mesas directivas de los cuerpos colegiados, según su representación en ellos.
+Las curules así asignadas en el Senado de la República y en la Cámara de Representantes serán adicionales a las previstas en los artículos 171 y 176. Las demás curules no aumentarán el número de miembros de dichas corporaciones.
 
-Una ley estatutaria regulará íntegramente la materia.
+En caso de no aceptación de la curul en las corporaciones públicas de las entidades territoriales, la misma se asignará de acuerdo con la regla general de asignación de curules prevista en el artículo 263.
+
+**Parágrafo Transitorio.** La asignación de las curules mencionadas en este artículo no será aplicable para las elecciones celebradas en el año 2015.
 
 ## **TITULO V**
 
@@ -828,14 +830,6 @@ Cuando el Presidente y el Vicepresidente de la República presenten sus candidat
 
 Durante la campaña, el Presidente y el Vicepresidente de la República no podrán utilizar bienes del Estado o recursos del Tesoro Público, distintos de aquellos que se ofrezcan en igualdad de condiciones a todos los candidatos. Se exceptúan los destinados al cumplimiento de las funciones propias de sus cargos y a su protección personal, en los términos que señale la Ley Estatutaria.
 
-**Artículo 127.** Los servidores públicos no podrán celebrar, por si o por interpuesta persona, o en representación de otro, contrato alguno con entidades publicas o con personas privadas que manejen o administren recursos públicos, salvo las excepciones legales.
-
-A los empleados del Estado y de sus entidades descentralizadas que ejerzan jurisdicción, autoridad civil o política, cargos de dirección administrativa, o se desempeñen en los órganos judicial, electoral, de control, les esta prohibido tomar parte en las actividades de los partidos y movimientos y en las controversias políticas, sin perjuicio de ejercer libremente el derecho al sufragio.
-
-Los empleados no contemplados en esta prohibición podrán participar en dichas actividades y controversias en las condiciones que señale la ley.
-
-La utilización del empleo para presionar a los ciudadanos a respaldar una causa o campaña política constituye causal de mala conducta.
-
 ##### **Artículo 128.** Nadie podrá desempeñar simultáneamente más de un empleo público ni recibir más de una asignación que provenga del tesoro público, o de empresas o de instituciones en las que tenga parte mayoritaria el Estado, salvo los casos expresamente determinados por la ley.
 
 Entiéndese por tesoro público el de la Nación, el de las entidades territoriales y el de las descentralizadas.
@@ -864,23 +858,17 @@ Corresponde al Gobierno la creación, supresión y fusión de los círculos de n
 
 El elegido es responsable políticamente ante la sociedad y frente a sus electores del cumplimiento de las obligaciones propias de su investidura.
 
-##### **Artículo 134.** Los miembros de las Corporaciones Públicas de elección popular no tendrán suplentes. Solo podrán ser reemplazados en caso de muerte, incapacidad física absoluta para el ejercicio del cargo, declaración de nulidad de la elección, renuncia justificada, y aceptada por la respectiva Corporación, sanción disciplinaria consistente en destitución, pérdida de investidura, condena penal o medida de aseguramiento por delitos distintos a las relacionadas con pertenencia, promoción o financiación a/o por grupos armados ilegales, de narcotráfico, delitos contra los mecanismos de participación democrática o de lesa humanidad o cuando el miembro de una Corporación pública decida presentarse por un partido distinto según lo planteado en el Parágrafo Transitorio 1º del artículo 107 de la Constitución Política.
+##### **Artículo 134.** Los miembros de las Corporaciones Públicas de elección popular no tendrán suplentes. Solo podrán ser reemplazados en los casos de faltas absolutas o temporales que determine la ley, por los candidatos no elegidos que según el orden de inscripción o votación obtenida, le sigan en forma sucesiva y descendente en la misma lista electoral.
 
-En tales casos, el titular será reemplazado por el candidato no elegido que, según el orden de inscripción o votación obtenida, le siga en forma sucesiva y descendente en la misma lista electoral.
+En ningún caso podrán ser reemplazados quienes sean condenados por delitos comunes relacionados con pertenencia, promoción o financiación a grupos armados ilegales o actividades de narcotráfico; dolosos contra la administración pública; contra los mecanismos de participación democrática, ni por Delitos de Lesa Humanidad. Tampoco quienes renuncien habiendo sido vinculados formalmente en Colombia a procesos penales por la comisión de tales delitos, ni las faltas temporales de aquellos contra quienes se profiera orden de captura dentro de los respectivos procesos.
 
-Como consecuencia de la regla general establecida en el presente artículo, no podrá ser reemplazado un miembro de una corporación pública de elección popular a partir del momento en que le sea proferida orden de captura, dentro de un proceso penal al cual se le vinculare formalmente, por delitos relacionados con la pertenencia, promoción o financiación a/o por grupos armados ilegales, de narcotráfico o delitos de lesa humanidad. La sentencia condenatoria producirá como efecto la pérdida definitiva de la curul, para el partido al que pertenezca el miembro de la Corporación Pública.
+Para efectos de conformación de quórum se tendrá como número de miembros la totalidad de los integrantes de la Corporación con excepción de aquellas curules que no puedan ser reemplazadas. La misma regla se aplicará en los eventos de impedimentos o recusaciones aceptadas.
 
-No habrá faltas temporales, salvo cuando las mujeres, por razón de licencia de maternidad deban ausentarse del cargo. La renuncia de un miembro de corporación pública de elección popular, cuando se le haya iniciado vinculación formal por delitos cometidos en Colombia o en el exterior, relacionados con pertenencia, promoción o financiación a/o por grupos armados ilegales, de narcotráfico o delitos contra los mecanismos de participación democrática o de lesa humanidad, generará la pérdida de su calidad de congresista, diputado, concejal o edil, y no producirá como efecto el ingreso de quien corresponda en la lista. Las faltas temporales no darán lugar a reemplazos.
+Si por faltas absolutas que no den lugar a reemplazo los miembros de cuerpos colegiados elegidos en una misma circunscripción electoral quedan reducidos a la mitad o menos, el Consejo Nacional Electoral convocará a elecciones para llenar las vacantes, siempre y cuando falten más de veinticuatro (24) meses para la terminación del periodo.
 
-Cuando ocurra alguna de las circunstancias que implique que no pueda ser reemplazado un miembro elegido a una Corporación Pública, para todos los efectos de conformación de quórum, se tendrá como número de miembros la totalidad de los integrantes de la Corporación con excepción de aquellas curules que no puedan ser reemplazadas.
+**Parágrafo Transitorio.**Mientras el legislador regula el régimen de reemplazos, se aplicarán las siguientes reglas: i) Constituyen faltas absolutas que dan lugar a reemplazo la muerte; la incapacidad física absoluta para el ejercicio del cargo; la declaración de nulidad de la elección; la renuncia justificada y aceptada por la respectiva corporación; la sanción disciplinaria consistente en destitución, y la pérdida de investidura; ii) Constituyen faltas temporales que dan lugar a reemplazo, la licencia de maternidad y la medida de aseguramiento privativa de la libertad por delitos distintos a los mencionados en el presente artículo.
 
-Si por faltas absolutas, que no den lugar a reemplazo, los miembros de cuerpos colegiados elegidos por una misma circunscripción electoral quedan reducidos a la mitad o menos, el Gobierno convocará a elecciones para llenar las vacantes, siempre y cuando falte más de dieciocho (18) meses para la terminación del período.
-
-**Parágrafo Transitorio.**El régimen de reemplazos establecido en el presente artículo se aplicará para las investigaciones judiciales que se inicien a partir de la vigencia del presente acto legislativo.
-
-**Artículo 134.** Las faltas absolutas o temporales de los Miembros de las Corporaciones Públicas, serán suplidas por los candidatos que, según el orden de inscripción, en forma sucesiva y descendente, correspondan a la misma lista electoral.
-
-**Artículo 134.** Las vacancias por faltas absolutas de los congresistas serán suplidas por los candidatos no elegidos, según el orden de inscripción en la lista correspondiente.
+La prohibición de reemplazos se aplicará para las investigaciones judiciales que se iniciaron a partir de la vigencia del Acto Legislativo número 01 de 2009, con excepción del relacionado con la comisión de delitos contra la administración pública que se aplicará para las investigaciones que se inicien a partir de la vigencia del presente acto legislativo.
 
 ##### **Artículo 135.** Son facultades de cada Cámara:
 
@@ -1198,57 +1186,17 @@ Los representantes de las comunidades indígenas que aspiren a integrar el Senad
 
 ##### **Artículo 176.***La Cámara de Representantes se elegirá en circunscripciones territoriales y circunscripciones especiales.*
 
-Habrá dos representantes por cada circunscripción territorial y uno más por cada 365.000 habitantes o fracción mayor de 182.500 que tengan en exceso sobre los primeros 365.000.
+Cada departamento y el Distrito capital de Bogotá, conformará una circunscripción territorial. Habrá dos representantes por cada circunscripción territorial y uno más por cada 365.000 habitantes o fracción mayor de 182.500 que tengan en exceso sobre los primeros 365.000. La circunscripción territorial conformada por el departamento de San Andrés, Providencia y Santa Catalina, elegirá adicionalmente un (1) Representante por la comunidad raizal de dicho departamento, de conformidad con la ley.
 
 Para la elección de Representantes a la Cámara, cada departamento y el Distrito Capital de Bogotá conformarán una circunscripción territorial.
 
-Las circunscripciones especiales asegurarán la participación en la Cámara de Representantes de los grupos étnicos y los colombianos residentes en el exterior. Mediante estas circunscripciones se elegirán cinco (5) representantes, distribuidos así: dos (2) por la circunscripción de las comunidades afrodescendientes, uno (1) por la circunscripción de las comunidades indígenas, y dos (2) por la circunscripción internacional. En esta última, solo se contabilizarán los votos depositados fuera del territorio nacional por ciudadanos residentes en el exterior.
+Las circunscripciones especiales asegurarán la participación en la Cámara de Representantes de los grupos étnicos y de los colombianos residentes en el exterior. Mediante estas circunscripciones se elegirán cuatro (4) Representantes, distribuidos así: dos (2) por la circunscripción de las comunidades afrodescendientes, uno (1) por la circunscripción de las comunidades indígenas, y uno (1) por la circunscripción internacional. En esta última, solo se contabilizarán los votos depositados fuera del territorio nacional por ciudadanos residentes en el exterior.
 
 **Parágrafo 1°.**A partir de 2014, la base para la asignación de las curules adicionales se ajustará en la misma proporción del crecimiento de la población nacional, de acuerdo con lo que determine el censo. Le corresponderá a la organización electoral ajustar la cifra para la asignación de curules.
 
 **Parágrafo 2°.**Si como resultado de la aplicación de la fórmula contenida en el presente artículo, una circunscripción territorial pierde una o más curules, mantendrá las mismas que le correspondían a 20 de julio de 2002.
 
 **Parágrafo transitorio.**El Congreso de la República reglamentará la circunscripción internacional a más tardar el 16 de diciembre de 2013; de lo contrario, lo hará el Gobierno Nacional dentro de los treinta (30) días siguientes a esa fecha. En dicha reglamentación se incluirán, entre otros temas, la inscripción de candidatos, y la inscripción de ciudadanos habilitados para votar en el exterior, los mecanismos para promover la participación y realización del escrutinio de votos a través de los Consulados y Embajadas, y la financiación estatal para visitas al exterior por parte de los Representantes elegidos.
-
-**Artículo 176.** La Cámara de Representantes se elegirá en circunscripciones territoriales, circunscripciones especiales y una circunscripción internacional.
-
-Habrá dos representantes por cada circunscripción territorial y uno más por cada 365.000 habitantes o fracción mayor de 182.500 que tengan en exceso sobre los primeros 365.000.
-
-Para la elección de Representantes a la Cámara, cada departamento y el Distrito Capital de Bogotá conformarán una circunscripción territorial.
-
-La ley podrá establecer una circunscripción especial para asegurar la participación en la Cámara de Representantes de los grupos étnicos y de las minorías políticas.
-
-Mediante esta circunscripción se podrán elegir hasta cuatro representantes.
-
-Para los colombianos residentes en el exterior existirá una circunscripción internacional mediante la cual se elegirá un Representante a la Cámara. En ella solo se contabilizarán los votos depositados fuera del territorio nacional por ciudadanos residentes en el exterior.
-
-**Parágrafo 1°.**A partir de 2014, la base para la asignación de las curules adicionales se ajustará en la misma proporción del crecimiento de la población nacional, de acuerdo con lo que determine el censo. Le corresponderá a la organización electoral ajustar la cifra para la asignación de curules.
-
-**Parágrafo 2º.**Si como resultado de la aplicación de la fórmula contenida en el presente artículo, una circunscripción territorial pierde una o más curules, mantendrá las mismas que le correspondieron a 20 de julio de 2002.
-
-**Parágrafo Transitorio.**El Congreso de la República reglamentará la circunscripción internacional a más tardar el 15 de diciembre de 2005, caso contrario, lo hará el Gobierno Nacional dentro de los quince (15) días siguientes a esa fecha; incluirá entre otros temas: inscripción de candidatos, inscripción de ciudadanos habilitados para votar en el exterior, mecanismos para promover la participación y realización del escrutinio de votos a través de los Consulados y financiación estatal para visitas al exterior por parte del Representante elegido.
-
-**Artículo 176.**La Cámara de Representantes se elegirá en circunscripciones territoriales, circunscripciones especiales y una circunscripción internacional.
-
-Habrá dos representantes por cada circunscripción territorial y uno más por cada doscientos cincuenta mil habitantes o fracción mayor de ciento veinticinco mil que tengan en exceso sobre los primeros doscientos cincuenta mil.
-
-Para la elección de Representantes a la Cámara, cada Departamento y el Distrito Capital de Bogotá conformarán una circunscripción territorial.
-
-La ley podrá establecer una circunscripción especial para asegurar la participación en la Cámara de Representantes de los grupos étnicos y de las minorías políticas.
-
-Mediante esta circunscripción se podrá elegir hasta cuatro Representantes.
-
-Para los colombianos residentes en el exterior existirá una circunscripción internacional mediante la cual se elegirá un Representante a la Cámara. En ella, sólo se contabilizarán los votos depositados fuera del territorio nacional por ciudadanos residentes en el exterior.
-
-**Parágrafo transitorio.**El Congreso de la República reglamentará la circunscripción internacional a más tardar el 16 de diciembre de 2005, caso contrario, lo hará el Gobierno Nacional dentro de los quince (15) días siguientes a esa fecha; incluirá entre otros temas: Inscripción de candidatos, inscripción de ciudadanos habilitados para votar en el exterior, mecanismos para promover la participación y realización del escrutinio de votos a través de los Consulados y financiación estatal para visitas al exterior por parte del Representante elegido.
-
-**Artículo 176.** La Cámara de Representantes se elegirá en circunscripciones territoriales y circunscripciones especiales.
-
-Habrá dos representantes por cada circunscripción territorial y uno mas por cada doscientos cincuenta mil habitantes o fracción mayor de ciento veinticinco mil que tengan en exceso sobre los primeros doscientos cincuenta mil.
-
-Para la elección de representantes a la Cámara, cada departamento y el Distrito Capital de Bogotá conformarán una circunscripción territorial. La ley podrá establecer una circunscripción especial para asegurar la participación en la Cámara de Representantes de los grupos étnicos y de las minorías políticas y de los colombianos residentes en el exterior.
-
-Mediante esta circunscripción se podrá elegir hasta cinco representantes.
 
 ##### **Artículo 177.** Para ser elegido representante se requiere ser ciudadano en ejercicio y tener más de veinticinco años de edad en la fecha de la elección.
 
@@ -1470,14 +1418,6 @@ La persona que de conformidad con este artículo reemplace al Presidente, perten
 
 ##### **Artículo 204.** Para ser elegido Vicepresidente se requieren las mismas calidades que para ser Presidente de la República.
 
-El Vicepresidente podrá ser reelegido para el período siguiente si integra la misma fórmula del Presidente en ejercicio.
-
-El Vicepresidente podrá ser elegido Presidente de la República para el período siguiente cuando el Presidente en ejercicio no se presente como candidato.
-
-**Artículo 204.** Para ser elegido Vicepresidente se requieren las mismas calidades que para ser Presidente de la República.
-
-El Vicepresidente no podrá ser elegido Presidente de la República, ni Vicepresidente para el período inmediatamente siguiente.
-
 ##### **Artículo 205.** En caso de falta absoluta del Vicepresidente, el Congreso se reunirá por derecho propio, o por convocatoria del Presidente de la República, a fin de elegir a quien haya de reemplazarlo para el resto del período. Son faltas absolutas del Vicepresidente: su muerte, su renuncia aceptada y la incapacidad física permanente reconocida por el Congreso.
 
 ### **CAPITULO 4**
@@ -1646,7 +1586,7 @@ La equidad, la jurisprudencia, los principios generales del derecho y la doctrin
 
 - 3. No haber sido condenado por sentencia judicial a pena privativa de la libertad, excepto por delitos políticos o culposos.
 
-- 4. Haber desempeñado, durante diez años, cargos en la Rama Judicial o en el Ministerio Público, o haber ejercido, con buen crédito, por el mismo tiempo, la profesión de abogado, o la cátedra universitaria en disciplinas jurídicas en establecimientos reconocidos oficialmente.
+- 4. Haber desempeñado, durante quince años, cargos en la Rama Judicial o en el Ministerio Público, o haber ejercido, con buen crédito, por el mismo tiempo, la profesión de abogado o la cátedra universitaria en disciplinas jurídicas en establecimientos reconocidos oficialmente. Para el cargo de Magistrado de la Corte Suprema de Justicia y del Consejo de Estado, la cátedra universitaria deberá haber sido ejercida en disciplinas jurídicas relacionadas con el área de la magistratura a ejercer.
 
 **Parágrafo.** Para ser Magistrado de estas corporaciones no será requisito pertenecer a la carrera judicial.
 
@@ -1730,7 +1670,9 @@ Los Magistrados de la Corte Constitucional no podrán ser reelegidos.
 
 - 10. Decidir definitivamente sobre la exequibilidad de los tratados internacionales y de las leyes que los aprueben. Con tal fin, el Gobierno los remitirá a la Corte, dentro de los seis días siguientes a la sanción de la ley. Cualquier ciudadano podrá intervenir para defender o impugnar su constitucionalidad. Si la Corte los declara constitucionales, el Gobierno podrá efectuar el canje de notas; en caso contrario no serán ratificados. Cuando una o varias normas de un tratado multilateral sean declaradas inexequibles por la Corte Constitucional, el Presidente de la República sólo podrá manifestar el consentimiento formulando la correspondiente reserva.
 
-- 11. Darse su propio reglamento.
+- 11. Dirimir los conflictos de competencia que ocurran entre las distintas jurisdicciones.
+
+- 12. Darse su propio reglamento.
 
 **Parágrafo.** Cuando la Corte encuentre vicios de procedimiento subsanables en la formación del acto sujeto a su control, ordenará devolverlo a la autoridad que lo profirió para que, de ser posible, enmiende observado. Subsanado el vicio, procederá a decidir sobre la exequibilidad del acto.
 
@@ -1864,65 +1806,27 @@ Parágrafo 1º. Deberá repetirse por una sola vez la votación para elegir miem
 
 ##### **Artículo 260.** Los ciudadanos eligen en forma directa Presidente y Vicepresidente de la República, Senadores, Representantes, Gobernadores, Diputados, Alcaldes, Concejales municipales y distritales, miembros de las juntas administradoras locales, y en su oportunidad, los miembros de la Asamblea Constituyente y las demás autoridades o funcionarios que la Constitución señale.
 
-##### **Artículo 261.** Las faltas absolutas serán suplidas por los candidatos que según el orden de inscripción, o de votación, en forma sucesiva y descendente, correspondan a la misma lista electoral, según se trate de listas cerradas o con voto preferente.
+##### **Artículo 261.** (Anteriormente artìculo 262 renumerado por artìculo 26 del acto legislativo 2 de 2015) La elección del Presidente y Vicepresidente no podrá coincidir con otra elección. La de Congreso se hará en fecha separada de la elección de autoridades departamentales y municipales.
 
-**Artículo 261.** Las faltas absolutas o temporales serán suplidas por los candidatos que según el orden de inscripción en forma sucesiva y descendente, correspondan a la misma lista electoral.
+##### **Artículo 262.** (Anteriormente artìculo 263 renumerado por artìculo 20 del acto legislativo 2 de 2015). Los partidos, movimientos políticos y grupos significativos de ciudadanos que decidan participar en procesos de elección popular, inscribirán candidatos y listas únicas, cuyo número de integrantes no podrá exceder el de curules o cargos a proveer en la respectiva circunscripción, excepto en las que se eligen hasta dos miembros, las cuales podrán estar integradas hasta por tres (3) candidatos.
 
-Son faltas absolutas: Además de las establecidas por la ley; las que se causan por: Muerte; la renuncia motivada y aceptada por la plenaria de la respectiva Corporación; la pérdida de la investidura; la incapacidad física permanente y la sentencia condenatoria en firme dictada por autoridad judicial competente.
-
-Son faltas temporales las causadas por: La suspensión del ejercicio de la investidura popular, en virtud de decisión judicial en firme; la licencia sin remuneración; la licencia por incapacidad certificada por médico oficial; la calamidad doméstica debidamente probada y la fuerza mayor.
-
-La licencia sin remuneración no podrá ser inferior a tres (3) meses.
-
-Los casos de incapacidad, calamidad doméstica y licencias no remuneradas deberán ser aprobadas por la Mesa Directiva de la respectiva Corporación.
-
-**PARÁGRAFO 1º.** Las inhabilidades e incompatibilidades previstas en la Constitución Nacional y las leyes, se extenderán en igual forma a quienes asuman las funciones de las faltas temporales durante el tiempo de su asistencia.
-
-**PARÁGRAFO 2º.** El numeral 3º. del artículo 180 de la Constitución, quedará así:
-
-Numeral 3º ser miembro de juntas o consejos directivos de entidades oficiales descentralizadas de cualquier nivel o de instituciones que administren tributos.
-
-**Artículo 261.** Ningún cargo de elección popular en corporaciones públicas tendrá suplente. Las vacancias absolutas serán ocupadas por los candidatos no elegidos en la misma lista, en orden de inscripción, sucesivo y descendente.
-
-##### **Artículo 262.** La elección del Presidente y Vicepresidente no podrá coincidir con otra elección. La de Congreso se hará en fecha separada de la elección de autoridades departamentales y municipales.
-
-##### **Artículo 263.** Para todos los procesos de elección popular, los Partidos y Movimientos Políticos presentarán listas y candidatos únicos, cuyo número de integrantes no podrá exceder el de curules o cargos a proveer en la respectiva elección.
-
-Para garantizar la equitativa representación de los Partidos y Movimientos Políticos y grupos significativos de ciudadanos, las curules de las Corporaciones Públicas se distribuirán mediante el sistema de cifra repartidora entre las listas de candidatos que superen un mínimo de votos que no podrá ser inferior al tres por ciento (3%) de los sufragados para Senado de la República o al cincuenta por ciento (50%) del cociente electoral en el caso de las demás Corporaciones, conforme lo establezcan la Constitución y la ley.
-
-Cuando ninguna de las listas de aspirantes supere el umbral, las curules se distribuirán de acuerdo con el sistema de cifra repartidora.
-
-La ley reglamentará los demás efectos de esta materia.
-
-Las listas para Corporaciones en las circunscripciones en la que se eligen hasta dos (2) miembros para la correspondiente Corporación, podrán estar integradas hasta por tres (3) candidatos. En las circunscripciones en las que se elige un miembro, la curul se adjudicará a la lista mayoritaria. En las circunscripciones en las que se eligen dos miembros se aplicará el sistema de cociente electoral entre las listas que superen en votos el 30% de dicho cociente.
-
-**Parágrafo Transitorio.**Para las elecciones al Congreso de la República a celebrarse en 2010, el porcentaje a que se refiere el inciso 2º del presente artículo será del dos por ciento (2%).
-
-**Artículo 263.** Para todos los procesos de elección popular, los partidos y movimientos políticos presentarán listas y candidatos únicos, cuyo número de integrantes no podrá exceder el de curules o cargos a proveer en las respectiva elección.
-
-Para garantizar la equitativa representación de los partidos *y* movimientos políticos y grupos significativos de ciudadanos, las curules de las corporaciones públicas se distribuirán mediante el sistema de cifra repartidora entre las listas de candidatos que superen un mínimo de votos que no podrá ser inferior al dos por ciento (2%) de los sufragados para Senado de la República o al cincuenta por ciento (50%) del cociente electoral en el caso de las demás corporaciones, conforme lo establezca la Constitución y la Ley.
-
-Cuando ninguna de las listas de aspirantes supere el umbral, las curules se distribuirán de acuerdo con el sistema de cifra repartidora.
-
-La Ley reglamentará los demás efectos de esta materia.
-
-**Parágrafo transitorio.** Sin perjuicio del ejercicio de las competencias propias del Congreso de la República, para las elecciones de las autoridades de las entidades territoriales que sigan a la entrada en vigencia del presente acto legislativo, facúltese al Consejo Nacional Electoral para que dentro del mes siguiente a su promulgación se ocupe de regular el tema.
-
-En las circunscripciones electorales donde se elijan dos (2) curules se aplicará el sistema del cociente electoral, con sujeción a un umbral del treinta por ciento (30%), del cociente electoral.
-
-**Artículo 263.** Para asegurar la representación proporcional de los partidos, cuando se vote por dos o más individuos en elección popular o en una corporación pública, se empleará el sistema de cuociente electoral.
-
-El cuociente será el número que resulte de dividir el total de los votos válidos por el de puestos por proveer. La adjudicación de puestos a cada lista se hará en el número de veces que el cuociente quepa en el respectivo número de votos válidos. Si quedaren puestos por proveer, se adjudicarán a los mayores residuos, en orden descendente.
-
-##### **Artículo 263A.** La adjudicación de curules entre los miembros de la respectiva corporación se hará por el sistema de cifra repartidora. Esta resulta de dividir sucesivamente por uno, dos, tres o más el número de votos obtenidos por cada lista, ordenando los resultados en forma decreciente hasta que se obtenga un número total de resultados igual al número de curules a proveer.
-
-El resultado menor se llamará cifra repartidora. Cada lista obtendrá tantas curules como veces esté contenida la cifra repartidora en el total de sus votos.
+La selección de los candidatos de los partidos y movimientos políticos con personería jurídica se hará mediante mecanismos de democracia interna, de conformidad con la ley y los estatutos. En la conformación de las listas se observarán en forma progresiva, entre otros, los principios de paridad, alternancia y universalidad, según lo determine la ley.
 
 Cada partido o movimiento político podrá optar por el mecanismo de voto preferente. En tal caso, el elector podrá señalar el candidato de su preferencia entre los nombres de la lista que aparezcan en la tarjeta electoral. La lista se reordenará de acuerdo con la cantidad de votos obtenidos por cada uno de los candidatos. La asignación de curules entre los miembros de la respectiva lista se hará en orden descendente empezando por el candidato que haya obtenido el mayor número de votos preferentes.
 
 En el caso de los partidos y movimientos políticos que hayan optado por el mecanismo del voto preferente, los votos por el partido o movimiento que no hayan sido atribuidos por el elector a ningún candidato en particular, se contabilizarán a favor de la respectiva lista para efectos de la aplicación de las normas sobre el umbral y la cifra repartidora, pero no se computarán para la reordenación de la lista. Cuando el elector vote simultáneamente por el partido o movimiento político y por el candidato de su preferencia dentro de la respectiva lista, el voto será válido y se computará a favor del candidato.
 
-**Artículo 263A**. Adicionado.
+La ley regulará la financiación preponderantemente estatal de las campañas, los mecanismos de democracia interna de los partidos, la inscripción de candidatos y listas propias o de coalición a cargos uninominales o a corporaciones públicas, la administración de recursos y la protección de los derechos de los aspirantes. Los partidos y movimientos políticos con personería jurídica que sumados hayan obtenido una votación de hasta el quince por ciento (15%) de los votos válidos de la respectiva circunscripción, podrán presentar lista de candidatos en coalición para corporaciones públicas.
+
+##### **Artículo 263.** (Anteriormente artìculo 263 A renumerado por artìculo 21 del acto legislativo 2 de 2015). Para garantizar la equitativa representación de los Partidos y Movimientos Políticos y grupos significativos de ciudadanos, las curules de las Corporaciones Públicas se distribuirán mediante el sistema de cifra repartidora entre las listas de candidatos que superen un mínimo de votos que no podrá ser inferior al tres por ciento (3%) de los votos válidos para Senado de la República o al cincuenta por ciento (50%) del cuociente electoral en el caso de las demás Corporaciones, conforme lo establezcan la Constitución y la ley.
+
+La cifra repartidora resulta de dividir sucesivamente por uno, dos, tres o más, el número de votos por cada lista ordenando los resultados en forma decreciente hasta que se obtenga un número total de resultados igual al número de curules a proveer. El resultado menor se llamará cifra repartidora. Cada lista obtendrá tantas curules como veces esté contenida la cifra repartidora en el total de sus votos.
+
+En las circunscripciones en las que se eligen dos miembros se aplicará el sistema de cuociente electoral entre las listas que superen en votos el 30% de dicho cuociente. En las circunscripciones en las que se elige un miembro, la curul se adjudicará a la lista mayoritaria.
+
+Cuando ninguna de las listas supere el umbral, las curules se distribuirán entre todas las inscritas, de acuerdo con la regla de asignación que corresponda.
+
+##### **Artículo 263A.(**Eliminado, se renumera a artículo 263 por el artículo 21 del Acto Legislativo 2 de 2015)****
 
 ### **CAPITULO 2**
 
@@ -1933,8 +1837,6 @@ En el caso de los partidos y movimientos políticos que hayan optado por el meca
 **Parágrafo.** La jurisdicción contencioso administrativa decidirá la acción de nulidad electoral en el término máximo de un (1) año.
 
 En los casos de única instancia, según la ley, el término para decidir no podrá exceder de seis (6) meses.
-
-**Artículo 264.** El Consejo Nacional Electoral se compondrá del número de miembros que determine la ley, que no debe ser menor de siete. Serán elegidos por el Consejo de Estado para un período de cuatro años, de ternas elaboradas por los partidos y movimientos políticos con personería jurídica. El Consejo deberá reflejar la composición política del Congreso. Sus miembros deberán reunir las mismas calidades que exige la Constitución para ser Magistrado de la Corte Suprema de Justicia y no serán reelegibles.
 
 ##### **Artículo 265.** El Consejo Nacional Electoral regulará, inspeccionará, vigilará y controlará toda la actividad electoral de los partidos y movimientos políticos, de los grupos significativos de ciudadanos, de sus representantes legales, directivos y candidatos, garantizando el cumplimiento de los principios y deberes que a ellos corresponden, y gozará de autonomía presupuestal y administrativa. Tendrá las siguientes atribuciones especiales:
 
@@ -1973,10 +1875,6 @@ Podrá ser reelegido por una sola vez y ejercerá las funciones que establezca l
 La Registraduría Nacional estará conformada por servidores públicos que pertenezcan a una carrera administrativa especial a la cual se ingresará exclusivamente por concurso de méritos y que preverá el retiro flexible de conformidad con las necesidades del servicio. En todo caso, los cargos de responsabilidad administrativa o electoral serán de libre remoción, de conformidad con la ley.
 
 **Parágrafo transitorio.** El período de los actuales miembros del Consejo Nacional Electoral y Registrador Nacional del Estado Civil irá hasta el año 2006. La siguiente elección de unos y otro se hará de conformidad con lo dispuesto en el presente Acto Legislativo.
-
-**Artículo 266.** El Registrador Nacional del Estado Civil será elegido por el Consejo Nacional Electoral para un período de cinco años y deberá reunir las mismas calidades que exige la Constitución para ser Magistrado de la Corte Suprema de Justicia.
-
-No podrá ser reelegido y ejercerá las funciones que establezca la ley, incluida la dirección y organización de las elecciones, el registro civil y la identificación de las personas, así como la de celebrar contratos en nombre de la Nación, en los casos que aquélla disponga.
 
 ## **TITULO X**
 
@@ -2080,7 +1978,7 @@ Para el cumplimiento de sus funciones la Procuraduría tendrá atribuciones de p
 
 ##### **Artículo 280.** Los agentes del Ministerio Público tendrán las mismas calidades, categorías, remuneración, derechos y prestaciones de los magistrados y jueces de mayor jerarquía ante quienes ejerzan el cargo.
 
-##### **Artículo 281.** El Defensor del Pueblo formará parte del Ministerio Público y ejercerá sus funciones bajo la suprema dirección del Procurador General de la Nación. Será elegido por la Cámara de Representantes para un período de cuatro años de terna elaborada por el Presidente de la República.
+##### **Artículo 281**. El Defensor del Pueblo ejercerá sus funciones de manera autónoma. Será elegido por la Cámara de Representantes para un periodo institucional de cuatro años de terna elaborada por el Presidente de la República.
 
 ##### **Artículo 282.** El Defensor del Pueblo velará por la promoción, el ejercicio y la divulgación de los derechos humanos, para lo cual ejercerá las siguientes funciones:
 
@@ -2100,7 +1998,7 @@ Para el cumplimiento de sus funciones la Procuraduría tendrá atribuciones de p
 
 - 8. Las demás que determine la ley.
 
-##### **Artículo 283.** La ley determinará lo relativo a la organización y funcionamiento de la Defensoría del Pueblo.
+##### **Artículo 283.** La ley determinará lo relativo a la organización y funcionamiento de la Defensoría del Pueblo como ente autónomo administrativa y presupuestalmente.
 
 ##### **Artículo 284.** Salvo las excepciones previstas en la Constitución y la ley, el Procurador General de la Nación y el Defensor del Pueblo podrán requerir de las autoridades las informaciones necesarias para el ejercicio de sus funciones, sin que pueda oponérseles reserva alguna.
 
