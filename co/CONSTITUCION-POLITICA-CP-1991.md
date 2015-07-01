@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2015-06-30"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -744,6 +744,62 @@ Ningún acto del Presidente, excepto el de nombramiento y remoción de Ministros
 
 Las gobernaciones y las alcaldías, así como las superintendencias, los establecimientos públicos y las empresas industriales o comerciales del Estado, forman parte de la Rama Ejecutiva.
 
+##### **Artículo 116.**La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, Comisión Nacional de Disciplina Judicial, la Fiscalía General de la Nación, los Tribunales y los Jueces, administran Justicia. También lo hace la Justicia Penal Militar.
+
+El Congreso ejercerá determinadas funciones judiciales.
+
+Excepcionalmente la ley podrá atribuir función jurisdiccional en materias precisas a determinadas autoridades administrativas. Sin embargo no les será permitido adelantar la instrucción de sumarios ni juzgar delitos.
+
+Los particulares pueden ser investidos transitoriamente de la función de administrar justicia en la condición de jurados en las causas criminales, conciliadores o en la de árbitros habilitados por las partes para proferir fallos en derecho o en equidad, en los términos que determine la ley.
+
+**Artículo 116.**La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado,Consejo Superior de la Judicatura, la Fiscalía General de la Nación, los Tribunales y los Jueces, administran Justicia. También lo hace la Justicia Penal Militar.
+
+El Congreso ejercerá determinadas funciones judiciales.
+
+Excepcionalmente la ley podrá atribuir función jurisdiccional en materias precisas a determinadas autoridades administrativas. Sin embargo no les será permitido adelantar la instrucción de sumarios ni juzgar delitos.
+
+Los particulares pueden ser investidos transitoriamente de la función de administrar justicia en la condición de jurados en las causas criminales, conciliadores o en la de árbitros habilitados por las partes para proferir fallos en derecho o en equidad, en los términos que determine la ley.
+
+Créase un Tribunal de Garantías Penales que tendrá competencia en todo el territorio nacional y en cualquier jurisdicción penal, y ejercerá las siguientes funciones:
+
+- 1. De manera preferente, servir de juez de control de garantías en cualquier investigación o proceso penal que se adelante contra miembros de la Fuerza Pública.
+
+- 2. De manera preferente, controlar la acusación penal contra miembros de la Fuerza Pública, con el fin de garantizar que se cumplan los presupuestos materiales y formales para iniciar el juicio oral.
+
+- 3. De manera permanente, dirimir los conflictos de competencia que ocurran entre la Jurisdicción Ordinaria y la Jurisdicción Penal Militar.
+
+- 4. Las demás funciones que le asigne la ley.
+
+El Tribunal de Garantías estará integrado por ocho (8) Magistrados, cuatro (4) de los cuales serán miembros de la Fuerza Pública en retiro. Sus miembros serán elegidos por la Sala de Gobierno de la Corte Suprema de Justicia, la Sala de Gobierno del Consejo de Estado y la Corte Constitucional en pleno. Los miembros de la Fuerza Pública en retiro de este Tribunal serán elegidos de cuatro (4) ternas que enviará el Presidente de la República. Una ley estatutaria establecerá los requisitos exigidos para ser magistrado, el régimen de inhabilidades e incompatibilidades, el mecanismo de postulación de candidatos, el procedimiento para su selección y demás aspectos de organización y funcionamiento del Tribunal de Garantías Penales.
+
+**Parágrafo** Transitorio. El Tribunal de Garantías Penales empezará a ejercer las funciones asignadas en este artículo, una vez entre en vigencia la ley estatutaria que lo reglamente.
+
+**Artículo 116.** La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Superior de la Judicatura, la Fiscalía General de la Nación, los Tribunales y los Jueces, administran Justicia. También lo hace la Justicia Penal Militar.
+
+El Congreso ejercerá determinadas funciones judiciales.
+
+Excepcionalmente la ley podrá atribuir función jurisdiccional en materias precisas a determinadas autoridades administrativas. Sin embargo no les será permitido adelantar la instrucción de sumarios ni juzgar delitos.
+
+Los particulares pueden ser investidos transitoriamente de la función de administrar justicia en la condición de jurados en las causas criminales, conciliadores o en la de árbitros habilitados por las partes para proferir fallos en derecho o en equidad, en los términos que determine la ley.
+
+Créase un Tribunal de Garantías Penales que tendrá competencia en todo el territorio nacional y en cualquier jurisdicción penal, y ejercerá las siguientes funciones:
+
+- 1. De manera preferente, servir de juez de control de garantías en cualquier investigación o proceso penal que se adelante contra miembros de la Fuerza Pública.
+
+- 2. De manera preferente, controlar la acusación penal contra miembros de la Fuerza Pública, con el fin de garantizar que se cumplan los presupuestos materiales y formales para iniciar el juicio oral.
+
+- 3. De manera permanente, dirimir los conflictos de competencia que ocurran entre la Jurisdicción Ordinaria y la Jurisdicción Penal Militar.
+
+- 4. Las demás funciones que le asigne la ley.
+
+El Tribunal de Garantías estará integrado por ocho (8) Magistrados, cuatro (4) de los cuales serán miembros de la Fuerza Pública en retiro. Sus miembros serán elegidos por la Sala de Gobierno de la Corte Suprema de Justicia, la Sala de Gobierno del Consejo de Estado y la Corte Constitucional en pleno. Los miembros de la Fuerza Pública en retiro de este Tribunal serán elegidos de cuatro (4) ternas que enviará el Presidente de la República. Una ley estatutaria establecerá los requisitos exigidos para ser magistrado, el régimen de inhabilidades e incompatibilidades, el mecanismo de postulación de candidatos, el procedimiento para su selección y demás aspectos de organización y funcionamiento del Tribunal de Garantías Penales.
+
+**Parágrafo** Transitorio. El Tribunal de Garantías Penales empezará a ejercer las funciones asignadas en este artículo, una vez entre en vigencia la ley estatutaria que lo reglamente.
+
+**Artículo 116**. La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Superior de la Judicatura, la Fiscalía General de la Nación, los Tribunales y los Jueces, administran Justicia. También lo hace la Justicia Penal Militar. El Congreso ejercerá determinadas funciones judiciales. Excepcionalmente la ley podrá atribuir función jurisdiccional en materias precisas a determinadas autoridades administrativas. Sin embargo no les será permitido adelantar la instrucción de sumarios ni juzgar delitos. Los particulares pueden ser investidos transitoriamente de la función de administrar justicia en la condición de jurados en las causas criminales, conciliadores o en la de árbitros habilitados por las partes para proferir fallos en derecho o en equidad, en los términos que determine la ley.
+
+**Artículo 116.** La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Superior de la Judicatura, la Fiscalía General de la Nación, los Tribunales y los Jueces, administran Justicia. También lo hace la Justicia Penal Militar. El Congreso ejercerá determinadas funciones judiciales. Excepcionalmente la ley podrá atribuir función jurisdiccional en materias precisas a determinadas autoridades administrativas. Sin embargo no les será permitido adelantar la instrucción de sumarios ni juzgar delitos. Los particulares pueden ser investidos transitoriamente de la función de administrar justicia en la condición de jurados en las causas criminales, conciliadores o en la de árbitros habilitados por las partes para proferir fallos en derecho o en equidad, en los términos que determine la ley.
+
 ##### **Artículo 117.** El Ministerio Público y la Controlaría General de la República son órganos de control.
 
 ##### **Artículo 118.** El Ministerio Público será ejercido por el Procurador General de la Nación, por el Defensor del Pueblo, por los procuradores delegados y los agentes del ministerio público, ante las autoridades jurisdiccionales, por los personeros municipales y por los demás funcionarios que determine la ley. Al Ministerio Público corresponde la guarda y promoción de los derechos humanos, la protección del interés público y la vigilancia de la conducta oficial de quienes desempeñan funciones públicas.
@@ -817,6 +873,22 @@ Mientras se cumpla este procedimiento, se suspenden todos los trámites relacion
 La Comisión Nacional del Servicio Civil deberá desarrollar, dentro de los tres (3) meses siguientes a la publicación del presente acto legislativo, instrumentos de calificación del servicio que midan de manera real el desempeño de los servidores públicos inscritos de manera extraordinaria en carrera administrativa.
 
 Quedan exceptuados de estas normas los procesos de selección que se surtan en desarrollo de lo previsto por el artículo 131 de la Constitución Política y los servidores regidos por el artículo 256 de la Constitución Política, carrera docente y carrera diplomática consular.
+
+##### **Artículo 126**. Los servidores públicos no podrán en ejercicio de sus funciones, nombrar, postular, ni contratar con personas con las cuales tengan parentesco hasta el cuarto grado de consanguinidad, segundo de afinidad, primero civil, o con quien estén ligados por matrimonio o unión permanente.
+
+Tampoco podrán nombrar ni postular como servidores públicos, ni celebrar contratos estatales, con quienes hubieren intervenido en su postulación o designación, ni con personas que tengan con estas los mismos vínculos señalados en el inciso anterior.
+
+Se exceptúan de lo previsto en este artículo los nombramientos que se hagan en aplicación de las normas vigentes sobre ingreso o ascenso por méritos en cargos de carrera.
+
+Salvo los concursos regulados por la ley, la elección de servidores públicos atribuida a corporaciones públicas deberá estar precedida de una convocatoria pública reglada por la ley, en la que se fijen requisitos y procedimientos que garanticen los principios de publicidad, transparencia, participación ciudadana, equidad de género y criterios de mérito para su selección.
+
+Quien haya ejercido en propiedad alguno de los cargos en la siguiente lista, no podrá ser reelegido para el mismo. Tampoco podrá ser nominado para otro de estos cargos, ni ser elegido a un cargo de elección popular, sino un año después de haber cesado en el ejercido de sus funciones:
+
+Magistrado de la Corte Constitucional, de la Corte Suprema de Justicia, del Consejo de Estado, de la Comisión Nacional de Disciplina Judicial, Miembro de la Comisión de Aforados, Miembro del Consejo Nacional Electoral, Fiscal General de la Nación, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República y Registrador Nacional del Estado Civil.
+
+**Artículo 126.** Los servidores públicos no podrán nombrar como empleados a personas con las cuales tengan parentesco hasta el cuarto grado de consanguinidad, segundo de afinidad, primero civil, o con quien estén ligados por matrimonio o unión permanente. Tampoco podrán designar a personas vinculadas por los mismos lazos con servidores públicos competentes para intervenir en su designación.
+
+Se exceptúan de lo previsto en este artículo los nombramientos que se hagan en aplicación de las normas vigentes sobre ingreso o ascenso por méritos.
 
 ##### **Artículo 127.**Los servidores públicos no podrán celebrar, por si o por interpuesta persona, o en representación de otro, contrato alguno con entidades publicas o con personas privadas que manejen o administren recursos públicos, salvo las excepciones legales.
 
@@ -1072,6 +1144,10 @@ Los proyectos de ley relativos a los tributos iniciarán su tramite en la Cámar
 
 Los ciudadanos proponentes tendrán derecho a designar un vocero que será oído por las Cámaras en todas las etapas del tramite.
 
+##### **Artículo 156.** La Corte Constitucional, Consejo de Gobierno Judicial, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Nacional Electoral, el Procurador General de la Nación, el Contralor General de la República, tienen la facultad de presentar proyectos de ley en materias relacionadas con sus funciones.
+
+**Artículo 156.** La Corte Constitucional, el Consejo Superior de la Judicatura, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Nacional Electoral, el Procurador General de la Nación, el Contralor General de la República, tienen la facultad de presentar proyectos de ley en materias relacionadas con sus funciones.
+
 ##### **Artículo 157.** Ningún proyecto será ley sin los requisitos siguientes:
 
 - 1. Haber sido publicado oficialmente por el Congreso, antes de darle curso en la comisión respectiva.
@@ -1170,6 +1246,12 @@ Los representantes de las comunidades indígenas que aspiren a integrar el Senad
 
 - 7. Elegir al Procurador General de la Nación.
 
+##### **Artículo 174.** Corresponde al Senado conocer de las acusaciones que formule la Cámara de Representantes contra el Presidente de la República o quien haga sus veces y contra los miembros de la Comisión de Aforados, aunque hubieren cesado en el ejercicio de sus cargos. En este caso, será competente para conocer los hechos u omisiones ocurridos en el desempeño de los mismos.
+
+**( INEXEQUIBLE,modificación introducida por Articulo 5 del acto Legislativo 2 de 2015 , por medio de Sentencia C-373-2016)**
+
+**Artículo 174.** Corresponde al Senado conocer de las acusaciones que formule la Cámara de Representantes contra el Presidente de la República o quien haga sus veces; contra los Magistrados de la Corte Suprema de Justicia, del Consejo de Estado y de la Corte Constitucional, los miembros del Consejo Superior de la Judicatura y el Fiscal General de la Nación, aunque hubieren cesado en el ejercicio de sus cargos. En este caso, conocerá por hechos u omisiones ocurridos en el desempeño de los mismos.
+
 ##### **Artículo 175.** En los juicios que se sigan ante el Senado, se observarán estas reglas:
 
 - 1. El acusado queda de hecho suspenso de su empleo, siempre que una acusación sea públicamente admitida.
@@ -1199,6 +1281,66 @@ Las circunscripciones especiales asegurarán la participación en la Cámara de 
 **Parágrafo transitorio.**El Congreso de la República reglamentará la circunscripción internacional a más tardar el 16 de diciembre de 2013; de lo contrario, lo hará el Gobierno Nacional dentro de los treinta (30) días siguientes a esa fecha. En dicha reglamentación se incluirán, entre otros temas, la inscripción de candidatos, y la inscripción de ciudadanos habilitados para votar en el exterior, los mecanismos para promover la participación y realización del escrutinio de votos a través de los Consulados y Embajadas, y la financiación estatal para visitas al exterior por parte de los Representantes elegidos.
 
 ##### **Artículo 177.** Para ser elegido representante se requiere ser ciudadano en ejercicio y tener más de veinticinco años de edad en la fecha de la elección.
+
+##### **Artículo 178.** La Cámara de Representantes tendrá las siguientes atribuciones especiales:
+
+- 1. Elegir al Defensor del Pueblo.
+
+- 2. Examinar y fenecer la cuenta general del presupuesto y del tesoro que le presente el Contralor General de la República.
+
+- 3. Acusar ante el Senado, previa solicitud de la Comisión de Investigación y Acusación de la Cámara de Representantes, cuando hubiere causas constitucionales, al Presidente de la República o a quien haga sus veces y a los Miembros de la Comisión de Aforados.**(Inexequible Modificación Introducida por Acto LEGISLATIVO 2 DE 2015 -Sentencia C -373-2016)**
+
+- 4. Conocer de las denuncias y quejas que ante ella se presenten por el Fiscal General de la Nación o por los particulares contra los expresados funcionarios y, si prestan mérito, fundar en ellas acusación ante el Senado.
+
+- 5. Requerir el auxilio de otras autoridades para el desarrollo de las investigaciones que le competen, y comisionar para la práctica de pruebas cuando lo considere conveniente.
+
+**Nota:** Téngase en cuenta para la aplicación de este artículo lo indicado en el inciso 2° del art. 1° del Acto Legislativo 02 de 2015.
+
+**Artículo 178.** La Cámara de Representantes tendrá las siguientes atribuciones especiales:
+
+- 1. Elegir al Defensor del Pueblo.
+
+- 2. Examinar y fenecer la cuenta general del presupuesto y del tesoro que le presente el Contralor General de la República.
+
+- 3. Acusar ante el Senado, cuando hubiere causas Constitucionales, al Presidente de la República, o a quien haga sus veces, a los magistrados de la Corte Constitucional, a los magistrados de la Corte Suprema de Justicia, a los miembros del Consejo Superior de la Judicatura, a los magistrados del Consejo de Estado y al Fiscal General de la Nación.
+
+- 4. Conocer de las denuncias y quejas que ante ella se presenten por el Fiscal General de la Nación o por los particulares contra los expresados funcionarios y, si prestan mérito, fundar en ellas acusación ante el Senado.
+
+- 5. Requerir el auxilio de otras autoridades para el desarrollo de las investigaciones que le competen, y comisionar para la práctica de pruebas cuando lo considere conveniente.
+
+**Nota:** Téngase en cuenta para la aplicación de este artículo lo indicado en el inciso 2° del art. 1° del Acto Legislativo 02 de 2015.
+
+##### **Artículo 178-A.** Los Magistrados de la Corte Constitucional, de la Corte Suprema de Justicia, del Consejo de Estado, de la Comisión Nacional de Disciplina Judicial y el Fiscal General de la Nación serán responsables por cualquier infracción a la ley disciplinaria o penal cometida en el ejercicio de sus funciones o con ocasión de estas. En todo caso, no podrá exigírseles en ningún tiempo responsabilidad por los votos y opiniones emitidos en sus providencias judiciales o consultivas, proferidas en ejercicio de su independencia funcional, sin perjuicio de la responsabilidad a la que haya lugar por favorecer indebidamente intereses propios o ajenos.
+
+Una Comisión de Aforados será competente para investigar y acusar, conforme a la ley y los principios del debido proceso, a los funcionarios señalados en el inciso anterior, aunque hubieren cesado en el ejercicio de sus cargos. En este caso, será competente para conocer de los hechos u omisiones ocurridos en el desempeño de los mismos.
+
+Si la investigación se refiere a faltas disciplinarias de indignidad por mala conducta, la Comisión de Aforados adelantará la investigación y cuando hubiere lugar, presentará la acusación ante la Cámara de Representantes. En ningún caso se podrán imponer otras penas que la de suspensión o destitución del empleo. La decisión de la Cámara de Representantes podrá ser apelada ante el Senado de la República. El Congreso en ningún caso practicará pruebas. Contra la decisión del Senado no procederá ningún recurso ni acción.
+
+Si la investigación se refiere a delitos, la Comisión de Aforados también presentará la acusación a la Corte Suprema de Justicia, para que allí se adelante el juzgamiento. En el caso de juicios contra magistrados de la Corte Suprema de Justicia, los conjueces serán designados por el Consejo de Estado.
+
+La Comisión contará con un plazo de sesenta días para presentar la acusación cuando se trate de falta disciplinaria de indignidad por mala conducta, y la Cámara de Representantes tendrá treinta días para decidir. En todo caso, la Comisión podrá continuar con la investigación de la causa criminal de haber lugar a ello y, de encontrar mérito para acusar, adelantará el trámite previsto en el inciso anterior, en el término que disponga la ley.
+
+La Comisión estará conformada por cinco miembros, elegidos por el Congreso en Pleno para periodos personales de ocho años, de listas enviadas por el Consejo de Gobierno Judicial y elaboradas mediante convocatoria pública adelantada por la Gerencia de la Rama Judicial en los términos que disponga la ley.
+
+Los miembros de la Comisión de Aforados deberán cumplir con las calidades exigidas para ser Magistrados de la Corte Suprema de Justicia y estarán sujetos al mismo régimen de inhabilidades e incompatibilidades.
+
+Las Salas Plenas de la Corte Constitucional, de la Corte Suprema de Justicia, del Consejo de Estado y de la Comisión Nacional de Disciplina Judicial, podrán solicitar a la Comisión de Aforados la suspensión de uno de sus miembros mientras se decide la acusación por faltas disciplinarias de indignidad por mala conducta.
+
+La ley establecerá el procedimiento para determinar la responsabilidad fiscal cuando los aforados señalados en este artículo ejerzan funciones administrativas.
+
+**Parágrafo transitorio.**Sin perjuicio de lo dispuesto en el numeral tercero del artículo 178, la Comisión de Investigación y Acusaciones de la Cámara de Representantes mantendrá, durante un año contado a partir de la entrada en vigencia del presente Acto Legislativo, la competencia para investigar los hechos ocurridos antes de la posesión de los magistrados de la Comisión de Aforados, que se le imputen a los aforados citados en este artículo y a los magistrados del Consejo Superior de la Judicatura. La Cámara de Representantes adoptará las decisiones administrativas necesarias para que en ese lapso, los representantes investigadores puedan:
+
+- a) Dictar resolución inhibitoria en los casos que no ameriten apertura formal de investigación cuando aparezca que la conducta no ha existido, que es objetivamente atípica, que la acción penal no puede iniciarse o que está demostrada una causal de ausencia de responsabilidad.
+
+- b) Remitir la investigación a la autoridad competente si se trata de hechos cometidos por fuera del ejercicio de sus funciones y el investigado hubiere cesado en el ejercicio de su cargo.
+
+- c) Ordenar la apertura de investigación cuando se encuentren dados los supuestos legales que lo ameriten y remitirla a la Comisión de Aforados para que asuma el proceso.
+
+- d) Presentar la acusación ante la Plenaria de la Cámara de Representantes en relación con investigaciones abiertas, cuando se encuentren dados los supuestos legales que lo ameriten.
+
+- e) Remitir a la Comisión de Aforados todas las demás investigaciones, en el estado en que se encuentren, incluidas las adelantadas contra los magistrados del Consejo Superior de la Judicatura.
+
+Mientras la ley no adopte el procedimiento aplicable, la Comisión de Aforados se regirá por el régimen procesal utilizado en las investigaciones que adelanta la Comisión de Investigación y Acusación y las normas que lo sustituyan y lo modifiquen.
 
 ### **CAPITULO 6**
 
@@ -1369,6 +1511,26 @@ La infracción de esta disposición implica abandono del cargo.
 El Presidente de la República, o quien haya ocupado la Presidencia a título de encargado, no podrá salir del país dentro del año siguiente a la fecha en que cesó en el ejercicio de sus funciones, sin permiso previo del Senado.
 
 Cuando el Presidente de la República se traslade a territorio extranjero en ejercicio de su cargo, el Ministro a quien corresponda, según el orden de precedencia legal, ejercerá bajo su propia responsabilidad las funciones constitucionales que el Presidente le delegue, tanto aquellas que le son propias como las que ejerce en su calidad de Jefe del Gobierno. El Ministro Delegatario pertenecerá al mismo partido o movimiento político del Presidente.
+
+##### **Artículo 197.**No podrá ser elegido Presidente de la República el ciudadano que a cualquier título hubiere ejercido la Presidencia. Esta prohibición no cobija al Vicepresidente cuando la ha ejercido por menos de tres meses, en forma continua o discontinua, durante el cuatrienio. La prohibición de la reelección solo podrá ser reformada o derogada mediante referendo de iniciativa popular o asamblea constituyente.
+
+No podrá ser elegido Presidente de la República o Vicepresidente quien hubiere incurrido en alguna de las causales de inhabilidad consagradas en los numerales 1, 4 y 7 del artículo 179, ni el ciudadano que un año antes de la elección haya tenido la investidura de Vicepresidente o ejercido cualquiera de los siguientes cargos:
+
+Ministro, Director de Departamento Administrativo, Magistrado de la Corte Suprema de Justicia, de la Corte Constitucional, del Consejo de Estado, Comisión Nacional de Disciplina Judicial, Miembro de la Comisión de Aforados o del Consejo Nacional Electoral, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República, Fiscal General de la Nación, Registrador Nacional del Estado Civil, Comandantes de las Fuerzas Militares, Auditor General de la República, Director General de la Policía, Gobernador de departamento o Alcalde.
+
+**Artículo 197.** Nadie podrá ser elegido para ocupar la Presidencia de la República por más de dos períodos".
+
+No podrá ser elegido Presidente de la República o Vicepresidente quien hubiere incurrido en alguna de las causales de inhabilidad consagradas en los numerales 1, 4 y 7 del artículo 179, ni el ciudadano que un año antes de la elección haya ejercido cualquiera de los siguientes cargos:
+
+Ministro, Director de Departamento Administrativo, Magistrado de la Corte Suprema de Justicia, de la Corte Constitucional, del Consejo de Estado, del Consejo Superior de la Judicatura, o del Consejo Nacional Electoral, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República, Fiscal General de la Nación, Registrador Nacional del Estado Civil, Comandantes de las Fuerzas Militares, Director General de la Policía, Gobernador de Departamento o Alcaldes.
+
+**Parágrafo transitorio.** Quien ejerza o haya ejercido la Presidencia de la República antes de la vigencia del presente Acto Legislativo sólo podrá ser elegido para un nuevo período presidencial.
+
+**Artículo 197.** No podrá ser elegido Presidente de la República el ciudadano que a cualquier título hubiere ejercido la Presidencia. Esta prohibición no cobija al Vicepresidente cuando la ha ejercido por menos de tres meses, en forma continua o discontinua, durante el cuatrienio.
+
+Tampoco podrá ser elegido Presidente de la República quien hubiere incurrido en alguna de las causales de inhabilidad consagradas en los numerales 1, 4 y 7 del artículo 179, ni el ciudadano que un año antes de la elección haya ejercido cualquiera de los siguientes cargos:
+
+Magistrado de la Corte Suprema de Justicia, o de la Corte Constitucional, Consejero de Estado o miembro del Consejo Nacional Electoral, o del Consejo Superior de la Judicatura, Ministros del Despacho, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República, Fiscal General de la Nación, Registrador Nacional del Estado Civil, Director de Departamento Administrativo, Gobernador de Departamento o Alcalde Mayor de Santa Fe de Bogotá.
 
 ##### **Artículo 198.** El Presidente de la República, o quien haga sus veces, será responsable de sus actos u omisiones que violen la Constitución o las leyes.
 
@@ -1578,6 +1740,14 @@ Los miembros de los organismos nacionales de seguridad y otros cuerpos oficiales
 
 La equidad, la jurisprudencia, los principios generales del derecho y la doctrina son criterios auxiliares de la actividad judicial.
 
+##### **Artículo 231.** Los Magistrados de la Corte Suprema de Justicia y del Consejo de Estado serán elegidos por la respectiva Corporación, previa audiencia pública, de lista de diez elegibles enviada por el Consejo de Gobierno Judicial tras una convocatoria pública reglada de conformidad con la ley y adelantada por la Gerencia de la Rama Judicial.
+
+En el conjunto de procesos de selección de los Magistrados de la Corte Suprema de Justicia y del Consejo de Estado se atenderá el criterio de equilibrio entre quienes provienen del ejercicio profesional, de la Rama Judicial y de la academia.
+
+La Corte Suprema de Justicia y el Consejo de Estado reglamentarán la fórmula de votación y el término en el cual deberán elegir a los Magistrados que conformen la respectiva corporación.
+
+**Artículo 231.** Los Magistrados de la Corte Suprema de Justicia y del Consejo de Estado serán nombrados por la respectiva corporación, de listas enviadas por el Consejo Superior de la Judicatura.
+
 ##### **Artículo 232.** Para ser Magistrado de la Corte Constitucional, de la Corte Suprema de Justicia y del Consejo de Estado se requiere:
 
 - 1. Ser colombiano de nacimiento y ciudadano en ejercicio.
@@ -1597,6 +1767,60 @@ La equidad, la jurisprudencia, los principios generales del derecho y la doctrin
 **DE LA JURISDICCION ORDINARIA**
 
 ##### **Artículo 234.** La Corte Suprema de Justicia es el máximo tribunal de la jurisdicción ordinaria y se compondrá del número impar de magistrados que determine la ley. Esta dividirá la Corte en salas, señalará a cada una de ellas los asuntos que deba conocer separadamente y determinará aquellos en que deba intervenir la Corte en pleno.
+
+##### **Artículo 235.** Son atribuciones de la Corte Suprema de Justicia:
+
+- 1. Actuar como tribunal de casación.
+
+- 2. Juzgar al Presidente de la República o a quien haga sus veces y a los altos funcionarios de que trata el artículo 174, por cualquier hecho punible que se les impute, conforme al artículo 175 numerales 2 y 3.
+
+- 3. Investigar y juzgar a los miembros del Congreso.
+
+- 4. Juzgar, previa acusación del Fiscal General de la Nación, del Vicefiscal General de la Nación o de sus delegados de la unidad de fiscalías ante la Corte Suprema de Justicia, al Vicepresidente de la República, a los Ministros del Despacho, al Procurador General, al Defensor del Pueblo, a los Agentes del Ministerio Público ante la Corte, ante el Consejo de Estado y ante los Tribunales; a los Directores de los Departamentos Administrativos, al Contralor General de la República, a los Embajadores y jefe de misión diplomática o consular, a los Gobernadores, a los Magistrados de Tribunales y a los Generales y Almirantes de la Fuerza Pública, por los hechos punibles que se les imputen.
+
+- 5. Conocer de todos los negocios contenciosos de los agentes diplomáticos acreditados ante el Gobierno de la Nación, en los casos previstos por el Derecho Internacional.
+
+- 6. Darse su propio reglamento.
+
+- 7. Las demás atribuciones que señale la ley.
+
+**Parágrafo.** Cuando los funcionarios antes enumerados hubieren cesado en el ejercicio de su cargo, el fuero sólo se mantendrá para las conductas punibles que tengan relación con las funciones desempeñadas.
+
+**Artículo 235.** Son atribuciones de la Corte Suprema de Justicia:
+
+- 1. Actuar como tribunal de casación.
+
+- 2. Juzgar al Presidente de la República o a quien haga sus veces y a los altos funcionarios de que trata el artículo 174, por cualquier hecho punible que se les impute, conforme al artículo 175 numerales 2 y 3.
+
+- 3. Investigar y juzgar a los miembros del Congreso.
+
+- 4. Juzgar, previa acusación del Fiscal General de la Nación, del Vicefiscal General de la Nación o de sus delegados de la unidad de fiscalías ante la Corte Suprema de Justicia, a los Ministros del Despacho, al Procurador General, al Defensor del Pueblo, a los Agentes del Ministerio Público ante la Corte, ante el Consejo de Estado y ante los Tribunales; a los Directores de los Departamentos Administrativos, al Contralor General de la República, a los Embajadores y jefe de misión diplomática o consular, a los Gobernadores, a los Magistrados de Tribunales y a los Generales y Almirantes de la Fuerza Pública, por los hechos punibles que se les imputen.
+
+- 5. Conocer de todos los negocios contenciosos de los agentes diplomáticos acreditados ante el Gobierno de la Nación, en los casos previstos por el Derecho Internacional.
+
+- 6. Darse su propio reglamento.
+
+- 7. Las demás atribuciones que señale la ley.
+
+**Parágrafo.** Cuando los funcionarios antes enumerados hubieren cesado en el ejercicio de su cargo, el fuero sólo se mantendrá para las conductas punibles que tengan relación con las funciones desempeñadas.
+
+**Artículo 235.** Son atribuciones de la Corte Suprema de Justicia:
+
+- 1. Actuar como tribunal de casación.
+
+- 2. Juzgar al Presidente de la República o a quien haga sus veces y a los altos funcionarios de que trata el artículo 174, por cualquier hecho punible que se les impute, conforme al artículo 175 numerales 2 y 3.
+
+- 3. Investigar y juzgar a los miembros del Congreso.
+
+- 4. Juzgar, previa acusación del Fiscal General de la Nación, a los Ministros del Despacho, al Procurador General, al Defensor del Pueblo, a los Agentes del Ministerio Público ante la Corte, ante el Consejo de Estado y ante los Tribunales; a los Directores de los Departamentos Administrativos, al Contralor General de la República, a los Embajadores y jefes de misión diplomática o consular, a los Gobernadores, a los Magistrados de Tribunales y a los Generales y Almirantes de la Fuerza Pública, por los hechos punibles que se les imputen
+
+- 5. Conocer de todos los negocios contenciosos de los agentes diplomáticos acreditados ante el Gobierno de la Nación, en los casos previstos por el Derecho Internacional.
+
+- 6. Darse su propio reglamento.
+
+- 7. Las demás atribuciones que señale la ley.
+
+**Parágrafo.** Cuando los funcionarios antes enumerados hubieren cesado en el ejercicio de su cargo, el fuero sólo se mantendrá para las conductas punibles que tengan relación con las funciones desempeñadas.
 
 ### **CAPITULO 3**
 
@@ -1772,6 +1996,72 @@ En el evento de presentarse escrito de acusación, el Fiscal General o sus deleg
 
 **DEL CONSEJO SUPERIOR DE LA JUDICATURA**
 
+##### **Artículo 254.** El Gobierno y la administración de la Rama Judicial estarán a cargo del Consejo de Gobierno Judicial y la Gerencia de la Rama Judicial. Estos órganos ejercerán las funciones que les atribuya la ley con el fin de promover el acceso a la justicia, la eficiencia de la Rama Judicial, la tutela judicial efectiva y la independencia judicial.
+
+El Consejo de Gobierno Judicial es el órgano, encargado de definir las políticas de la Rama Judicial de acuerdo con la ley y postular las listas y ternas de candidatos que la Constitución le ordene. También corresponde al Consejo de Gobierno Judicial regular los trámites judiciales y administrativos que se adelanten en los despachos judiciales, en los aspectos no previstos por el legislador; expedir el reglamento del sistema de carrera judicial y de la Comisión de Carrera Judicial, cuya función será la vigilancia y control de la carrera; aprobar el proyecto de presupuesto de la Rama Judicial que deberá ser remitido al Gobierno; aprobar el mapa judicial; definir la estructura orgánica de la Gerencia de la Rama Judicial; supervisar a esta entidad, y rendir cuentas por su desempeño ante el Congreso de la República.
+
+El Consejo de Gobierno Judicial estará integrado por nueve miembros: los Presidentes de la Corte Constitucional, de la Corte Suprema de Justicia y del Consejo de Estado; el gerente de la Rama Judicial, quien deberá ser profesional con veinte años de experiencia, de los cuales diez deberán ser en administración de empresas o en entidades públicas, y será nombrado por el Consejo de Gobierno Judicial para un período de cuatro años; un representante de los magistrados de los Tribunales y de los jueces, elegido por ellos para un periodo de cuatro años; un representante de los empleados de la Rama Judicial elegido por estos para un periodo de cuatro años; tres miembros permanentes de dedicación exclusiva, nombrados por los demás miembros del Consejo de Gobierno Judicial, para un período de cuatro años. Ninguno de los miembros del Consejo de Gobierno Judicial podrá ser reelegido.
+
+Los miembros permanentes de dedicación exclusiva mencionados en el inciso anterior estarán encargados de la planeación estratégica de la Rama Judicial y de proponer al Consejo de Gobierno Judicial, para su aprobación, las políticas públicas de la Rama Judicial. Deberán tener diez años de experiencia en diseño, evaluación o seguimiento de políticas públicas, modelos de gestión o administración pública. En su elección se deberá asegurar la diversidad de perfiles académicos y profesionales.
+
+La ley estatutaria podrá determinar los temas específicos para los cuales los ministros del despacho los directores de departamento administrativo, el Fiscal General de la Nación, así como representantes de académicos y de los abogados litigantes participarán en las reuniones del Consejo de Gobierno Judicial.
+
+**Artículo 254.** El Consejo Superior de la Judicatura se dividirá en dos salas:
+
+- 1. La Sala Administrativa, integrada por seis magistrados elegidos para un período de ocho años, así: dos por la Corte Suprema de Justicia, uno por la Corte Constitucional y tres por el Consejo de Estado.
+
+- 2. La Sala Jurisdiccional Disciplinaria, integrada por siete magistrados elegidos para un período de ocho años, por el Congreso Nacional de ternas enviadas por el Gobierno. Podrá haber Consejos Seccionales de la Judicatura integrados como lo señale la ley.
+
+##### **Artículo 255.**La Gerencia de la Rama Judicial es un órgano subordinado al Consejo de Gobierno Judicial y estará organizada de acuerdo con el principio de desconcentración territorial.
+
+La Gerencia de la Rama Judicial es la encargada de ejecutar las decisiones del Consejo de Gobierno Judicial, proveer apoyo administrativo y logístico a este órgano, administrar la Rama Judicial, elaborar para aprobación del Consejo de Gobierno Judicial el proyecto de presupuesto que deberá ser remitido al Gobierno, y ejecutarlo de conformidad con la aprobación que haga el Congreso, elaborar planes y programas para aprobación del Consejo de Gobierno Judicial, formular modelos de gestión e implementar los modelos procesales en el territorio nacional, administrar la Carrera Judicial, organizar la Comisión de Carrera Judicial, realizar los concursos y vigilar el rendimiento de los funcionarios y los despachos. El Gerente de la Rama Judicial representará legalmente a la Rama Judicial. Ejercerá las demás funciones que le atribuya la ley. **(Inexequible , cambio introducido por el articulo 16 Acto Legislativo 2 de 2015 , Sentencia 285 de 2016)**
+
+**Artículo 255.** Para ser miembro del Consejo Superior de la Judicatura se requiere ser colombiano por nacimiento, ciudadano en ejercicio y mayor de treinta y cinco años; tener título de abogado y haber ejercido la profesión durante diez años con buen crédito. Los miembros del Consejo no podrán ser escogidos entre los magistrados de las mismas corporaciones postulantes.
+
+##### **Artículo 256. Derogado**
+
+**Artículo 256.** Corresponden al Consejo Superior de la Judicatura o a los Consejos Seccionales, según el caso y de acuerdo a la ley, las siguientes atribuciones:
+
+- 1. Administrar la carrera judicial.
+
+- 2. Elaborar las listas de candidatos para la designación de funcionarios judiciales y enviarlas a la entidad que deba hacerla. Se exceptúa la jurisdicción penal militar que se regirá por normas especiales.
+
+- 3. Examinar la conducta y sancionar las faltas de los funcionarios de la rama judicial, así como las de los abogados en el ejercicio de su profesión, en la instancia que señale la ley.
+
+- 4. Llevar el control de rendimiento de las corporaciones y despachos judiciales.
+
+- 5. Elaborar el proyecto de presupuesto de la Rama Judicial que deberá ser remitido al Gobierno, y ejecutarlo de conformidad con la aprobación que haga el Congreso.
+
+- 6. Dirimir los conflictos de competencia que ocurran entre las distintas jurisdicciones.
+
+- 7. Las demás que señale la ley.
+
+##### **Artículo 257.** La Comisión Nacional de Disciplina Judicial ejercerá la función jurisdiccional disciplinaria sobre los funcionarios y empleados de la Rama Judicial.
+
+Estará conformada por siete Magistrados, cuatro de los cuales serán elegidos por el Congreso en Pleno de ternas enviadas por el Consejo de Gobierno Judicial previa convocatoria pública reglada adelantada por la Gerencia de la Rama Judicial, y tres de los cuales serán elegidos por el Congreso en Pleno de ternas enviadas por el Presidente de la República, previa convocatoria pública reglada. Tendrán periodos personales de ocho años, y deberán cumplir con los mismos requisitos exigidos para ser Magistrado de la Corte Suprema de Justicia.
+
+Los Magistrados de la Comisión Nacional de Disciplina Judicial no podrán ser reelegidos.
+
+Podrá haber Comisiones Seccionales de Disciplina Judicial integradas como lo señale la ley.
+
+La Comisión Nacional de Disciplina Judicial será la encargada de examinar la conducta y sancionar las faltas de los abogados en ejercicio de su profesión, en la instancia que señale la ley, salvo que esta función se atribuya por la ley a un Colegio de Abogados.
+
+**Parágrafo**. La Comisión Nacional de Disciplina Judicial y las Comisiones Seccionales de Disciplina Judicial no serán competentes para conocer de acciones de tutela.
+
+**Parágrafo Transitorio 1°.** Los Magistrados de la Comisión Nacional de Disciplina Judicial deberán ser elegidos dentro del año siguiente a la vigencia del presente acto legislativo. Una vez posesionados, la Comisión Nacional de Disciplina Judicial asumirá los procesos disciplinarios de la Sala Jurisdiccional Disciplinaria del Consejo Superior de la Judicatura. Los actuales Magistrados de la Sala Jurisdiccional Disciplinaria del Consejo Superior de la Judicatura, ejercerán sus funciones hasta el día que se posesionen los miembros de la Comisión Nacional de Disciplina Judicial. Las Salas Disciplinarias de los Consejos Seccionales de la Judicatura serán transformadas en Comisiones Seccionales de Disciplina Judicial. Se garantizarán los derechos de carrera de los Magistrados y empleados de las salas disciplinarias de los Consejos Seccionales de la Judicatura quienes continuarán conociendo de los procesos a su cargo, sin solución de continuidad.
+
+**Artículo 257.** Con sujeción a la ley, el Consejo Superior de la Judicatura cumplirá las siguientes funciones:
+
+- 1. Fijar la división del territorio para efectos judiciales y ubicar y redistribuir los despachos judiciales.
+
+- 2. Crear, suprimir, fusionar y trasladar cargos en la administración de justicia. En ejercicio de esta atribución, el Consejo Superior de la Judicatura no podrá establecer a cargo del Tesoro obligaciones que excedan el monto global fijado para el respectivo servicio en la ley de apropiaciones iniciales.
+
+- 3. Dictar los reglamentos necesarios para el eficaz funcionamiento de la administración de justicia, los relacionados con la organización y funciones internas asignadas a los distintos cargos y la regulación de los trámites judiciales y administrativos que se adelanten en los despachos judiciales, en los aspectos no previstos por el legislador.
+
+- 4. Proponer proyectos de ley relativos a la administración de justicia y a los códigos sustantivos y procedimentales.
+
+- 5. Las demás que señale la ley.
+
 ##### **Artículo 257-A**. La Comisión Nacional de Disciplina Judicial ejercerá la función jurisdiccional disciplinaria sobre los funcionarios y empleados de la rama judicial.
 
 Estará conformada por siete Magistrados, cuatro de los cuales serán elegidos por el Congreso en pleno de ternas enviadas por el Consejo Superior de la Judicatura previa convocatoria pública reglada, y tres de los cuales serán elegidos por el Congreso en pleno de ternas enviadas por el Presidente de la República, previa convocatoria pública reglada. Tendrán periodos personales de ocho años, y deberán cumplir con los mismos requisitos exigidos para ser Magistrado de la Corte Suprema de Justicia.
@@ -1884,6 +2174,42 @@ La Registraduría Nacional estará conformada por servidores públicos que perte
 
 **DE LA CONTRALORIA GENERAL DE LA REPUBLICA**
 
+##### **Artículo 267.** El control fiscal es una función pública que ejercerá la Contraloría General de la República, la cual vigila la gestión fiscal de la administración y de los particulares o entidades que manejen fondos o bienes de la Nación.
+
+Dicho control se ejercerá en forma posterior y selectiva conforme a los procedimientos, sistemas y principios que establezca la ley. Esta podrá, sin embargo, autorizar que, en casos especiales, la vigilancia se realice por empresas privadas colombianas escogidas por concurso público de méritos, y contratadas previo concepto del Consejo de Estado.
+
+La vigilancia de la gestión fiscal del Estado incluye el ejercicio de un control financiero, de gestión y de resultados, fundado en la eficiencia, la economía, la equidad y la valoración de los costos ambientales. En los casos excepcionales, previstos por la ley, la Contraloría podrá ejercer control posterior sobre cuentas de cualquier entidad territorial.
+
+La Contraloría es una entidad de carácter técnico con autonomía administrativa y presupuestal. No tendrá funciones administrativas distintas de las inherentes a su propia organización.
+
+El Contralor será elegido por el Congreso en Pleno, por mayoría absoluta, en el primer mes de sus sesiones para un periodo igual al del Presidente de la República, de lista de elegibles conformada por convocatoria pública con base en lo dispuesto en el artículo 126 de la Constitución y no podrá ser reelegido ni continuar en ejercicio de sus funciones al vencimiento del mismo.
+
+Solo el Congreso puede admitir la renuncia que presente el Contralor y proveer las faltas absolutas y temporales del cargo.
+
+Para ser elegido Contralor General de la República se requiere ser colombiano de nacimiento y en ejercicio de la ciudadanía; tener más de 35 años de edad; tener título universitario o haber sido profesor universitario durante un tiempo no menor de 5 años; y acreditar las calidades adicionales que exija la ley.
+
+No podrá ser elegido Contralor General quien sea o haya sido miembro del Congreso u ocupado cargo público alguno del orden nacional, salvo la docencia, en el año inmediatamente anterior a la elección. Tampoco podrá ser elegido quien haya sido condenado a pena de prisión por delitos comunes.
+
+En ningún caso podrán intervenir en la postulación o elección del Contralor personas que se hallen dentro del cuarto grado de consanguinidad, segundo de afinidad y primero civil o legal respecto de los candidatos.
+
+**Artículo 267.** El control fiscal es una función pública que ejercerá la Contraloría General de la República, la cual vigila la gestión fiscal de la administración y de los particulares o entidades que manejen fondos o bienes de la Nación.
+
+Dicho control se ejercerá en forma posterior y selectiva conforme a los procedimientos, sistemas y principios que establezca la ley. Esta podrá, sin embargo, autorizar que, en casos especiales, la vigilancia se realice por empresas privadas colombianas escogidas por concurso público de méritos, y contratadas previo concepto del Consejo de Estado.
+
+La vigilancia de la gestión fiscal del Estado incluye el ejercicio de un control financiero, de gestión y de resultados, fundado en la eficiencia, la economía, la equidad y la valoración de los costos ambientales. En los casos excepcionales, previstos por la ley, la Contraloría podrá ejercer control posterior sobre cuentas de cualquier entidad territorial.
+
+La Contraloría es una entidad de carácter técnico con autonomía administrativa y presupuestal. No tendrá funciones administrativas distintas de las inherentes a su propia organización.
+
+El Contralor será elegido por el Congreso en pleno en el primer mes de sus sesiones para un período igual al del Presidente de la República, de terna integrada por candidatos presentados a razón de uno por la Corte Constitucional, la Corte Suprema de Justicia y el Consejo de Estado, y no podrá ser reelegido para el período inmediato ni continuar en ejercicio de sus funciones al vencimiento del mismo. Quien haya ejercido en propiedad este cargo no podrá desempeñar empleo público alguno del orden nacional, salvo la docencia, ni aspirar a cargos de elección popular sino un año después de haber cesado en sus funciones.
+
+Sólo el Congreso puede admitir las renuncias que presente el Contralor y proveer las vacantes definitivas del cargo; las faltas temporales serán provistas por el Consejo de Estado.
+
+Para ser elegido Contralor General de la República se requiere ser colombiano de nacimiento y en ejercicio de la ciudadanía; tener más de 35 años de edad; tener título universitario o haber sido profesor universitario durante un tiempo no menor de 5 años; y acreditar las calidades adicionales que exija la ley.
+
+No podrá ser elegido Contralor General quien sea o haya sido miembro del Congreso u ocupado cargo público alguno del orden nacional, salvo la docencia, en el año inmediatamente anterior a la elección. Tampoco podrá ser elegido quien haya sido condenado a pena de prisión por delitos comunes.
+
+En ningún caso podrán intervenir en la postulación o elección del Contralor personas que se hallen dentro del cuarto grado de consanguinidad, segundo de afinidad y primero civil o legal respecto de los candidatos.
+
 ##### **Artículo 268.** El Contralor General de la República tendrá las siguientes atribuciones:
 
 - 1. Prescribir los métodos y la forma de rendir cuentas los responsables del manejo de fondos o bienes de la Nación e indicar los criterios de evaluación financiera, operativa y de resultados que deberán seguirse.
@@ -1919,6 +2245,42 @@ Presentar a la Cámara de Representantes la Cuenta General del Presupuesto y del
 ##### **Artículo 270.** La ley organizará las formas y los sistemas de participación ciudadana que permitan vigilar la gestión pública que se cumpla en los diversos niveles administrativos y sus resultados.
 
 ##### **Artículo** **271.** Los resultados de las indagaciones preliminares adelantadas por la Contraloría tendrán valor probatorio ante la Fiscalía General de la Nación y el juez competente.
+
+##### **Artículo 272.** La vigilancia de la gestión fiscal de los departamentos, distritos y municipios donde haya contralorías, corresponde a éstas y se ejercerá en forma posterior y selectiva.
+
+La de los municipios incumbe a las contralorías departamentales, salvo lo que la ley determine respecto de contralorías municipales.
+
+Corresponde a las asambleas y a los concejos distritales y municipales organizar las respectivas contralorías como entidades técnicas dotadas de autonomía administrativa y presupuestal.
+
+Los Contralores departamentales, distritales y municipales serán elegidos por las Asambleas Departamentales, Concejos Municipales y Distritales, mediante convocatoria pública conforme a la ley, siguiendo los principios de transparencia, publicidad, objetividad, participación ciudadana y equidad de género, para periodo igual al del Gobernador o Alcalde, según el caso.
+
+Ningún contralor podrá ser reelegido para el período inmediato.
+
+Los contralores departamentales, distritales y municipales ejercerán, en el ámbito de su jurisdicción, las funciones atribuidas al Contralor General de la República en el artículo 268 y podrán, según lo autorice la ley, contratar con empresas privadas colombianas el ejercicio de la vigilancia fiscal.
+
+Para ser elegido contralor departamental, distrital o municipal se requiere ser colombiano por nacimiento, ciudadano en ejercicio, tener más de veinticinco años, acreditar título universitario y las demás calidades que establezca la ley.
+
+No podrá ser elegido quien sea o haya sido en el último año miembro de la Asamblea o Concejo que deba hacer la elección, ni quien haya ocupado cargo público en el nivel ejecutivo del orden departamental, distrital o municipal.
+
+Quien haya ocupado en propiedad el cargo de contralor departamental, distrital o municipal, no podrá desempeñar empleo oficial alguno en el respectivo departamento, distrito o municipio, ni ser inscrito como candidato a cargos de elección popular sino un año después de haber cesado en sus funciones.
+
+**Artículo 272.** La vigilancia de la gestión fiscal de los departamentos, distritos y municipios donde haya contralorías, corresponde a éstas y se ejercerá en forma posterior y selectiva.
+
+La de los municipios incumbe a las contralorías departamentales, salvo lo que la ley determine respecto de contralorías municipales.
+
+Corresponde a las asambleas y a los concejos distritales y municipales organizar las respectivas contralorías como entidades técnicas dotadas de autonomía administrativa y presupuestal.
+
+Igualmente les corresponde elegir contralor para período igual al del gobernador o alcalde, según el caso, de ternas integradas con dos candidatos presentados por el tribunal superior de distrito judicial y uno por el correspondiente tribunal de lo contencioso administrativo.
+
+Ningún contralor podrá ser reelegido para el período inmediato.
+
+Los contralores departamentales, distritales y municipales ejercerán, en el ámbito de su jurisdicción, las funciones atribuidas al Contralor General de la República en el artículo 268 y podrán, según lo autorice la ley, contratar con empresas privadas colombianas el ejercicio de la vigilancia fiscal.
+
+Para ser elegido contralor departamental, distrital o municipal se requiere ser colombiano por nacimiento, ciudadano en ejercicio, tener más de veinticinco años, acreditar título universitario y las demás calidades que establezca la ley.
+
+No podrá ser elegido quien sea o haya sido en el último año miembro de asamblea o concejo que deba hacer la elección, ni quien haya ocupado cargo público del orden departamental, distrital o municipal, salvo la docencia.
+
+Quien haya ocupado en propiedad el cargo de contralor departamental, distrital o municipal, no podrá desempeñar empleo oficial alguno en el respectivo departamento, distrito o municipio, ni ser inscrito como candidato a cargos de elección popular sino un año después de haber cesado en sus funciones.
 
 ##### **Artículo 273.** A solicitud de cualquiera de los proponentes, el Contralor General de la República y demás autoridades de control fiscal competentes, ordenarán que el acto de adjudicación de una licitación tenga lugar en audiencia pública.
 
@@ -2451,6 +2813,22 @@ Los miembros del Consejo Nacional serán designados por el Presidente de la Rep�
 En las entidades territoriales habrá también consejos de planeación, según lo determine la ley.
 
 El Consejo Nacional y los consejos territoriales de planeación constituyen el Sistema Nacional de Planeación.
+
+##### **Artículo 341.** El Gobierno elaborará el Plan Nacional de Desarrollo con participación activa de las autoridades de planeación de las entidades territoriales y del Consejo de Gobierno Judicial y someterá el proyecto correspondiente al concepto del Consejo Nacional de Planeación: oída la opinión del Consejo procederá a efectuar las enmiendas que considere pertinentes y presentará el proyecto a consideración del Congreso, dentro de los seis meses siguientes a la iniciación del período presidencial respectivo.
+
+Con fundamento en el informe que elaboren las comisiones conjuntas de asuntos económicos, cada corporación discutirá y evaluará el plan en sesión plenaria. Los desacuerdos con el contenido de la parte general, si los hubiere, no serán obstáculo para que el gobierno ejecute las políticas propuestas en lo que sea de su competencia. No obstante, cuando el gobierno decida modificar la parte general del plan deberá seguir el procedimiento indicado en el artículo siguiente.
+
+El Plan Nacional de Inversiones se expedirá mediante una ley que tendrá prelación sobre las demás leyes: en consecuencia, sus mandatos constituirán mecanismos idóneos para su ejecución y suplirán los existentes sin necesidad de la expedición de leyes posteriores, con todo, en las leyes anuales de presupuesto se podrán aumentar o disminuir las partidas y recursos aprobados en la ley del plan. Si el Congreso no aprueba el Plan Nacional de Inversiones Públicas en un término de tres meses después de presentado, el gobierno podrá ponerlo en vigencia mediante decreto con fuerza de ley.
+
+El Congreso podrá modificar el Plan de Inversiones Públicas siempre y cuando se mantenga el equilibrio financiero. Cualquier incremento en las autorizaciones de endeudamiento solicitadas en el proyecto gubernamental o inclusión de proyectos de inversión no contemplados en él, requerirá el visto bueno del Gobierno Nacional.
+
+**Artículo 341.** El Gobierno elaborará el Plan Nacional de Desarrollo con participación activa de las autoridades de planeación de las entidades territoriales y del Consejo Superior de la Judicatura y someterá el proyecto correspondiente al concepto del Consejo Nacional de Planeación: oída la opinión del Consejo procederá a efectuar las enmiendas que considere pertinentes y presentará el proyecto a consideración del Congreso, dentro de los seis meses siguientes a la iniciación del período presidencial respectivo.
+
+Con fundamento en el informe que elaboren las comisiones conjuntas de asuntos económicos, cada corporación discutirá y evaluará el plan en sesión plenaria. Los desacuerdos con el contenido de la parte general, si los hubiere, no serán obstáculo para que el gobierno ejecute las políticas propuestas en lo que sea de su competencia. No obstante, cuando el gobierno decida modificar la parte general del plan deberá seguir el procedimiento indicado en el artículo siguiente.
+
+El Plan Nacional de Inversiones se expedirá mediante una ley que tendrá prelación sobre las demás leyes: en consecuencia, sus mandatos constituirán mecanismos idóneos para su ejecución y suplirán los existentes sin necesidad de la expedición de leyes posteriores, con todo, en las leyes anuales de presupuesto se podrán aumentar o disminuir las partidas y recursos aprobados en la ley del plan. Si el Congreso no aprueba el Plan Nacional de Inversiones Públicas en un término de tres meses después de presentado, el gobierno podrá ponerlo en vigencia mediante decreto con fuerza de ley.
+
+El Congreso podrá modificar el Plan de Inversiones Públicas siempre y cuando se mantenga el equilibrio financiero. Cualquier incremento en las autorizaciones de endeudamiento solicitadas en el proyecto gubernamental o inclusión de proyectos de inversión no contemplados en él, requerirá el visto bueno del Gobierno Nacional.
 
 ##### **Artículo 342.** La correspondiente ley orgánica reglamentará todo lo relacionado con los procedimientos de elaboración, aprobación y ejecución de los planes de desarrollo y dispondrá los mecanismos apropiados para su armonización y para la sujeción a ellos de los presupuestos oficiales.
 
