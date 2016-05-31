@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2015-07-01"
+last_updated: "2016-05-31"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1144,9 +1144,7 @@ Los proyectos de ley relativos a los tributos iniciarán su tramite en la Cámar
 
 Los ciudadanos proponentes tendrán derecho a designar un vocero que será oído por las Cámaras en todas las etapas del tramite.
 
-##### **Artículo 156.** La Corte Constitucional, Consejo de Gobierno Judicial, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Nacional Electoral, el Procurador General de la Nación, el Contralor General de la República, tienen la facultad de presentar proyectos de ley en materias relacionadas con sus funciones.
-
-**Artículo 156.** La Corte Constitucional, el Consejo Superior de la Judicatura, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Nacional Electoral, el Procurador General de la Nación, el Contralor General de la República, tienen la facultad de presentar proyectos de ley en materias relacionadas con sus funciones.
+##### **Artículo 156.** La Corte Constitucional, Consejo Superior de la Judicatura, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Nacional Electoral, el Procurador General de la Nación, el Contralor General de la República, tienen la facultad de presentar proyectos de ley en materias relacionadas con sus funciones.
 
 ##### **Artículo 157.** Ningún proyecto será ley sin los requisitos siguientes:
 
@@ -1740,13 +1738,13 @@ Los miembros de los organismos nacionales de seguridad y otros cuerpos oficiales
 
 La equidad, la jurisprudencia, los principios generales del derecho y la doctrina son criterios auxiliares de la actividad judicial.
 
-##### **Artículo 231.** Los Magistrados de la Corte Suprema de Justicia y del Consejo de Estado serán elegidos por la respectiva Corporación, previa audiencia pública, de lista de diez elegibles enviada por el Consejo de Gobierno Judicial tras una convocatoria pública reglada de conformidad con la ley y adelantada por la Gerencia de la Rama Judicial.
+##### **Artículo 231.** Los Magistrados de la Corte Suprema de Justicia y del Consejo de Estado serán elegidos por la respectiva Corporación, previa audiencia pública, de lista de diez elegibles enviada por el **Consejo Superior de la Judicatura** tras una convocatoria pública reglada de conformidad con la ley y adelantada por la Gerencia de la Rama Judicial.
 
 En el conjunto de procesos de selección de los Magistrados de la Corte Suprema de Justicia y del Consejo de Estado se atenderá el criterio de equilibrio entre quienes provienen del ejercicio profesional, de la Rama Judicial y de la academia.
 
 La Corte Suprema de Justicia y el Consejo de Estado reglamentarán la fórmula de votación y el término en el cual deberán elegir a los Magistrados que conformen la respectiva corporación.
 
-**Artículo 231.** Los Magistrados de la Corte Suprema de Justicia y del Consejo de Estado serán nombrados por la respectiva corporación, de listas enviadas por el Consejo Superior de la Judicatura.
+( la expresión*“Consejo de Gobierno Judicial”*se sustituye por*“Consejo Superior de la Judicatura”*)
 
 ##### **Artículo 232.** Para ser Magistrado de la Corte Constitucional, de la Corte Suprema de Justicia y del Consejo de Estado se requiere:
 
@@ -1996,21 +1994,7 @@ En el evento de presentarse escrito de acusación, el Fiscal General o sus deleg
 
 **DEL CONSEJO SUPERIOR DE LA JUDICATURA**
 
-##### **Artículo 254.** El Gobierno y la administración de la Rama Judicial estarán a cargo del Consejo de Gobierno Judicial y la Gerencia de la Rama Judicial. Estos órganos ejercerán las funciones que les atribuya la ley con el fin de promover el acceso a la justicia, la eficiencia de la Rama Judicial, la tutela judicial efectiva y la independencia judicial.
-
-El Consejo de Gobierno Judicial es el órgano, encargado de definir las políticas de la Rama Judicial de acuerdo con la ley y postular las listas y ternas de candidatos que la Constitución le ordene. También corresponde al Consejo de Gobierno Judicial regular los trámites judiciales y administrativos que se adelanten en los despachos judiciales, en los aspectos no previstos por el legislador; expedir el reglamento del sistema de carrera judicial y de la Comisión de Carrera Judicial, cuya función será la vigilancia y control de la carrera; aprobar el proyecto de presupuesto de la Rama Judicial que deberá ser remitido al Gobierno; aprobar el mapa judicial; definir la estructura orgánica de la Gerencia de la Rama Judicial; supervisar a esta entidad, y rendir cuentas por su desempeño ante el Congreso de la República.
-
-El Consejo de Gobierno Judicial estará integrado por nueve miembros: los Presidentes de la Corte Constitucional, de la Corte Suprema de Justicia y del Consejo de Estado; el gerente de la Rama Judicial, quien deberá ser profesional con veinte años de experiencia, de los cuales diez deberán ser en administración de empresas o en entidades públicas, y será nombrado por el Consejo de Gobierno Judicial para un período de cuatro años; un representante de los magistrados de los Tribunales y de los jueces, elegido por ellos para un periodo de cuatro años; un representante de los empleados de la Rama Judicial elegido por estos para un periodo de cuatro años; tres miembros permanentes de dedicación exclusiva, nombrados por los demás miembros del Consejo de Gobierno Judicial, para un período de cuatro años. Ninguno de los miembros del Consejo de Gobierno Judicial podrá ser reelegido.
-
-Los miembros permanentes de dedicación exclusiva mencionados en el inciso anterior estarán encargados de la planeación estratégica de la Rama Judicial y de proponer al Consejo de Gobierno Judicial, para su aprobación, las políticas públicas de la Rama Judicial. Deberán tener diez años de experiencia en diseño, evaluación o seguimiento de políticas públicas, modelos de gestión o administración pública. En su elección se deberá asegurar la diversidad de perfiles académicos y profesionales.
-
-La ley estatutaria podrá determinar los temas específicos para los cuales los ministros del despacho los directores de departamento administrativo, el Fiscal General de la Nación, así como representantes de académicos y de los abogados litigantes participarán en las reuniones del Consejo de Gobierno Judicial.
-
-**Artículo 254.** El Consejo Superior de la Judicatura se dividirá en dos salas:
-
-- 1. La Sala Administrativa, integrada por seis magistrados elegidos para un período de ocho años, así: dos por la Corte Suprema de Justicia, uno por la Corte Constitucional y tres por el Consejo de Estado.
-
-- 2. La Sala Jurisdiccional Disciplinaria, integrada por siete magistrados elegidos para un período de ocho años, por el Congreso Nacional de ternas enviadas por el Gobierno. Podrá haber Consejos Seccionales de la Judicatura integrados como lo señale la ley.
+##### **Artículo 254.** *El Consejo Superior de la Judicatura estará integrado por seis magistrados elegidos para un período de ocho años, así: dos por la Corte Suprema de Justicia, uno por la Corte Constitucional y tres por el Consejo de Estado. **( Texto correspondiente a Sentencia 285 de 2016 )***
 
 ##### **Artículo 255.**La Gerencia de la Rama Judicial es un órgano subordinado al Consejo de Gobierno Judicial y estará organizada de acuerdo con el principio de desconcentración territorial.
 
@@ -2018,9 +2002,7 @@ La Gerencia de la Rama Judicial es la encargada de ejecutar las decisiones del C
 
 **Artículo 255.** Para ser miembro del Consejo Superior de la Judicatura se requiere ser colombiano por nacimiento, ciudadano en ejercicio y mayor de treinta y cinco años; tener título de abogado y haber ejercido la profesión durante diez años con buen crédito. Los miembros del Consejo no podrán ser escogidos entre los magistrados de las mismas corporaciones postulantes.
 
-##### **Artículo 256. Derogado**
-
-**Artículo 256.** Corresponden al Consejo Superior de la Judicatura o a los Consejos Seccionales, según el caso y de acuerdo a la ley, las siguientes atribuciones:
+##### **Artículo 256.** Corresponden al Consejo Superior de la Judicatura o a los Consejos Seccionales,según el caso y de acuerdo a la ley, las siguientes atribuciones:
 
 - 1. Administrar la carrera judicial.
 
@@ -2036,21 +2018,7 @@ La Gerencia de la Rama Judicial es la encargada de ejecutar las decisiones del C
 
 - 7. Las demás que señale la ley.
 
-##### **Artículo 257.** La Comisión Nacional de Disciplina Judicial ejercerá la función jurisdiccional disciplinaria sobre los funcionarios y empleados de la Rama Judicial.
-
-Estará conformada por siete Magistrados, cuatro de los cuales serán elegidos por el Congreso en Pleno de ternas enviadas por el Consejo de Gobierno Judicial previa convocatoria pública reglada adelantada por la Gerencia de la Rama Judicial, y tres de los cuales serán elegidos por el Congreso en Pleno de ternas enviadas por el Presidente de la República, previa convocatoria pública reglada. Tendrán periodos personales de ocho años, y deberán cumplir con los mismos requisitos exigidos para ser Magistrado de la Corte Suprema de Justicia.
-
-Los Magistrados de la Comisión Nacional de Disciplina Judicial no podrán ser reelegidos.
-
-Podrá haber Comisiones Seccionales de Disciplina Judicial integradas como lo señale la ley.
-
-La Comisión Nacional de Disciplina Judicial será la encargada de examinar la conducta y sancionar las faltas de los abogados en ejercicio de su profesión, en la instancia que señale la ley, salvo que esta función se atribuya por la ley a un Colegio de Abogados.
-
-**Parágrafo**. La Comisión Nacional de Disciplina Judicial y las Comisiones Seccionales de Disciplina Judicial no serán competentes para conocer de acciones de tutela.
-
-**Parágrafo Transitorio 1°.** Los Magistrados de la Comisión Nacional de Disciplina Judicial deberán ser elegidos dentro del año siguiente a la vigencia del presente acto legislativo. Una vez posesionados, la Comisión Nacional de Disciplina Judicial asumirá los procesos disciplinarios de la Sala Jurisdiccional Disciplinaria del Consejo Superior de la Judicatura. Los actuales Magistrados de la Sala Jurisdiccional Disciplinaria del Consejo Superior de la Judicatura, ejercerán sus funciones hasta el día que se posesionen los miembros de la Comisión Nacional de Disciplina Judicial. Las Salas Disciplinarias de los Consejos Seccionales de la Judicatura serán transformadas en Comisiones Seccionales de Disciplina Judicial. Se garantizarán los derechos de carrera de los Magistrados y empleados de las salas disciplinarias de los Consejos Seccionales de la Judicatura quienes continuarán conociendo de los procesos a su cargo, sin solución de continuidad.
-
-**Artículo 257.** Con sujeción a la ley, el Consejo Superior de la Judicatura cumplirá las siguientes funciones:
+##### **Artículo 257.** Con sujeción a la ley, el Consejo Superior de la Judicatura cumplirá las siguientes funciones:
 
 - 1. Fijar la división del territorio para efectos judiciales y ubicar y redistribuir los despachos judiciales.
 
@@ -2061,6 +2029,8 @@ La Comisión Nacional de Disciplina Judicial será la encargada de examinar la c
 - 4. Proponer proyectos de ley relativos a la administración de justicia y a los códigos sustantivos y procedimentales.
 
 - 5. Las demás que señale la ley.
+
+**NOTA**: La modificación de este artículo efectuada por el artículo 19 del acto legislativo 02 de 2015, constituyó una derogatoria tácita del mismo, que posteriormente se declaró inexequible mediante sentencia C-285 de 2016. Con lo cual se revivió el texto original del artículo 257, y por su parte, el texto del artículo 19 del acto legislativo 02 de 2015 se entiende adicionado en el artículo 257A de la constitución.
 
 ##### **Artículo 257-A**. La Comisión Nacional de Disciplina Judicial ejercerá la función jurisdiccional disciplinaria sobre los funcionarios y empleados de la rama judicial.
 
