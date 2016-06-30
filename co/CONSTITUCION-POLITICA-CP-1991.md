@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2016-05-31"
+last_updated: "2016-06-30"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1996,11 +1996,7 @@ En el evento de presentarse escrito de acusación, el Fiscal General o sus deleg
 
 ##### **Artículo 254.** *El Consejo Superior de la Judicatura estará integrado por seis magistrados elegidos para un período de ocho años, así: dos por la Corte Suprema de Justicia, uno por la Corte Constitucional y tres por el Consejo de Estado. **( Texto correspondiente a Sentencia 285 de 2016 )***
 
-##### **Artículo 255.**La Gerencia de la Rama Judicial es un órgano subordinado al Consejo de Gobierno Judicial y estará organizada de acuerdo con el principio de desconcentración territorial.
-
-La Gerencia de la Rama Judicial es la encargada de ejecutar las decisiones del Consejo de Gobierno Judicial, proveer apoyo administrativo y logístico a este órgano, administrar la Rama Judicial, elaborar para aprobación del Consejo de Gobierno Judicial el proyecto de presupuesto que deberá ser remitido al Gobierno, y ejecutarlo de conformidad con la aprobación que haga el Congreso, elaborar planes y programas para aprobación del Consejo de Gobierno Judicial, formular modelos de gestión e implementar los modelos procesales en el territorio nacional, administrar la Carrera Judicial, organizar la Comisión de Carrera Judicial, realizar los concursos y vigilar el rendimiento de los funcionarios y los despachos. El Gerente de la Rama Judicial representará legalmente a la Rama Judicial. Ejercerá las demás funciones que le atribuya la ley. **(Inexequible , cambio introducido por el articulo 16 Acto Legislativo 2 de 2015 , Sentencia 285 de 2016)**
-
-**Artículo 255.** Para ser miembro del Consejo Superior de la Judicatura se requiere ser colombiano por nacimiento, ciudadano en ejercicio y mayor de treinta y cinco años; tener título de abogado y haber ejercido la profesión durante diez años con buen crédito. Los miembros del Consejo no podrán ser escogidos entre los magistrados de las mismas corporaciones postulantes.
+##### **Artículo 255.** Para ser miembro del Consejo Superior de la Judicatura se requiere ser colombiano por nacimiento, ciudadano en ejercicio y mayor de treinta y cinco años; tener título de abogado y haber ejercido la profesión durante diez años con buen crédito. Los miembros del Consejo no podrán ser escogidos entre los magistrados de las mismas corporaciones postulantes.
 
 ##### **Artículo 256.** Corresponden al Consejo Superior de la Judicatura o a los Consejos Seccionales,según el caso y de acuerdo a la ley, las siguientes atribuciones:
 
@@ -2784,15 +2780,7 @@ En las entidades territoriales habrá también consejos de planeación, según l
 
 El Consejo Nacional y los consejos territoriales de planeación constituyen el Sistema Nacional de Planeación.
 
-##### **Artículo 341.** El Gobierno elaborará el Plan Nacional de Desarrollo con participación activa de las autoridades de planeación de las entidades territoriales y del Consejo de Gobierno Judicial y someterá el proyecto correspondiente al concepto del Consejo Nacional de Planeación: oída la opinión del Consejo procederá a efectuar las enmiendas que considere pertinentes y presentará el proyecto a consideración del Congreso, dentro de los seis meses siguientes a la iniciación del período presidencial respectivo.
-
-Con fundamento en el informe que elaboren las comisiones conjuntas de asuntos económicos, cada corporación discutirá y evaluará el plan en sesión plenaria. Los desacuerdos con el contenido de la parte general, si los hubiere, no serán obstáculo para que el gobierno ejecute las políticas propuestas en lo que sea de su competencia. No obstante, cuando el gobierno decida modificar la parte general del plan deberá seguir el procedimiento indicado en el artículo siguiente.
-
-El Plan Nacional de Inversiones se expedirá mediante una ley que tendrá prelación sobre las demás leyes: en consecuencia, sus mandatos constituirán mecanismos idóneos para su ejecución y suplirán los existentes sin necesidad de la expedición de leyes posteriores, con todo, en las leyes anuales de presupuesto se podrán aumentar o disminuir las partidas y recursos aprobados en la ley del plan. Si el Congreso no aprueba el Plan Nacional de Inversiones Públicas en un término de tres meses después de presentado, el gobierno podrá ponerlo en vigencia mediante decreto con fuerza de ley.
-
-El Congreso podrá modificar el Plan de Inversiones Públicas siempre y cuando se mantenga el equilibrio financiero. Cualquier incremento en las autorizaciones de endeudamiento solicitadas en el proyecto gubernamental o inclusión de proyectos de inversión no contemplados en él, requerirá el visto bueno del Gobierno Nacional.
-
-**Artículo 341.** El Gobierno elaborará el Plan Nacional de Desarrollo con participación activa de las autoridades de planeación de las entidades territoriales y del Consejo Superior de la Judicatura y someterá el proyecto correspondiente al concepto del Consejo Nacional de Planeación: oída la opinión del Consejo procederá a efectuar las enmiendas que considere pertinentes y presentará el proyecto a consideración del Congreso, dentro de los seis meses siguientes a la iniciación del período presidencial respectivo.
+##### **Artículo 341.** El Gobierno elaborará el Plan Nacional de Desarrollo con participación activa de las autoridades de planeación de las entidades territoriales y del **Consejo Superior de la Judicatura** y someterá el proyecto correspondiente al concepto del Consejo Nacional de Planeación: oída la opinión del Consejo procederá a efectuar las enmiendas que considere pertinentes y presentará el proyecto a consideración del Congreso, dentro de los seis meses siguientes a la iniciación del período presidencial respectivo.
 
 Con fundamento en el informe que elaboren las comisiones conjuntas de asuntos económicos, cada corporación discutirá y evaluará el plan en sesión plenaria. Los desacuerdos con el contenido de la parte general, si los hubiere, no serán obstáculo para que el gobierno ejecute las políticas propuestas en lo que sea de su competencia. No obstante, cuando el gobierno decida modificar la parte general del plan deberá seguir el procedimiento indicado en el artículo siguiente.
 
