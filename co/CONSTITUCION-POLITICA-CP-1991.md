@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2016-06-30"
+last_updated: "2016-07-12"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -886,10 +886,6 @@ Quien haya ejercido en propiedad alguno de los cargos en la siguiente lista, no 
 
 Magistrado de la Corte Constitucional, de la Corte Suprema de Justicia, del Consejo de Estado, de la Comisión Nacional de Disciplina Judicial, Miembro de la Comisión de Aforados, Miembro del Consejo Nacional Electoral, Fiscal General de la Nación, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República y Registrador Nacional del Estado Civil.
 
-**Artículo 126.** Los servidores públicos no podrán nombrar como empleados a personas con las cuales tengan parentesco hasta el cuarto grado de consanguinidad, segundo de afinidad, primero civil, o con quien estén ligados por matrimonio o unión permanente. Tampoco podrán designar a personas vinculadas por los mismos lazos con servidores públicos competentes para intervenir en su designación.
-
-Se exceptúan de lo previsto en este artículo los nombramientos que se hagan en aplicación de las normas vigentes sobre ingreso o ascenso por méritos.
-
 ##### **Artículo 127.**Los servidores públicos no podrán celebrar, por si o por interpuesta persona, o en representación de otro, contrato alguno con entidades publicas o con personas privadas que manejen o administren recursos públicos, salvo las excepciones legales.
 
 A los empleados del Estado que se desempeñen en la Rama Judicial, en los órganos electorales, de control y de seguridad les está prohibido tomar parte en las actividades de los partidos y movimientos y en las controversias políticas, sin perjuicio de ejercer libremente el derecho al sufragio. A los miembros de la Fuerza Pública en servicio activo se les aplican las limitaciones contempladas en el artículo 219 de la Constitución.
@@ -1244,11 +1240,7 @@ Los representantes de las comunidades indígenas que aspiren a integrar el Senad
 
 - 7. Elegir al Procurador General de la Nación.
 
-##### **Artículo 174.** Corresponde al Senado conocer de las acusaciones que formule la Cámara de Representantes contra el Presidente de la República o quien haga sus veces y contra los miembros de la Comisión de Aforados, aunque hubieren cesado en el ejercicio de sus cargos. En este caso, será competente para conocer los hechos u omisiones ocurridos en el desempeño de los mismos.
-
-**( INEXEQUIBLE,modificación introducida por Articulo 5 del acto Legislativo 2 de 2015 , por medio de Sentencia C-373-2016)**
-
-**Artículo 174.** Corresponde al Senado conocer de las acusaciones que formule la Cámara de Representantes contra el Presidente de la República o quien haga sus veces; contra los Magistrados de la Corte Suprema de Justicia, del Consejo de Estado y de la Corte Constitucional, los miembros del Consejo Superior de la Judicatura y el Fiscal General de la Nación, aunque hubieren cesado en el ejercicio de sus cargos. En este caso, conocerá por hechos u omisiones ocurridos en el desempeño de los mismos.
+##### **Artículo 174.** Corresponde al Senado conocer de las acusaciones que formule la Cámara de Representantes contra el Presidente de la República o quien haga sus veces; contra los Magistrados de la Corte Suprema de Justicia, del Consejo de Estado y de la Corte Constitucional, los miembros del Consejo Superior de la Judicatura y el Fiscal General de la Nación, aunque hubieren cesado en el ejercicio de sus cargos. En este caso, conocerá por hechos u omisiones ocurridos en el desempeño de los mismos
 
 ##### **Artículo 175.** En los juicios que se sigan ante el Senado, se observarán estas reglas:
 
@@ -1286,59 +1278,13 @@ Las circunscripciones especiales asegurarán la participación en la Cámara de 
 
 - 2. Examinar y fenecer la cuenta general del presupuesto y del tesoro que le presente el Contralor General de la República.
 
-- 3. Acusar ante el Senado, previa solicitud de la Comisión de Investigación y Acusación de la Cámara de Representantes, cuando hubiere causas constitucionales, al Presidente de la República o a quien haga sus veces y a los Miembros de la Comisión de Aforados.**(Inexequible Modificación Introducida por Acto LEGISLATIVO 2 DE 2015 -Sentencia C -373-2016)**
+- 3. Acusar ante el Senado, cuando hubiere causas Constitucionales, al Presidente de la República, o a quien haga sus veces, a los magistrados de la Corte Constitucional, a los magistrados de la Corte Suprema de Justicia, a los miembros del Consejo Superior de la Judicatura, a los magistrados del Consejo de Estado y al Fiscal General de la Nación
 
 - 4. Conocer de las denuncias y quejas que ante ella se presenten por el Fiscal General de la Nación o por los particulares contra los expresados funcionarios y, si prestan mérito, fundar en ellas acusación ante el Senado.
 
 - 5. Requerir el auxilio de otras autoridades para el desarrollo de las investigaciones que le competen, y comisionar para la práctica de pruebas cuando lo considere conveniente.
 
-**Nota:** Téngase en cuenta para la aplicación de este artículo lo indicado en el inciso 2° del art. 1° del Acto Legislativo 02 de 2015.
-
-**Artículo 178.** La Cámara de Representantes tendrá las siguientes atribuciones especiales:
-
-- 1. Elegir al Defensor del Pueblo.
-
-- 2. Examinar y fenecer la cuenta general del presupuesto y del tesoro que le presente el Contralor General de la República.
-
-- 3. Acusar ante el Senado, cuando hubiere causas Constitucionales, al Presidente de la República, o a quien haga sus veces, a los magistrados de la Corte Constitucional, a los magistrados de la Corte Suprema de Justicia, a los miembros del Consejo Superior de la Judicatura, a los magistrados del Consejo de Estado y al Fiscal General de la Nación.
-
-- 4. Conocer de las denuncias y quejas que ante ella se presenten por el Fiscal General de la Nación o por los particulares contra los expresados funcionarios y, si prestan mérito, fundar en ellas acusación ante el Senado.
-
-- 5. Requerir el auxilio de otras autoridades para el desarrollo de las investigaciones que le competen, y comisionar para la práctica de pruebas cuando lo considere conveniente.
-
-**Nota:** Téngase en cuenta para la aplicación de este artículo lo indicado en el inciso 2° del art. 1° del Acto Legislativo 02 de 2015.
-
-##### **Artículo 178-A.** Los Magistrados de la Corte Constitucional, de la Corte Suprema de Justicia, del Consejo de Estado, de la Comisión Nacional de Disciplina Judicial y el Fiscal General de la Nación serán responsables por cualquier infracción a la ley disciplinaria o penal cometida en el ejercicio de sus funciones o con ocasión de estas. En todo caso, no podrá exigírseles en ningún tiempo responsabilidad por los votos y opiniones emitidos en sus providencias judiciales o consultivas, proferidas en ejercicio de su independencia funcional, sin perjuicio de la responsabilidad a la que haya lugar por favorecer indebidamente intereses propios o ajenos.
-
-Una Comisión de Aforados será competente para investigar y acusar, conforme a la ley y los principios del debido proceso, a los funcionarios señalados en el inciso anterior, aunque hubieren cesado en el ejercicio de sus cargos. En este caso, será competente para conocer de los hechos u omisiones ocurridos en el desempeño de los mismos.
-
-Si la investigación se refiere a faltas disciplinarias de indignidad por mala conducta, la Comisión de Aforados adelantará la investigación y cuando hubiere lugar, presentará la acusación ante la Cámara de Representantes. En ningún caso se podrán imponer otras penas que la de suspensión o destitución del empleo. La decisión de la Cámara de Representantes podrá ser apelada ante el Senado de la República. El Congreso en ningún caso practicará pruebas. Contra la decisión del Senado no procederá ningún recurso ni acción.
-
-Si la investigación se refiere a delitos, la Comisión de Aforados también presentará la acusación a la Corte Suprema de Justicia, para que allí se adelante el juzgamiento. En el caso de juicios contra magistrados de la Corte Suprema de Justicia, los conjueces serán designados por el Consejo de Estado.
-
-La Comisión contará con un plazo de sesenta días para presentar la acusación cuando se trate de falta disciplinaria de indignidad por mala conducta, y la Cámara de Representantes tendrá treinta días para decidir. En todo caso, la Comisión podrá continuar con la investigación de la causa criminal de haber lugar a ello y, de encontrar mérito para acusar, adelantará el trámite previsto en el inciso anterior, en el término que disponga la ley.
-
-La Comisión estará conformada por cinco miembros, elegidos por el Congreso en Pleno para periodos personales de ocho años, de listas enviadas por el Consejo de Gobierno Judicial y elaboradas mediante convocatoria pública adelantada por la Gerencia de la Rama Judicial en los términos que disponga la ley.
-
-Los miembros de la Comisión de Aforados deberán cumplir con las calidades exigidas para ser Magistrados de la Corte Suprema de Justicia y estarán sujetos al mismo régimen de inhabilidades e incompatibilidades.
-
-Las Salas Plenas de la Corte Constitucional, de la Corte Suprema de Justicia, del Consejo de Estado y de la Comisión Nacional de Disciplina Judicial, podrán solicitar a la Comisión de Aforados la suspensión de uno de sus miembros mientras se decide la acusación por faltas disciplinarias de indignidad por mala conducta.
-
-La ley establecerá el procedimiento para determinar la responsabilidad fiscal cuando los aforados señalados en este artículo ejerzan funciones administrativas.
-
-**Parágrafo transitorio.**Sin perjuicio de lo dispuesto en el numeral tercero del artículo 178, la Comisión de Investigación y Acusaciones de la Cámara de Representantes mantendrá, durante un año contado a partir de la entrada en vigencia del presente Acto Legislativo, la competencia para investigar los hechos ocurridos antes de la posesión de los magistrados de la Comisión de Aforados, que se le imputen a los aforados citados en este artículo y a los magistrados del Consejo Superior de la Judicatura. La Cámara de Representantes adoptará las decisiones administrativas necesarias para que en ese lapso, los representantes investigadores puedan:
-
-- a) Dictar resolución inhibitoria en los casos que no ameriten apertura formal de investigación cuando aparezca que la conducta no ha existido, que es objetivamente atípica, que la acción penal no puede iniciarse o que está demostrada una causal de ausencia de responsabilidad.
-
-- b) Remitir la investigación a la autoridad competente si se trata de hechos cometidos por fuera del ejercicio de sus funciones y el investigado hubiere cesado en el ejercicio de su cargo.
-
-- c) Ordenar la apertura de investigación cuando se encuentren dados los supuestos legales que lo ameriten y remitirla a la Comisión de Aforados para que asuma el proceso.
-
-- d) Presentar la acusación ante la Plenaria de la Cámara de Representantes en relación con investigaciones abiertas, cuando se encuentren dados los supuestos legales que lo ameriten.
-
-- e) Remitir a la Comisión de Aforados todas las demás investigaciones, en el estado en que se encuentren, incluidas las adelantadas contra los magistrados del Consejo Superior de la Judicatura.
-
-Mientras la ley no adopte el procedimiento aplicable, la Comisión de Aforados se regirá por el régimen procesal utilizado en las investigaciones que adelanta la Comisión de Investigación y Acusación y las normas que lo sustituyan y lo modifiquen.
+##### **Artículo 178-A:** **Declarado INEXEQUIBLE por Sentencia 373 de 2016.**
 
 ### **CAPITULO 6**
 
@@ -1515,20 +1461,6 @@ Cuando el Presidente de la República se traslade a territorio extranjero en eje
 No podrá ser elegido Presidente de la República o Vicepresidente quien hubiere incurrido en alguna de las causales de inhabilidad consagradas en los numerales 1, 4 y 7 del artículo 179, ni el ciudadano que un año antes de la elección haya tenido la investidura de Vicepresidente o ejercido cualquiera de los siguientes cargos:
 
 Ministro, Director de Departamento Administrativo, Magistrado de la Corte Suprema de Justicia, de la Corte Constitucional, del Consejo de Estado, Comisión Nacional de Disciplina Judicial, Miembro de la Comisión de Aforados o del Consejo Nacional Electoral, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República, Fiscal General de la Nación, Registrador Nacional del Estado Civil, Comandantes de las Fuerzas Militares, Auditor General de la República, Director General de la Policía, Gobernador de departamento o Alcalde.
-
-**Artículo 197.** Nadie podrá ser elegido para ocupar la Presidencia de la República por más de dos períodos".
-
-No podrá ser elegido Presidente de la República o Vicepresidente quien hubiere incurrido en alguna de las causales de inhabilidad consagradas en los numerales 1, 4 y 7 del artículo 179, ni el ciudadano que un año antes de la elección haya ejercido cualquiera de los siguientes cargos:
-
-Ministro, Director de Departamento Administrativo, Magistrado de la Corte Suprema de Justicia, de la Corte Constitucional, del Consejo de Estado, del Consejo Superior de la Judicatura, o del Consejo Nacional Electoral, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República, Fiscal General de la Nación, Registrador Nacional del Estado Civil, Comandantes de las Fuerzas Militares, Director General de la Policía, Gobernador de Departamento o Alcaldes.
-
-**Parágrafo transitorio.** Quien ejerza o haya ejercido la Presidencia de la República antes de la vigencia del presente Acto Legislativo sólo podrá ser elegido para un nuevo período presidencial.
-
-**Artículo 197.** No podrá ser elegido Presidente de la República el ciudadano que a cualquier título hubiere ejercido la Presidencia. Esta prohibición no cobija al Vicepresidente cuando la ha ejercido por menos de tres meses, en forma continua o discontinua, durante el cuatrienio.
-
-Tampoco podrá ser elegido Presidente de la República quien hubiere incurrido en alguna de las causales de inhabilidad consagradas en los numerales 1, 4 y 7 del artículo 179, ni el ciudadano que un año antes de la elección haya ejercido cualquiera de los siguientes cargos:
-
-Magistrado de la Corte Suprema de Justicia, o de la Corte Constitucional, Consejero de Estado o miembro del Consejo Nacional Electoral, o del Consejo Superior de la Judicatura, Ministros del Despacho, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República, Fiscal General de la Nación, Registrador Nacional del Estado Civil, Director de Departamento Administrativo, Gobernador de Departamento o Alcalde Mayor de Santa Fe de Bogotá.
 
 ##### **Artículo 198.** El Presidente de la República, o quien haga sus veces, será responsable de sus actos u omisiones que violen la Constitución o las leyes.
 
