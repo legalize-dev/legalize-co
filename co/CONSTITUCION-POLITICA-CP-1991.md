@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2016-07-12"
+last_updated: "2016-12-01"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -3274,6 +3274,34 @@ En cualquier caso, el tratamiento penal especial mediante la aplicación de inst
 
 **(Articulos transitorios adiconados por Acto legislativo 1 de 2016)**
 
+##### **Artículo transitorio.***Procedimiento legislativo especial para la paz*. Con el propósito de agilizar y garantizar la implementación del Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera (Acuerdo Final) y ofrecer garantías de cumplimiento y fin del conflicto, de manera excepcional y transitoria se pondrá en marcha el Procedimiento Legislativo Especial para la Paz, por un período de seis meses, contados a partir de la entrada en vigencia del presente acto legislativo. Este procedimiento podrá ser prorrogado por un período adicional de hasta seis meses mediante comunicación formal del Gobierno nacional ante el Congreso de la República.
+
+El Procedimiento Legislativo Especial para la Paz se regirá por las siguientes reglas:
+
+- a) Los proyectos de ley y de acto legislativo tramitados mediante el Procedimiento Legislativo Especial para la Paz serán de iniciativa exclusiva del Gobierno nacional, y su contenido tendrá por objeto facilitar y asegurar la implementación y desarrollo normativo del Acuerdo Final para la terminación del Conflicto y la Construcción de una Paz Estable y duradera;
+
+- b) Los proyectos de ley y de acto legislativo tramitados mediante el procedimiento legislativo especial para la Paz tendrán trámite preferencial. En consecuencia, tendrán absoluta prelación en el Orden del Día sobre cualquier otro asunto, hasta tanto la respectiva Cámara o Comisión decida sobre él;
+
+- c) El título de las leyes y los actos legislativos a los que se refiere este artículo, deberá corresponder precisamente a su contenido y a su texto procederá esta fórmula: “*El Congreso de Colombia, en virtud del Procedimiento Legislativo Especial para la Paz, DECRETA”;*
+
+- d) El primer debate de los proyectos de ley se surtirá en sesión conjunta de las Comisiones Constitucionales Permanentes respectivas, sin que medie para ello solicitud del Gobierno nacional. El segundo debate en las plenarias de cada una de las Cámaras;
+
+- e) Los proyectos de ley serán aprobados con las mayorías previstas en la Constitución y la ley, según su naturaleza;
+
+- f) Los actos legislativos serán tramitados en una sola vuelta de cuatro debates. El tránsito del proyecto entre una y otra Cámara será de 8 días.
+
+- g) Los proyectos de acto legislativo serán aprobados por mayoría absoluta;
+
+h)Los proyectos de ley y de acto legislativo solo podrán tener modificaciones siempre que se ajusten al contenido del Acuerdo Final y que cuenten con el aval previo del Gobierno nacional;
+
+- i) Todos los proyectos y de acto legislativo podrán tramitarse en sesiones extraordinarias;
+
+j)En la comisión y en las plenarias se decidirá sobre la totalidad de cada proyecto, con las modificaciones avaladas por el Gobierno nacional, en una sola votación;
+
+- k) Los proyectos de ley y de acto legislativo tramitados mediante el Procedimiento Legislativo Especial para la Paz tendrán control automático y único de constitucionalidad, posterior a su entrada en vigencia. Las Leyes Estatuarias tendrán control previo, de conformidad con lo previsto en el artículo 153 de la Constitución. El control de constitucionalidad de los actos legislativos se hará solo por vicios de procedimiento en su formación. Los términos de esta revisión para leyes y actos legislativos se reducirán a la tercera parte de los del procedimiento ordinario y no podrán ser prorrogados.
+
+En lo no establecido en este procedimiento especial, se aplicará el reglamento del Congreso de la República.
+
 ##### **Artículo transitorio.*Facultades presidenciales para la paz*.** Dentro de los 180 días siguientes a la entrada en vigencia del presente acto legislativo, facúltase al Presidente de la República para expedir los decretos con fuerza de ley cuyo contenido tendrá por objeto facilitar y asegurar la implementación y desarrollo normativo del Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera.
 
 Las anteriores facultades no podrán ser utilizadas para expedir actos legislativos, leyes estatutarias, leyes orgánicas, leyes códigos, leyes que necesitan mayorías calificada o absoluta para su aprobación, ni para decretar impuestos.
@@ -3287,6 +3315,18 @@ El Gobierno podrá efectuar los ajustes institucionales y normativos necesarios 
 Las autoridades departamentales, municipales y distritales tendrán la facultad de hacer los ajustes necesarios a sus planes de desarrollo para adecuarlos al Plan de Inversiones para la Paz durante los seis meses siguientes a la adopción de este.
 
 Al inicio de cada legislatura el Presidente de la República, la Procuraduría General de la Nación, la Contraloría General de la República y la Defensoría del Pueblo presentarán al Congreso un informe detallado sobre la ejecución de los recursos y cumplimiento de las metas del componente para la paz del Plan Plurianual de Inversiones.
+
+##### **Artículo Transitorio: En desarrollo del derecho a la paz,** el Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera constituye un Acuerdo Especial en los términos del artículo 3 común a los Convenios de Ginebra de 1949.
+
+Con el fin de ofrecer garantías de cumplimiento del Acuerdo Final, una vez este haya sido firmado y entrado en vigor ingresará en estricto sentido al bloque de constitucionalidad para ser tenido en cuenta durante el periodo de implementación del mismo como parámetro de interpretación y referente de desarrollo y validez de las Normas y las Leyes de Implementación y Desarrollo del Acuerdo Final.
+
+En desarrollo del Derecho a la paz, el Procedimiento Legislativo Especial para la aprobación del Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera, incluirá un “procedimiento de ley aprobatoria del Acuerdo Especial” con los siguientes criterios procedimentales especiales: envío al Congreso para su incorporación al derecho interno por medio de una ley; tramitación como ley ordinaria: radicación del proyecto ante la secretaría del Senado y publicación, debate en comisiones constitucionales conjuntas del Senado y Cámara, votación, debate en plenario del Senado; y debate en plenario de la Cámara. El tránsito del proyecto entre comisión y plenaria será de 8 días, las votaciones serán únicamente de aprobación o improbación de todo el texto; control de constitucionalidad de la ley aprobatoria del Acuerdo Especial; sanción presidencial y publicación en Diario Oficial; el Gobierno se obligará a presentar esta ley aprobatoria inmediatamente sea firmado y aprobado el Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera, y entrado en vigor el presente Acto Legislativo.
+
+El procedimiento legislativo de aprobación de leyes o actos legislativos para la implementación o desarrollo del Acuerdo Final, será el Procedimiento Legislativo Especial para la Paz, establecido en el artículo 1° de este acto legislativo, y estará en vigencia para la aprobación de normas de implementación y desarrollo del Acuerdo Final durante el tiempo establecido en el mismo artículo.
+
+El control constitucional relacionado con la aprobación de la ley aprobatoria del Acuerdo Especial, será único y automático.
+
+El control constitucional relacionado con la implementación del Acuerdo Final mediante leyes ordinarias o leyes estatutarias, será único y automático.
 
 ## **TÍTULO TRANSITORIO**
 
