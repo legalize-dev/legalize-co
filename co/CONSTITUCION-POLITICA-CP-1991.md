@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2016-12-01"
+last_updated: "2017-04-03"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -826,25 +826,11 @@ Sin perjuicio de las demás sanciones que establezca la ley, no podrán ser insc
 
 Tampoco quien haya dado lugar, como servidores públicos, con su conducta dolosa o gravemente culposa, así calificada por sentencia ejecutoriada, a que el Estado sea condenado a una reparación patrimonial, salvo que asuma con cargo a su patrimonio el valor del daño.
 
-**Artículo 122.** No habrá empleo público que no tenga funciones detalladas en ley o reglamento y para proveer los de carácter remunerado se requiere que estén contemplados en la respectiva planta y previstos sus emolumentos en el presupuesto correspondiente.
+**Parágrafo.** Los miembros de los grupos armados organizados al margen de la ley condenados por delitos cometidos por causa, con ocasión o en relación directa o indirecta con el conflicto armado, que hayan suscrito un acuerdo de paz con el Gobierno o se hayan desmovilizado individualmente, siempre que hayan dejado las armas, se hayan acogido al marco de justicia transicional aplicable en cada caso, entre estos la Jurisdicción Especial para la Paz en los términos de este acto legislativo y no hayan sido condenados por delitos dolosos posteriores al acuerdo de paz o a su desmovilización, estarán habilitados para ser designados como empleados públicos o trabajadores oficiales cuando no estén efectivamente privados de su libertad, bien sea de manera preventiva o en cumplimiento de la sanción que les haya sido impuesta y para celebrar personalmente, o por interpuesta persona, contratos con el Estado. Las personas a las que se refiere el presente artículo no quedarán inhabilitadas para el ejercicio de una profesión, arte u oficio.
 
-Ningún servidor público entrará a ejercer su cargo sin prestar juramento de cumplir y defender la Constitución y desempeñar los deberes que le incumben.
+La anterior disposición aplicará igualmente a los miembros de la Fuerza Pública que se sometan a la Jurisdicción Especial para la Paz, quienes podrán ser empleados públicos, trabajadores oficiales o contratistas del Estado, cuando no estén efectivamente privados de su libertad, bien sea de manera preventiva o en cumplimiento de la sanción que les haya sido impuesta, sin perjuicio de la prohibición de reincorporación al servicio activo prevista en la Ley 1820 de 2016 para las situaciones en ella señaladas.
 
-Antes de tomar posesión del cargo, al retirarse del mismo o cuando autoridad competente se lo solicite deberá declarar, bajo juramento, el monto de sus bienes y rentas.
-
-Dicha declaración sólo podrá ser utilizada para los fines y propósitos de la aplicación de las normas del servidor público.
-
-Sin perjuicio de las demás sanciones que establezca la ley, no podrán ser inscritos como candidatos a cargos de elección popular, ni elegidos, ni designados como servidores públicos, ni celebrar personalmente, o por interpuesta persona, contratos con el Estado, quienes hayan sido condenados, en cualquier tiempo, por la Comisión de Delitos que afecten el patrimonio del Estado. Tampoco quien haya dado lugar, como servidor público, con su conducta dolosa o gravemente culposa, así calificada por sentencia judicial ejecutoriada, a que el Estado sea condenado a una reparación patrimonial, salvo que asuma con cargo a su patrimonio el valor del daño.
-
-**Artículo 122.** No habrá empleo público que no tenga funciones detalladas en ley o reglamento y para proveer los de carácter remunerado se requiere que estén contemplados en la respectiva planta y previstos sus emolumentos en el presupuesto correspondiente.
-
-Ningún servidor público entrará a ejercer su cargo sin prestar juramento de cumplir y defender la Constitución y desempeñar los deberes que le incumben.
-
-Antes de tomar posesión del cargo, al retirarse del mismo o cuando autoridad competente se lo solicite deberá declarar, bajo juramento, el monto de sus bienes y rentas.
-
-Dicha declaración sólo podrá ser utilizada para los fines y propósitos de la aplicación de las normas del servidor público.
-
-Sin perjuicio de las demás sanciones que establezca la ley, el servidor público que sea condenado por delitos contra el patrimonio del Estado, quedará inhabilitado para el desempeño de funciones públicas.
+Como aporte a las garantías de no repetición, el Estado colombiano garantizará que los hechos que ocurrieron en el pasado no se repitan, y para ello implementará las medidas referidas en el Acuerdo General de Paz en esta materia. Quienes sean sancionados por graves violaciones de derechos humanos o graves infracciones al derecho Internacional Humanitario, no podrán hacer parte de ningún organismo de seguridad, defensa del Estado, Rama Judicial ni órganos de control.
 
 ##### **Artículo 123.** Son servidores públicos los miembros de las corporaciones públicas, los empleados y trabajadores del Estado y de sus entidades descentralizadas territorialmente y por servicios.
 
@@ -3258,7 +3244,7 @@ Mediante una ley estatutaria se establecerán instrumentos de justicia transicio
 
 Una ley deberá crear una Comisión de la Verdad y definir su objeto, composición, atribuciones y funciones. El mandato de la comisión podrá incluir la formulación de recomendaciones para la aplicación de los instrumentos de justicia transicional, incluyendo la aplicación de los criterios de selección.
 
-Tanto los criterios de priorización como los de selección son inherentes a los instrumentos de justicia transicional. El Fiscal General de la Nación determinará criterios de priorización para el ejercicio de la acción penal. Sin perjuicio del deber general del Estado de investigar y sancionar las graves violaciones a los Derechos Humanos y al Derecho Internacional Humanitario, en el marco de la justicia transicional, el Congreso de la República, por iniciativa del Gobierno Nacional, podrá mediante ley estatutaria determinar criterios de selección que permitan centrar los esfuerzos en la investigación penal de los máximos responsables de todos los delitos que adquieran la connotación de crímenes de lesa humanidad, genocidio, o crímenes de guerra cometidos de manera sistemática; establecer los casos, requisitos y condiciones en los que procedería la suspensión de la ejecución de la pena; establecer los casos en los que proceda la aplicación de sanciones extrajudiciales, de penas alternativas, o de modalidades especiales de ejecución y cumplimiento de la pena; y autorizar la renuncia condicionada a la persecución judicial penal de todos los casos no seleccionados. La ley estatutaria tendrá en cuenta la gravedad y representatividad de los casos para determinar los criterios de selección.
+Tanto los criterios de priorización como los de selección son inherentes a los instrumentos de justicia transicional. El Fiscal General de la Nación determinará criterios de priorización para el ejercicio de la acción penal, salvo en los asuntos que sean de competencia de la Jurisdicción Especial para la Paz. Sin perjuicio del deber general del Estado de investigar y sancionar las graves violaciones a los Derechos Humanos y al Derecho Internacional Humanitario, en el marco de la justicia transicional, el Congreso de la República, por iniciativa del Gobierno nacional, podrá mediante ley estatutaria determinar criterios de selección que permitan centrar los esfuerzos en la investigación penal de los máximos responsables de todos los delitos que adquieran la connotación de crímenes de lesa humanidad, genocidio, o crímenes de guerra cometidos de manera sistemática; establecer los casos, requisitos y condiciones en los que procedería la suspensión de la ejecución de la pena; establecer los casos en los que proceda la aplicación de sanciones extrajudiciales, de penas alternativas, o de modalidades especiales de ejecución y cumplimiento de la pena; y autorizar la renuncia condicionada a la persecución judicial penal de todos los casos no seleccionados, siempre sin alterar lo establecido en el Acuerdo de creación de la JEP y en sus normas de desarrollo. La ley estatutaria tendrá en cuenta la gravedad y representatividad de los casos para determinar los criterios de selección.
 
 En cualquier caso, el tratamiento penal especial mediante la aplicación de instrumentos constitucionales como los anteriores estará sujeto al cumplimiento de condiciones tales como la dejación de las armas, el reconocimiento de responsabilidad, la contribución al esclarecimiento de la verdad y a la reparación integral de las víctimas, la liberación de los secuestrados, y la desvinculación de los menores de edad reclutados ilícitamente que se encuentren en poder de los grupos armados al margen de la ley.
 
@@ -3266,7 +3252,7 @@ En cualquier caso, el tratamiento penal especial mediante la aplicación de inst
 
 **Parágrafo 2°.** En ningún caso se podrán aplicar instrumentos de justicia transicional a grupos armados al margen de la ley que no hayan sido parte en el conflicto armado interno, ni a cualquier miembro de un grupo armado que una vez desmovilizado siga delinquiendo.
 
-##### **Artículo Transitorio 67**. Una ley estatutaria regulará cuáles serán los delitos considerados conexos al delito político para efectos de la posibilidad de participar en política. No podrán ser considerados conexos al delito político los delitos que adquieran la connotación de crímenes de lesa humanidad y genocidio cometidos de manera sistemática, y en consecuencia no podrán participar en política ni ser elegidos quienes hayan sido condenados y seleccionados por estos delitos.
+##### **Artículo Transitorio 67**. Derogado por articulo 4 Acto Legislativo 01 de 2017.
 
 ***ESTABLECE INSTRUMENTOS JURÍDICOS PARA FACILITAR Y ASEGURAR LA IMPLEMENTACIÓN Y EL DESARROLLO NORMATIVO DEL ACUERDO FINAL PARA LA TERMINACIÓN DEL CONFLICTO Y LA CONSTRUCCIÓN DE UNA PAZ ESTABLE Y DURADERA.***
 
