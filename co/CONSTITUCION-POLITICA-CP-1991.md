@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2017-04-04"
+last_updated: "2017-05-10"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -3302,17 +3302,7 @@ Las autoridades departamentales, municipales y distritales tendrán la facultad 
 
 Al inicio de cada legislatura el Presidente de la República, la Procuraduría General de la Nación, la Contraloría General de la República y la Defensoría del Pueblo presentarán al Congreso un informe detallado sobre la ejecución de los recursos y cumplimiento de las metas del componente para la paz del Plan Plurianual de Inversiones.
 
-##### **Artículo Transitorio: En desarrollo del derecho a la paz,** el Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera constituye un Acuerdo Especial en los términos del artículo 3 común a los Convenios de Ginebra de 1949.
-
-Con el fin de ofrecer garantías de cumplimiento del Acuerdo Final, una vez este haya sido firmado y entrado en vigor ingresará en estricto sentido al bloque de constitucionalidad para ser tenido en cuenta durante el periodo de implementación del mismo como parámetro de interpretación y referente de desarrollo y validez de las Normas y las Leyes de Implementación y Desarrollo del Acuerdo Final.
-
-En desarrollo del Derecho a la paz, el Procedimiento Legislativo Especial para la aprobación del Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera, incluirá un “procedimiento de ley aprobatoria del Acuerdo Especial” con los siguientes criterios procedimentales especiales: envío al Congreso para su incorporación al derecho interno por medio de una ley; tramitación como ley ordinaria: radicación del proyecto ante la secretaría del Senado y publicación, debate en comisiones constitucionales conjuntas del Senado y Cámara, votación, debate en plenario del Senado; y debate en plenario de la Cámara. El tránsito del proyecto entre comisión y plenaria será de 8 días, las votaciones serán únicamente de aprobación o improbación de todo el texto; control de constitucionalidad de la ley aprobatoria del Acuerdo Especial; sanción presidencial y publicación en Diario Oficial; el Gobierno se obligará a presentar esta ley aprobatoria inmediatamente sea firmado y aprobado el Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera, y entrado en vigor el presente Acto Legislativo.
-
-El procedimiento legislativo de aprobación de leyes o actos legislativos para la implementación o desarrollo del Acuerdo Final, será el Procedimiento Legislativo Especial para la Paz, establecido en el artículo 1° de este acto legislativo, y estará en vigencia para la aprobación de normas de implementación y desarrollo del Acuerdo Final durante el tiempo establecido en el mismo artículo.
-
-El control constitucional relacionado con la aprobación de la ley aprobatoria del Acuerdo Especial, será único y automático.
-
-El control constitucional relacionado con la implementación del Acuerdo Final mediante leyes ordinarias o leyes estatutarias, será único y automático.
+##### **Artículo Transitorio: Derogado**
 
 ## **TÍTULO TRANSITORIO**
 
