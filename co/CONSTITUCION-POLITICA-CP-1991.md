@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2017-05-10"
+last_updated: "2017-05-16"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -3260,7 +3260,7 @@ En cualquier caso, el tratamiento penal especial mediante la aplicación de inst
 
 **(Articulos transitorios adiconados por Acto legislativo 1 de 2016)**
 
-##### **Artículo transitorio.***Procedimiento legislativo especial para la paz*. Con el propósito de agilizar y garantizar la implementación del Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera (Acuerdo Final) y ofrecer garantías de cumplimiento y fin del conflicto, de manera excepcional y transitoria se pondrá en marcha el Procedimiento Legislativo Especial para la Paz, por un período de seis meses, contados a partir de la entrada en vigencia del presente acto legislativo. Este procedimiento podrá ser prorrogado por un período adicional de hasta seis meses mediante comunicación formal del Gobierno nacional ante el Congreso de la República.
+##### **Artículo transitorio.*Procedimiento legislativo especial para la paz*.** Con el propósito de agilizar y garantizar la implementación del Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera (Acuerdo Final) y ofrecer garantías de cumplimiento y fin del conflicto, de manera excepcional y transitoria se pondrá en marcha el Procedimiento Legislativo Especial para la Paz, por un período de seis meses, contados a partir de la entrada en vigencia del presente acto legislativo. Este procedimiento podrá ser prorrogado por un período adicional de hasta seis meses mediante comunicación formal del Gobierno nacional ante el Congreso de la República.
 
 El Procedimiento Legislativo Especial para la Paz se regirá por las siguientes reglas:
 
