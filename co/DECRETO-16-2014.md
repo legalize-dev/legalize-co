@@ -4,7 +4,7 @@ identifier: "DECRETO-16-2014"
 country: "co"
 rank: "decreto"
 publication_date: "2014-09-01"
-last_updated: "2015-09-01"
+last_updated: "2017-05-28"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1003812"
 department: "DEPARTAMENTO ADMINISTRATIVO DE LA FUNCION PUBLICA"
@@ -133,43 +133,49 @@ Es responsabilidad del Fiscal General de la Nación vigilar el desarrollo de la 
 
 - 8. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal General de la Nación.
 
-##### **Artículo 6°.***Dirección Nacional de Políticas Públicas y Planeación.* La Dirección Nacional de Políticas Públicas y Planeación cumplirá las siguientes funciones:
+**RTÍCULO. 6º. DIRECCEÓN DE POLÍTICAS Y ESTRATEGIA.** La Dirección de Políticas y Estrategia cumplirá las siguientes funciones:
 
 - 1. Asesorar al Fiscal General de la Nación en su participación en el diseño de la política del Estado en materia criminal y en la presentación de proyectos de ley al respecto.
 
-- 2. Asesorar en la formulación de políticas estratégicas de aplicación de filtros en la recepción de denuncias y órdenes de trabajo.
+- 2. Asesorar en la definición de políticas, lineamientos y estrategias dirigidos a la operatividad, funcionalidad, continuidad y sostenibilidad del sistema penal.
 
 - 3. Liderar los estudios y las investigaciones que sustenten la formulación de la política en materia criminal.
 
-- 4. Proponer, al Fiscal General de la Nación, políticas y directrices de interpretación y/o de orientación para asegurar el ejercicio eficiente y coherente de la acción penal.
+- 4. Proponer al Fiscal General de la Nación, políticas y directrices de interpretación y/o de orientación para asegurar el ejercicio eficiente y coherente de la acción penal.
 
 - 5. Impartir orientaciones para la ejecución y aplicación de las políticas públicas de interés o con incidencia en la entidad, de conformidad con los lineamientos del Fiscal General de la Nación.
 
 - 6. Evaluar los resultados de la implementación de las políticas públicas de interés de la Fiscalía General de la Nación y proponer los insumos para el ajuste y la redefinición de las mismas, en aras del cumplimiento de la misión institucional.
 
-- 7. Adoptar las estrategias para la implementación transversal de un enfoque diferencial en las políticas internas y públicas fomentadas en la entidad bajo los lineamientos del Fiscal General de la Nación.
+- 7. Dirigir, en coordinación con las demás dependencias de la entidad, y con el apoyo de la Dirección de Planeación y Desarrollo, la elaboración e implementación del direccionamiento estratégico y la prospectiva de la entidad.
 
-- 8. Dirigir la elaboración e implementación del plan estratégico y la prospectiva de la entidad.
+- 8. Diseñar, con el apoyo de la Dirección de Planeación y Desarrollo, la metodología para la elaboración e implementación de los planes de acción de las dependencias de la Fiscalía General de la Nación, así como para el monitoreo de su ejecución.
 
-- 9. Adoptar un modelo de gestión, seguimiento y evaluación basado en gerencia de planes, programas y proyectos.
+- 9. Construir y aplicar, con el apoyo de la Dirección de Planeación y Desarrollo, los indicadores de seguimiento y evaluación del desempeño misional de la Fiscalía General de la Nación y hacerlos públicos al menos una vez al año, a través de un informe de desempeño misional de la entidad.
 
-- 10. Definir directrices, metodologías, instrumentos y procedimientos para la formulación, seguimiento y evaluación de planes, programas y proyectos de la Fiscalía General de la Nación.
+- 10. Dirigir, en coordinación con la Dirección de Planeación y Desarrollo y la Subdirección de Tecnología y Comunicaciones, la estrategia de datos de la entidad, de tal forma que los procesos misionales y administrativos, el manejo y el análisis de los datos, las aplicaciones computacionales y la infraestructura, estén alineados con los objetivos estratégicos de la Fiscalía General de la Nación.
 
-- 11. Impartir los lineamientos para la elaboración de estudios sobre la estructura orgánica, planta de personal, escala salarial y, en general, todo lo relacionado con el desarrollo organizacional de la entidad en coordinación con las respectivas dependencias.
+- 11. Dirigir la adopción de mecanismos de articulación y de coordinación con las entidades involucradas en la ejecución del Sistema Penal.
 
-- 12. Liderar, en coordinación con la Dirección Nacional de Apoyo a la Gestión, el proceso de elaboración del Proyecto Anual de Presupuesto de la entidad.
+- 12. Diseñar y proponer mecanismos de mediación y programas de justicia restaurativa.
 
-- 13. Dirigir el proceso de ejecución, seguimiento y evaluación del presupuesto de inversión.
+- 13. Dirigir y coordinar la implementación y ejecución de mecanismos de articulación y colaboración entre la Fiscalía General de la Nación y las diferentes Entidades públicas nacionales y privadas, que puedan prestar apoyo en el desarrollo de las funciones de la Fiscalía General de la Nación.
 
-- 14. Proponer estrategias y acciones para la implementación y ejecución de la política pública en la Fiscalía General de la Nación.
+- 14. Asesorar a las demás dependencias de la Fiscalía General de la Nación en el desarrollo de las funciones relacionadas con los temas de competencia de la Dirección.
 
-- 15. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
+- 15. Diseñar e implementar planes y proyectos para la aproximación estratégica a la carga laboral de la entidad, incluyendo la política de priorización de la persecución penal.
 
-- 16. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
+- 16. Proponer, para adopción del Fiscal General de la Nación, protocolos para la investigación y el ejercicio de la acción penal.
 
-- 17. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal General de la Nación.
+- 17. Proyectar para el Fiscal General de la Nación, los instructivos o reglamentos que le corresponda expedir en desarrollo del principio de unidad de gestión y jerarquía, que aplicará para todas las unidades y dependencias de la Fiscalía General de la Nación.
 
-##### **Artículo 7°.***Subdirección de Políticas Públicas*. La Subdirección de Políticas Públicas cumplirá las siguientes funciones:
+- 18. Elaborar e implementar los planes de acción en el ámbito de su competencia, de acuerdo con la metodología diseñada para el efecto.
+
+- 19. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
+
+- 20. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal General de la Nación o Vicefiscal General de la Nación
+
+**ARTÍCULO. 7º SUBDIRECCIÓN DE POLÍTICAS PÚBLICAS Y ESTRATEGIA INSTITUCIONAL**. La Subdirección de Políticas Públicas y Estrategia Institucional cumplirá las siguientes funciones:
 
 - 1. Analizar la información sobre el comportamiento delictivo del país y adelantar estudios e investigaciones que apoyen al Fiscal General de la Nación en su participación en la formulación de la política del Estado en materia criminal y en la elaboración de proyectos de ley que se presenten al Congreso de la República.
 
@@ -179,19 +185,19 @@ Es responsabilidad del Fiscal General de la Nación vigilar el desarrollo de la 
 
 - 4. Hacer seguimiento al interior de la Fiscalía General de la Nación de la ejecución e implementación de la política en materia criminal y prevención del delito y las demás que tengan incidencia en el cumplimiento de las funciones de la entidad.
 
-- 5. Elaborar proyectos de ley que por iniciativa del Fiscal General de la Nación se presenten al Congreso de la República en materia de política criminal.
+- 5. Apoyar el estudio y análisis de los proyectos de ley que se presenten en temas de interés para la Fiscalía General de la Nación.
 
-- 6. Apoyar el estudio y análisis de los proyectos de ley que se presenten en temas de interés para la Fiscalía General de la Nación.
+- 6. Realizar diagnósticos de la normativa vigente que incidan en el diseño y cumplimiento de las políticas instauradas al interior de la Fiscalía y proponer nuevas iniciativas legislativas o modificaciones a las mismas cuando a ello haya lugar.
 
-- 7. Realizar diagnósticos de la normativa vigente que incidan en el diseño y cumplimiento de las políticas instauradas al interior de la Fiscalía y proponer nuevas iniciativas legislativas o modificaciones a las mismas cuando a ello haya lugar.
+- 7. Proponer estrategias y acciones para la implementación y ejecución de la política pública en la Fiscalía General de la Nación.
 
-- 8. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
+- 8. Elaborar e implementar los planes de acción en el ámbito de su competencia, de acuerdo con la metodología diseñada para el efecto.
 
-- 9. Asesorar a las demás dependencias de la Fiscalía General de la Nación en los temas de competencia de la Dirección.
+- 9. Asesorar a las demás dependencias de la Fiscalía General de la Nación en los temas de competencia de la subdirección.
 
 - 10. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
 
-- 11. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal General de la Nación o por el Director Nacional de Políticas Públicas y Planeación.
+- 11. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal General de la Nación, el Vicefiscal General de la Nación o por el Director de Políticas y Estrategia
 
 **ARTÍCULO. 7A. SUBDIRECCIÓN DE POLÍTICA CRIMINAL Y ARTICULACIÓN**. La Subdirección de Política Criminal y Articulación cumplirá las siguientes funciones:
 
@@ -221,63 +227,85 @@ Es responsabilidad del Fiscal General de la Nación vigilar el desarrollo de la 
 
 - 13. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal General de la Nación, Vicefiscal General de la Nación o por el Director de Política y Estrategia.
 
-##### **Artículo 8°.***Subdirección de Planeación*. La Subdirección de Planeación cumplirá las siguientes funciones:
+**ARTÍCULO. 8º DIRECCIÓN DE PLANEACIÓN Y DESARROLLO**. La Dirección de Planeación y Desarrollo cumplirá las siguientes funciones:
 
-- 1. Elaborar, en coordinación con las diferentes dependencias de la entidad, el plan estratégico y la prospectiva de la Fiscalía y, una vez aprobado, asesorar su implementación y hacerle seguimiento.
+- 1. Diseñar, planificar y adoptar un modelo de gestión, seguimiento y evaluación en la Fiscalía General de la Nación.
 
-- 2. Asesorar a las diferentes dependencias de la entidad en la formulación de planes, proyectos y programas de inversión y presentarlos ante las instancias correspondientes para su aprobación.
+- 2. Elaborar, desarrollar y controlar el cumplimiento de las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
 
-- 3. Asesorar en el proceso de administración del riesgo de la entidad y consolidar el mapa de riesgos institucional con la información que le brinden los líderes de los procesos.
+- 3. Coordinar y hacer seguimiento a la aplicación de las políticas, metodologías y los protocolos adoptados por la Fiscalía General de la Nación. .
 
-- 4. Diseñar la metodología para la elaboración e implementación de los planes operativos anuales de las dependencias de la Fiscalía General de la Nación, y consolidar y monitorear su ejecución.
+- 4. Apoyar la elaboración del plan estratégico y la prospectiva de la Fiscalía y, una vez aprobado, asesorar su implementación y hacerle seguimiento en lo de su competencia.
 
-- 5. Elaborar, desarrollar y controlar el cumplimiento de las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
+- 5. Adelantar los estudios sobre la organización y funcionamiento de la entidad y proponer los ajustes a la estructura, a la planta de personal y a las escalas salariales.
 
-- 6. Elaborar, en coordinación con la Subdirección Financiera, el Proyecto Anual de Presupuesto y con las demás dependencias de la entidad el presupuesto de inversión, así como monitorear la ejecución de este último.
+- 6. Dirigir y monitorear la implementación de la arquitectura institucional en la Fiscalía General de la Nación.
 
-- 7. Realizar el seguimiento a la ejecución presupuestal y viabilizar las modificaciones a que haya lugar ante el Departamento Nacional de Planeación.
+- 7. Definir directrices, metodologías, instrumentos y procedimientos para el seguimiento y la evaluación de planes, programas y proyectos de la Fiscalía General de la Nación.
 
-- 8. Establecer en coordinación con las dependencias de la Fiscalía General de la Nación los índices y los indicadores necesarios para un adecuado control de gestión a los planes y actividades de la entidad.
+- 8. Apoyar a la Dirección de Políticas y Estrategia, en el diseño de la metodología para la elaboración e implementación de los planes de acción de las dependencias de la Fiscalía General de la Nación, así como para el monitoreo de su ejecución.
 
-- 9. Diseñar, planificar y proponer un modelo de gestión, seguimiento y evaluación en la Fiscalía General de la Nación.
+- 9. Apoyar a la Dirección de Políticas y Estrategia, en la construcción y aplicación de los indicadores de seguimiento y evaluación de desempeño misional de la Fiscalía General de la Nación y hacerlos públicos al menos una vez al año, a través de un informe de desempeño misional de la entidad.
 
-- 10. Adelantar los estudios sobre la organización y funcionamiento de la entidad y proponer los ajustes a la estructura, a la planta de personal y a las escalas salariales.
+- 10. Realizar el seguimiento a la ejecución presupuestal y viabilizar las modificaciones a que haya lugar ante las autoridades competentes.
 
-- 11. Asesorar, consolidar y acompañar a las diferentes áreas en la elaboración y actualización de la documentación del Sistema de Gestión Integral de la Fiscalía General de la Nación.
+- 11. Gestionar la formulación y evaluación de los proyectos de inversión, en coordinación con las demás dependencias de la Fiscalía y tramitar su inclusión en el Banco Nacional de Programas y Proyectos.
 
-- 12. Elaborar y divulgar boletines periódicos y estandarizados de estadísticas de gestión.
+- 12. Elaborar, en coordinación con la Dirección Ejecutiva y con las demás dependencias de la entidad, el Anteproyecto Anual de Presupuesto, y monitorear su ejecución.
 
-- 13. Gestionar la formulación y evaluación de los proyectos de inversión, en coordinación con las demás dependencias de la Fiscalía y tramitar su inclusión en el Banco Nacional de Programas y Proyectos.
+- 13. Asesorar a las diferentes dependencias de la entidad en la formulación de planes, proyectos y programas de inversión y presentarlos ante las instancias correspondientes para su aprobación.
 
-- 14. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada para tal fin.
+- 14. Asesorar en el proceso de administración del riesgo de la entidad y consolidar el mapa de riesgos institucional con la información que le brinden los líderes de los procesos.
 
-- 15. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
+- 15. Establecer, en coordinación con las dependencias de la Fiscalía General de la Nación, los índices e indicadores necesarios para un adecuado control de la gestión y de los planes de acción de la entidad.
 
-- 16. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal General de la Nación o por el Director Nacional de Políticas Públicas y Planeación.
+- 16. Asesorar, consolidar y acompañar a las diferentes áreas en la elaboración y actualización de la documentación del Sistema de Gestión Integral de la Fiscalía General de la Nación.
 
-##### **Artículo 9°.***Dirección Nacional de Estrategia en Asuntos Constitucionales*. La Dirección Nacional de Estrategia en Asuntos Constitucionales cumplirá las siguientes funciones:
+- 17. Elaborar e implementar los planes de acción en el ámbito de su competencia, de acuerdo con la metodología diseñada.
 
-- 1. Asesorar al Fiscal General de la Nación, en la definición y formulación de políticas, lineamientos y directrices de interpretación en los temas constitucionales que afecten o involucren los objetivos misionales de la Fiscalía General de la Nación.
+- 18. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
 
-- 2. Realizar los estudios y análisis y emitir conceptos sobre la constitucionalidad de los asuntos que sean de interés o tengan incidencia en la Fiscalía General de la Nación, sometidos a su consideración por el Fiscal General de la Nación.
+- 19. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal General de la Nación.
 
-- 3. Proponer directrices y estrategias de defensa en las acciones constitucionales y demandas de constitucionalidad que impacten los asuntos de la Fiscalía General de la Nación, para ser adoptadas por el Fiscal General.
+**ARTÍCULO. 9º—DIRECCIÓN DE ASUNTOS JURÍDICOS**. La dirección de asuntos jurídicos cumplirá las siguientes funciones:
 
-- 4. Proponer acciones y estrategias de defensa judicial en los casos en que el Fiscal General lo requiera.
+- 1. Asesorar al Fiscal General de la Nación, en la definición y formulación de políticas, lineamientos y directrices de interpretación en los temas constitucionales y legales que afecten o involucren los objetivos misionales de la Fiscalía General de la Nación.
 
-- 5. Intervenir en los procesos constitucionales y en las demandas de inconstitucionalidad, de interés para la Fiscalía General de la Nación.
+- 2. Apoyar, en el marco de sus competencias, a la Dirección de Políticas y Estrategia en el análisis de la información jurídica que se requiera para sustentar la formulación de la política en materia criminal, en desarrollo de las competencias constitucionales y legales atribuidas a la Fiscalía General de la Nación.
+
+- 3. Asesorar a las dependencias de la Fiscalía General de la Nación en asuntos jurídicos y emitir los conceptos a que haya lugar.
+
+- 4. Revisar los documentos asignados por el Despacho del Fiscal General de la Nación.
+
+- 5. Proponer directrices y estrategias de defensa en las acciones constitucionales y demandas de constitucionalidad que impacten los asuntos de la Fiscalía General de la Nación, para ser adoptadas por el Fiscal General.
 
 - 6. Apoyar el estudio y análisis de constitucionalidad de los proyectos de ley relacionados con los objetivos, misión y funciones de la Fiscalía General de la Nación.
 
 - 7. Dirigir e implementar la relatoría de jurisprudencia de interés y que se requiera para el cumplimiento de las funciones de la entidad.
 
-- 8. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
+- 8. Hacer seguimiento al trámite de los proyectos de ley y actos legislativos que cursen ante el Congreso de la República y que tengan incidencia en la entidad.
 
-- 9. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
+- 9. Representar a la Fiscalía General de la Nación, mediante poder conferido por el Fiscal General o por quien este delegue, en los procesos judiciales, extrajudiciales, prejudiciales y administrativos en que sea parte la entidad.
 
-- 10. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal General de la Nación.
+- 10. Proponer acciones y estrategias de defensa judicial en las que la Fiscalía sea parte.
 
-##### **Artículo 10.***Dirección Nacional de Comunicaciones, Prensa y Protocolo.* La Dirección Nacional de Comunicaciones, Prensa y Protocolo cumplirá las siguientes funciones:
+- 11. Dirigir, coordinar, asesorar y realizar las acciones necesarias para dar cumplimiento a las sentencias y conciliaciones.
+
+- 12. Proyectar los actos administrativos para el reconocimiento y pago de las sentencias y conciliaciones, de acuerdo con la liquidación que adelante la Subdirección Financiera.
+
+- 13. Gestionar la recuperación de dinero, bienes muebles e inmuebles a favor de la entidad, a través del proceso coactivo.
+
+- 14. Mantener la unidad de criterio jurídico en la entidad en la interpretación y aplicación de la ley para la prevención del daño antijurídico.
+
+- 15. Delegar en las coordinaciones y jefaturas de departamento, que para el efecto cree el Fiscal General de la Nación, las funciones de su competencia.
+
+- 16. Elaborar e implementar los planes de acción en el ámbito de su competencia, de acuerdo con la metodología diseñada para el efecto.
+
+- 17. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
+
+- 18. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal General de la Nación
+
+##### **Artículo 10.***Dirección de Comunicaciones.* La Dirección de Comunicaciones cumplirá las siguientes funciones:
 
 - 1. Asesorar al Fiscal General de la Nación en la definición de políticas, estrategias, planes, programas y proyectos de comunicación interna y externa.
 
@@ -307,27 +335,9 @@ Es responsabilidad del Fiscal General de la Nación vigilar el desarrollo de la 
 
 - 14. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal General de la Nación.
 
-##### **Artículo 11.***Dirección Jurídica*. La Dirección Jurídica cumplirá las siguientes funciones:
+##### **Artículo 11.***Derogado*
 
-- 1. Representar a la Fiscalía General de la Nación, mediante poder conferido por el Fiscal General o por quien este delegue, en los procesos judiciales, extrajudiciales, prejudiciales y administrativos en que sea parte la entidad.
-
-- 2. Asesorar a las dependencias de la Fiscalía General de la Nación en asuntos jurídicos y emitir los conceptos a que haya lugar.
-
-- 3. Revisar en los aspectos jurídicos los documentos asignados por el Despacho del Fiscal General de la Nación.
-
-4, Dirigir, coordinar, asesorar y realizar las acciones necesarias para dar cumplimiento a las sentencias y conciliaciones y expedir los actos administrativos para su reconocimiento y pago.
-
-- 5. Mantener la unidad de criterio jurídico en la entidad en la interpretación y aplicación de la ley para la prevención del daño antijurídico.
-
-- 6. Gestionar la recuperación de dinero, bienes muebles e inmuebles a favor de la Entidad, a través del proceso coactivo.
-
-- 7. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
-
-- 8. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
-
-- 9. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal General de la Nación.
-
-##### **Artículo 12.***Dirección de Gestión Internacional*. La Dirección de Gestión Internacional cumplirá las siguientes funciones:
+##### **Artículo 12.***Dirección de Asuntos Internacionales*. La Dirección de Asuntos Internacionales cumplirá las siguientes funciones:
 
 - 1. Atender los requerimientos de las autoridades competentes en materia de cooperación técnica y judicial internacional, bajo los lineamientos y directrices impartidos por el Fiscal General de la Nación.
 
@@ -408,6 +418,8 @@ Es responsabilidad del Fiscal General de la Nación vigilar el desarrollo de la 
 - 8. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
 
 - 9. Las demás que le sean asignadas por la ley o delegadas por el Fiscal General de la Nación.
+
+- 10. Verificar que todos los empleados de las distintas unidades y dependencias de la Fiscalía General de la Nación apliquen estrictamente los criterios e instrucciones que imparta el Fiscal General en desarrollo del artículo 251 de la Constitución Política y aplicar el régimen sancionatorio cuando sea el caso.
 
 **ARTÍCULO. 14A. DIRECCIÓN DEL CUERPO TÉCNICO DE INVESTIGACIÓN, CTI.** La Dirección del Cuerpo Técnico de Investigación, CTI, cumplirá las siguientes funciones:
 
@@ -581,39 +593,7 @@ En las ausencias temporales no se requerirá designación especial, si se trata 
 
 **De las dependencias adscritas al despacho del Vicefiscal General de la Nación**
 
-##### **Artículo 16.***Dirección Nacional de Análisis y Contextos*. La Dirección Nacional de Análisis y Contextos cumplirá las siguientes funciones:
-
-- 1. Asesorar al Fiscal General de la Nación en el diseño e implementación de estrategias para la aplicación de criterios de priorización en la investigación penal, entre otros, subjetivos, objetivos y complementarios, que permitan establecer un orden de atención de casos con el fin de garantizar, en condiciones de igualdad material, el goce efectivo del derecho fundamental de administración de justicia.
-
-- 2. Proponer, para adopción del Fiscal General de la Nación, protocolos para la construcción de contextos en la investigación penal, que permita tener en cuenta en esta, elementos de orden geográfico, político, económico, histórico y social, entre otros, que enmarquen la ocurrencia de patrones delictivos.
-
-- 3. Dirigir, coordinar, controlar y adelantar el desarrollo en contexto de la función investigativa y acusatoria de los casos y situaciones priorizados por el Comité Nacional de Priorización de Situaciones y Casos y asignados por el Fiscal General de la Nación.
-
-- 4. Realizar análisis criminal para la construcción de contextos que contribuyan en la investigación penal en los casos y situaciones priorizadas que le sean asignados.
-
-- 5. Organizar y adelantar comités técnico-jurídicos de revisión de las situaciones y los casos para la ejecución de acciones en el desarrollo efectivo y eficiente de las investigaciones penales de su competencia. Si el fiscal del caso se aparta de la decisión del Comité deberá motivar su posición, la cual será estudiada nuevamente por este. En todo caso, en virtud de los principios de unidad de gestión y de jerarquía, prevalecerá el criterio y la posición de la Fiscalía señalada por el Comité, en aplicación del numeral 3 del artículo 251 de la Constitución.
-
-- 6. Identificar y delimitar situaciones y casos susceptibles de ser priorizados y proponerlos al Comité Nacional de Priorización de Situaciones y Casos.
-
-- 7. Asesorar a las dependencias de la Fiscalía General de la Nación que cumplen funciones investigativas y acusatorias en la construcción de contextos y en la implementación de la política de priorización de situaciones y casos.
-
-- 8. Asesorar a los comités de priorización de situaciones y casos conformados por el Fiscal General, en el cumplimiento de sus funciones.
-
-- 9. Hacer seguimiento a la ejecución de los planes de priorización a cargo de las dependencias del nivel nacional.
-
-- 10. Mantener canales de comunicación y coordinación con las dependencias misionales de la entidad para identificar y focalizar los fenómenos de macrocriminalidad, para el desarrollo de sus competencias.
-
-- 11. Dirigir, coordinar y controlar el cuerpo de policía judicial de la Fiscalía General de la Nación designado a la Dirección de Análisis y Contextos para adelantar las labores de investigación de las situaciones y casos de su competencia.
-
-- 12. Consolidar, analizar y clasificar la información de las investigaciones y acusaciones de su competencia y remitirla a la Dirección de Políticas Públicas y Planeación.
-
-- 13. Mantener actualizada la información que se registre en los sistemas de información de la entidad, en los temas de su competencia.
-
-- 14. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
-
-- 15. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
-
-- 16. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal o Vicefiscal General de la Nación.
+##### **Artículo 16.***Derogado*
 
 ##### **Artículo 17.***Dirección de Fiscalías Nacionales*. La Dirección de Fiscalías Nacionales cumplirá las siguientes funciones:
 
@@ -628,10 +608,6 @@ En las ausencias temporales no se requerirá designación especial, si se trata 
 - 5. Identificar y delimitar situaciones y casos susceptibles de ser priorizados y proponerlos al Comité Nacional de Priorización de Situaciones y Casos.
 
 - 6. Ejecutar los planes de priorización aprobados por el Comité Nacional de Priorización de Situaciones y Casos en lo de su competencia.
-
-- 7. Autorizar la utilización de agentes encubiertos y las entregas vigiladas solicitadas por los fiscales de esta Dirección o por los fiscales de las Fiscalías Nacionales Especializadas, en los términos y condiciones establecidos en el Código de Procedimiento Penal.
-
-- 8. Dirigir, administrar y controlar, en el marco de la Constitución y la ley, el sistema de interceptación de las comunicaciones que ordene la Fiscalía General de la Nación.
 
 - 9. Apoyar, en el marco de sus competencias, a la Dirección Nacional de Políticas Públicas y Planeación en el análisis de la información que se requiera para sustentar la formulación de la política en materia criminal.
 
@@ -651,6 +627,16 @@ En las ausencias temporales no se requerirá designación especial, si se trata 
 
 - 17. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal o Vicefiscal General de la Nación.
 
+- 18. Dirigir, coordinar, articular y controlar el desarrollo de la función investigativa y acusatoria en las Direcciones a su cargo, así como en los casos y/o situaciones que le sean asignados, según los lineamientos de priorización y la construcción de contextos, cuando haya lugar.
+
+- 19. Articular y coordinar el desarrollo de las funciones de Policía Judicial, sin perjuicio de la autonomía funcional con la que estas cuentan, en los asuntos a su cargo.
+
+- 20. Diseñar y aplicar mecanismos para que el desarrollo de las funciones de Policía Judicial se adelante de manera articulada y coordinada, bajo los lineamientos y directrices del Vicefiscal General de la Nación en los asuntos a su cargo.
+
+- 21. Proponer, en coordinación con la Dirección Nacional del Cuerpo Técnico de Investigación (CTI) y las demás dependencias de la Fiscalía General de la Nación que cumplan funciones de Policía Judicial Especializada, las metodologías y protocolos de investigación para aprobación del Fiscal General de la Nación.
+
+- 22. Coordinar y hacer seguimiento a la gestión y a la incorporación y aplicación de políticas públicas, directivas, metodologías y protocolos que adopte el Fiscal General de la Nación para el desarrollo de las funciones de Policía Judicial, y presentar informes periódicos y recomendaciones al Vicefiscal General de la Nación.
+
 **ARTÍCULO. 17A. DIRECCIÓN DE APOYO A LA INVESTIGACIÓN Y ANÁLISIS CONTRA LA CRIMINALIDAD ORGANIZADA**. Son funciones de la Dirección de Apoyo a la Investigación y Análisis contra la Criminalidad Organizada:
 
 - 1. Asesorar, acompañar y apoyar casos o situaciones de competencia de la delegada, con el fin de consolidar una estrategia jurídica e investigativa integral.
@@ -665,53 +651,31 @@ En las ausencias temporales no se requerirá designación especial, si se trata 
 
 - 6. Las demás que le sean asignadas por la ley, por la delegada contra la Criminalidad Organizada o por el Fiscal General de la Nación o el Vicefiscal General de la Nación
 
-##### **Artículo 18.***Dirección de Articulación de Fiscalías Nacionales Especializadas*. La Dirección de Articulación de Fiscalías Nacionales Especializadas cumplirá las siguientes funciones:
+**ARTÍCULO. 18. DELEGADA PARA LAS FINANZAS CRIMINALES.** Corresponde a la delegada para las Finanzas Criminales implementar y coordinar las actividades de investigación y análisis criminal de los hechos que revistan características de delitos en materia económica y financiera, bien sea a nivel local, regional, nacional o transnacional. Entre otras, adelantará las investigaciones de las siguientes formas de criminalidad: (i) financiación del terrorismo, (ii) criminalidad financiera y bursátil, (iii) criminalidad tributaria y aduanera (iv) lavado de activos y (v) extinción del derecho de dominio. Para tales efectos cumplirá las funciones previstas en el artículo 17 del Decreto-Ley 16 de 2014, en lo de su competencia.
 
-- 1. Articular y coordinar el desarrollo de las funciones a cargo de las Fiscalías Nacionales Especializadas, sin perjuicio de la autonomía funcional con la que estas cuentan.
+**ARTÍCULO. 19. DIRECCIONES ESPECIALIZADAS**. La delegada contra la Criminalidad Organizada y la delegada para las Finanzas Criminales tendrán las siguientes Direcciones Especializadas:
 
-- 2. Diseñar y aplicar mecanismos para que el desarrollo de las funciones de las Direcciones de Fiscalías Nacionales Especializadas se adelante de manera articulada y coordinada, bajo los lineamientos y directrices del Vicefiscal General de la Nación.
+A. delegada contra la Criminalidad Organizada:
 
-- 3. Solicitar los informes a las Direcciones de Fiscalías Nacionales Especializadas sobre la ejecución de los planes de priorización a cargo de estas, consolidarlos y remitirlos a las dependencias competentes.
+- 1. Dirección Especializada contra las Organizaciones Criminales.
 
-- 4. Presentar al Comité Nacional de Priorización de Situaciones y Casos, las situaciones y los casos de las Direcciones de Fiscalías Nacionales Especializadas que sean susceptibles de ser priorizados.
+- 2. Dirección Especializada contra la Corrupción.
 
-- 5. Tramitar, resolver y decidir los asuntos asignados por el Vicefiscal General de la Nación.
+- 3. Dirección Especializada contra el Narcotráfico.
 
-- 6. Realizar seguimiento a los procesos a cargo de las Direcciones de Fiscalías Nacionales Especializadas y presentar informes periódicos y recomendaciones al Vicefiscal General de la Nación.
+- 4. Dirección de Justicia Transicional.
 
-- 7. Coordinar y hacer seguimiento a la incorporación y aplicación de políticas públicas y directivas del Fiscal General de la Nación en el desarrollo de las funciones que cumplen las Direcciones de Fiscalías Nacionales Especializadas, y presentar informes periódicos y recomendaciones al Vicefiscal General de la Nación.
+- 5. Dirección Especializada contra las Violaciones a los Derechos Humanos.
 
-- 8. Consolidar, analizar y clasificar la información de las investigaciones y acusaciones adelantadas por las Direcciones de Fiscalías Nacionales Especializadas y remitirla a la Dirección Nacional de Políticas Públicas y Planeación.
+B. delegada para las Finanzas Criminales:
 
-- 9. Apoyar, en el marco de sus competencias, a la Dirección Nacional de Políticas Públicas y Planeación en el análisis de la información que se requiera para sustentar la formulación de la política en materia criminal.
+- 1. Dirección Especializada contra el Lavado de Activos.
 
-- 10. Dirimir los conflictos administrativos que se presenten al interior de la Fiscalía en el ejercicio de las funciones o en la asignación de investigaciones, en los casos y según las directrices y lineamientos impartidos por el Fiscal General de la Nación.
+- 2. Dirección Especializada de Extinción del Derecho de Dominio.
 
-- 11. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
+- 3. Dirección Especializada de Investigaciones Financieras
 
-- 12. Aplicar las directrices y lineamientos del Sistema Integral de Gestión de la Fiscalía General de la Nación.
-
-- 13. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal o Vicefiscal General de la Nación.
-
-##### **Artículo 19.***Direcciones de Fiscalías Nacionales Especializadas*. La Fiscalía General de la Nación tiene las siguientes Direcciones de Fiscalías Nacionales Especializadas:
-
-- 1. Dirección de Fiscalía Nacional Especializada de Derechos Humanos y Derecho Internacional Humanitario.
-
-- 2. Dirección de Fiscalía Nacional Especializada contra el Crimen Organizado.
-
-- 3. Dirección de Fiscalía Nacional Especializada contra el Terrorismo.
-
-- 4. Dirección de Fiscalía Nacional Especializada contra la Corrupción.
-
-- 5. Dirección de Fiscalía Nacional Especializada de Justicia Transicional.
-
-- 6. Dirección de Fiscalía Nacional Especializada Antinarcóticos y Lavado de Activos.
-
-- 7. Dirección de Fiscalía Nacional Especializada de Extinción del Derecho de Dominio.
-
-**Parágrafo.** Las Direcciones de Fiscalías Nacionales Especializadas tienen competencia en todo el territorio nacional y su dirección será ejercida por un Fiscal Delegado designado por el Fiscal General de la Nación.
-
-##### **Artículo 20.***Funciones de las Direcciones de Fiscalías Nacionales Especializadas*. Las Direcciones de Fiscalías Nacionales Especializadas cumplirán las siguientes funciones generales:
+##### **Artículo 20.***Funciones de las Direcciones Especializadas*. Las Direcciones Especializadas cumplirán las siguientes funciones generales:
 
 - 1. Dirigir, coordinar y adelantar las investigaciones y acusaciones que le sean asignadas por recomendación del respectivo comité de priorización o directamente por el Fiscal General de la Nación, según los lineamientos de priorización y la construcción de contextos, cuando haya lugar.
 
@@ -723,13 +687,13 @@ En las ausencias temporales no se requerirá designación especial, si se trata 
 
 - 5. Ejecutar los planes de priorización aprobados por el Comité Nacional de Priorización de Situaciones y Casos en lo de su competencia.
 
-- 6. Suministrar al Director de Articulación de Fiscalías Nacionales Especializadas la información de las investigaciones y acusaciones adelantadas por su dependencia, debidamente consolidada y clasificada.
+- 6. Suministrar al Director de Articulación Especializadas la información de las investigaciones y acusaciones adelantadas por su dependencia, debidamente consolidada y clasificada.
 
 - 7. Asesorar a las dependencias de la Fiscalía General de la Nación en los temas especializados de su competencia.
 
 - 8. Mantener actualizada la información que se registre en los sistemas de información de la entidad, en los temas de su competencia.
 
-- 9. Dar cumplimiento a las estrategias y mecanismos dados por la Dirección de Articulación de Fiscalías Especializadas para que el desarrollo de las funciones de la Dependencia se adelante de manera coordinada y articulada.
+- 9. Dar cumplimiento a las estrategias y mecanismos dados por la Direcciones Especializadas para que el desarrollo de las funciones de la Dependencia se adelante de manera coordinada y articulada.
 
 - 10. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación,
 
@@ -737,225 +701,53 @@ En las ausencias temporales no se requerirá designación especial, si se trata 
 
 - 12. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal o Vicefiscal General de la Nación.
 
-##### **Artículo 21.***Dirección Nacional del Cuerpo Técnico de Investigación (CTI)*. La Dirección Nacional del Cuerpo Técnico de Investigación (CTI) cumplirá las siguientes funciones:
+- 13. Dirigir, coordinar y controlar la investigación y judicialización de las diversas formas de delincuencia, bien sea a nivel local, regional, nacional o transnacional incluidas las nuevas formas de criminalidad emergentes en el posconflicto.
 
-- 1. Planear, ejecutar y controlar las funciones de policía judicial de los grupos que conforme la Dirección para adelantar las investigaciones a su cargo.
+- 14. Planear, ejecutar y controlar las funciones de policía judicial a cargo de la Dirección Especializada en el ámbito de su competencia.
 
-- 2. Asesorar y apoyar a las dependencias de la Fiscalía General de la Nación en materia de investigación criminal, servicios forenses y de genética y en la administración de información técnica y judicial que se requiera para la investigación penal.
+- 15. Asesorar y apoyar a las dependencias de la Fiscalía General de la Nación en materia de investigación criminal y en la administración de información técnica y judicial que se requiera para la investigación penal, en los asuntos de su competencia.
 
-- 3. Hacer análisis criminal para apoyar el cumplimiento de las funciones de la Fiscalía General de la Nación.
+- 16. Hacer análisis criminal, en el ámbito de su competencia, para apoyar el cumplimiento de las funciones de la Fiscalía General de la Nación.
 
-- 4. Apoyar, en el marco de sus competencias, las actuaciones que adelanten las dependencias de la Fiscalía General de la Nación en el ejercicio de sus funciones, cuando estas lo requieran.
+- 17. Crear y coordinar grupos especializados de investigación en el ámbito de su competencia que respondan a las líneas de investigación a su cargo, bajo los lineamientos del Fiscal General de la Nación.
 
-- 5. Administrar y mantener actualizado el Registro Único de Asuntos de Policía Judicial de la Fiscalía General de la Nación, de acuerdo con los protocolos adoptados por el Fiscal General de la Nación.
+- 18. Apoyar, en el marco de sus competencias, las actuaciones que adelanten las dependencias de la Fiscalía General de la Nación en el ejercicio de sus funciones, cuando estas lo requieran.
 
-- 6. Adelantar, dentro del ámbito de su competencia, el intercambio de información entre los distintos organismos de investigación, de seguridad e inteligencia a nivel nacional e internacional, para la programación y el desarrollo de operaciones contra la delincuencia, bajo las directrices del Vicefiscal General de la Nación.
+- 19. Mantener actualizada la información en el Registro Único de Asuntos de Policía Judicial de la Fiscalía General de la Nación, en los temas de su competencia.
 
-- 7. Implementar en el desarrollo de sus competencias las políticas de aseguramiento y cadena de custodia de los elementos materiales probatorios y evidencia física.
+- 20. Adelantar el intercambio de información entre los distintos organismos de investigación, de seguridad e inteligencia a nivel nacional e internacional y entre las distintas entidades públicas y privadas, para la programación y el desarrollo de operaciones contra la delincuencia, bajo las directrices del Vicefiscal General de la Nación.
 
-- 8. Prestar apoyo técnico-científico en coordinación con los demás organismos de policía judicial, en ausencia del Instituto de Medicina Legal y Ciencias Forenses.
+- 21. Implementar en el desarrollo de sus competencias las políticas de aseguramiento y cadena de custodia de los elementos materiales probatorios y evidencia física.
 
-- 9. Dirigir, coordinar y controlar en el desarrollo de las funciones que cumplen los servidores y las dependencias o grupos a su cargo, la incorporación y aplicación de políticas públicas, estrategias, metodologías, protocolos de investigación, servicios forenses y de genética, que adopte el Fiscal General de la Nación.
+- 22. Dirigir, coordinar y controlar en el desarrollo de las funciones que cumplen los servidores y las dependencias o grupos a su cargo, la incorporación y aplicación de políticas públicas, estrategias, metodologías, protocolos de investigación que adopte el Fiscal General de la Nación.
 
-- 10. Dirigir y coordinar los grupos de trabajo que se conformen para el cumplimiento de las funciones y competencias de la Dirección.
+- 23. Mantener canales de comunicación y coordinación con la Dirección Nacional del Cuerpo Técnico de Investigación, CTI) y con las dependencias de la entidad, en especial con las que cumplan funciones de policía judicial o relacionadas con esta.
 
-- 11. Proponer, en coordinación con las dependencias que cumplan funciones de policía judicial especializada, las metodologías y protocolos de investigación, para aprobación del Fiscal General de la Nación.
+- 24. Dirigir, coordinar y adelantar las investigaciones y actuaciones. en materia de finanzas criminales que le sean asignadas por recomendación del respectivo comité de priorización o directamente por el Fiscal General de la Nación, según los lineamientos de priorización y la construcción de contextos, cuando haya lugar.
 
-- 12. Apoyar, en el marco de sus competencias, a la Dirección Nacional de Políticas Públicas y Planeación en el análisis de la información que se requiera para sustentar la formulación de la política en materia criminal.
+##### **Artículo 21.***Derogado*
 
-- 13. Consolidar, analizar y clasificar la información de las investigaciones adelantadas por los servidores, dependencias y grupos de trabajo que estén bajo su dependencia, y remitirla a la Dirección Nacional de Políticas Públicas y Planeación.
+##### **Artículo 22.***Derogado*
 
-- 14. Mantener canales de comunicación y coordinación con las dependencias misionales de la entidad, en especial con las que cumplan funciones de policía judicial, o relacionadas con esta.
+##### **Artículo 23.***Derogado*
 
-- 15. Administrar los laboratorios de la Fiscalía General de la Nación a nivel nacional e implementar y proponer los protocolos para su funcionamiento.
+##### **Artículo 24.***Derogado*
 
-- 16. Dirigir, controlar y evaluar el desempeño de la gestión de las dependencias de investigaciones y criminalística a su cargo.
+##### **Artículo 25.***Derogado*
 
-- 17. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
+##### **Artículo 26.***Derogado*
 
-- 18. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
+##### **Artículo 27.***Derogado*
 
-- 19. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal o Vicefiscal General de la Nación.
+##### **Artículo 28.***Derogado*
 
-##### **Artículo 22.***Dirección Nacional de Articulación de Policías Judiciales Especializadas*. La Dirección Nacional de Articulación de Policías Judiciales Especializadas de la Fiscalía General de la Nación, cumplirá las siguientes funciones:
+##### **ARTÍCULO 30. DIRECCIÓN DE ATENCIÓN AL USUARIO**, **INTERVENCIÓN TEMPRANA Y ASIGNACIONES**. La Dirección Nacional de Atención al Usuario, Intervención Temprana y Asignaciones tiene las siguientes funciones:
 
-- 1. Articular y coordinar el desarrollo de las funciones a cargo de las Direcciones Especializadas de Policía Judicial, sin perjuicio de la autonomía funcional con la que estas cuentan.
+- 1. Asesorar al Fiscal General de la Nación en la definición de las políticas, estrategias, metodologías y protocolos en materia de atención a usuarios.
 
-- 2. Diseñar y aplicar mecanismos para que el desarrollo de las funciones de las Direcciones Especializadas de Policía Judicial se adelante de manera articulada y coordinada, bajo los lineamientos y directrices del Vicefiscal General de la Nación.
+- 2. Dirigir, coordinar, controlar y hacer seguimiento a la aplicación de las políticas, metodologías y los protocolos adoptados por la Fiscalía General de la Nación para la atención, clasificación, aplicación de filtros y asignaciones en la recepción de denuncias.
 
-- 3. Tramitar, resolver y decidir los asuntos asignados por el Vicefiscal General de la Nación.
-
-- 4. Proponer, en coordinación con la Dirección Nacional del Cuerpo Técnico de Investigación (CTI) y las demás dependencias de la Fiscalía General de la Nación que cumplan funciones de Policía Judicial Especializada, las metodologías y protocolos de investigación para aprobación del Fiscal General de la Nación.
-
-- 5. Coordinar y hacer seguimiento a la gestión y a la incorporación y aplicación de políticas públicas, directivas, metodologías y protocolos que adopte el Fiscal General de la Nación para el desarrollo de las funciones que cumplen las Direcciones Especializadas de Policía Judicial, y presentar informes periódicos y recomendaciones al Vicefiscal General de la Nación.
-
-- 6. Consolidar, analizar y clasificar la información de las investigaciones adelantadas por las Direcciones Especializadas de Policía Judicial y remitirla a la Dirección de Políticas Públicas y Planeación.
-
-- 7. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
-
-- 8. Aplicar las directrices y lineamientos del Sistema Integral de Gestión de la Fiscalía General de la Nación.
-
-- 9. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal o Vicefiscal General de la Nación.
-
-##### **Artículo 23.***Direcciones Especializadas de Policía Judicial*. La Fiscalía General de la Nación, independientemente de las Policías Judiciales especializadas de la Policía Nacional, tiene las siguientes Direcciones Especializadas de Policía Judicial:
-
-- 1. Dirección Especializada de Policía Judicial Económico Financiera.
-
-- 2. Dirección Especializada de Policía Judicial de Extinción del Derecho de Dominio.
-
-- 3. Dirección Especializada de Policía Judicial de Derechos Humanos y Derecho Internacional Humanitario.
-
-- 4. Dirección Especializada de Policía Judicial de Crimen Organizado.
-
-- 5. Dirección Especializada de Policía Judicial de Aforados Constitucionales.
-
-**Parágrafo 1°.** Las Direcciones Especializadas de Policía Judicial tienen competencia en todo el territorio nacional.
-
-**Parágrafo 2°.** La Fiscalía General de la Nación continuará solicitando el apoyo de la Policía Judicial de la Policía Nacional y demás organismos y entidades que cumplen funciones de policía judicial de manera permanente o transitoria, de conformidad con la Constitución y la ley, para lo cual impartirá las respectivas órdenes de trabajo, de acuerdo a su especialidad y/o las necesidades del servicio.
-
-##### **Artículo 24.***Funciones de las Direcciones Especializadas de Policía Judicial*. Las Direcciones Especializadas de Policía Judicial de la Fiscalía General de la Nación cumplirán las siguientes funciones generales:
-
-- 1. Planear, ejecutar y controlar las funciones de policía judicial a cargo de la Dirección Especializada en el ámbito de su competencia.
-
-- 2. Asesorar y apoyar a las dependencias de la Fiscalía General de la Nación en materia de investigación criminal y en la administración de información técnica y judicial que se requiera para la investigación penal, en los asuntos de su competencia.
-
-- 3. Hacer análisis criminal, en el ámbito de su competencia, para apoyar el cumplimiento de las funciones de la Fiscalía General de la Nación.
-
-- 4. Crear y coordinar grupos especializados de investigación en el ámbito de su competencia que respondan a las líneas de investigación a su cargo, bajo los lineamientos del Fiscal General de la Nación.
-
-- 5. Apoyar, en el marco de sus competencias, las actuaciones que adelanten las dependencias de la Fiscalía General de la Nación en el ejercicio de sus funciones, cuando estas lo requieran.
-
-- 6. Mantener actualizada la información en el Registro Único de Asuntos de Policía Judicial de la Fiscalía General de la Nación, en los temas de su competencia.
-
-- 7. Adelantar el intercambio de información entre los distintos organismos de investigación, de seguridad e inteligencia a nivel nacional e internacional y entre las distintas entidades públicas y privadas, para la programación y el desarrollo de operaciones contra la delincuencia, bajo las directrices del Vicefiscal General de la Nación.
-
-- 8. Implementar en el desarrollo de sus competencias las políticas de aseguramiento y cadena de custodia de los elementos materiales probatorios y evidencia física.
-
-- 9. Dirigir, coordinar y controlar en el desarrollo de las funciones que cumplen los servidores y las dependencias o grupos a su cargo, la incorporación y aplicación de políticas públicas, estrategias, metodologías, protocolos de investigación que adopte el Fiscal General de la Nación.
-
-- 10. Proponer, en coordinación con la Dirección Nacional de Articulación de Policías Judiciales Especializadas y las demás dependencias de la Fiscalía General de la Nación que cumplan funciones de policía judicial, metodologías y protocolos de investigación en el eje temático de su competencia, para aprobación del Fiscal General de la Nación.
-
-- 11. Dar cumplimiento a las estrategias y mecanismos dados por la Dirección de Articulación de Policías Judiciales Especializadas para que el desarrollo de las funciones de la Dependencia se adelante de manera coordinada y articulada.
-
-- 12. Suministrar al Director de Articulación de Policías Judiciales Especializadas la información de las investigaciones adelantadas por su dependencia, debidamente consolidada y clasificada.
-
-- 13. Mantener canales de comunicación y coordinación con la Dirección Nacional del Cuerpo Técnico de Investigación (CTI) y con las dependencias de la entidad, en especial con las que cumplan funciones de policía judicial o relacionadas con esta.
-
-- 14. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
-
-- 15. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
-
-- 16. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal o Vicefiscal General de la Nación.
-
-##### **Artículo 25.***Dirección Nacional del Sistema Penal Acusatorio y de la Articulación Interinstitucional en materia Penal*. La Dirección Nacional del Sistema Penal Acusatorio y de la Articulación Interinstitucional en materia penal cumplirá las siguientes funciones:
-
-- 1. Asesorar en la definición de políticas, lineamientos y estrategias dirigidos a la operatividad, funcionalidad, continuidad y sostenibilidad del Sistema Penal Acusatorio.
-
-- 2. Identificar las problemáticas del Sistema Penal Acusatorio y proponer y adelantar acciones de solución a las mismas.
-
-- 3. Proponer estrategias e impartir lineamientos para utilizar de manera eficiente los recursos a disposición del Sistema Penal Acusatorio para alcanzar óptimos resultados.
-
-- 4. Generar, proponer y participar en espacios de coordinación y articulación con los organismos y entidades involucradas en la ejecución del Sistema Penal Acusatorio, con el fin de hacerlo eficiente y operativo.
-
-- 5. Diseñar mecanismos para que los fiscales, en forma coordinada con los jueces de control de garantías, efectúen la recolección y preservación de evidencias que puedan servir como pruebas anticipadas en el proceso.
-
-- 6. Fomentar la cooperación y el intercambio de información con las entidades públicas para dinamizar y responder a las necesidades que plantea el Sistema Penal Acusatorio.
-
-- 7. Diseñar y proponer mecanismos de mediación y programas de justicia restaurativa.
-
-- 8. Apoyar, en el marco de sus competencias, a la Dirección Nacional de Políticas Públicas y Planeación en el análisis de la información que se requiera para sustentar la formulación de la política en materia criminal, en desarrollo de las competencias constitucionales y legales atribuidas a la Fiscalía General de la Nación.
-
-- 9. Apoyar y asesorar al Vicefiscal General de la Nación en la dirección y coordinación de las funciones de policía judicial que cumplen los distintos organismos públicos de forma permanente o transitoria.
-
-- 10. Proponer lineamientos para la distribución de las órdenes de trabajo a organismos o entidades que cumplan funciones de policía judicial de manera permanente o transitoria.
-
-- 11. Dirigir y coordinar la implementación y ejecución de mecanismos de articulación y colaboración entre la Fiscalía General de la Nación y las diferentes entidades públicas nacionales y privadas, que puedan prestar apoyo en el desarrollo de las funciones de la Fiscalía General de la Nación.
-
-- 12. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
-
-- 10. Asesorar a las Direcciones Nacionales y Seccionales en el desarrollo de las funciones relacionadas con los temas de competencia de la Dirección.
-
-- 11. Aplicar las directrices y lineamientos del Sistema Integral de Gestión de la Fiscalía General de la Nación.
-
-- 13. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal o Vicefiscal General de la Nación.
-
-##### **Artículo 26.***Subdirección de Articulación Externa de Policías Judiciales*. La Subdirección de Articulación Externa de Policías Judiciales cumplirá las siguientes funciones:
-
-- 1. Realizar seguimiento de conformidad con la Constitución Política y la ley al desarrollo de las funciones de policía judicial que cumplan los organismos públicos de forma permanente o transitoria y presentar informes periódicos y recomendaciones al Vicefiscal General de la Nación.
-
-- 2. Hacer Verificar de conformidad con la Ley la adopción e implementación de políticas y directrices que en materia de investigación penal deban cumplir los organismos públicos en el desarrollo de las funciones de policía judicial de forma permanente o transitoria.
-
-- 3. Diseñar y aplicar mecanismos para que el desarrollo de las funciones de policía judicial a cargo de otras entidades se adelante de manera articulada y coordinada, bajo los lineamientos y directrices del Vicefiscal General de la Nación.
-
-- 4. Proponer, en coordinación con la Dirección Nacional del Cuerpo Técnico de Investigación (CTI) y las dependencias que cumplan funciones de policía judicial especializada, de la Fiscalía General de la Nación, las metodologías y protocolos de investigación que deban cumplir los organismos y entidades que cumplen funciones de policía judicial de manera permanente o transitoria. En el desarrollo de esta función podrán participar los demás organismos que cumplen funciones de policía judicial.
-
-- 5. Coordinar con otros organismos que ejerzan funciones de policía judicial la definición e implementación de mecanismos de articulación que racionalicen y eviten la duplicidad de esfuerzos en el desarrollo de la investigación penal, así como para la formulación de políticas en la materia, a partir del análisis de la información.
-
-- 6. Apoyar, en el marco de sus competencias, a la Dirección Nacional de Políticas Públicas y Planeación en el análisis de la información que se requiera para sustentar la formulación de la política en materia criminal.
-
-- 7. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
-
-- 8. Asesorar e impartir lineamientos y directrices para la articulación de las Direcciones Seccionales con los organismos y entidades que cumplan funciones de policía judicial de manera permanente o transitoria.
-
-9 Aplicar las directrices y lineamientos del Sistema Integral de Gestión de la Fiscalía General de la Nación.
-
-- 10. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal o Vicefiscal General de la Nación o por el Director Nacional del Sistema Penal Acusatorio y de la Articulación Interinstitucional en Materia Penal.
-
-##### **Artículo 27.***Subdirección de Articulación Interinstitucional*. La Subdirección de Articulación interinstitucional cumplirá las siguientes funciones:
-
-- 1. Diseñar y aplicar mecanismos que permitan intercambio de información, colaboración y actuaciones conjuntas entre la Fiscalía General de la Nación y las diferentes entidades nacionales públicas y privadas que puedan prestar apoyo en el desarrollo de las funciones de la Fiscalía General de la Nación.
-
-- 2. Unificar criterios y procedimientos internos para la articulación de la Fiscalía General de la Nación con las entidades que desarrollan funciones o actividades que inciden en su misión institucional.
-
-- 3. Generar y participar en espacios de coordinación y articulación con los organismos y entidades que puedan prestar apoyo en el desarrollo de las funciones de la Fiscalía General de la Nación.
-
-- 4. Hacer seguimiento al trámite de los proyectos de ley y actos legislativos que cursen ante el Congreso de la República y que tengan incidencia en la Entidad.
-
-- 5. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
-
-- 6. Asesorar a las Direcciones Seccionales en la ejecución de los lineamientos y directrices para la articulación de estas con los organismos y entidades que cumplan funciones o actividades que incidan en la misión de la Entidad.
-
-- 7. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
-
-- 8. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal o Vicefiscal General de la Nación o por el Director Nacional del Sistema Penal Acusatorio y de la Articulación Interinstitucional en Materia Penal.
-
-##### **Artículo 28.***Dirección Nacional de Protección y Asistencia*. La Dirección Nacional de Protección y Asistencia cumplirá las siguientes funciones:
-
-- 1. Asesorar al Fiscal General de la Nación en la formulación y definición de políticas en materia de protección y asistencia social para servidores de la Fiscalía, víctimas, testigos y demás intervinientes en el proceso penal, cuando estos se encuentren en riesgo o amenaza de sufrir agresión a sus derechos, por causa de la intervención en un proceso penal.
-
-- 2. Dirigir y administrar el Programa de Protección a Testigos, Víctimas, Intervinientes en el Proceso y Funcionarios de la Fiscalía de que trata la Ley 418 de 1997 y las normas que lo modifiquen, adicionen, sustituyan o reglamenten, para lo cual podrá requerir apoyo a la Policía Judicial de la Fiscalía General de la Nación.
-
-- 3. Organizar, en coordinación con las dependencias competentes de la Fiscalía General de la Nación, la protección y el desarrollo de programas de asistencia a víctimas, testigos, servidores e intervinientes, en las investigaciones y procesos que sean de conocimiento de la Fiscalía.
-
-- 4. Desarrollar, implementar y controlar las medidas de protección, así como los programas de asistencia integral para las personas que hayan sido beneficiadas por parte del Programa de Protección a Testigos, Víctimas, Intervinientes en el Proceso y Funcionarios de la Fiscalía General de la Nación.
-
-- 5. Adelantar programas y proyectos interinstitucionales y gestionar la celebración de convenios o memorandos de entendimiento con otros programas de protección y asistencia a extranjeros, en cumplimiento de los convenios internacionales de los que hace parte el Estado Colombiano.
-
-- 6. Brindar los esquemas de seguridad requeridos para el nivel directivo de la Fiscalía General de la Nación y exfiscales generales de la Nación, su familia y sus bienes, previo estudio de riesgos.
-
-- 7. Incorporar enfoques diferenciales en las medidas de protección implementadas, que respondan a los lineamientos otorgados por la Dirección Nacional de Políticas Públicas y Planeación.
-
-- 8. Dirigir, coordinar y controlar las actividades realizadas por los grupos de trabajo que organice la Dirección en otras ciudades para el cumplimiento del objetivo del programa.
-
-- 9. Calificar el nivel de riesgo y evaluar, con autonomía, las medidas de protección o asistencia social, el nexo causal entre el riesgo y la participación del testigo o la víctima dentro de la indagación, investigación o proceso penal; asimismo, decidirá, con autonomía, la vinculación, desvinculación o exclusión de los beneficiarios del Programa de Protección a Testigos, Víctimas, Intervinientes en el Proceso.
-
-- 10. Llevar los registros de las personas beneficiarias del Programa de Protección a Testigos, Víctimas, Intervinientes en el Proceso y Funcionarios de la Fiscalía y mantenerlos bajo estricta reserva.
-
-- 11. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
-
-- 12. Asesorar a las dependencias de la entidad en el ámbito de su competencia.
-
-- 13. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
-
-- 14. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal o Vicefiscal General de la Nación.
-
-##### **Artículo 30.***Subdirección Nacional de Atención a Víctimas y Usuarios.* La Subdirección Nacional de Atención a Víctimas y Usuarios tiene las siguientes funciones:
-
-- 1. Proponer e implementar políticas, estrategias, metodologías y protocolos en materia de atención a víctimas y usuarios.
-
-- 2. Coordinar y hacer seguimiento a la aplicación de las políticas, metodologías y los protocolos adoptados por la Fiscalía General de la Nación para la atención, clasificación, aplicación de filtros y asignaciones en la recepción de denuncias.
-
-- 3. Adelantar programas de orientación y capacitación para la atención a víctimas, con el fin de garantizar sus derechos y evitar la revictimización, de acuerdo a cada tipo de población.
+- 3. Diseñar, implementar y adelantar programas de orientación y capacitación para la atención a víctimas, con el fin de garantizar sus derechos y evitar la revictimización, de acuerdo a cada tipo de población.
 
 - 4. Impartir lineamientos para la conformación, implementación y funcionamiento de centros integrales de atención y de orientación ciudadana o de otros modelos de atención, con el fin de garantizar la atención de las víctimas y la recepción de denuncias.
 
@@ -967,15 +759,15 @@ En las ausencias temporales no se requerirá designación especial, si se trata 
 
 - 8. Administrar el registro de antecedentes judiciales que debe llevar la Fiscalía General de la Nación.
 
-- 9. Implementar los mecanismos para la medición de la satisfacción de las víctimas y usuarios, hacer el seguimiento a la implementación a nivel nacional, consolidar los resultados y proponer, en coordinación con las Direcciones Seccionales, las acciones de mejora correspondientes.
+- 9. Diseñar e implementar los mecanismos para la medición de la satisfacción de los usuarios, hacer el seguimiento a la implementación a nivel nacional, consolidar los resultados y proponer, en coordinación con las direcciones seccionales, las acciones de mejora correspondientes.
 
-10 Proponer los lineamientos para la atención de quejas y reclamos en la Fiscalía General de la Nación.
+- 10. Diseñar e implementar los lineamientos para la atención de quejas y reclamos en la Fiscalía General de la Nación.
 
-- 11. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
+- 11. Elaborar e implementar los planes de acción anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
 
 - 12. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
 
-- 13. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal o Vicefiscal General de la Nación o por el Director Nacional de Seccionales y Seguridad Ciudadana.
+- 13. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal o Vicefiscal General de la Nación o por el Director Nacional de Seccionales y Seguridad Ciudadana
 
 ##### **Artículo 31.***Direcciones Seccionales*. Las Direcciones Seccionales cumplirán las siguientes funciones:
 
@@ -1019,10 +811,6 @@ Si el fiscal del caso se aparta de la decisión del Comité deberá motivar su p
 
 - 19. Gestionar la aplicación en la Dirección Seccional de sistemas de filtros en la recepción de denuncias, siguiendo los lineamientos del Fiscal General de la Nación.
 
-- 20. Realizar seguimiento y control a la Dirección Seccional en el cumplimiento de las directrices y orientaciones que en materia de apoyo a la gestión imparta la Dirección Nacional de Apoyo a la Gestión.
-
-- 21. Adelantar, de conformidad con la delegación respectiva, los procesos de contratación administrativa y suscribir los actos y contratos requeridos para el buen funcionamiento de la Seccional.
-
 - 22. Informar a la Dirección Nacional de Apoyo a la Gestión sobre los movimientos de personal, situaciones administrativas que generen vacancia del empleo, novedades, nómina y prestaciones de los servidores de la Dirección Seccional.
 
 - 23. Informar al Director Nacional de Seccionales y de Seguridad Ciudadana las situaciones administrativas y los movimientos de personal que generen vacancia temporal.
@@ -1037,7 +825,7 @@ Si el fiscal del caso se aparta de la decisión del Comité deberá motivar su p
 
 - 27. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal, Vicefiscal General de la Nación o por el Director Nacional de Seccionales y Seguridad Ciudadana.
 
-##### **Artículo 32.***Subdirecciones Seccionales*. El Fiscal General de la Nación podrá organizar, de acuerdo a las necesidades del servicio, el funcionamiento de las Direcciones Seccionales con Subdirecciones Seccionales de Fiscalías y de Seguridad Ciudadana, de Policía Judicial CTI, de Apoyo a la Gestión o de Atención a Víctimas y Usuarios, para fortalecer la gestión administrativa e investigativa y mejorar de la prestación del servicio, las cuales, una vez organizadas, desarrollarán las funciones que se describen en los siguientes artículos.
+##### **Artículo 32.***Derogado*
 
 ##### **Artículo 33.***Subdirección Seccional de Fiscalías y de Seguridad Ciudadana*. La Subdirección Seccional de Fiscalías y de Seguridad Ciudadana cumplirá las siguientes funciones:
 
@@ -1053,8 +841,6 @@ Si el fiscal del caso se aparta de la decisión del Comité deberá motivar su p
 
 - 6. Consolidar, analizar y clasificar la información de las investigaciones y acusaciones adelantadas por la Subdirección Seccional de Fiscalías y remitirla al Director Seccional para apoyar la formulación de la política criminal.
 
-- 7. Autorizar la utilización de agentes encubiertos y las entregas vigiladas solicitadas por los fiscales de la Dirección Seccional, en los términos y condiciones establecidos en el Código de Procedimiento Penal.
-
 - 8. Actualizar la información que se registre en los sistemas de información de la entidad, en los temas de su competencia.
 
 - 9. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
@@ -1063,7 +849,7 @@ Si el fiscal del caso se aparta de la decisión del Comité deberá motivar su p
 
 - 11. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal o Vicefiscal General de la Nación, por el Director Nacional de Seccionales y Seguridad Ciudadana o por el Director Seccional.
 
-##### **Artículo 34.***Subdirección Seccional de Policía Judicial CTI*. La Subdirección Seccional de Policía Judicial CTI cumplirá las siguientes funciones:
+##### **Artículo 34.***Sección de Policía Judicial*. La Sección de Policía Judicia cumplirá las siguientes funciones:
 
 - 1. Planear y ejecutar las funciones de policía judicial de los grupos que conforme la Dirección Seccional para adelantar las investigaciones a su cargo.
 
@@ -1089,7 +875,7 @@ Si el fiscal del caso se aparta de la decisión del Comité deberá motivar su p
 
 - 12. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal o Vicefiscal General de la Nación, por el Director Nacional de Seccionales y Seguridad Ciudadana o por el Director Seccional.
 
-##### **Artículo 35.***Subdirección Seccional de Atención a Víctimas y Usuarios.* La Subdirección Seccional de Atención a Víctimas y Usuarios tiene las siguientes funciones:
+##### **Artículo 35.****Sección de Atención a Usuarios*.* La Sección de Atención a Usuarios tiene las siguientes funciones:
 
 - 1. Implementar las políticas, metodologías y los protocolos adoptados por la Fiscalía General de la Nación para la atención a víctimas y usuarios y para la clasificación, aplicación de filtros y asignaciones en la recepción de denuncias.
 
@@ -1133,7 +919,7 @@ Si el fiscal del caso se aparta de la decisión del Comité deberá motivar su p
 
 **De la Dirección de Apoyo a la Gestión y otras dependencias**
 
-##### **Artículo 37.***Dirección Nacional de Apoyo a la Gestión*. La Dirección Nacional de Apoyo a la Gestión cumplirá las siguientes funciones:
+##### **Artículo 37.***Dirección Ejecutiva* . La Dirección Ejecutiva cumplirá las siguientes funciones:
 
 - 1. Asistir al Fiscal General de la Nación en la determinación de las políticas, objetivos y estrategias relacionadas con la administración de la Entidad.
 
@@ -1200,6 +986,8 @@ Si el fiscal del caso se aparta de la decisión del Comité deberá motivar su p
 - 13. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
 
 - 14. Las demás que le sean asignadas por la ley o delegadas por el Fiscal General de la Nación o por el Director de Apoyo a la Gestión de la Fiscalía General de la Nación.
+
+- 15. Tramitar los nombramientos y traslados de todos los servidores de la Fiscalía General de la Nación, cuya designación o traslado corresponderá al Fiscal General de la Nación.
 
 ##### **Artículo 39.***Subdirección de Tecnologías de la Información y las Comunicaciones.* La Subdirección de Tecnologías de la Información y las Comunicaciones cumplirá las siguientes funciones:
 
@@ -1285,8 +1073,6 @@ Para tal efecto, adelantará y presidirá comités técnicos con los respectivos
 
 - 1. Administrar los bienes a cargo de la entidad garantizando su conservación y uso eficiente.
 
-- 2. Administrar las bodegas y los almacenes generales y transitorios de evidencias de la Fiscalía General de la Nación.
-
 - 3. Administrar y aplicar medidas para la conservación de los bienes propios, incautados o puestos a disposición de la entidad, así como las bodegas y almacenes generales y transitorios de evidencia física a su cargo.
 
 - 4. Administrar el Fondo Especial para la Administración de Bienes de la Fiscalía General de la Nación.
@@ -1338,6 +1124,8 @@ Para tal efecto, adelantará y presidirá comités técnicos con los respectivos
 - 13. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
 
 - 14. Las demás que le sean asignadas por la ley o delegadas por el Fiscal General de la Nación o por el Director de Apoyo a la Gestión de la Fiscalía General de la Nación.
+
+- 15. Manejar el archivo de las resoluciones de asignación especial, variación de asignación, delegación y designación. Así mismo, proyectar para la firma del Fiscal General de la Nación las resoluciones sobre la misma materia respecto de todas las investigaciones de la Fiscalía General de la Nación.
 
 **ARTÍCULO. 43A. SUBDIRECCIONES REGIONALES DE APOYO**. Las subdirecciones regionales de apoyo cumplirán las siguientes funciones:
 
@@ -1411,9 +1199,9 @@ El Fiscal General organizará los comités de priorización que se requieran a n
 
 Los Comités de Priorización contarán con Secretarías Técnicas encargadas de cumplir las funciones que le señalen el Fiscal General de la Nación y los miembros del Comité respectivo.
 
-##### **Artículo 47.***Órganos y Comités de Asesoría y Coordinación*. Para lograr la gestión armónica e integral de la entidad, el Fiscal General de la Nación conformará y organizará Comités de Gerencia y de Coordinación Interna, así como los demás órganos de asesoría y coordinación que considere necesarios para el mejoramiento de la prestación del servicio, el fortalecimiento de la gestión administrativa e investigativa y, en general, el óptimo funcionamiento de la Fiscalía General de la Nación.
+##### **Artículo 47.***Órganos y Comités de Asesoría y Coordinación*. Para lograr la gestión armónica e integral de la entidad, el Fiscal General de la Nación conformará y organizará Comité directivo, así como los demás órganos de asesoría y coordinación que considere necesarios para el mejoramiento de la prestación del servicio, el fortalecimiento de la gestión administrativa e investigativa y, en general, el óptimo funcionamiento de la Fiscalía General de la Nación.
 
-##### **Artículo 48.***Comité de Gerencia y de Coordinación Interna*. Créase el Comité de Gerencia y de Coordinación Interna como la instancia encargada de asegurar una visión integral y armónica en el desempeño de las áreas estratégicas, misionales, de apoyo y de evaluación de la Fiscalía General.
+##### **Artículo 48.***Comité directivo*. Créase el Comité directivo como la instancia encargada de asegurar una visión integral y armónica en el desempeño de las áreas estratégicas, misionales, de apoyo y de evaluación de la Fiscalía General.
 
 La conformación y funciones del Comité son determinadas por el Fiscal General, mediante resolución interna. El Comité debe adoptar su propio reglamento.
 
