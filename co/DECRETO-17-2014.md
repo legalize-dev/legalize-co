@@ -4,7 +4,7 @@ identifier: "DECRETO-17-2014"
 country: "co"
 rank: "decreto"
 publication_date: "2014-01-09"
-last_updated: "2014-01-09"
+last_updated: "2017-05-28"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1004040"
 department: "DEPARTAMENTO ADMINISTRATIVO DE LA FUNCION PUBLICA"
@@ -57,7 +57,7 @@ Los requisitos generales que se establecen en el presente decreto-ley regirán p
 
 ##### **Artículo 3°.***Nivel Directivo.* El nivel Directivo agrupa los empleos a los cuales corresponden funciones de dirección, decisión, control, articulación, formulación de políticas, estrategias, planes y programas que se dirijan al desarrollo y al logro de la misión institucional.
 
-##### **Artículo 4°.***Nivel Asesor.* El nivel asesor agrupa los empleos a los que corresponde asistir, aconsejar y asesorar directamente a los empleados públicos del nivel Directivo de la Fiscalía General de la Nación.
+****Artículo. 4º Nivel asesor**.** El nivel asesor agrupa los empleos a los que corresponde asistir, aconsejar y asesorar directamente a los empleados públicos del nivel Directivo de la Fiscalía General de la Nación. Según su complejidad y competencias exigidas les puede corresponder funciones de coordinación, supervisión y control de secciones, unidades o grupos internos de trabajo.
 
 ##### **Artículo 5°.***Nivel Profesional.* El nivel Profesional agrupa los empleos a los que les corresponden funciones cuya naturaleza demanda la ejecución y aplicación de los conocimientos propios de cualquier carrera profesional, diferente a la técnica profesional y tecnológica, reconocida por la ley y que por su complejidad y competencias exigidas, ejercen funciones jurisdiccionales, de investigación criminal, de coordinación, supervisión y control de áreas internas encargadas de ejecutar los planes, programas, estrategias y proyectos institucionales.
 
