@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2017-09-08"
+last_updated: "2017-11-13"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -3574,9 +3574,7 @@ La decisión sobre la selección del fallo a revisar en tutela será adoptada po
 
 Las sentencias de revisión serán proferidas por la Sala Plena de la Corte Constitucional. Si esta encuentra que el derecho invocado ha sido vulnerado, así lo declarará precisando en qué consiste la violación, sin anular, invalidar o dejar sin efectos la decisión del órgano de la Jurisdicción Especial para la Paz ni tampoco excluirse los hechos y conductas analizados en la acción de tutela de la competencia de la Jurisdicción Especial para la Paz. La sentencia será remitida al Tribunal para la Paz para que adopte la decisión que corresponda respetando el derecho amparado. La providencia, resolución o acto del órgano de la JEP expedido en cumplimento de la sentencia de la Corte Constitucional no podrá ser objeto de una nueva acción de tutela.
 
-##### **Artículo transitorio 9°.** Asuntos de competencia. Los conflictos de competencia entre cualquier, jurisdicción y la JEP serán dirimidos por una Sala Incidental conformada por 3 Magistrados de la Corte Constitucional elegidos por esta y 3 magistrados de las salas o secciones de la JEP no afectadas por dicho conflicto jurisdiccional. Estos últimos serán elegidos por la plenaria de la JEP. La decisión se adoptará en la Sala incidental por mayoría simple y en caso de no alcanzarse una mayoría, en aplicación del carácter preferente de la Jurisdicción Especial para la Paz, resolverá el Presidente de esta Jurisdicción.
-
-Los conflictos de competencia entre la JEP y la Jurisdicción Especial Indígena serán dirimidos por una Sala Incidental conformada por dos (2) magistrados de las salas o secciones de la JEP no afectadas por dicho conflicto jurisdiccional y dos (2) autoridades tradicionales del pueblo indígena que ejerció o está ejerciendo jurisdicción en el caso concreto. La decisión se adoptará en la Sala Incidental por mayoría simple y en caso de no alcanzarse una mayoría, en aplicación del carácter preferente de la Jurisdicción Especial para la Paz, resolverá el Presidente de esta Jurisdicción. En el reglamento de la JEP se establecerán los mecanismos de articulación y coordinación con la Jurisdicción Especial Indígena y se incluirán la forma y la oportunidad en que las decisiones adoptadas o por adoptar por las autoridades tradicionales correspondientes sobre conductas de competencia de la JEP pasarán a conocimiento de esta.
+##### **Artículo transitorio 9°. Declarado Inexequible.**
 
 ##### **Artículo transitorio 10.** Revisión de sentencias y providencias. A petición del condenado la JEP podrá revisar las decisiones sancionatorias de la Procuraduría General de la Nación o de la Contraloría General de la República y las sentencias proferidas por otra jurisdicción por: variación de la calificación jurídica conforme al artículo transitorio 5° y al inciso primero del artículo transitorio 22; por aparición de nuevos hechos que no pudieron ser tenidos en cuenta con anterioridad; o cuando surjan pruebas no conocidas o sobrevinientes no conocidas al tiempo de la condena, todo lo anterior por conductas cometidas por causa, con ocasión o en relación directa o indirecta con el conflicto, o con la protesta social, siempre que se cumplan las condiciones del Sistema.
 
