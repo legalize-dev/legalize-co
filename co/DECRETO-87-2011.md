@@ -4,7 +4,7 @@ identifier: "DECRETO-87-2011"
 country: "co"
 rank: "decreto"
 publication_date: "2011-01-17"
-last_updated: "2011-01-17"
+last_updated: "2018-09-16"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1019691"
 department: "MINISTERIO DE TRANSPORTE"
@@ -242,23 +242,21 @@ Consejo Consultivo de Transporte.
 
 - 8.1. Asesorar y asistir al Ministro y demás dependencias del Ministerio en la aplicación e interpretación de las normas constitucionales y legales.
 
-- 8.2. Establecer los criterios de interpretación legal de última instancia del Ministerio.
+- 8.2. Establecer los criterios de interpretación legal de Última instancia del Ministerio.
 
 - 8.3. Contribuir al estudio de temas que, según su naturaleza, hayan sido previamente proyectados y debatidos en otras dependencias y respecto de los cuales haya de fijarse la posición jurídica del Ministerio.
 
-- 8.4. Elaborar, estudiar y conceptuar sobre los proyectos de ley, decretos, resoluciones, contratos, convenios y demás actos administrativos que deba expedir o proponer el Ministerio y que sean sometidos a su consideración.
+- 8.4. Elaborar, estudiar y conceptuar sobre los proyectos de ley, decretos, resolucioÂ­nes, contratos, convenios y demás actos administrativos que deba expedir o proponer el Ministerio y que sean sometidos a su consideración.
 
-- 8.5. Atender los procesos judiciales y extrajudiciales en los que sea parte la Nación - Ministerio de Transporte, cuando así lo disponga el Ministro, y suministrar al Ministerio del Interior y de Justicia las informaciones y documentos necesarios para la adecuada defensa de los intereses del Estado.
+- 8.5. Atender los procesos judiciales y extrajudiciales en los que sea parte la Nación - Ministerio de Transporte, cuando así­ lo disponga el Ministro, y suministrar al Ministerio del Interior y de Justicia las informaciones y documentos necesarios para la adecuada defensa de los intereses del Estado.
 
-- 8.6. Adelantar las actuaciones encaminadas a lograr el cobro efectivo de las sumas que le adeuden al Ministerio por todo concepto, desarrollando las labores de cobro persuasivo, y adelantando los procesos ejecutivos por jurisdicción coactiva, en las condiciones que señale la ley.
+- 8.6. Adelantar las actuaciones encaminadas a lograr el cobro efectivo de las sumas que le adeuden al Ministerio por todo concepto, desarrollando las labores de co­bro persuasivo, y adelantando los procesos ejecutivos por jurisdicción coactiva, en las condiciones que señale la ley.
 
-- 8.7. Estudiar y conceptuar sobre la viabilidad jurídica de los procesos de contratación que adelante el Ministerio.
+- 8.7. Atender y resolver las consultas y derechos de petición relacionados con las funciones de la oficina, presentados ante el Ministerio por personas de carácter público o privado.
 
-- 8.8. Atender y resolver las consultas y derechos de petición relacionados con las funciones de la oficina, presentados ante el Ministerio por personas de carácter público o privado.
+- 8.8. Compilar las normas legales, conceptos, jurisprudencia y doctrina relacionados con la actividad del Ministerio y velar por su actualización, difusión y aplicación.
 
-- 8.9. Compilar las normas legales, conceptos, jurisprudencia y doctrina relacionados con la actividad del Ministerio y velar por su actualización, difusión y aplicación.
-
-- 8.10. Las demás que se le asignen.
+- 8.9. Las demás que se le asignen.
 
 ##### **Artículo 9°.** *Oficina de Regulación Económica.* Son funciones de la Oficina de Regulación Económica las siguientes:
 
@@ -426,19 +424,19 @@ Consejo Consultivo de Transporte.
 
 - 17.13. Las demás que le sean asignadas.
 
-##### **Artículo 18.** *Secretaria General.* Son funciones de la Secretaria General, las siguientes:
+##### **Artículo 18**. *Secretaria General*. Son funciones de la Secretaria General, las siguientes:
 
 - 18.1. Asesorar al Ministro en la formulación de políticas, normas y procedimientos para la administración de recursos humanos, físicos, económicos y financieros del Ministerio.
 
-- 18.2. Coordinar y programar las actividades de administración de personal, seguridad industrial y relaciones laborales del personal, de acuerdo con las políticas del Ministerio y las normas legales sobre la materia.
+- 18.2. Coordinar y programar las actividades de administración de personal, seguriÂ­dad industrial y relaciones laborales del personal, de acuerdo con las polí­ticas del Ministerio y las normas legales sobre la materia.
 
 - 18.3. Dirigir los programas de selección, inducción, capacitación y calidad laboral de los funcionarios del Ministerio, en concordancia con las normas legales vigentes.
 
-- 18.4. Dirigir y controlar en todos los niveles, los procesos administrativos y financieros del Ministerio.
+- 18.4. Dirigir y controlar en todos los niveles, los procesos administrativos y finan­cieros del Ministerio.
 
 - 18.5. Dirigir los procesos de selección para la adquisición de bienes y servicios.
 
-- 18.6. Coordinar a través de la Subdirección Administrativa y Financiera con la Oficina de Planeación la elaboración del anteproyecto de presupuesto de funcionamiento e inversión.
+- 18.6. Coordinar a través de la Subdirección Administrativa y Financiera con la Ofi­cina de Planeación la elaboración del anteproyecto de presupuesto de funcio­namiento e inversión.
 
 - 18.7. Establecer mecanismos para controlar el manejo del archivo y la correspondencia del Ministerio, de conformidad con las normas legales vigentes.
 
@@ -448,7 +446,11 @@ Consejo Consultivo de Transporte.
 
 - 18.10. Ejecutar los planes, programas y proyectos relacionados con la planeación y desarrollo de sistemas de información y recursos tecnológicos.
 
-- 18.11. Las demás que le sean asignadas.
+- 18.11. Dirigir la programación, elaboración y ejecución de los Planes de Contratación y de Adquisición de la Entidad, de manera articulada con los instrumentos planeación y presupuesto.
+
+- 18.12. Elaborar los contratos y convenios que requiera el Ministerio de Trasporte y propender por su perfeccionamiento y legalización, incluyendo las minutas de liquidación de los contratos y certificar la suscripción, legalización y vigencia de los mismos.
+
+- 18.13. Las demás que le sean asignadas.
 
 ##### **Artículo 19.***Subdirección de Talento Humano.* Son funciones de la Subdirección de Talento Humano, las siguientes:
 
