@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2018-01-17"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -2579,6 +2579,22 @@ Sobre las rentas departamentales que se causen en Santa Fe de Bogotá, la ley de
 ##### **Artículo 326.** Los municipios circunvecinos podrán incorporarse al Distrito Capital si así lo determinan los ciudadanos que residan en ellos mediante votación que tendrá lugar cuando el concejo distrital haya manifestado su acuerdo con esta vinculación. Si ésta ocurre, al antiguo municipio se le aplicarán las normas constitucionales y legales vigentes para las demás localidades que conformen el Distrito Capital.
 
 ##### **Artículo 327.** En las elecciones de Gobernador y de diputados a la Asamblea Departamental de Cundinamarca no participarán los ciudadanos inscritos en el censo electoral del Distrito Capital.
+
+##### **Artículo 328.** El Distrito Turístico y Cultural de Cartagena de Indias, el Distrito Turístico, Cultural e Histórico de Santa Marta y Barranquilla conservarán su régimen y carácter, y se organiza a Buenaventura y Tumaco como Distrito Especial, Industrial, Portuario, Biodiverso y Ecoturístico.
+
+La ciudad de Barrancabermeja se organiza como Distrito Especial Portuario, Biodiverso, Industrial y Turístico.
+
+**Artículo 328.** El Distrito Turístico y Cultural de Cartagena de Indias, el Distrito Turístico, Cultural e Histórico de Santa Marta y Barranquilla conservarán su régimen y carácter, y se organiza a Buenaventura y Tumaco como Distrito Especial, Industrial, Portuario, Biodiverso y Ecoturístico.
+
+**Artículo 328.** *El Distrito Turístico y Cultural de Cartagena de Indias, el Distrito Turístico, Cultural e histórico de Santa Marta y Barranquilla conservarán su régimen y carácter, y se organiza a Buenaventura y Tumaco como Distrito Especial, Industrial, Portuario, Biodiverso y Ecoturísmo.*
+
+***Parágrafo.*** *Los Distritos Especiales de Cartagena, Barranquilla y Santa Marta, no recibirán por ninguna circunstancia, menores ingresos por el Sistema General de Participaciones o por cualquier otra causa, que los recibidos el primero de enero de 2007.*
+
+**Artículo 328.** *El Distrito Turístico y Cultural de Cartagena de Indias, el Distrito Turístico, Cultural e histórico de Santa Marta y Barranquilla conservarán su régimen y carácter, y se organiza a Buenaventura y Tumaco como Distrito Especial, Industrial, Portuario, Biodiverso y Ecoturísmo.*
+
+***Parágrafo.*** *Los Distritos Especiales de Cartagena, Barranquilla y Santa Marta, no recibirán por ninguna circunstancia, menores ingresos por el Sistema General de Participaciones o por cualquier otra causa, que los recibidos el primero de enero de 2007.*
+
+**Artículo 328.** El Distrito Turístico y Cultural de Cartagena de Indias y el Distrito Turístico, Cultural e Histórico de Santa Marta conservarán su régimen y carácter.
 
 ##### **Artículo 329.** La conformación de las entidades territoriales indígenas se hará con sujeción a lo dispuesto en la Ley Orgánica de Ordenamiento Territorial, y su delimitación se hará por el Gobierno Nacional, con participación de los representantes de las comunidades indígenas, previo concepto de la Comisión de Ordenamiento Territorial.
 
