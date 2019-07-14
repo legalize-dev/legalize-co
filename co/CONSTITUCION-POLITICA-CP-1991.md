@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2019-07-11"
+last_updated: "2019-07-14"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1053,6 +1053,10 @@ Estas facultades no se podrán conferir para expedir códigos, leyes estatutaria
 - 16. Aprobar o improbar los tratados que el Gobierno celebre con otros Estados o con entidades de derecho internacional. Por medio de dichos tratados podrá el Estado, sobre bases de equidad, reciprocidad y conveniencia nacional, transferir parcialmente determinadas atribuciones a organismos internacionales, que tengan por objeto promover o consolidar la integración económica con otros Estados.
 
 - 17. Conceder, por mayoría de los dos tercios de los votos de los miembros de una y otra Cámara y por graves motivos de conveniencia pública, amnistías o indultos generales por delitos políticos. En caso de que los favorecidos fueren eximidos de la responsabilidad civil respecto de particulares, el Estado quedará obligado a las indemnizaciones a que hubiere lugar.
+
+En ningún caso el delito de secuestro, ni los delitos relacionados con la fabricación, el tráfico o el porte de estupefacientes, serán considerados como delitos políticos o como conductas conexas a estos, ni como dirigidas a promover, facilitar, apoyar, financiar, u ocultar cualquier delito que atente contra el régimen constitucional y legal. Por lo tanto, no podrá existir respecto de ellos, amnistía o indulto.
+
+**Parágrafo**. Las disposiciones del inciso segundo del numeral 17 del artículo 150 de la Constitución Política, en ningún caso afectarán las disposiciones de acuerdos de paz anteriores, ni sus respectivas disposiciones y serán aplicadas a conductas cometidas con posterioridad a la entrada en vigencia del presente acto legislativo.
 
 - 18. Dictar las normas sobre apropiación o adjudicación y recuperación de tierras baldías.
 
