@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2019-07-24"
+last_updated: "2019-09-17"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -2052,121 +2052,117 @@ La Registraduría Nacional estará conformada por servidores públicos que perte
 
 **DE LA CONTRALORIA GENERAL DE LA REPUBLICA**
 
-##### **Artículo 267.** El control fiscal es una función pública que ejercerá la Contraloría General de la República, la cual vigila la gestión fiscal de la administración y de los particulares o entidades que manejen fondos o bienes de la Nación.
+##### **Artículo 267.** La vigilancia y el control fiscal son una función pública que ejercerá la Contraloría General de la República, la cual vigila la gestión fiscal de la administración y de los particulares o entidades que manejen fondos o bienes públicos, en todos los niveles administrativos y respecto de todo tipo de recursos públicos. La ley reglamentará el ejercicio de las competencias entre contralorías, en observancia de los principios de coordinación, concurrencia y subsidiariedad. El control ejercido por la Contraloría General de la República será preferente en los términos que defina la ley.
 
-Dicho control se ejercerá en forma posterior y selectiva conforme a los procedimientos, sistemas y principios que establezca la ley. Esta podrá, sin embargo, autorizar que, en casos especiales, la vigilancia se realice por empresas privadas colombianas escogidas por concurso público de méritos, y contratadas previo concepto del Consejo de Estado.
+El control fiscal se ejercerá en forma posterior y selectiva, y además podrá ser preventivo y concomitante, según sea necesario para garantizar la defensa y protección del patrimonio público. El control preventivo y concomitante no implicará coadministración y se realizará en tiempo real a través del seguimiento permanente de los ciclos, uso, ejecución, contratación e impacto de los recursos públicos, mediante el uso de tecnologías de la información, con la participación activa del control social y con la articulación del control interno. La ley regulará su ejercicio y los sistemas y principios aplicables para cada tipo de control.
 
-La vigilancia de la gestión fiscal del Estado incluye el ejercicio de un control financiero, de gestión y de resultados, fundado en la eficiencia, la economía, la equidad y la valoración de los costos ambientales. En los casos excepcionales, previstos por la ley, la Contraloría podrá ejercer control posterior sobre cuentas de cualquier entidad territorial.
+El control concomitante y preventivo tiene carácter excepcional, no vinculante, no implica coadministración, no versa sobre la conveniencia de las decisiones de los administradores de recursos públicos, se realizará en forma de advertencia al gestor fiscal y deberá estar incluido en un sistema general de advertencia público. El ejercicio y la coordinación del control concomitante y preventivo corresponde exclusivamente al Contralor General de la República en materias específicas.
 
-La Contraloría es una entidad de carácter técnico con autonomía administrativa y presupuestal. No tendrá funciones administrativas distintas de las inherentes a su propia organización.
+La vigilancia de la gestión fiscal del Estado incluye el seguimiento permanente al recurso público, sin oponibilidad de reserva legal para el acceso a la información por parte de los órganos de control fiscal, y el control financiero, de gestión y de resultados, fundado en la eficiencia, la economía, la equidad, el desarrollo sostenible y el cumplimiento del principio de valoración de costos ambientales. La Contraloría General de la República tendrá competencia prevalente para ejercer control sobre la gestión de cualquier entidad territorial, de conformidad con lo que reglamente la ley.
+
+El control jurisdiccional de los fallos de responsabilidad fiscal gozará de etapas y términos procesales especiales con el objeto de garantizar la recuperación oportuna del recurso público. Su trámite no podrá ser superior a un año en la forma en que lo regule la ley.
+
+La Contraloría es una entidad de carácter técnico con autonomía administrativa y presupuestal. No tendrá funciones administrativas distintas de las inherentes a su propia organización y al cumplimiento de su misión constitucional.
 
 El Contralor será elegido por el Congreso en Pleno, por mayoría absoluta, en el primer mes de sus sesiones para un periodo igual al del Presidente de la República, de lista de elegibles conformada por convocatoria pública con base en lo dispuesto en el artículo 126 de la Constitución y no podrá ser reelegido ni continuar en ejercicio de sus funciones al vencimiento del mismo.
 
-Solo el Congreso puede admitir la renuncia que presente el Contralor y proveer las faltas absolutas y temporales del cargo.
+Solo el Congreso puede admitir la renuncia que presente el Contralor y proveer las faltas absolutas y temporales del cargo mayores de 45 días.
 
-Para ser elegido Contralor General de la República se requiere ser colombiano de nacimiento y en ejercicio de la ciudadanía; tener más de 35 años de edad; tener título universitario o haber sido profesor universitario durante un tiempo no menor de 5 años; y acreditar las calidades adicionales que exija la ley.
+Para ser elegido Contralor General de la República se requiere ser colombiano de nacimiento y en ejercicio de la ciudadanía; tener más de treinta y cinco años de edad; tener título universitario en ciencias jurídicas, humanas, económicas, financieras, administrativas o contables y experiencia profesional no menor a 5 años o como docente universitario por el mismo tiempo y acreditar las demás condiciones que exija la ley.
 
-No podrá ser elegido Contralor General quien sea o haya sido miembro del Congreso u ocupado cargo público alguno del orden nacional, salvo la docencia, en el año inmediatamente anterior a la elección. Tampoco podrá ser elegido quien haya sido condenado a pena de prisión por delitos comunes.
-
-En ningún caso podrán intervenir en la postulación o elección del Contralor personas que se hallen dentro del cuarto grado de consanguinidad, segundo de afinidad y primero civil o legal respecto de los candidatos.
-
-**Artículo 267.** El control fiscal es una función pública que ejercerá la Contraloría General de la República, la cual vigila la gestión fiscal de la administración y de los particulares o entidades que manejen fondos o bienes de la Nación.
-
-Dicho control se ejercerá en forma posterior y selectiva conforme a los procedimientos, sistemas y principios que establezca la ley. Esta podrá, sin embargo, autorizar que, en casos especiales, la vigilancia se realice por empresas privadas colombianas escogidas por concurso público de méritos, y contratadas previo concepto del Consejo de Estado.
-
-La vigilancia de la gestión fiscal del Estado incluye el ejercicio de un control financiero, de gestión y de resultados, fundado en la eficiencia, la economía, la equidad y la valoración de los costos ambientales. En los casos excepcionales, previstos por la ley, la Contraloría podrá ejercer control posterior sobre cuentas de cualquier entidad territorial.
-
-La Contraloría es una entidad de carácter técnico con autonomía administrativa y presupuestal. No tendrá funciones administrativas distintas de las inherentes a su propia organización.
-
-El Contralor será elegido por el Congreso en pleno en el primer mes de sus sesiones para un período igual al del Presidente de la República, de terna integrada por candidatos presentados a razón de uno por la Corte Constitucional, la Corte Suprema de Justicia y el Consejo de Estado, y no podrá ser reelegido para el período inmediato ni continuar en ejercicio de sus funciones al vencimiento del mismo. Quien haya ejercido en propiedad este cargo no podrá desempeñar empleo público alguno del orden nacional, salvo la docencia, ni aspirar a cargos de elección popular sino un año después de haber cesado en sus funciones.
-
-Sólo el Congreso puede admitir las renuncias que presente el Contralor y proveer las vacantes definitivas del cargo; las faltas temporales serán provistas por el Consejo de Estado.
-
-Para ser elegido Contralor General de la República se requiere ser colombiano de nacimiento y en ejercicio de la ciudadanía; tener más de 35 años de edad; tener título universitario o haber sido profesor universitario durante un tiempo no menor de 5 años; y acreditar las calidades adicionales que exija la ley.
-
-No podrá ser elegido Contralor General quien sea o haya sido miembro del Congreso u ocupado cargo público alguno del orden nacional, salvo la docencia, en el año inmediatamente anterior a la elección. Tampoco podrá ser elegido quien haya sido condenado a pena de prisión por delitos comunes.
+No podrá ser elegido Contralor General quien sea o haya sido miembro del Congreso o se haya desempeñado como gestor fiscal del orden nacional, en el año inmediatamente anterior a la elección. Tampoco podrá ser elegido quien haya sido condenado a pena de prisión por delitos comunes.
 
 En ningún caso podrán intervenir en la postulación o elección del Contralor personas que se hallen dentro del cuarto grado de consanguinidad, segundo de afinidad y primero civil o legal respecto de los candidatos.
 
 ##### **Artículo 268.** El Contralor General de la República tendrá las siguientes atribuciones:
 
-- 1. Prescribir los métodos y la forma de rendir cuentas los responsables del manejo de fondos o bienes de la Nación e indicar los criterios de evaluación financiera, operativa y de resultados que deberán seguirse.
+- 1. Prescribir los métodos y la forma de rendir cuentas los responsables del manejo de fondos o bienes de la nación e indicar los criterios de evaluación financiera, operativa y de resultados que deberán seguirse.
 
-- 2. Revisar y fenecer las cuentas que deben llevar los responsables del erario y determinar el grado de eficiencia, eficacia y economía con que hayan obrado.
+- 2. Revisar y fenecer las cuentas que deben llevar los responsables del erario y de­terminar el grado de eficiencia, eficacia y economía con que hayan obrado.
 
-- 3. Llevar un registro de la deuda pública de la Nación y de las entidades territoriales.
+- 3. Llevar un registro de la deuda pública de la nación y de las entidades descentra­lizadas territorialmente o por servicios.
 
-- 4. Exigir informes sobre su gestión fiscal a los empleados oficiales de cualquier orden y a toda persona o entidad pública o privada que administre fondos o bienes de la Nación.
+- 4. Exigir informes sobre su gestión fiscal a los empleados oficiales de cualquier or­den y a toda persona o entidad pública o privada que administre fondos o bienes públicos.
 
-- 5. Establecer la responsabilidad que se derive de la gestión fiscal, imponer las sanciones pecuniarias que sean del caso, recaudar su monto y ejercer la jurisdicción coactiva sobre los alcances deducidos de la misma.
+- 5. Establecer la responsabilidad que se derive de la gestión fiscal, imponer las san­ciones pecuniarias que sean del caso, recaudar su monto y ejercer la jurisdicción coactiva, para lo cual tendrá prelación.
 
 - 6. Conceptuar sobre la calidad y eficiencia del control fiscal interno de las entidades y organismos del Estado.
 
 - 7. Presentar al Congreso de la República un informe anual sobre el estado de los recursos naturales y del ambiente.
 
-- 8. Promover ante las autoridades competentes, aportando las pruebas respectivas, investigaciones penales o disciplinarias contra quienes hayan causado perjuicio a los intereses patrimoniales del Estado. La Contraloría, bajo su responsabilidad podrá exigir, verdad sabida y buena fe guardada, la suspensión inmediata de funcionarios mientras culminan las investigaciones o los respectivos procesos penales o disciplinarios.
+- 8. Promover ante las autoridades competentes, aportando las pruebas respectivas, investigaciones fiscales, penales o disciplinarias contra quienes presuntamente hayan causado perjuicio a los intereses patrimoniales del Estado. La Contraloría, bajo su responsabilidad, podrá exigir, verdad sabida y buena fe guardada, la sus­pensión inmediata de funcionarios mientras culminan las investigaciones o los respectivos procesos fiscales, penales o disciplinarios.
 
-- 9. Presentar proyectos de ley relativos al régimen del control fiscal y a la organización y funcionamiento de la Contraloría General.
+- 9. Presentar proyectos de ley relativos al régimen del control fiscal y a la organiza­ción y funcionamiento de la Contraloría General.
 
-- 10. Proveer mediante concurso público los empleos de su dependencia que haya creado la ley. Esta determinará un régimen especial de carrera administrativa para la selección, promoción y retiro de los funcionarios de la Contraloría. Se prohibe a quienes formen parte de las corporaciones que intervienen en la postulación y elección del Contralor, dar recomendaciones personales y políticas para empleos en su despacho.
+- 10. Proveer mediante concurso público los empleos de carrera de la entidad creados por ley. Esta determinará un régimen especial de carrera administrativa para la selección, promoción y retiro de los funcionarios de la Contraloría. Se prohíbe a quienes formen parte de las corporaciones que intervienen en la postulación y elección del Contralor, dar recomendaciones personales y políticas para empleos en ese ente de control.
 
-- 11. Presentar informes al Congreso y al Presidente de la República sobre el cumplimiento de sus funciones y certificación sobre la situación de las finanzas del Estado, de acuerdo con la ley.
+- 11. Presentar informes al Congreso de la República y al Presidente de la República sobre el cumplimiento de sus funciones y certificación sobre la situación de las finanzas del Estado, de acuerdo con la ley.
 
-- 12. Dictar normas generales para armonizar los sistemas de control fiscal de todas las entidades públicas del orden nacional y territorial.
+- 12. Dictar normas generales para armonizar los sistemas de control fiscal de todas las entidades públicas del orden nacional y territorial; y dirigir e implementar, con apoyo de la Auditoría General de la República, el Sistema Nacional de Control Fiscal, para la unificación y estandarización de la vigilancia y control de la ges­tión fiscal.
 
-- 13. Las demás que señale la ley.
+- 13. Advertir a los servidores públicos y particulares que administren recursos públi­cos de la existencia de un riesgo inminente en operaciones o procesos en ejecu­ción, con el fin de prevenir la ocurrencia de un daño, a fin de que el gestor fiscal adopte las medidas que considere procedentes para evitar que se materialice o se extienda, y ejercer control sobre los hechos así identificados.
 
-Presentar a la Cámara de Representantes la Cuenta General del Presupuesto y del Tesoro y certificar el balance de la Hacienda presentado al Congreso por el Contador General.
+- 14. Intervenir en los casos excepcionales previstos por la ley en las funciones de vigilancia y control de competencia de las Contralorías Territoriales. Dicha inter­vención podrá ser solicitada por el gobernante local, la corporación de elección popular del respectivo ente territorial, una comisión permanente del Congreso de la República, la ciudadanía mediante cualquiera de los mecanismos de participa­ción ciudadana, la propia contraloría territorial o las demás que defina la ley.
+
+- 15. Presentar a la Cámara de Representantes la Cuenta General del Presupuesto y del Tesoro y certificar el balance de la Hacienda presentado al Congreso por el Contador General de la Nación.
+
+- 16. Ejercer, directamente o a través de los servidores públicos de la entidad, las fun­ciones de policía judicial que se requieran en ejercicio de la vigilancia y control fiscal en todas sus modalidades. La ley reglamentará la materia.
+
+- 17. Imponer sanciones desde multa hasta suspensión a quienes omitan la obligación de suministrar información o impidan u obstaculicen el ejercicio de la vigilancia y control fiscal, o incumplan las obligaciones fiscales previstas en la ley. Así mismo a los representantes de las entidades que, con dolo o culpa grave, no obtengan el fenecimiento de las cuentas o concepto o calificación favorable en los procedimientos equivalentes para aquellas entidades no obligadas a rendir cuenta, durante dos (2) períodos fiscales consecutivos.
+
+- 18. Las demás que señale la ley.
+
+**Parágrafo transitorio.** La asignación básica mensual de los servidores de la Contraloría General de la República y su planta transitoria será equiparada a los de los empleos equivalentes de otros organismos de control de nivel nacional. Para la correcta implementación del presente acto legislativo, y el fortalecimiento del control fiscal, la ley determinará la creación del régimen de carrera especial de los servidores de las contralorías territoriales, la ampliación de la planta de personal, la incorporación de los servidores de la planta transitoria sin solución de continuidad y la modificación de la estructura orgánica y funcional de la Contraloría General de la República, garantizando la estabilidad laboral de los servidores inscritos en carrera pertenecientes a esa entidad y a contralorías territoriales intervenidas. Exclusivamente para los efectos del presente parágrafo y el desarrollo de este acto legislativo, otórguense precisas facultades extraordinarias por el término de seis meses al Presidente de la República para expedir decretos con fuerza de ley.
+
+Así mismo, el Congreso de la República expedirá, con criterios unificados, las leyes que garanticen la autonomía presupuestal y la sostenibilidad financiera y administrativa de los organismos de control fiscal territoriales y unas apropiaciones progresivas que incrementarán el presupuesto de la Contraloría General de la República durante las siguientes tres vigencias en 250.000, 250.000 y 136.000 millones de pesos respectivamente, las cuales serán incorporadas en los proyectos de ley de presupuesto anual presentados por el Gobierno Nacional, incluso aquellos que ya cursen su trámite en el Congreso de la República. Dichas apropiaciones no serán tenidas en cuenta al momento de decretar aplazamientos del Presupuesto General de la Nación.
+
+En los siguientes cuatrienios dichas apropiaciones estarán de acuerdo con el marco fiscal de mediano plazo.
 
 ##### **Artículo 269.** En las entidades públicas, las autoridades correspondientes están obligadas a diseñar y aplicar, según la naturaleza de sus funciones, métodos y procedimientos de control interno, de conformidad con lo que disponga la ley, la cual podrá establecer excepciones y autorizar la contratación de dichos servicios con empresas privadas colombianas.
 
 ##### **Artículo 270.** La ley organizará las formas y los sistemas de participación ciudadana que permitan vigilar la gestión pública que se cumpla en los diversos niveles administrativos y sus resultados.
 
-##### **Artículo** **271.** Los resultados de las indagaciones preliminares adelantadas por la Contraloría tendrán valor probatorio ante la Fiscalía General de la Nación y el juez competente.
+##### **Artículo 271.** Los resultados de los ejercicios de vigilancia y control fiscal, así como de las indagaciones preliminares o los procesos de responsabilidad fiscal, adelantados por las Contralorías tendrán valor probatorio ante la Fiscalía General de la Nación y el juez competente.
 
-##### **Artículo 272.** La vigilancia de la gestión fiscal de los departamentos, distritos y municipios donde haya contralorías, corresponde a éstas y se ejercerá en forma posterior y selectiva.
+##### **Artículo 272.** La vigilancia de la gestión fiscal de los departamentos, distritos y municipios donde haya contralorías, corresponde a estas en forma concurrente con la Contraloría General de la República.
 
-La de los municipios incumbe a las contralorías departamentales, salvo lo que la ley determine respecto de contralorías municipales.
+La vigilancia de los municipios incumbe a las contralorías departamentales, salvo lo que la ley determine respecto de contralorías municipales.
 
-Corresponde a las asambleas y a los concejos distritales y municipales organizar las respectivas contralorías como entidades técnicas dotadas de autonomía administrativa y presupuestal.
+La ley regulará las competencias concurrentes entre contralorías y la prevalencia de la Contraloría General de la República.
 
-Los Contralores departamentales, distritales y municipales serán elegidos por las Asambleas Departamentales, Concejos Municipales y Distritales, mediante convocatoria pública conforme a la ley, siguiendo los principios de transparencia, publicidad, objetividad, participación ciudadana y equidad de género, para periodo igual al del Gobernador o Alcalde, según el caso.
+Corresponde a las asambleas y a los concejos distritales y municipales organizar las respectivas contralorías como entidades técnicas dotadas de autonomía administrativa y presupuestal, y garantizar su sostenibilidad fiscal.
 
-Ningún contralor podrá ser reelegido para el período inmediato.
+La Auditoría General de la República realizará la certificación anual de las contralorías territoriales a partir de indicadores de gestión, la cual será el insumo para que la Contraloría General de la República intervenga administrativamente las contralorías territoriales y asuma competencias cuando se evidencie falta de objetividad y eficiencia.
 
-Los contralores departamentales, distritales y municipales ejercerán, en el ámbito de su jurisdicción, las funciones atribuidas al Contralor General de la República en el artículo 268 y podrán, según lo autorice la ley, contratar con empresas privadas colombianas el ejercicio de la vigilancia fiscal.
+Los contralores departamentales, distritales y municipales ejercerán, en el ámbito de su jurisdicción, las funciones atribuidas al Contralor General de la República en el artículo 268 en lo que sea pertinente, según los principios de coordinación, concurrencia, y subsidiariedad. El control ejercido por la Contraloría General de la República será preferente en los términos que defina la ley.
 
-Para ser elegido contralor departamental, distrital o municipal se requiere ser colombiano por nacimiento, ciudadano en ejercicio, tener más de veinticinco años, acreditar título universitario y las demás calidades que establezca la ley.
-
-No podrá ser elegido quien sea o haya sido en el último año miembro de la Asamblea o Concejo que deba hacer la elección, ni quien haya ocupado cargo público en el nivel ejecutivo del orden departamental, distrital o municipal.
-
-Quien haya ocupado en propiedad el cargo de contralor departamental, distrital o municipal, no podrá desempeñar empleo oficial alguno en el respectivo departamento, distrito o municipio, ni ser inscrito como candidato a cargos de elección popular sino un año después de haber cesado en sus funciones.
-
-**Artículo 272.** La vigilancia de la gestión fiscal de los departamentos, distritos y municipios donde haya contralorías, corresponde a éstas y se ejercerá en forma posterior y selectiva.
-
-La de los municipios incumbe a las contralorías departamentales, salvo lo que la ley determine respecto de contralorías municipales.
-
-Corresponde a las asambleas y a los concejos distritales y municipales organizar las respectivas contralorías como entidades técnicas dotadas de autonomía administrativa y presupuestal.
-
-Igualmente les corresponde elegir contralor para período igual al del gobernador o alcalde, según el caso, de ternas integradas con dos candidatos presentados por el tribunal superior de distrito judicial y uno por el correspondiente tribunal de lo contencioso administrativo.
+Los Contralores departamentales, distritales y municipales serán elegidos por las Asambleas Departamentales, Concejos Municipales y Distritales, de terna conformada por quienes obtengan los mayores puntajes en convocatoria pública conforme a la ley, siguiendo los principios de transparencia, publicidad, objetividad, participación ciudadana y equidad de género, para un periodo de cuatro años que no podrá coincidir con el periodo del correspondiente gobernador y alcalde.
 
 Ningún contralor podrá ser reelegido para el período inmediato.
 
-Los contralores departamentales, distritales y municipales ejercerán, en el ámbito de su jurisdicción, las funciones atribuidas al Contralor General de la República en el artículo 268 y podrán, según lo autorice la ley, contratar con empresas privadas colombianas el ejercicio de la vigilancia fiscal.
-
 Para ser elegido contralor departamental, distrital o municipal se requiere ser colombiano por nacimiento, ciudadano en ejercicio, tener más de veinticinco años, acreditar título universitario y las demás calidades que establezca la ley.
 
-No podrá ser elegido quien sea o haya sido en el último año miembro de asamblea o concejo que deba hacer la elección, ni quien haya ocupado cargo público del orden departamental, distrital o municipal, salvo la docencia.
+No podrá ser elegido quien sea o haya sido en el último año miembro de la Asamblea o Concejo que deba hacer la elección, ni quien haya ocupado cargo público en la rama ejecutiva del orden departamental, distrital o municipal.
 
 Quien haya ocupado en propiedad el cargo de contralor departamental, distrital o municipal, no podrá desempeñar empleo oficial alguno en el respectivo departamento, distrito o municipio, ni ser inscrito como candidato a cargos de elección popular sino un año después de haber cesado en sus funciones.
+
+**Parágrafo transitorio 1°.** La siguiente elección de todos los contralores territoriales se hará para un período de dos años.
+
+**Parágrafo transitorio 2°.** En un término no superior a un año la ley reglamentará el fortalecimiento financiero de las contralorías departamentales, municipales y distritales con recursos provenientes principalmente de los ingresos corrientes de libre destinación más cuota de fiscalización que aportarán los sujetos de control del respectivo departamento, distrito o municipio. Esta ley será presentada por el Gobierno y la Contraloría General de la República.
 
 ##### **Artículo 273.** A solicitud de cualquiera de los proponentes, el Contralor General de la República y demás autoridades de control fiscal competentes, ordenarán que el acto de adjudicación de una licitación tenga lugar en audiencia pública.
 
 Los casos en que se aplique el mecanismo de audiencia pública, la manera como se efectuará la evaluación de las propuestas y las condiciones bajo las cuales se realizará aquella, serán señalados por la ley.
 
-##### **Artículo 274.** La vigilancia de la gestión fiscal de la Contraloría General de la República se ejercerá por un auditor elegido para períodos de dos años por el Consejo de Estado, de terna enviada por la Corte Suprema de Justicia.
+##### **Artículo 274.** La vigilancia de la gestión fiscal de la Contraloría General de la República y de todas las contralorías territoriales se ejercerá por el Auditor General de la República, elegido por el Consejo de Estado de terna enviada por la Corte Suprema de Justicia, siguiendo los principios de transparencia, publicidad, objetividad, participación ciudadana y equidad de género, para un periodo de cuatro años.
+
+Para ser elegido Auditor General se requiere ser colombiano de nacimiento y en ejercicio de la ciudadanía; tener más de 35 años de edad; tener título universitario en ciencias jurídicas, humanas, económicas, financieras, administrativas o contables; y experiencia profesional no menor a 5 años o como docente universitario por el mismo tiempo, y acreditar las calidades adicionales que exija la ley.
+
+No podrá ser elegido Auditor General quien sea o haya sido miembro del Congreso u ocupado cargo público alguno del orden nacional, salvo la docencia, en el año inmediatamente anterior a la elección. Tampoco podrá ser elegido quien haya sido condenado a pena de prisión por delitos comunes.
 
 La ley determinará la manera de ejercer dicha vigilancia a nivel departamental, distrital y municipal.
+
+**Parágrafo transitorio.** El período del Auditor dispuesto en el presente artículo, se aplicará quien sea elegido con posterioridad a la promulgación de este Acto Legislativo.
 
 ### **CAPITULO 2**
 
