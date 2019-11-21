@@ -4,7 +4,7 @@ identifier: "DECRETO-19-2012"
 country: "co"
 rank: "decreto"
 publication_date: "2012-01-10"
-last_updated: "2015-06-08"
+last_updated: "2019-11-21"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1004430"
 department: "MINISTERIO DE JUSTICIA Y DEL DERECHO"
@@ -96,7 +96,17 @@ Que mediante el parágrafo 1 del artículo 75 de la Ley 1474 de 2011, el Congres
 
 ##### **ARTÍCULO 21. PROHIBICIÓN DE EXIGENCIA DE PRESENTACIONES PERSONALES O CERTIFICADOS PARA PROBAR LA FE DE VIDA (SUPERVIVENCIA).**
 
-##### **ARTÍCULO 23. ADMINISTRACIÓN DE LA BASE DE DATOS DEL REGISTRO CIVIL DE DEFUNCIÓN.** La Registraduría Nacional del Estado Civil administrará la base de datos del Registro Civil de Defunción la cual se alimentará con la información que remitan las notarías, los consulados, los registradores del estado civil y las demás autoridades encargadas de llevar el registro civil.
+##### **Artículo 23.** Administración de la base de datos del registro civil de defunción. La Registraduría Nacional del Estado Civil administrará la base de datos del Registro Civil de Defunción, la cual se actualizará con la información del Registro Único de Afiliados a la Protección Social - Nacimientos y Defunciones (RUAF-ND), administrado por el Ministerio de Salud y Protección Social y con la que remitan las notarías, los consulados, los registradores del estado civil y las demás autoridades encargadas de llevar el registro civil.
+
+Las autoridades o particulares que presten el servicio de Registro Civil deberán implementar los mecanismos tecnológicos necesarios para interoperar con la Registraduría Nacional del Estado Civil, a fin de reportar en tiempo real los registros civiles de defunción tramitados en sus dependencias.
+
+La Registraduría Nacional del Estado Civil efectuará las verificaciones pertinentes y cruzará, corregirá, cancelará, anulará e inscribirá de oficio los Registros Civiles de Defunción, para mantener actualizada la base de datos.
+
+Con el fin de garantizar la confiabilidad y actualidad de la base de datos del Registro Civil de Defunción, cuando no existan medios tecnológicos, las funerarias y parques cementerios solo podrán inhumar o cremar personas fallecidas cuando se acompañe el certificado médico de defunción en físico, el dictamen del Instituto de Medicina Legal y Ciencias Forenses o la orden de autoridad competente.
+
+La Registraduría Nacional del Estado Civil, en conjunto con el Ministerio de Salud y Protección Social y el Departamento Nacional de Estadística (DANE), definirán el formato único que deberán diligenciar los médicos, el Instituto de Medicina Legal y Ciencias Forenses -incluidas sus regionales y seccionales- y las autoridades competentes cuando certifiquen la muerte de una persona.
+
+El Instituto Nacional de Medicina Legal y Ciencias Forenses, utilizará como medios de identificación las huellas dactilares del fallecido, la información odontológica o su perfil genético.”
 
 ##### **ARTÍCULO 24. FUNCIONES ESPECIALES DE LAS NOTARIAS.** Las notarías que presten sus servicios en municipios o distritos hasta de segunda categoría están obligadas a expedir los registros civiles de nacimiento y defunción en los hospitales y clínicas, mediante mecanismos de obtención electrónica de la huella dactilar, si ello fuere posible.
 
@@ -136,9 +146,13 @@ Las copias simples que expidan los notarios de los documentos que reposan en los
 
 ##### **ARTICULO 39. PROCEDIMIENTO PARA ESTABLECER LOS TRÁMITES AUTORIZADOS POR LA LEY.** El numeral segundo del artículo primero de la Ley 962 de 2005, quedará así:
 
-##### **ARTICULO 40. INFORMACIÓN Y PUBLICIDAD.** Sin perjuicio de las exigencias generales de publicidad de los actos administrativos, para que un trámite o requisito sea oponible y exigible al particular, deberá encontrarse inscrito en el Sistema Único de Información de Trámites y Procedimientos -SUIT- del Departamento Administrativo de la Función Pública, entidad que verificará que el mismo cuente con el respectivo soporte legal.
+##### **ARTICULO 40. Derogado**
 
-##### **ARTICULO 41. COMPETENCIA DE UNIFICACIÓN.** El Departamento Administrativo de la Función Pública velará por la permanente estandarización de los trámites dentro de la Administración Pública y verificará su cumplimiento cuando se inscriban los mismos en el Sistema Único de Información de Trámites SUIT. Los trámites que no cumplan con esta condición serán devueltos para hacer los ajustes pertinentes. Se entiende por estandarización el deber de la administración de establecer trámites equivalentes frente a pretensiones equivalentes o similares que pueda presentar una persona ante diferentes autoridades.
+##### **Artículo 41. Competencia de unificación**. El Departamento Administrativo de la Función Pública velará por la permanente estandarización de los trámites en la Administración Pública y verificará su cumplimiento cuando se inscriban en el Sistema Único de Información de Trámites (SUIT).
+
+La estandarización se hará a través de formularios únicos y trámites modelo o tipo, los cuales serán de obligatoria implementación por parte de las autoridades responsables de la ejecución de los trámites. Los trámites que no cumplan con esta condición serán devueltos para hacer los ajustes pertinentes.
+
+Las autoridades encargadas de reglamentar trámites creados o autorizados por la ley, deberán garantizar que la reglamentación sea uniforme, con el fin de que las autoridades que los apliquen no exijan requisitos, documentos o condiciones adicionales a los establecidos en la ley o reglamento.
 
 **CAPTULOII**
 
@@ -168,9 +182,9 @@ Las copias simples que expidan los notarios de los documentos que reposan en los
 
 ##### **ARTICULO 46. SUPRESIÓN DE LA LICENCIA DE TRADUCCIÓN DE LAS OBRAS EXTRANJERAS.** Suprímase el trámite de licencia de traducción de las obras extranjeras ante la Dirección Nacional de Derecho de Autor de que tratan los artículos 45 a 57 de la Ley 23 de 1982.
 
-##### **ARTÍCULO 47. VENTANILLA ÚNICA PARA LA OBTENCIÓN UNIFICADA DE LAS LICENCIAS Y EL PAGO INTEGRADO DE LOS DERECHOS DE AUTOR Y CONEXOS.** Para los efectos del literal c) del artículo 2 de la Ley 232 de 1995, y con la finalidad de reducir los trámites que los propietarios o responsables de establecimientos abiertos al público deben realizar para acreditar los requisitos de funcionamiento, cuando almacenan digitalmente obras musicales, fonogramas y videos musicales, y ejecutan o comunican al público obras musicales, fonogramas, obras audiovisuales y/o interpretaciones artísticas, la obtención unificada de las licencias y el pago integrado de los derechos de autor y conexos se realizará a través de una ventanilla única que deberán constituir las sociedades de gestión colectiva, a través de la cual se realizará de manera unificada el recaudo de los derechos de autor y conexos.
+##### **ARTÍCULO 47. Derogado**
 
-##### **ARTÍCULO 48. LISTA DE TARIFAS.** La sociedad que se constituya para el manejo de la ventanilla única recaudadora acordará la lista de tarifas para vigencias anuales con los gremios, las asociaciones de usuarios legalmente constituidas o los particulares.
+##### **ARTÍCULO 48.Derogado**
 
 ##### **ARTÍCULO 49. CONSULTA DE LA INFORMACIÓN CENSAL DE LAS COMUNIDADES Y AUTORIDADES INDÍGENAS**. Para los efectos del numeral 8 del artículo 13 del Decreto 2893 de 2011, la Dirección de Asuntos Indígenas, Rom y Minorías del Ministerio del Interior, a más tardar el 1º de enero de 2013, cargará en línea la información censal de población de comunidades y de los resguardos indígenas y las comunidades reconocidas, de las autoridades tradicionales indígenas reconocidas por la respectiva comunidad y de las asociaciones de autoridades tradicionales o cabildos indígenas y su actualización, en un programa o base de datos que pueda ser consultada por todas las autoridades que cumplan funciones respecto de las citadas comunidades y autoridades indígenas.
 
@@ -404,9 +418,7 @@ f. Recibo de pago por el valor correspondiente a la licencia solicitada.
 
 "**Artículo 2.** La presente ley será aplicable a las personas naturales o jurídicas que en su calidad de propietarios y/o armadores, registren naves y artefactos navales bajo la bandera colombiana. Las disposiciones de la presente ley no son aplicables a los buques de guerra."
 
-##### **ARTÍCULO 101. REGISTRO PROVISIONAL DE NAVES Y ARTEFACTOS NAVALES.** El literal h) del artículo 18 de la Ley 730 de 2001, quedará así:
-
-"h) Certificación de iniciación de trámite para la expedición de la Licencia para el acceso a las bandas de frecuencias atribuidas al servicio móvil marítimo y la asignación de las letras de llamadas, expedidas por el Ministerio de Comunicaciones".
+##### **ARTÍCULO 101. Derogado**
 
 ##### **ARTICULO 102. CONSTITUCION DE EMPRESA DE VIGILANCIA Y SEGURIDAD PRIVADA.** El artículo 9 del Decreto 356 de 1994, quedará así:
 
@@ -466,11 +478,15 @@ La Entidad Promotora de Salud que reciba la historia clínica la conservará has
 
 ##### **ARTÍCULO 111.TÉRMINO PARA EFECTUAR CUALQUIER TIPO DE COBRO O RECLAMACIÓN CON CARGO A RECURSOS DEL FOSYGA.** El artículo 13 del Decreto 1281 de 2002, quedará así:
 
-"**Artículo 13. Término para efectuar cualquier tipo de cobro o reclamación con cargo a recursos del FOSYGA.** Las reclamaciones o cualquier tipo de cobro que deban atenderse con cargo a los recursos de las diferentes subcuentas del FOSYGA se deberán presentar ante el FOSYGA en el término máximo de (1) año contado a partir de la fecha de la generación o establecimiento de la obligación de pago o de la ocurrencia del evento, según corresponda.
+" **Artículo 13.** Término para efectuar cobros diferentes de recobros y reclamaciones con cargo a recursos de la Administradora de los Recursos del Sistema General de Seguridad Social en Salud (Adres). Cualquier tipo de cobro que deba atenderse con cargo a los recursos de la Adres, distinto a los que tengan origen en recobros por servicios y tecnologías no financiadas con la Unidad de Pago por Capitación (UPC) o reclamaciones, se deberá presentar ante la Adres en el término máximo de un (1) año contado a partir de la fecha de la generación de la obligación de pago, lo anterior sin perjuicio del término establecido para la firmeza de los reconocimientos y giros de recursos del aseguramiento en salud.
 
-**Parágrafo 1.** Por una única vez, el FOSYGA reconocerá y pagara todos aquellos recobros y/o reclamaciones cuya glosa aplicada en el proceso de auditoría haya sido únicamente la de extemporaneidad y respecto de la cual el resultado se haya notificado a la entidad reclamante y/o recobrante, antes de la entrada en vigencia de la presente disposición, siempre y cuando no haya operado el fenómeno de la caducidad previsto en el numeral 8 del artículo 136 del C. C.A., o en la norma que lo sustituya, previa nueva auditoría integral, que deberá ser sufragada por la entidad reclamante o recobrante, según sea el caso, en los términos y condiciones que para el efecto fije el Ministerio de Salud y Protección Social.
+La devolución de aportes al Sistema General de Seguridad Social en Salud y el reconocimiento de licencias de maternidad y paternidad pagadas a los aportantes por parte de las Entidades Promotoras de Salud, deberá requerirse ante la Adres en un término máximo de un (1) año, contado a partir del pago del aporte o de la licencia al aportante.
 
-**Parágrafo 2.** Las cotizaciones no compensadas, incluidas las glosadas sin compensar al momento de expedición del presente Decreto, deberán compensarse por parte de las Entidades Promotoras de Salud EPS, y entidades obligadas a compensar, dentro del año siguiente a la vigencia de este Decreto Ley, previo el cumplimiento de los procedimientos establecidos en los Decretos 2280 de 2004 y 4023 de 2011 o las normas que lo modifiquen, adicionen o sustituyan".
+La devolución o reconocimiento de recursos por efecto de la corrección de registros compensados, deberá requerirse ante la Adres en un término máximo de seis (6) meses, contado a partir de la compensación del registro.
+
+Efectuada la devolución a la EPS, corresponderá a esta última, dentro de los diez (10) días hábiles siguientes, comunicar al aportante de tal situación y realizar la transferencia de los recursos a la cuenta bancaria registrada para el efecto. En caso tal que el aportante no haya registrado una cuenta bancaria, este dispondrá de tres (3) meses para reclamar los recursos devueltos, contados a partir de la fecha de la notificación con la cual la EPS le informa de la devolución efectuada por la Adres; de no hacerlo en el término señalado, no habrá lugar al pago y los recursos deberán ser devueltos a la Adres.
+
+Agotados los términos de que trata el presente artículo sin que se haya presentado el cobro de la licencia o la solicitud de devolución, se extinguirá el derecho a reclamar el pago y, por lo tanto, no subsistirá obligación para la Adres".
 
 ##### **ARTÍCULO 112. ASPECTOS ESPECIFICOS RELATIVOS A LA POLIZA:** El numeral 1 del artículo 193 del Decreto-Ley 663 de 1993, quedará así:
 
@@ -496,7 +512,21 @@ La diferencia entre el valor total de los recursos del 20% referido anteriorment
 
 **Parágrafo 2.** Esta disposición entrará en vigencia una vez se defina el tope de cobertura para gastos médicos quirúrgicos, farmacéuticos y hospitalarios y el porcentaje de que trata el parágrafo anterior, y se aplicará para el pago de indemnizaciones por accidentes de tránsito ocurridos desde ese momento. El FOSYGA sólo tramitará los servicios y las prestaciones de las víctimas o los beneficiarios, cuando en el accidente de tránsito estén involucrados vehículos no asegurados o no identificados
 
-##### **ARTÍCULO 114. REPETICIÓN DE CREDITOS A FAVOR DEL FOSYGA.** El cobro de los crédito a favor del FOSYGA correspondientes a las reclamaciones reconocidas y pagadas por la nación -Fondo de Solidaridad y Garantía -FOSYGA con ocasión de los daños corporales causados a las personas en accidentes de tránsito, como consecuencia del incumplimiento de la obligación de contar con el Seguro Obligatorio de Accidentes de Tránsito -SOAT vigente, estará a cargo del Ministerio de Salud y Protección Social quien mediante acto administrativo ordenará el cobro y podrá hacerlo efectivo a través de la jurisdicción coactiva a través de procedimiento administrativo de cobros coactivos.
+##### **Artículo 114.** Servicios de salud, transporte al centro asistencial e indemnizaciones por concepto de accidentes de tránsito ocasionados por vehículos no asegurados por el Seguro Obligatorio de Accidentes de Tránsito (SOAT) o no identificados. Las EPS asumirán el riesgo derivado de la prestación de los servicios en salud y el transporte al centro asistencial que se presten a víctimas de accidentes de tránsito ocasionados por vehículos no asegurados por el SOAT o no identificados, que se encuentren afiliadas al Sistema General de Seguridad Social en Salud.
+
+La prestación de dichos servicios se realizará en la red definida por la EPS a las tarifas convenidas, sin perjuicio de que la atención inicial de urgencias sea prestada en forma obligatoria por todos los prestadores de servicios de salud, en el marco de lo previsto en el artículo 14 de la Ley 1751 de 2015. La facturación de los servicios se realizará sin sujeción al régimen tarifario, coberturas y cuantías del SOAT.
+
+Dentro de los cuatro (4) meses siguientes a la entrada en vigencia del presente decreto ley, el Ministerio de Salud y Protección Social, con el apoyo de la Adres, establecerá la metodología para definir el valor de la prima y forma de pago que se reconocerá a las EPS para que asuman el riesgo derivado de garantizar la atención en salud y el transporte al centro asistencial de las víctimas de accidentes de tránsito ocasionados por vehículos no asegurados por el SOAT o no identificados, y el mecanismo para dicho pago.
+
+La Adres continuará reconociendo las indemnizaciones por incapacidad permanente, muerte y gastos funerarios de los accidentes de tránsito ocasionados por vehículos no asegurados por el SOAT o no identificados, así como los servicios de salud y el transporte de las víctimas no afiliadas al Sistema General de Seguridad Social en Salud y a las afiliadas a los regímenes Especial y de Excepción, de acuerdo con las coberturas establecidas en el artículo 193 del Estatuto Orgánico del Sistema Financiero modificado por el artículo 112 del Decreto Ley 019 de 2012; también podrá repetir contra el propietario del vehículo que haya incumplido la obligación de contar con el Seguro Obligatorio de Accidentes de Tránsito (SOAT), para obtener el pago de las indemnizaciones efectuadas y los servicios de salud brindados a las víctimas del accidente, en esta último caso, las EPS deberán reportar la información necesaria a la Adres de manera periódica y oportuna.
+
+La Adres deberá expedir, dentro de los dos (2) años siguientes al pago de la indemnización o al pago de la EPS del servicio en salud y transporte, un acto administrativo que ordenará el cobro al propietario y/o conductor del vehículo no asegurado por el SOAT y podrá hacerlo efectivo a través de la jurisdicción coactiva, adelantando el procedimiento administrativo de cobro coactivo. Contra este acto administrativo únicamente procederá el recurso de reposición.
+
+**Parágrafo 1**°. La asunción, por parte de las EPS, del riesgo derivado de garantizar la atención en salud y el transporte al centro asistencial de las víctimas de accidentes de tránsito ocasionados por vehículos no asegurados por el SOAT o no identificados, no dará lugar a ajustar el porcentaje de gastos de administración, por cuanto la misma estará contemplada en el valor de la prima que defina el Ministerio.
+
+**Parágrafo 2°.** Cuando la víctima sea el propietario del vehículo carente de la póliza SOAT, la Adres no reconocerá la indemnización por incapacidad permanente, muerte ni gastos funerarios.
+
+**Parágrafo 3°.** En ningún caso, la Adres ni la EPS serán responsables de la financiación y pago del examen o de la junta calificadora de invalidez para acreditar la pérdida de capacidad laboral de víctimas de accidentes de tránsito.
 
 ##### **ARTICULO 115. RECLAMACIÓN DE RECURSOS RECONOCIDOS POR LA SUBCUENTA ECAT DEL FOSYGA.** El reconocimiento por parte del FOSYGA de indemnizaciones por incapacidad, muerte o auxilio funerario, a las víctimas de accidentes de tránsito, eventos terroristas o catástrofes naturales o a sus beneficiarios, deberá ser comunicado mediante escrito dirigido a la dirección reportada al momento de la reclamación. Si transcurridos treinta (30) días contados a partir de la fecha de envío de la mencionada comunicación y para los casos en que no se haya autorizado transferencia electrónica, se procederá a publicar por una sola vez la información en medios masivos de comunicación. Si transcurridos seis (6) meses contados a partir del día siguiente a la publicación, la víctima o beneficiario no se presentó a recibir el monto reconocido, no habrá lugar al pago.
 
@@ -540,11 +570,7 @@ El incumplimiento de esta disposición dará lugar a las sanciones previstas en 
 
 Para efectos laborales, será obligación de los afiliados informar al empleador sobre la expedición de una incapacidad o licencia.
 
-##### **ARTÍCULO 122. PROCEDIMIENTO PARA SANEAMIENTO DE CUENTAS POR RECOBROS.** Sin perjuicio de los mecanismos alternativos de solución de conflictos establecidos en la ley, cuando se presenten divergencias recurrentes por las glosas aplicadas en la auditoría efectuada a los recobros ante el FOSYGA, por cualquier causal, el Ministerio de Salud y Protección Social establecerá los lineamientos o procedimientos orientados a su solución, siempre y cuando no haya transcurrido el plazo de caducidad establecido para la acción de reparación directa en el Código Contencioso Administrativo. En estos casos, el costo de la nueva auditoría integral deberá ser sufragado por la entidad recobrante.
-
-Cuando la glosa se origine en la inclusión en el POS de las tecnologías en salud recobradas al FOSYGA, se aplicará el concepto que para el efecto expida la Comisión de Regulación en Salud CRES, quien será la competente para determinar en forma definitiva si se encuentran o no incluidas, tanto para lo contenido en las normas expedidas por esa Comisión como para lo previsto en normas anteriores, Emitido el concepto de la CRES y efectuada la auditoría integral, en caso de ser favorables, se procederá al trámite de pago,
-
-Para los recobros que a la entrada en vigencia del presente Decreto ley ya surtieron la auditoría integral y cuya glosa se aplicó por considerar que la tecnología se encontraba incluida en el POS, se aplicará por una sola vez, dentro del año siguiente contado a partir de la vigencia de la presente disposición, siempre y cuando no haya transcurrido el plazo de caducidad establecido para la acción de reparación directa en el Código Contencioso Administrativo.
+##### **ARTÍCULO 122. Derogado**
 
 ##### **ARTICULO 123. PROGRAMACIÓN DE CITAS DE CONSULTA GENERAL.** Las Entidades Promotoras de Salud, EPS, deberán garantizar la asignación de citas de medicina general u odontología general, sin necesidad de hacer la solicitud de forma presencial y sin exigir requisitos no previstos en la Ley. La asignación de estas citas no podrá exceder los tres (3) días hábiles contados a partir de la solicitud. De igual forma, las EPS contarán con sistemas de evaluación y seguimiento a los tiempos de otorgamiento de citas que deberán reportarse a la Superintendencia Nacional de Salud y publicarse periódicamente en medios masivos de comunicación.
 
@@ -554,9 +580,9 @@ El incumplimiento de esta disposición acarreará las sanciones previstas en la 
 
 ##### **ARTÍCULO 124. ASIGNACIÓN DE CITAS MÉDICAS CON ESPECIALISTAS**. La asignación de citas médicas con especialistas deberá ser otorgada por las Empresas Promotoras de Salud en el término que señale el Ministerio de Salud y Protección Social, la cual será adoptada en forma gradual, atendiendo la disponibilidad de oferta por especialidades en cada región del país, la carga de la enfermedad de la población, la condición médica del paciente, los perfiles epidemiológicos y demás factores que incidan en la demanda de prestación del servicio de salud por parte de la población colombiana. Para tal efecto, el Ministerio de Salud y Protección Social expedirá en los próximos tres meses a la vigencia del presente decreto la reglamentación correspondiente.
 
-##### **ARTICULO 125. AUTORIZACIONES DE SERVICIOS DE SALUD.** Las Entidades Promotoras de Salud, EPS, tendrán la obligación de contar con sistemas no presenciales para autorizar los servicios de salud, de tal forma que el afiliado no tenga que presentarse nuevamente para recibir la misma. En ningún caso las autorizaciones podrán exceder los cinco (5) días hábiles contados a partir de la solicitud de la autorización. De igual forma, las EPS contarán con sistemas de evaluación y seguimiento de los tiempos de autorización que deberán reportarse a la Superintendencia Nacional de Salud y publicarse periódicamente en medios masivos de comunicación.
+##### **Artículo 125.** Autorización de servicios electivos. De requerirse autorización para la prestación de los servicios de salud de carácter electivo, ambulatorio u hospitalario, el trámite se realizará directamente por el prestador de servicios de salud ante la entidad responsable del pago, sin la intermediación del afiliado, dentro de un término no superior a cinco (5) días calendario. Tratándose de poblaciones de especial protección, entre otras, personas con discapacidad y adultos mayores, madres gestantes, este término se reducirá a dos (2) días hábiles máximo.
 
-El incumplimiento de esta disposición acarreará las sanciones previstas en la ley.
+El resultado del trámite será informado empleando para ello cualquier medio electrónico si así lo autoriza el usuario.
 
 ##### **ARTICULO 126. NOTIFICACIÓN SANITARIA, PERMISO SANITARIO O REGISTRO SANITARIO.** Los alimentos que se fabriquen, envasen o importen para su comercialización en el territorio nacional requerirán de notificación sanitaria, permiso sanitario o registro sanitario, según el riesgo de estos productos en salud pública, de conformidad con la reglamentación que expida el Ministerio de Salud y Protección Social, dentro de los seis (6) meses siguientes a la entrada en vigencia del presente decreto.
 
@@ -568,15 +594,19 @@ El incumplimiento de esta disposición acarreará las sanciones previstas en la 
 
 ##### **ARTICULO 127. PROCEDIMIENTO PARA LA SOLICITUD DE REGISTROS SANITARIOS DE MEDICAMENTOS.** Las solicitudes de registros sanitarios de medicamentos incluidos en normas farmacológicas se evaluarán ante el INVIMA en un solo trámite, para el cual, el interesado radicará la información y la documentación prevista en el reglamento. Una vez radicada la solicitud de registro con el lleno de los requisitos, si el INVIMA considera que la información es insuficiente, requerirá al interesado por una sola vez para que presente la información complementaria. Una vez recibida la información complementaria el INVIMA resolverá si otorga o no el registro sanitario dentro del término de tres (3) meses.
 
-##### **ARTICULO 128. PROCEDIMIENTO PARA LA SOLICITUD DE REGISTROS SANITARIOS DE MEDICAMENTOS NUEVOS:** Para la obtención del registro sanitario para los medicamentos nuevos se deberá seguir el siguiente trámite:
+##### **Artículo 128.** Procedimiento para la solicitud de registros sanitarios de medicamentos nuevos. Para la obtención del registro sanitario para los medicamentos nuevos se deberá seguir el siguiente trámite:
 
-- 1. El interesado deberá solicitar ante el INVIMA la realización de la evaluación farmacológica, cumpliendo los requisitos y condiciones establecidos en el reglamento. La Comisión Revisora evaluará la información allegada por el interesado y en el caso que considere que la información es insuficiente, solicitará por una sola vez, información complementaria. Una vez recibida la información complementaria la Comisión Revisora emitirá concepto sobre la evaluación farmacológica.
+- 1. Las evaluaciones farmacológica, farmacéutica y legal se tramitarán en un solo radicado y de forma simultánea, cumpliendo los requisitos y condiciones esta¬blecidos en la normatividad sanitaria vigente.
 
-- 2. Si el resultado de la evaluación farmacológica es favorable, el interesado procederá a solicitar al INVIMA, siguiendo el procedimiento de que trata el artículo anterior, las evaluaciones farmacéutica y legal con el objeto de continuar con el trámite de registro sanitario. Si la evaluación farmacológica no es favorable, no será procedente solicitar las evaluaciones farmacéutica y legal.
+- 2. El Invima evaluará las solicitudes en un término no mayor al señalado en el artículo 28 del Decreto 677 de 1995 o en las normas que lo modifiquen o sustituyan. En el evento que la información allegada sea insuficiente, el Instituto Nacional de Vigilancia de Medicamentos y Alimentos (Invima) requerirá por una sola vez al interesado para que este la complemente, en los términos y condiciones seña¬lados en el artículo 17 de la Ley 1755 de 2015.
 
-##### **ARTÍCULO 129. METODOLOGIA DE ANÁLISIS DE PRODUCTO TERMINADO DE MEDICAMENTOS.** En la evaluación farmacéutica, se entenderá que las farmacopeas oficialmente aceptadas en el país, corresponden siempre a la última edición vigente de la farmacopea respectiva.
+##### **Artículo 129.** Metodología de análisis de producto terminado de medicamentos. En la evaluación farmacéutica, se entenderá que las farmacopeas oficialmente aceptadas en el país corresponden siempre a la última edición vigente de la farmacopea respectiva.
 
-**Parágrafo.** El INVIMA podrá aceptar técnicas analíticas diferentes a las contenidas en las farmacopeas oficialmente aceptadas en el país, siempre y cuando, el interesado presente la validación respectiva y sea aprobada por dicho Instituto.
+El plazo de la farmacopea será el establecido en la misma, no obstante, en los casos en que los cambios en la nueva versión de la farmacopea no puedan ser implementados en el término inicialmente señalado, el Instituto Nacional de Vigilancia de Medicamentos y Alimentos (Invima) evaluará la posibilidad de conceder un plazo adicional de implementación de acuerdo con los soportes presentados por el interesado, el cual no podrá ser superior a un (1) año al señalado en la respectiva farmacopea.
+
+En todo caso, los plazos señalados en las farmacopeas que impacten la calidad, seguridad y eficacia de un medicamento no podrán ser prorrogados.
+
+**Parágrafo.**El Instituto Nacional de Vigilancia de Medicamentos y Alimentos (Invima) podrá aceptar técnicas analíticas diferentes a las contenidas en las farmacopeas oficialmente aceptadas en el país, siempre y cuando, el interesado presente la validación respectiva en la que se demuestre la equivalencia al método farmacopéico y sea aprobada por dicho Instituto. Sin embargo, si apareciera una diferencia, o en el caso de controversia, solo el resultado obtenido mediante el procedimiento y/o método dado en la farmacopea será concluyente
 
 ##### **ARTÍCULO 130. CONTROL DE CALIDAD DE MEDICAMENTOS EN POSCOMERCIALlZACION.** Para el control y vigilancia de los medicamentos que se comercialicen en el país, la autoridad sanitaria competente, empleará la farmacopea con la cual se concedió el registro sanitario, siempre en su última edición vigente.
 
@@ -892,15 +922,15 @@ La Superintendencia de Industria y Comercio instruirá sobre los requisitos y tr
 
 Si al vencimiento de dicho término el solicitante no completa o subsana los requisitos indicados, se dará aplicación a lo previsto en el último inciso del artículo 140 de la Decisión 486.
 
-##### **ARTICULO 171. TÉRMINO PARA RESOLVER LAS SOLICITUDES EN LA VENTANILLA ÚNICA DE COMERCIO EXTERIOR "VUCE".** A partir del 31 de mayo de 2012, las entidades participantes en la Ventanilla Única de Comercio Exterior "VUCE" deberán resolver las solicitudes de importación del régimen libre en un término no superior a dos (2) días hábiles contados a partir de la fecha de radicación en la entidad respectiva siempre que el solicitante haya cumplido con el lleno de los requisitos.
+##### **Artículo 171.** Término para Resolver las Solicitudes en la Ventanilla Única de Comercio Exterior “VUCE”. A partir del 2 de enero de 2020, las autoridades participantes en la Ventanilla Única de Comercio Exterior “VUCE” deberán resolver las solicitudes de importación del régimen libre en un término no superior a un (1) día hábil contado a partir de la fecha de radicación en la entidad respectiva siempre que el solicitante haya cumplido con el lleno de los requisitos.
 
-A partir del 31 de mayo de 2012, las entidades participantes en la VUCE deberán informar al solicitante a través de la mencionada Ventanilla, en un término no superior a un (1) día contado a partir de la radicación, si las solicitudes del régimen libre o de licencia previa están incompletas.
+A partir del 2 de enero de 2020, las autoridades participantes en la VUCE, o la herramienta tecnológica que haga sus veces, deberán informar al solicitante a través de la mencionada Ventanilla, en un término no superior a un (1) día contado a partir de la radicación, si las solicitudes del régimen libre o de licencia previa están incompletas.
 
-El Ministerio de Comercio, Industria y Turismo, una vez haya recibido las aprobaciones de todas las entidades participantes en la VUCE, deberá aprobar las solicitudes de importación del régimen libre en un término no superior a 12 horas hábiles.
+El Ministerio de Comercio, Industria y Turismo, una vez haya recibido las aprobaciones de todas las autoridades participantes en la VUCE, deberá aprobar las solicitudes de importación del régimen libre en un término no superior a un (1) día hábil. A partir del 2 de enero de 2020, las autoridades participantes en la VUCE deberán resolver las solicitudes de importación del régimen de licencia previa en un término no superior a dos (2) días hábiles contados a partir de la fecha de radicación en la entidad respectiva a través de la VUCE, siempre que el solicitante haya cumplido con el lleno de los requisitos.
 
-A partir del 31 de mayo de 2012, las entidades participantes en la VUCE deberán resolver las solicitudes de importación del régimen de licencia previa en un término no superior a tres (3) días hábiles contados a partir de la fecha de radicación en la entidad respectiva a través de la VUCE, siempre que el solicitante haya cumplido con el lleno de los requisitos.
+A partir del 2 de enero de 2020, las autoridades participantes en la VUCE deberán resolver las solicitudes de importación del régimen de licencia previa en un término no superior a dos (2) días hábiles contados a partir de la fecha de radicación en la entidad respectiva a través de la VUCE, siempre que el solicitante haya cumplido con el lleno de los requisitos.
 
-El Ministerio de Comercio, Industria y Turismo, una vez haya recibido las aprobaciones de todas las entidades participantes en la VUCE, deberá aprobar las solicitudes de importación del régimen de licencia previa en un término no superior a un día (1) hábil.
+El Ministerio de Comercio, Industria y Turismo, una vez haya recibido las aprobaciones de todas las autoridades participantes en la VUCE, deberá aprobar las solicitudes de importación del régimen de licencia previa en un término no superior a un día (1) hábil.”
 
 ##### **ARTÍCULO 172. INFORMACIÓN EN LA PÁGINA WEB DEL REGISTRO ÚNICO EMPRESARIAL Y SOCIAL -RUES-.** A partir de abril de 2012, para fines informativos, las Cámaras de Comercio darán acceso gratuito a través de la página web del RUES al menos a la siguiente información básica de las personas incorporadas en su registro: Cámara de comercio donde se registra la persona, razón social, número de identificación tributaria, fecha de renovación, fecha de matrícula, fecha de vigencia, tipo de organización, categoría de la matrícula, estado de la matrícula, actividad económica, establecimientos, agencias o sucursales, representantes legales principales y suplentes, y limitaciones de su capacidad de contratar.
 
@@ -1424,9 +1454,11 @@ Los avisos contendrán información sobre el objeto y características esenciale
 
 **TRÁMITES, PROCEDIMIENTOS Y REGULACIONES DEL SECTOR ADMINISTRATIVO DE LA FUNCIÓN PÚBLICA**
 
-##### **ARTICULO 227. REPORTES AL SISTEMA DE INFORMACIÓN Y GESTIÓN DEL EMPLEO PÚBLICO - SIGEP.** Quien sea nombrado en un cargo o empleo público o celebre un contrato de prestación de servicios con el Estado deberá, al momento de su posesión o de la firma del contrato, registrar en el Sistema de Información y Gestión del Empleo Público - SIGEP- administrado por el Departamento Administrativo de la Función Pública, la información de hoja de vida, previa habilitación por parte de la unidad de personal de la correspondiente entidad, o ante la dependencia que haga sus veces.
+##### ***Artículo 227.*** *Reportes al Sistema de Información y Gestión del Empleo Público (SIGEP). Quien sea nombrado en un cargo o empleo público deberá, al momento de su posesión, registrar su hoja de vida, su declaración de bienes y rentas y los soportes en el Sistema de Información y Gestión del Empleo Público (SIGEP), previa habilitación por parte de la unidad de personal de la correspondiente entidad, o ante la dependencia que haga sus veces. Al retiro del servicio la hoja de vida y la declaración de bienes y rentas y los soportes deberán desvincularse del empleo en el SIGEP, sin perjuicio del deber de conservar las hojas de vida por la respectiva entidad, acorde con las normas vigentes.*
 
-Además, los servidores públicos deberán diligenciar la declaración de bienes y rentas de que trata el artículo 122 de la Constitución Política.
+*Quien vaya a vincularse a las entidades del Estado y su hoja de vida se encuentre registrada en el citado Sistema, únicamente deberá actualizar los datos de la hoja de vida o de la declaración de bienes y rentas.*
+
+*Las personas que vayan a suscribir un contrato de prestación de servicios con el Estado deberán diligenciar el formato de hoja de vida establecido por el Departamento Administrativos de la Función Pública a través del SECOP.”*
 
 ##### **ARTÍCULO 228. REFORMAS DE PLANTA DE PERSONAL.** Modifíquese el artículo 46 de la Ley 909 de 2004, el cual quedará así:
 
