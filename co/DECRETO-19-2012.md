@@ -4,7 +4,7 @@ identifier: "DECRETO-19-2012"
 country: "co"
 rank: "decreto"
 publication_date: "2012-01-10"
-last_updated: "2019-11-21"
+last_updated: "2019-11-22"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1004430"
 department: "MINISTERIO DE JUSTICIA Y DEL DERECHO"
@@ -95,6 +95,14 @@ Que mediante el parágrafo 1 del artículo 75 de la Ley 1474 de 2011, el Congres
 ##### **ARTÍCULO 20. IDENTIFICACIÓN DE LOS COLOMBIANOS RESIDENTES EN EL EXTERIOR.** Los colombianos residentes en el exterior se identificarán ante las sedes diplomáticas y consulares nacionales a través de los mecanismos señalados en este decreto.
 
 ##### **ARTÍCULO 21. PROHIBICIÓN DE EXIGENCIA DE PRESENTACIONES PERSONALES O CERTIFICADOS PARA PROBAR LA FE DE VIDA (SUPERVIVENCIA).**
+
+##### **Artículo 22.** Acreditación de la fe de vida (supervivencia) de connacionales fuera del país. En todos los casos, la fe de vida (supervivencia) de los connacionales fuera del país, se probará ante las entidades que forman parte del Sistema General de Seguridad Social Integral cada seis (6) meses mediante una de las siguientes opciones:
+
+- 1. Ante el consulado de la circunscripción donde se encuentra el connacional. El cónsul, con fundamento en los medios que a su criterio le permitan tener certeza del estado vital del solicitante, expedirá el correspondiente certificado de super¬vivencia y lo enviará a la respectiva entidad de seguridad social a través del canal que para tal fin se tenga establecido.
+
+- 2. Mediante documento expedido por parte de la autoridad pública del lugar sede donde se encuentre el connacional en el que se evidencie la supervivencia. Esta constancia deberá ser apostillada o legalizada, según el caso, y remitida por el interesado a la dirección y dependencia que para tal fin determine la respectiva entidad de seguridad social.
+
+**ARTÍCULO 22. ACREDITACIÓN DE LA FE DE VIDA (SUPERVIVIENCIA) DE CONNACIONALES FUERA DEL PAÍS.** En todos los casos, la fe de vida (supervivencia) de los connacionales fuera del país, se probará ante las entidades que forman parte del Sistema General de Seguridad Social Integral, cada seis (6) meses.
 
 ##### **Artículo 23.** Administración de la base de datos del registro civil de defunción. La Registraduría Nacional del Estado Civil administrará la base de datos del Registro Civil de Defunción, la cual se actualizará con la información del Registro Único de Afiliados a la Protección Social - Nacimientos y Defunciones (RUAF-ND), administrado por el Ministerio de Salud y Protección Social y con la que remitan las notarías, los consulados, los registradores del estado civil y las demás autoridades encargadas de llevar el registro civil.
 
