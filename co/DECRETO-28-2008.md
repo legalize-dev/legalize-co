@@ -4,7 +4,7 @@ identifier: "DECRETO-28-2008"
 country: "co"
 rank: "decreto"
 publication_date: "2008-01-10"
-last_updated: "2008-01-10"
+last_updated: "2020-04-11"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1006792"
 department: "MINISTERIO DEL INTERIOR Y DE JUSTICIA"
@@ -208,6 +208,8 @@ El administrador o el tercero contratado para estos efectos tendrá las facultad
 Parágrafo.La asunción de la prestación del servicio y la ejecución de los recursos dispuestos para su financiación, tendrá vigencia hasta por un término máximo de cinco años, sin perjuicio de solicitar a la Unidad Administrativa Especial de Monitoreo, Seguimiento y Control el levantamiento de la medida. En el evento de reasumir la competencia para la prestación del servicio, el respectivo departamento, distrito o municipio deberá respetar los contratos celebrados por la Nación o el departamento.
 
 - 13.4. Suspensión de procesos contractuales. Es la medida por la cual la Procuraduría General de la Nación con base en los hallazgos encontrados en desarrollo de la estrategia prevista en este decreto, y antes de que sea expedido el acto de adjudicación respectivo, solicita suspender de manera inmediata los procesos de selección contractual, en los cuales no se prevea o aseguren el cumplimiento de las metas de continuidad, cobertura y calidad en los servicios o no se adecúen a los trámites contractuales o presupuestales dispuestos por la ley, e informará a la Unidad Administrativa Especial de Monitoreo, Seguimiento y Control.
+
+La autoridad que en el marco de lo dispuesto en este artículo asuma temporalmente las competencias de una entidad territorial para la programación presupuestal, ordenación del gasto, competencia contractual y nominación del personal, en relación con los recursos del Sistema General de Participaciones en Salud, en caso de emergencia sanitaria, podrá sustituir dicha medida por una de seguimiento. La sustitución de la medida deberá ser solicitada por el representante legal de la entidad territorial a la que se le haya decretado la asunción temporal de las competencias, ante el representante legal de la entidad a la que se le hubiere encargado dicha función, quien definirá los términos en los que se ejercerá la medida sustituta, los cuales deberá ser incorporados en un plan de acción suscrito por el representante legal de la entidad territorial y aprobado por el representante legal de la autoridad que aceptó la sustitución de la medida.
 
 ##### **Artículo 14**.*Adopción de medidas correctivas.* La adopción de las medidas correctivas previstas en el presente decreto se sujetará al procedimiento dispuesto en el Estatuto Orgánico del Sistema Financiero en lo que resulte pertinente. En todo caso, por su naturaleza cautelar, las medidas podrán adoptarse de manera simultánea a la iniciación y comunicación del procedimiento respectivo.
 
