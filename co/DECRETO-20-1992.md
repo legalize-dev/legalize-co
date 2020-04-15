@@ -4,7 +4,7 @@ identifier: "DECRETO-20-1992"
 country: "co"
 rank: "decreto"
 publication_date: "1992-01-03"
-last_updated: "1992-01-03"
+last_updated: "2020-04-15"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1004990"
 department: "MINISTERIO DE RELACIONES EXTERIORES"
@@ -48,6 +48,8 @@ El fondo tendrá como domicilio principal la ciudad de Santafé de Bogotá, pero
 - 8. Celebrar todos los actos y contratos, incluidos los de fiducia, que resulten necesarios para atender oportuna y eficientemente las necesidades del Ministerio de Relaciones Exteriores y del servicio exterior.
 
 - 9. Las demás que le atribuya la ley y las que sean propias de su naturaleza y objetivos.
+
+PARÁGRAFO. Contratos del Fondo Rotatorio del Ministerio de Relaciones Exteriores. Durante la vigencia de la Emergencia Sanitaria declarada por el Ministerio de Salud y Protección Social, con ocasión de la pandemia derivada del Coronavirus COVID-19, autorícese al Fondo Rotatorio del Ministerio de Relaciones Exteriores, para celebrar convenios interadministrativos internos y contratos que tengan como propósito adquirir de las entidades públicas extranjeras, empresas privadas extranjeras o de otras organizaciones o personas extranjeras, bienes y servicios necesarios para mitigar la pandemia y sus efectos, sin aplicar la Ley 80 de 1993. Para materializar este artículo, el funcionario competente deberá justificar previamente la conexidad entre los bienes adquiridos y la mitigación de la pandemia derivada del Coronavirus COVID-19.
 
 ##### **Artículo 3º** Representación legal. La representación legal del Fondo Rotatorio del Ministerio de Relaciones Exteriores, estará a cargo del Ministro de Relaciones Exteriores, quien podrá delegarla en los Viceministros, el Secretario General, el Subsecretario de la Secretaría General o el Subsecretario de Asuntos Administrativos.
 
