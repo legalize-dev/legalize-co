@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2019-12-25"
+last_updated: "2020-07-21"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -2552,7 +2552,21 @@ En los casos taxativamente señalados por la ley, el Presidente de la República
 
 Sobre las rentas departamentales que se causen en Santa Fe de Bogotá, la ley determinará la participación que le corresponda a la capital de la República. Tal participación no podrá ser superior a la establecida en la fecha de vigencia de esta Constitución.
 
-##### **Artículo 325.** Con el fin de garantizar la ejecución de planes y programas de desarrollo integral y la prestación oportuna y eficiente de los servicios a su cargo, dentro de las condiciones que fijen la Constitución y la ley, el Distrito Capital podrá conformar un área metropolitana con los municipios circunvecinos y una región con otras entidades territoriales de carácter departamental.
+##### **Artículo 325. Créese la Región Metropolitana Bogotá, C** undinamarca como entidad administrativa de asociatividad regional de régimen especial, con el objeto de garantizar la ejecución de planes y programas de desarrollo sostenible y la prestación oportuna y eficiente de los servicios a su cargo. El Distrito Capital, la Gobernación de Cundinamarca y los municipios de Cundinamarca podrán asociarse a esta región cuando compartan dinámicas territoriales, ambientales, sociales o económicas. En su jurisdicción las decisiones de la región Metropolitana tendrán superior jerarquía sobre las del Distrito, las de los municipios que se asocien y las del departamento de Cundinamarca, en lo relacionado con los temas objeto de su competencia. Las entidades territoriales que la conformen mantendrán su autonomía territorial y no quedarán incorporadas al Distrito Capital. El Distrito Capital también podrá conformar una región administrativa con otras entidades territoriales de carácter departamental. **Parágrafo Transitorio 1°.** Tras la promulgación de este Acto Legislativo, la Alcaldía Mayor de Bogotá y la Gobernación de Cundinamarca someterán a votación del Concejo Distrital y la Asamblea Departamental su ingreso a la región Metropolitana Bogotá - Cundinamarca, con lo cual entrará en funcionamiento. **Parágrafo Transitorio 2°.** Una Ley Orgánica definirá el funcionamiento de la Región Metropolitana y en todo caso deberá atender las siguientes reglas y asuntos: 1. Para su trámite, el Congreso de la República promoverá la participación ciudadana y de los entes territoriales interesados.
+
+- 2. El procedimiento y las condiciones para la asociación de los municipios a la región Metropolitana.
+
+- 3. El grado de autonomía de la región Metropolitana.
+
+- 4. El Consejo Regional será su máximo órgano de gobierno y estará conformado por el Alcalde Mayor de Bogotá, los Alcaldes de los municipios de Cundinamarca que se asocien y el Gobernador de Cundinamarca.
+
+- 5. Habrá un sistema de toma de decisiones que promueva el consenso. No se contemplará la figura de municipio núcleo como estructura organizacional ni habrá lugar al derecho al veto. Ninguna decisión sobre los temas que defina la región Metropolitana podrá ser tomada por una sola de las entidades territoriales asociadas. Para las decisiones referentes al nombramiento y retiro del Director, y los gastos y las inversiones de la región Metropolitana, se requerirá la aceptación de la Alcaldía Mayor de Bogotá y la Gobernación de Cundinamarca.
+
+- 6. Se establecerán los parámetros de identificación de hechos metropolitanos, los mecanismos de financiación, la estructura administrativa del Consejo Regional, sus funciones, la secretaría técnica, los mecanismos de participación ciudadana y la transferencia de competencias de la nación.
+
+- 7. La región Metropolitana no modifica el régimen de financiación de la Corporación Autónoma Regional de Cundinamarca (CAR), ni los municipios que componen su jurisdicción.
+
+- 8. En todo caso el control político de las decisiones de la región Metropolitana lo ejercerán el Concejo Distrital, los Concejos Municipales y la Asamblea Departamental”.
 
 ##### **Artículo 326.** Los municipios circunvecinos podrán incorporarse al Distrito Capital si así lo determinan los ciudadanos que residan en ellos mediante votación que tendrá lugar cuando el concejo distrital haya manifestado su acuerdo con esta vinculación. Si ésta ocurre, al antiguo municipio se le aplicarán las normas constitucionales y legales vigentes para las demás localidades que conformen el Distrito Capital.
 
