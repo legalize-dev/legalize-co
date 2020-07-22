@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2020-07-21"
+last_updated: "2020-07-22"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -139,6 +139,26 @@ El superior no podrá agravar la pena impuesta cuando el condenado sea apelante 
 ##### **Artículo 32.** El delincuente sorprendido en flagrancia podrá ser aprehendido y llevado ante el juez por cualquier persona. Si los agentes de la autoridad lo persiguieren y se refugiare en su propio domicilio, podrán penetrar en él, para el acto de la aprehensión; si se acogiere a domicilio ajeno, deberá preceder requerimiento al morador.
 
 ##### **Artículo 33.** Nadie podrá ser obligado a declarar contra si mismo o contra su cónyuge, compañero permanente o parientes dentro del cuarto grado de consanguinidad, segundo de afinidad o primero civil.
+
+##### **Artículo 34.**Se prohíben penas de destierro y confiscación.
+
+No obstante, por sentencia judicial, se declarará extinguido el dominio sobre los bienes adquiridos mediante enriquecimiento ilícito, en perjuicio del Tesoro Público o con grave deterioro de la moral social.
+
+De manera excepcional cuando un niño, niña o adolescente sea víctima de las conductas de homicidio en modalidad dolosa, acceso carnal que implique violencia o sea puesto en incapacidad de resistir o sea incapaz de resistir, se podrá imponer como sanción hasta la pena de prisión perpetua.
+
+Toda pena de prisión perpetua tendrá control automático ante el superior jerárquico.
+
+En todo caso la pena deberá ser revisada en un plazo no inferior a veinticinco (25) años, para evaluar la resocialización del condenado.
+
+**Parágrafo Transitorio.** El Gobierno nacional contará con un (1) año contado a partir de la fecha de promulgación del presente acto legislativo, para radicar ante el Congreso de la República el proyecto de ley que reglamente la prisión perpetua.
+
+Se deberá formular en el mismo término, una política pública integral que desarrolle la protección de niños, niñas y adolescentes; fundamentada principalmente en las alertas tempranas, educación, prevención, acompañamiento psicológico y la garantía de una efectiva judicialización y condena cuando sus derechos resulten vulnerados.
+
+Anualmente se presentará un informe al Congreso de la República sobre el avance y cumplimiento de esta política pública. Así mismo, se conformará una Comisión de Seguimiento, orientada a proporcionar apoyo al proceso de supervisión que adelantará el Legislativo.
+
+**Artículo34.** Se prohíben las penas de destierro, prisión perpetua y confiscación.
+
+No obstante, por sentencia judicial, se declarará extinguido el dominio sobre los bienes adquiridos mediante enriquecimiento ilícito, en perjuicio del Tesoro Público o con grave deterioro de la moral social.
 
 ##### **Artículo 35.** La extradición se podrá solicitar, conceder u ofrecer de acuerdo con los tratados públicos y, en su defecto, con la ley.
 
