@@ -4,7 +4,7 @@ identifier: "DECRETO-95-1958"
 country: "co"
 rank: "decreto"
 publication_date: "1958-04-30"
-last_updated: "1958-04-30"
+last_updated: "2021-03-02"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1021634"
 department: "LA JUNTA MILITAR DE GOBIERNO DE COLOMBIA"
@@ -29,17 +29,15 @@ en uso de las facultades que le confiere el artículo 121 de la Constitución Na
 
 **DECRETA:**
 
-##### ***Artículo 1°.*** Autorizase a los Departamentos y Municipios pura conceder exenciones de impuestos, excepto del de valorización, a la Fundación Ciudad de Cali.
+##### ***Artículo 1°.*** Derogado.
 
-##### ***Artículo 2°.*** Las donaciones entre vivos que se hagan a favor de la Fundación Ciudad de Cali, y las que ésta haga a favor de los damnificados por la explosión ocurrida en Cali el 7 de agosto de 1956, producirán pleno efecto sin necesidad de la insinuación de que trata el artículo 1458 del Código Civil, cualquiera que sea el valor de tales donaciones.
+##### ***Artículo 2°.*** Derogado.
 
-##### ***Artículo 3°.*** Los certificados y demás documentos que expedían los organismos que cesaron en sus funciones en virtud de lo dispuesto por el artículo 5° del Decreto legislativo número 0170 de 1957, serán expedidos en adelante por la Junta Directiva de la Fundación Ciudad de Cali, y producirán sus mismos efectos.
+##### ***Artículo 3°.*** Derogado.
 
-##### ***Artículo 4°.*** Autorizase al Gobernador del Departamento del Valle para que de acuerdo con lo dispuesto en el artículo 3° del Decreto legislativo número 0170 de 1957 proceda a otorgar, a nombre de la Nación, la escritura de cesión a la Fundación Ciudad de Cali del edificio denominado "Unidad Residencial República de Venezuela", con todas sus construcciones y zonas complementarias, situado en la ciudad de Cali.
+##### ***Artículo 4°.*** Derogado.
 
-***Parágrafo.*** En la escritura de cesión se relacionarán minuciosamente los edificios y demás dependencias que integran la "Unidad Residencial República de Venezuela".
-
-##### ***Artículo 5°*** El presente Decreto rige desde la fecha de su expedición y suspende las disposiciones legales que le sean contrarias.
+##### ***Artículo 5°*** Derogado.
 
 **Comuníquese y publíquese.**
 
