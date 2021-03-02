@@ -4,7 +4,7 @@ identifier: "DECRETO-64-1957"
 country: "co"
 rank: "decreto"
 publication_date: "1957-05-03"
-last_updated: "1957-05-03"
+last_updated: "2021-03-02"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1840497"
 department: "CONGRESO DE LA REPÚBLICA"
@@ -34,17 +34,9 @@ que por Decreto número 3518 de 9 de noviembre de 1949 se declaró turbado el or
 
 **DECRETA:**
 
-##### **Artículo primero**. Hácese la siguiente traslación en el Presupuesto de Gastos para la presente vigencia fiscal:
+##### **Artículo primero**. Derogado.
 
-| PRESIDENCIA DE LA REPUBLICA CAPITULO 004 **Dirección Nacional de Información y Prensa. Televisora Nacional.** | PRESIDENCIA DE LA REPUBLICA CAPITULO 004 **Dirección Nacional de Información y Prensa. Televisora Nacional.** | PRESIDENCIA DE LA REPUBLICA CAPITULO 004 **Dirección Nacional de Información y Prensa. Televisora Nacional.** |
-| --- | --- | --- |
-| 214. Del artículo 0089. Para completar la adquisición de la cadena de equipos de la Televisora Nacional, en el año. | $ | 160.000.00 |
-| Suma el contracrédito | $ | 160.000.00 |
-| CAPITULO 004 **Dirección Nacional de Información y Prensa Televisora Nacional.** |  |  |
-| 003. Al artículo 0088-A. Para el pago de artistas, solistas, grupos, conjuntos, orquestas y demás actuaciones similares presentadas en los estudios de la Televisoro Nacional, y pago de servicios del personal de operación de la misma Televisora, que quedaron pendientes de pago en la vigencia fiscal de 1956 | $ | 160.000.00 |
-| Suma él crédito | $ | 160.000.00 |
-
-##### **Artículo segundo.** El presente Decreto rige desde la fecha de su expedición y suspende todas las disposiciones que le sean contrarias.
+##### **Artículo segundo.** Derogado.
 
 **Comuníquese, publíquese y cúmplase.**
 
