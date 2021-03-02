@@ -4,7 +4,7 @@ identifier: "DECRETO-86-1957"
 country: "co"
 rank: "decreto"
 publication_date: "1957-05-23"
-last_updated: "1957-05-23"
+last_updated: "2021-03-02"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1841097"
 department: "MINISTERIO DE GOBIERNO"
@@ -28,15 +28,11 @@ en uso de la facultad que le confiere el Acto Legislativo número 1 de 1957,
 
 **DECRETA:**
 
-##### **Artículo 1.°** Todos los Diputados de la Asamblea Nacional Constituyente y Legislativa son inamovibles.
+##### **Artículo 1.°** Derogado.
 
-##### **Artículo 2.°** Las faltas absolutas de los Diputados a la Asamblea Nacional Constituyente y Legislativa serán llenadas en la siguiente forma:
+##### **Artículo 2.°** Derogado.
 
-- a) Las de los Diputados designados por el Consejo Nacional de Delegatarios serán llenadas por la Asamblea Nacional Constituyente y Legislativa. Si ésta no estuviere reunida, podrá hacer la designación, en interinidad, el Presidente de la República;
-
-- b) La de los Diputados nombrados por el Presidente de la República serán llenadas por éste.
-
-##### **Artículo 3.°** Este Decreto rige a partir de la fecha de su expedición y modifica las disposiciones que le sean contrarias.
+##### **Artículo 3.°** Derogado.
 
 **Comuníquese y publíquese.**
 
