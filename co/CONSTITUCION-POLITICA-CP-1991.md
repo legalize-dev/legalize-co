@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2020-07-22"
+last_updated: "2021-07-13"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -2596,17 +2596,9 @@ Sobre las rentas departamentales que se causen en Santa Fe de Bogotá, la ley de
 
 La ciudad de Barrancabermeja se organiza como Distrito Especial Portuario, Biodiverso, Industrial y Turístico.
 
-**Artículo 328.** El Distrito Turístico y Cultural de Cartagena de Indias, el Distrito Turístico, Cultural e Histórico de Santa Marta y Barranquilla conservarán su régimen y carácter, y se organiza a Buenaventura y Tumaco como Distrito Especial, Industrial, Portuario, Biodiverso y Ecoturístico.
+La ciudad de Medellín se organiza como Distrito Especial de Ciencia, Tecnología e Innovación.
 
-**Artículo 328.** *El Distrito Turístico y Cultural de Cartagena de Indias, el Distrito Turístico, Cultural e histórico de Santa Marta y Barranquilla conservarán su régimen y carácter, y se organiza a Buenaventura y Tumaco como Distrito Especial, Industrial, Portuario, Biodiverso y Ecoturísmo.*
-
-***Parágrafo.*** *Los Distritos Especiales de Cartagena, Barranquilla y Santa Marta, no recibirán por ninguna circunstancia, menores ingresos por el Sistema General de Participaciones o por cualquier otra causa, que los recibidos el primero de enero de 2007.*
-
-**Artículo 328.** *El Distrito Turístico y Cultural de Cartagena de Indias, el Distrito Turístico, Cultural e histórico de Santa Marta y Barranquilla conservarán su régimen y carácter, y se organiza a Buenaventura y Tumaco como Distrito Especial, Industrial, Portuario, Biodiverso y Ecoturísmo.*
-
-***Parágrafo.*** *Los Distritos Especiales de Cartagena, Barranquilla y Santa Marta, no recibirán por ninguna circunstancia, menores ingresos por el Sistema General de Participaciones o por cualquier otra causa, que los recibidos el primero de enero de 2007.*
-
-**Artículo 328.** El Distrito Turístico y Cultural de Cartagena de Indias y el Distrito Turístico, Cultural e Histórico de Santa Marta conservarán su régimen y carácter.
+**Parágrafo.** Los municipios del Área Metropolitana del Valle de Aburrá que así lo consideren, podrán acceder a los beneficios del Distrito Especial de Ciencia, Tecnología e Innovación de Medellín, de conformidad con la ley que lo reglamente. No obstante, se garantizará la continuidad de las funciones y competencias que residen en el Área Metropolitana del Valle de Aburrá.
 
 ##### **Artículo 329.** La conformación de las entidades territoriales indígenas se hará con sujeción a lo dispuesto en la Ley Orgánica de Ordenamiento Territorial, y su delimitación se hará por el Gobierno Nacional, con participación de los representantes de las comunidades indígenas, previo concepto de la Comisión de Ordenamiento Territorial.
 
