@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2021-07-13"
+last_updated: "2021-07-14"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -2783,6 +2783,268 @@ El Gobierno, en los niveles nacional, departamental, distrital y municipal podr�
 ### **CAPITULO 4**
 
 **DE LA DISTRIBUCION DE RECURSOS Y DE LAS COMPETENCIAS**
+
+##### **Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, fijará los servicios a cargo de la Nación y de los Departamentos, Distritos, y Municipios. Para efecto de atender los servicios a cargo de éstos y a proveer los recursos para financiar adecuadamente su prestación, se crea el Sistema General de Participaciones de los Departamentos, Distritos y Municipios.
+
+Los Distritos tendrán las mismas competencias que los municipios y departamentos para efectos de la distribución del Sistema General de Participaciones que establezca la ley.
+
+Para estos efectos, serán beneficiarias las entidades territoriales indígenas, una vez constituidas. Así mismo, la ley establecerá como beneficiarios a los resguardos indígenas, siempre y cuando estos no se hayan constituido en entidad territorial indígena.
+
+Los recursos del Sistema General de Participaciones de los departamentos, distritos y municipios se destinarán a la financiación de los servicios a su cargo, dándoles prioridad al servicio de salud, los servicios de educación, preescolar, primaria, secundaria y media, y servicios públicos domiciliarios de agua potable y saneamiento básico, garantizando la prestación y la ampliación de coberturas con énfasis en la población pobre.
+
+Teniendo en cuenta los principios de solidaridad, complementariedad y subsidiariedad, la ley señalará los casos en los cuales la Nación podrá concurrir a la financiación de los gastos en los servicios que sean señalados por la ley como de competencia de los departamentos, distritos y municipios.
+
+La ley reglamentará los criterios de distribución del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, de acuerdo con las competencias que le asigne a cada una de estas entidades; y contendrá las disposiciones necesarias para poner en operación el Sistema General de Participaciones de éstas, incorporando principios sobre distribución que tengan en cuenta los siguientes criterios:
+
+- a) Para educación, salud y agua potable y saneamiento básico: población atendida y por atender, reparto entre población urbana y rural, eficiencia administrativa y fiscal, y equidad. En la distribución por entidad territorial de cada uno de los componentes del Sistema General de Participaciones, se dará prioridad a factores que favorezcan a la población pobre, en los términos que establezca la ley.
+
+- b) Para otros sectores: población, reparto entre población y urbana y rural, eficiencia administrativa y fiscal, y pobreza relativa.
+
+No se podrá descentralizar competencias sin la previa asignación de los recursos fiscales suficientes para atenderlas.
+
+Los recursos del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios se distribuirán por sectores que defina la ley.
+
+El monto de recursos que se asigne para los sectores de salud y educación, no podrá ser inferior al que se transfería a la expedición del presente acto legislativo a cada uno de estos sectores.
+
+*Las ciudades de Buenaventura y Tumaco se organizan como Distritos Especiales, Industriales, Portuarios, Biodiversos y Ecoturísticos. Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales, que para el efecto se dicten, y en lo no dispuesto en ellas, las normas vigentes para los municipios.*
+
+El Gobierno Nacional definirá una estrategia de monitoreo, seguimiento y control integral al gasto ejecutado por las entidades territoriales con recursos del Sistema General de Participaciones, para asegurar el cumplimiento del metas de cobertura y calidad. Esta estrategia deberá fortalecer los espacios para la participación ciudadana en el control social y en los procesos de rendición de cuentas.
+
+Para dar aplicación y cumplimiento a lo dispuesto en el inciso anterior, el Gobierno Nacional, en un término no mayor a seis (6) meses contados a partir de la expedición del presente acto legislativo, regulará, entre otros aspectos, lo pertinente para definir los eventos en los cuales está en riesgo la prestación adecuada de los servicios a cargo de las entidades territoriales, las medidas que puede adoptar para evitar tal situación y la determinación efectiva de los correctivos necesarios a que haya lugar.
+
+La ciudad de Barrancabermeja se organiza como Distrito Especial Portuario, Biodiverso, Industrial y Turístico. Su régimen político,fiscal y administrativo será el que determine la Constitución y las leyes especiales que para el efecto se dicten, y en lo no dispuesto en ellas las normas vigentes para los municipios.
+
+La ciudad de Medellín se organiza como Distrito Especial de Ciencia, Tecnología e Innovación. Su régimen político y fiscal será el previsto en la Constitución y las leyes especiales que para el efecto se dicten.
+
+**Parágrafo.** La ciudad de Medellín como Distrito Especial de Ciencia, Tecnología e Innovación y las demás ciudades que se organicen como distritos especiales no estarán obligados a efectuar ajustes administrativos que aumenten sus costos. La ley podrá crear mecanismos adicionales a los existentes que fomenten y promocionen desarrollos en ciencia, tecnología e innovación.
+
+**Parágrafo transitorio.El Gobierno deberá presentar el proyecto de ley que regule la organización y funcionamiento del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, a más tardar el primer mes de sesiones del próximo período legislativo.**
+
+**Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, fijará los servicios a cargo de la Nación y de los Departamentos, Distritos, y Municipios. Para efecto de atender los servicios a cargo de éstos y a proveer los recursos para financiar adecuadamente su prestación, se crea el Sistema General de Participaciones de los Departamentos, Distritos y Municipios.
+
+Los Distritos tendrán las mismas competencias que los municipios y departamentos para efectos de la distribución del Sistema General de Participaciones que establezca la ley.
+
+Para estos efectos, serán beneficiarias las entidades territoriales indígenas, una vez constituidas. Así mismo, la ley establecerá como beneficiarios a los resguardos indígenas, siempre y cuando estos no se hayan constituido en entidad territorial indígena.
+
+Los recursos del Sistema General de Participaciones de los departamentos, distritos y municipios se destinarán a la financiación de los servicios a su cargo, dándoles prioridad al servicio de salud, los servicios de educación, preescolar, primaria, secundaria y media, y servicios públicos domiciliarios de agua potable y saneamiento básico, garantizando la prestación y la ampliación de coberturas con énfasis en la población pobre.
+
+Teniendo en cuenta los principios de solidaridad, complementariedad y subsidiariedad, la ley señalará los casos en los cuales la Nación podrá concurrir a la financiación de los gastos en los servicios que sean señalados por la ley como de competencia de los departamentos, distritos y municipios.
+
+La ley reglamentará los criterios de distribución del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, de acuerdo con las competencias que le asigne a cada una de estas entidades; y contendrá las disposiciones necesarias para poner en operación el Sistema General de Participaciones de éstas, incorporando principios sobre distribución que tengan en cuenta los siguientes criterios:
+
+- a) Para educación, salud y agua potable y saneamiento básico: población atendida y por atender, reparto entre población urbana y rural, eficiencia administrativa y fiscal, y equidad. En la distribución por entidad territorial de cada uno de los componentes del Sistema General de Participaciones, se dará prioridad a factores que favorezcan a la población pobre, en los términos que establezca la ley.
+
+- b) Para otros sectores: población, reparto entre población y urbana y rural, eficiencia administrativa y fiscal, y pobreza relativa.
+
+No se podrá descentralizar competencias sin la previa asignación de los recursos fiscales suficientes para atenderlas.
+
+Los recursos del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios se distribuirán por sectores que defina la ley.
+
+El monto de recursos que se asigne para los sectores de salud y educación, no podrá ser inferior al que se transfería a la expedición del presente acto legislativo a cada uno de estos sectores.
+
+*Las ciudades de Buenaventura y Tumaco se organizan como Distritos Especiales, Industriales, Portuarios, Biodiversos y Ecoturísticos. Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales, que para el efecto se dicten, y en lo no dispuesto en ellas, las normas vigentes para los municipios.*
+
+El Gobierno Nacional definirá una estrategia de monitoreo, seguimiento y control integral al gasto ejecutado por las entidades territoriales con recursos del Sistema General de Participaciones, para asegurar el cumplimiento del metas de cobertura y calidad. Esta estrategia deberá fortalecer los espacios para la participación ciudadana en el control social y en los procesos de rendición de cuentas.
+
+Para dar aplicación y cumplimiento a lo dispuesto en el inciso anterior, el Gobierno Nacional, en un término no mayor a seis (6) meses contados a partir de la expedición del presente acto legislativo, regulará, entre otros aspectos, lo pertinente para definir los eventos en los cuales está en riesgo la prestación adecuada de los servicios a cargo de las entidades territoriales, las medidas que puede adoptar para evitar tal situación y la determinación efectiva de los correctivos necesarios a que haya lugar.
+
+La ciudad de Barrancabermeja se organiza como Distrito Especial Portuario, Biodiverso, Industrial y Turístico. Su régimen político,fiscal y administrativo será el que determine la Constitución y las leyes especiales que para el efecto se dicten, y en lo no dispuesto en ellas las normas vigentes para los municipios.
+
+****Parágrafo transitorio.** El Gobierno deberá presentar el proyecto de ley que regule la organización y funcionamiento del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, a más tardar el primer mes de sesiones del próximo período legislativo.**
+
+**Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, fijará los servicios a cargo de la Nación y de los Departamentos, Distritos, y Municipios. Para efecto de atender los servicios a cargo de éstos y a proveer los recursos para financiar adecuadamente su prestación, se crea el Sistema General de Participaciones de los Departamentos, Distritos y Municipios.
+
+Los Distritos tendrán las mismas competencias que los municipios y departamentos para efectos de la distribución del Sistema General de Participaciones que establezca la ley.
+
+Para estos efectos, serán beneficiarias las entidades territoriales indígenas, una vez constituidas. Así mismo, la ley establecerá como beneficiarios a los resguardos indígenas, siempre y cuando estos no se hayan constituido en entidad territorial indígena.
+
+Los recursos del Sistema General de Participaciones de los departamentos, distritos y municipios se destinarán a la financiación de los servicios a su cargo, dándoles prioridad al servicio de salud, los servicios de educación, preescolar, primaria, secundaria y media, y servicios públicos domiciliarios de agua potable y saneamiento básico, garantizando la prestación y la ampliación de coberturas con énfasis en la población pobre.
+
+Teniendo en cuenta los principios de solidaridad, complementariedad y subsidiariedad, la ley señalará los casos en los cuales la Nación podrá concurrir a la financiación de los gastos en los servicios que sean señalados por la ley como de competencia de los departamentos, distritos y municipios.
+
+La ley reglamentará los criterios de distribución del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, de acuerdo con las competencias que le asigne a cada una de estas entidades; y contendrá las disposiciones necesarias para poner en operación el Sistema General de Participaciones de éstas, incorporando principios sobre distribución que tengan en cuenta los siguientes criterios:
+
+- a) Para educación, salud y agua potable y saneamiento básico: población atendida y por atender, reparto entre población urbana y rural, eficiencia administrativa y fiscal, y equidad. En la distribución por entidad territorial de cada uno de los componentes del Sistema General de Participaciones, se dará prioridad a factores que favorezcan a la población pobre, en los términos que establezca la ley.
+
+- b) Para otros sectores: población, reparto entre población y urbana y rural, eficiencia administrativa y fiscal, y pobreza relativa.
+
+No se podrá descentralizar competencias sin la previa asignación de los recursos fiscales suficientes para atenderlas.
+
+Los recursos del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios se distribuirán por sectores que defina la ley.
+
+El monto de recursos que se asigne para los sectores de salud y educación, no podrá ser inferior al que se transfería a la expedición del presente acto legislativo a cada uno de estos sectores.
+
+*Las ciudades de Buenaventura y Tumaco se organizan como Distritos Especiales, Industriales, Portuarios, Biodiversos y Ecoturísticos. Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales, que para el efecto se dicten, y en lo no dispuesto en ellas, las normas vigentes para los municipios.*
+
+El Gobierno Nacional definirá una estrategia de monitoreo, seguimiento y control integral al gasto ejecutado por las entidades territoriales con recursos del Sistema General de Participaciones, para asegurar el cumplimiento del metas de cobertura y calidad. Esta estrategia deberá fortalecer los espacios para la participación ciudadana en el control social y en los procesos de rendición de cuentas.
+
+Para dar aplicación y cumplimiento a lo dispuesto en el inciso anterior, el Gobierno Nacional, en un término no mayor a seis (6) meses contados a partir de la expedición del presente acto legislativo, regulará, entre otros aspectos, lo pertinente para definir los eventos en los cuales está en riesgo la prestación adecuada de los servicios a cargo de las entidades territoriales, las medidas que puede adoptar para evitar tal situación y la determinación efectiva de los correctivos necesarios a que haya lugar.
+
+****Parágrafo transitorio.**El Gobierno deberá presentar el proyecto de ley que regule la organización y funcionamiento del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, a más tardar el primer mes de sesiones del próximo período legislativo.**
+
+**Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, fijará los servicios a cargo de la Nación y de los Departamentos, Distritos, y Municipios. Para efecto de atender los servicios a cargo de éstos y a proveer los recursos para financiar adecuadamente su prestación, se crea el Sistema General de Participaciones de los Departamentos, Distritos y Municipios.
+
+Los Distritos tendrán las mismas competencias que los municipios y departamentos para efectos de la distribución del Sistema General de Participaciones que establezca la ley.
+
+Para estos efectos, serán beneficiarias las entidades territoriales indígenas, una vez constituidas. Así mismo, la ley establecerá como beneficiarios a los resguardos indígenas, siempre y cuando estos no se hayan constituido en entidad territorial indígena.
+
+Los recursos del Sistema General de Participaciones de los departamentos, distritos y municipios se destinarán a la financiación de los servicios a su cargo, dándoles prioridad al servicio de salud, los servicios de educación, preescolar, primaria, secundaria y media, y servicios públicos domiciliarios de agua potable y saneamiento básico, garantizando la prestación y la ampliación de coberturas con énfasis en la población pobre.
+
+Teniendo en cuenta los principios de solidaridad, complementariedad y subsidiariedad, la ley señalará los casos en los cuales la Nación podrá concurrir a la financiación de los gastos en los servicios que sean señalados por la ley como de competencia de los departamentos, distritos y municipios.
+
+La ley reglamentará los criterios de distribución del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, de acuerdo con las competencias que le asigne a cada una de estas entidades; y contendrá las disposiciones necesarias para poner en operación el Sistema General de Participaciones de éstas, incorporando principios sobre distribución que tengan en cuenta los siguientes criterios:
+
+- a) Para educación, salud y agua potable y saneamiento básico: población atendida y por atender, reparto entre población urbana y rural, eficiencia administrativa y fiscal, y equidad. En la distribución por entidad territorial de cada uno de los componentes del Sistema General de Participaciones, se dará prioridad a factores que favorezcan a la población pobre, en los términos que establezca la ley.
+
+- b) Para otros sectores: población, reparto entre población y urbana y rural, eficiencia administrativa y fiscal, y pobreza relativa.
+
+No se podrá descentralizar competencias sin la previa asignación de los recursos fiscales suficientes para atenderlas.
+
+Los recursos del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios se distribuirán por sectores que defina la ley.
+
+El monto de recursos que se asigne para los sectores de salud y educación, no podrá ser inferior al que se transfería a la expedición del presente acto legislativo a cada uno de estos sectores.
+
+*Las ciudad de Buenaventura y Tumaco se organiza como Distrito Especiale, Industrial, Portuario, Biodiverso y Ecoturístico. Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales, que para el efecto se dicten, y en lo no dispuesto en ellas, las normas vigentes para los municipios.*
+
+*La ciudad de Popayán se organiza como Distrito Especial Ecoturístico, Histórico y Universitario. Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales que para el efecto se dicten y en lo no dispuesto en ellas las normas vigentes para los municipios*
+
+*La Ciudad de Tunja, capital del departamento de Boyacá, se organizará como Distrito Histórico y Cultural, con un régimen Fiscal y Administrativo propio determinado por la Constitución y por las leyes especiales que para el efecto se expidan.*
+
+*El municipio portuario de Turbo (Antioquia) también se constituirá en Distrito Especial.*
+
+*El municipio de Cúcuta se constituirá como Distrito Especial Fronterizo y Turístico.*
+
+El Gobierno Nacional definirá una estrategia de monitoreo, seguimiento y control integral al gasto ejecutado por las entidades territoriales con recursos del Sistema General de Participaciones, para asegurar el cumplimiento del metas de cobertura y calidad. Esta estrategia deberá fortalecer los espacios para la participación ciudadana en el control social y en los procesos de rendición de cuentas.
+
+Para dar aplicación y cumplimiento a lo dispuesto en el inciso anterior, el Gobierno Nacional, en un término no mayor a seis (6) meses contados a partir de la expedición del presente acto legislativo, regulará, entre otros aspectos, lo pertinente para definir los eventos en los cuales está en riesgo la prestación adecuada de los servicios a cargo de las entidades territoriales, las medidas que puede adoptar para evitar tal situación y la determinación efectiva de los correctivos necesarios a que haya lugar.
+
+****Parágrafo transitorio.** El Gobierno deberá presentar el proyecto de ley que regule la organización y funcionamiento del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, a más tardar el primer mes de sesiones del próximo período legislativo.**
+
+**Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, fijará los servicios a cargo de la Nación y de los Departamentos, Distritos, y Municipios. Para efecto de atender los servicios a cargo de éstos y a proveer los recursos para financiar adecuadamente su prestación, se crea el Sistema General de Participaciones de los Departamentos, Distritos y Municipios.
+
+Los Distritos tendrán las mismas competencias que los municipios y departamentos para efectos de la distribución del Sistema General de Participaciones que establezca la ley.
+
+Para estos efectos, serán beneficiarias las entidades territoriales indígenas, una vez constituidas. Así mismo, la ley establecerá como beneficiarios a los resguardos indígenas, siempre y cuando estos no se hayan constituido en entidad territorial indígena.
+
+Los recursos del Sistema General de Participaciones de los departamentos, distritos y municipios se destinarán a la financiación de los servicios a su cargo, dándoles prioridad al servicio de salud, los servicios de educación, preescolar, primaria, secundaria y media, y servicios públicos domiciliarios de agua potable y saneamiento básico, garantizando la prestación y la ampliación de coberturas con énfasis en la población pobre.
+
+Teniendo en cuenta los principios de solidaridad, complementariedad y subsidiariedad, la ley señalará los casos en los cuales la Nación podrá concurrir a la financiación de los gastos en los servicios que sean señalados por la ley como de competencia de los departamentos, distritos y municipios.
+
+La ley reglamentará los criterios de distribución del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, de acuerdo con las competencias que le asigne a cada una de estas entidades; y contendrá las disposiciones necesarias para poner en operación el Sistema General de Participaciones de éstas, incorporando principios sobre distribución que tengan en cuenta los siguientes criterios:
+
+- a) Para educación, salud y agua potable y saneamiento básico: población atendida y por atender, reparto entre población urbana y rural, eficiencia administrativa y fiscal, y equidad. En la distribución por entidad territorial de cada uno de los componentes del Sistema General de Participaciones, se dará prioridad a factores que favorezcan a la población pobre, en los términos que establezca la ley.
+
+- b) Para otros sectores: población, reparto entre población y urbana y rural, eficiencia administrativa y fiscal, y pobreza relativa.
+
+No se podrá descentralizar competencias sin la previa asignación de los recursos fiscales suficientes para atenderlas.
+
+Los recursos del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios se distribuirán por sectores que defina la ley.
+
+El monto de recursos que se asigne para los sectores de salud y educación, no podrá ser inferior al que se transfería a la expedición del presente acto legislativo a cada uno de estos sectores.
+
+Las ciudades de Buenaventura y Tumaco se organizan como Distritos Especiales, Industriales, Portuarios, Biodiversos y Ecoturísticos Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales, que para el efecto se dicten, y en lo no dispuesto en ellas, las normas vigentes para los municipios.
+
+La ciudad de Popayán se organiza como Distrito Especial Ecoturístico, Histórico y Universitario. Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales que para el efecto se dicten y en lo no dispuesto en ellas las normas vigentes para los municipios
+
+La Ciudad de Tunja, capital del departamento de Boyacá, se organizará como Distrito Histórico y Cultural, con un régimen Fiscal y Administrativo propio determinado por la Constitución y por las leyes especiales que para el efecto se expidan.
+
+El municipio portuario de Turbo (Antioquia) también se constituirá en Distrito Especial.
+
+El municipio de Cúcuta se constituirá como Distrito Especial Fronterizo y Turístico.
+
+El Gobierno Nacional definirá una estrategia de monitoreo, seguimiento y control integral al gasto ejecutado por las entidades territoriales con recursos del Sistema General de Participaciones, para asegurar el cumplimiento del metas de cobertura y calidad. Esta estrategia deberá fortalecer los espacios para la participación ciudadana en el control social y en los procesos de rendición de cuentas.
+
+Para dar aplicación y cumplimiento a lo dispuesto en el inciso anterior, el Gobierno Nacional, en un término no mayor a seis (6) meses contados a partir de la expedición del presente acto legislativo, regulará, entre otros aspectos, lo pertinente para definir los eventos en los cuales está en riesgo la prestación adecuada de los servicios a cargo de las entidades territoriales, las medidas que puede adoptar para evitar tal situación y la determinación efectiva de los correctivos necesarios a que haya lugar.
+
+**Parágrafo transitorio.** El Gobierno deberá presentar el proyecto de ley que regule la organización y funcionamiento del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, a más tardar el primer mes de sesiones del próximo período legislativo.
+
+**Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, fijará los servicios a cargo de la Nación y de los Departamentos, Distritos, y Municipios. Para efecto de atender los servicios a cargo de éstos y a proveer los recursos para financiar adecuadamente su prestación, se crea el Sistema General de Participaciones de los Departamentos, Distritos y Municipios.
+
+Los Distritos tendrán las mismas competencias que los municipios y departamentos para efectos de la distribución del Sistema General de Participaciones que establezca la ley.
+
+Para estos efectos, serán beneficiarias las entidades territoriales indígenas, una vez constituidas. Así mismo, la ley establecerá como beneficiarios a los resguardos indígenas, siempre y cuando estos no se hayan constituido en entidad territorial indígena.
+
+Los recursos del Sistema General de Participaciones de los departamentos, distritos y municipios se destinarán a la financiación de los servicios a su cargo, dándole prioridad al servicio de salud y los servicios de educación preescolar, primaria, secundaria y media, garantizando la prestación de los servicios y la ampliación de cobertura.
+
+Teniendo en cuenta los principios de solidaridad, complementariedad y subsidiariedad, la ley señalará los casos en los cuales la Nación podrá concurrir a la financiación de los gastos en los servicios que sean señalados por la ley como de competencia de los departamentos, distritos y municipios.
+
+La ley reglamentará los criterios de distribución del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, de acuerdo con las competencias que le asigne a cada una de estas entidades; y contendrá las disposiciones necesarias para poner en operación el Sistema General de Participaciones de éstas, incorporando principios sobre distribución que tengan en cuenta los siguientes criterios:
+
+- a) Para educación y salud: población atendida y por atender, reparto entre población urbana y rural, eficiencia administrativa y fiscal, y equidad;
+
+- b) Para otros sectores: población, reparto entre población y urbana y rural, eficiencia administrativa y fiscal, y pobreza relativa.
+
+No se podrá descentralizar competencias sin la previa asignación de los recursos fiscales suficientes para atenderlas.
+
+Los recursos del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios se distribuirán por sectores que defina la ley.
+
+El monto de recursos que se asigne para los sectores de salud y educación, no podrá ser inferior al que se transfería a la expedición del presente acto legislativo a cada uno de estos sectores.
+
+Las ciudades de Buenaventura y Tumaco se organizan como Distritos Especiales, Industriales, Portuarios, Biodiversos y Ecoturísticos Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales, que para el efecto se dicten, y en lo no dispuesto en ellas, las normas vigentes para los municipios.
+
+La ciudad de Popayán se organiza como Distrito Especial Ecoturístico, Histórico y Universitario. Su régimen político, fiscal y administrativo será el que determine la Constitución y las leyes especiales que para el efecto se dicten y en lo no dispuesto en ellas las normas vigentes para los municipios
+
+La Ciudad de Tunja, capital del departamento de Boyacá, se organizará como Distrito Histórico y Cultural, con un régimen Fiscal y Administrativo propio determinado por la Constitución y por las leyes especiales que para el efecto se expidan.
+
+El municipio portuario de Turbo (Antioquia) también se constituirá en Distrito Especial.
+
+El municipio de Cúcuta se constituirá como Distrito Especial Fronterizo y Turístico.
+
+**Parágrafo transitorio.** El Gobierno deberá presentar el proyecto de ley que regule la organización y funcionamiento del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, a más tardar el primer mes de sesiones del próximo período legislativo.
+
+**Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, fijará los servicios a cargo de la Nación y de los Departamentos, Distritos, y Municipios. Para efecto de atender los servicios a cargo de éstos y a proveer los recursos para financiar adecuadamente su prestación, se crea el Sistema General de Participaciones de los Departamentos, Distritos y Municipios.
+
+Los Distritos tendrán las mismas competencias que los municipios y departamentos para efectos de la distribución del Sistema General de Participaciones que establezca la ley.
+
+Para estos efectos, serán beneficiarias las entidades territoriales indígenas, una vez constituidas. Así mismo, la ley establecerá como beneficiarios a los resguardos indígenas, siempre y cuando estos no se hayan constituido en entidad territorial indígena.
+
+Los recursos del Sistema General de Participaciones de los departamentos, distritos y municipios se destinarán a la financiación de los servicios a su cargo, dándole prioridad al servicio de salud y los servicios de educación preescolar, primaria, secundaria y media, garantizando la prestación de los servicios y la ampliación de cobertura.
+
+Teniendo en cuenta los principios de solidaridad, complementariedad y subsidiariedad, la ley señalará los casos en los cuales la Nación podrá concurrir a la financiación de los gastos en los servicios que sean señalados por la ley como de competencia de los departamentos, distritos y municipios.
+
+La ley reglamentará los criterios de distribución del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, de acuerdo con las competencias que le asigne a cada una de estas entidades; y contendrá las disposiciones necesarias para poner en operación el Sistema General de Participaciones de éstas, incorporando principios sobre distribución que tengan en cuenta los siguientes criterios:
+
+- a) Para educación y salud: población atendida y por atender, reparto entre población urbana y rural, eficiencia administrativa y fiscal, y equidad;
+
+- b) Para otros sectores: población, reparto entre población y urbana y rural, eficiencia administrativa y fiscal, y pobreza relativa.
+
+No se podrá descentralizar competencias sin la previa asignación de los recursos fiscales suficientes para atenderlas.
+
+Los recursos del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios se distribuirán por sectores que defina la ley.
+
+El monto de recursos que se asigne para los sectores de salud y educación, no podrá ser inferior al que se transfería a la expedición del presente acto legislativo a cada uno de estos sectores.
+
+**Parágrafo transitorio.** El Gobierno deberá presentar el proyecto de ley que regule la organización y funcionamiento del Sistema General de Participaciones de los Departamentos, Distritos, y Municipios, a más tardar el primer mes de sesiones del próximo período legislativo.
+
+**Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, fijará los servicios a cargo de la Nación y de las entidades territoriales.
+
+Determinará, así mismo, el situado fiscal, esto es, el porcentaje de los ingresos corrientes de la Nación que será cedido a los departamentos, el Distrito Capital y los Distritos Especiales de Cartagena, Santa Marta y Barranquilla, para la atención directa, o a través de los municipios, de los servicios que se les asignen.
+
+Los recursos del situado fiscal se destinarán a financiar la educación preescolar, primaria, secundaria y media, y la salud, en los niveles que la ley señale, con especial atención a los niños.
+
+El situado fiscal aumentará anualmente hasta llegar a un porcentaje de los ingresos corrientes de la Nación que permita atender adecuadamente los servicios para los cuales está destinado. Con este fin, se incorporarán a él la retención del impuesto a las ventas y todos los demás recursos que la Nación transfiere directamente para cubrir gastos en los citados niveles de educación.
+
+La ley fijará los plazos para la cesión de estos ingresos y el traslado de las correspondientes obligaciones, establecerá las condiciones en que cada departamento asumirá la atención de los mencionados servicios y podrá autorizar a los municipios para prestarlos directamente en forma individual o asociada. No se podrán descentralizar responsabilidades sin la previa asignación de los recursos fiscales suficientes para atenderlas.
+
+Un quince por ciento del situado fiscal se distribuirá por partes iguales entre los departamentos, el Distrito Capital y los Distritos de Cartagena, Santa Marta y Barranquilla.
+
+El resto se asignará en proporción al número de usuarios actuales y potenciales de los servicios mencionados, teniendo en cuenta, además, el esfuerzo fiscal ponderado y la eficiencia administrativa de la respectiva entidad territorial.
+
+Cada cinco años la ley, a iniciativa de los miembros del Congreso, podrá revisar estos porcentajes de distribución.
+
+**Artículo 356.** Salvo lo dispuesto por la Constitución, la ley, a iniciativa del gobierno, fijará los servicios a cargo de la nación y de las entidades territoriales.
+
+Determinará, así mismo, el situado fiscal, esto es, el porcentaje de los ingresos corrientes de la nación que será cedido a los departamentos, el distrito capital y los distritos especiales de Cartagena, Santa Marta y Barranquilla, para la atención directa, o a través de los municipios, de los servicios que se le asignen.
+
+Los recursos del situado fiscal se destinarán a financiar la educación preescolar, primaria, secundaria y media, y la salud, en los niveles que la ley señale, con especial atención a los niños.
+
+El situado fiscal aumentará anualmente hasta llegar a un porcentaje de los ingresos corrientes de la nación que permita atender adecuadamente los servicios para los cuales está destinado. Con este fin, se incorporarán en él la retención del impuesto a las ventas y todos los demás recursos que la nación transfiere directamente para cubrir gastos en los citados niveles de educación.
+
+La ley fijará los plazos para la cesión de estos ingresos y el traslado de las correspondientes obligaciones, establecerá las condiciones en que cada departamento asumirá la atención de los mencionados servicios y podrá autorizar a los municipios para prestarlos directamente en forma individual o asociada. No se podrán descentralizar responsabilidades sin la previa asignación de los recursos fiscales suficientes para atenderlas.
+
+Un quince por ciento del situado fiscal se distribuirá por partes iguales entre los departamentos, el distrito capital y los Distritos de Cartagena, Santa Marta y Barranquilla. El resto se asignará en proporción al número de usuarios actuales y potenciales de los servicios mencionados, teniendo en cuenta, además, el esfuerzo fiscal ponderado y la eficiencia administrativa de la respectiva entidad territorial.
+
+Cada cinco años la ley, a iniciativa de los miembros del Congreso, podrá revisar estos porcentajes de distribución.
 
 ##### **Artículo 357.** El Sistema General de Participaciones de los Departamentos, Distritos y Municipios se incrementará anualmente en un porcentaje igual al promedio de la variación porcentual que hayan tenido los ingresos corrientes de la Nación durante los cuatro (4) años anteriores, incluido el correspondiente al aforo del presupuesto en ejecución.
 
