@@ -4,7 +4,7 @@ identifier: "DECRETO-19-2012"
 country: "co"
 rank: "decreto"
 publication_date: "2012-01-10"
-last_updated: "2019-11-22"
+last_updated: "2021-08-03"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1004430"
 department: "MINISTERIO DE JUSTICIA Y DEL DERECHO"
@@ -96,13 +96,15 @@ Que mediante el parágrafo 1 del artículo 75 de la Ley 1474 de 2011, el Congres
 
 ##### **ARTÍCULO 21. PROHIBICIÓN DE EXIGENCIA DE PRESENTACIONES PERSONALES O CERTIFICADOS PARA PROBAR LA FE DE VIDA (SUPERVIVENCIA).**
 
-##### **Artículo 22.** Acreditación de la fe de vida (supervivencia) de connacionales fuera del país. En todos los casos, la fe de vida (supervivencia) de los connacionales fuera del país, se probará ante las entidades que forman parte del Sistema General de Seguridad Social Integral cada seis (6) meses mediante una de las siguientes opciones:
+##### **Artículo 22.Acreditación de la fe de vida (supervivencia) de connacionales fuera del país**. En todos los casos, la fe de vida (supervivencia) de los connacionales fuera del país, se probará ante las entidades qué forman parte del Sistema General de Seguridad Social Integral cada seis (6) meses mediante una de las siguientes opciones;
 
-- 1. Ante el consulado de la circunscripción donde se encuentra el connacional. El cónsul, con fundamento en los medios que a su criterio le permitan tener certeza del estado vital del solicitante, expedirá el correspondiente certificado de super¬vivencia y lo enviará a la respectiva entidad de seguridad social a través del canal que para tal fin se tenga establecido.
+- 1. Ante el Consulado de la circunscripción donde se encuentra el connacional. El Cónsul, con fundamento en los medios que a su criterio le permitan tener certeza del estado vital del solicitan­te, expedirá el correspondiente certificado de supervivencia y lo enviará a la respectiva entidad de seguridad social a través del canal qué pará tal fin se tenga establecido.
 
-- 2. Mediante documento expedido por parte de la autoridad pública del lugar sede donde se encuentre el connacional en el que se evidencie la supervivencia. Esta constancia deberá ser apostillada o legalizada, según el caso, y remitida por el interesado a la dirección y dependencia que para tal fin determine la respectiva entidad de seguridad social.
+- 2. Mediante documento expedido por parte de la autoridad pública del lugar sede donde se encuentre el connacional en el que se evidencie la supervivencia. Esta constancia deberá ser apostilla­da o legalizada, según el caso, y remitida por el interesado a la dirección y dependencia que para tal fin determine la respectiva entidad de seguridad social.
 
-**ARTÍCULO 22. ACREDITACIÓN DE LA FE DE VIDA (SUPERVIVIENCIA) DE CONNACIONALES FUERA DEL PAÍS.** En todos los casos, la fe de vida (supervivencia) de los connacionales fuera del país, se probará ante las entidades que forman parte del Sistema General de Seguridad Social Integral, cada seis (6) meses.
+**Parágrafo.** Los Consulados de Colombia en el exterior y los Fondos de Pensiones de Colombia, podrán realizar la validación no presencial de supervivencia y/o fe de vida de los pensionados residentes fuera del país, a través de la validación de información personal e historia pensional de la persona.
+
+**Parágrafo Transitorio**. El Ministerio del Trabajo establecerá un mecanismo no presencial de validación de supervivencia o acreditación de fe de vida para las entidades que conforman el Sistema General de Seguridad Social Integral, implementado y desarrollado a través de los Consulados de Colombia en el Exterior y los Fondos de Pensiones, quienes certificarán la supervivencia del connacional fuera del país.
 
 ##### **Artículo 23.** Administración de la base de datos del registro civil de defunción. La Registraduría Nacional del Estado Civil administrará la base de datos del Registro Civil de Defunción, la cual se actualizará con la información del Registro Único de Afiliados a la Protección Social - Nacimientos y Defunciones (RUAF-ND), administrado por el Ministerio de Salud y Protección Social y con la que remitan las notarías, los consulados, los registradores del estado civil y las demás autoridades encargadas de llevar el registro civil.
 
@@ -210,9 +212,21 @@ Las autoridades encargadas de reglamentar trámites creados o autorizados por la
 
 ##### **ARTICULO 54. INFORMACION SOBRE CONDICIÓN MIGRATORIA.** Cualquier ciudadano Nacional o Extranjero que requiera información sobre su condición migratoria en Colombia, podrá solicitarla a través de la Página Web de la Unidad Administrativa Especial Migración Colombia. La plataforma tecnológica que se establezca deberá tener los protocolos de seguridad conforme a la Ley que rige esta materia, teniendo en cuenta la reserva de información y el derecho a la intimidad de cada ciudadano.
 
-##### **ARTÍCULO 55. PERMISOS DE INGRESO Y PERMANENCIA.** La Unidad Administrativa Especial Migración Colombia, otorgará permisos de ingreso y permanencia a los visitantes extranjeros a los cuales no se les exija visa para su entrada al país por noventa (90) días calendario. De este permiso sólo podrán ser eximidos los extranjeros que ingresen al país en modalidad técnica, para lo cual se les otorgaran treinta (30) días calendario, previo cumplimiento de los requisitos establecidos; término durante el cual tendrán que realizar la actividad prevista y si esta conlleva un tiempo adicional deberán realizar el trámite de visa de asistencia técnica ante el Ministerio de Relaciones Exteriores.
+##### **ARTÍCULO 55. Permisos de ingreso y permanencia.** Con fundamento en el acto administrativo que expide el Ministerio de Relaciones Exteriores señalando los países exentos de visado, la Unidad Administrativa Especial Migración Colombia podrá otorgar permisos de ingreso y permanencia a los visitantes extranjeros a los cuales no se les exija visa para su entrada al país hasta por noventa (90) días calendario.
 
-##### **ARTICULO 56. PERMISO TEMPORAL DE PERMANENCIA.** Créase el permiso temporal de permanencia, que será expedido por la Unidad Administrativa Especial Migración Colombia, el cual estará fundamentado en dos condiciones: i) para los extranjeros que ingresan al país como visitantes y ii) para los extranjeros que deben aclarar al interior del territorio colombiano alguna situación administrativa y judicial.
+De este permiso solo podrán ser eximidos los extranjeros que ingresen al país en modalidad técnica.
+
+A los extranjeros que ingresen para prestar asistencia técnica, se les otorgará un permiso por treinta (30) días calendario, previo cumplimiento de los requisitos establecidos; término durante el cual tendrán que realizar la actividad prevista.
+
+Si la actividad requiere tiempo adicional deberán realizar el trámite de visa de asistencia técnica ante el Ministerio de Relaciones Exteriores.
+
+En virtud del principio de reciprocidad, la Unidad Administrativa Especial Migración Colombia en su calidad de autoridad de control migratorio, podrá reservarse el derecho de otorgar un permiso de ingreso y permanencia por un término menor de los noventa (90) días calendario, en atención a las actividades a realizar y al perfil migratorio que presente el ciudadano extranjero, sin perjuicio de lo establecido por acuerdos internacionales en materia de exención de visados suscritos por el Estado colombiano.
+
+##### **ARTICULO 56. Permiso temporal de permanencia.** Créase el permiso temporal de permanencia, que será expedido por la Unidad Administrativa Especial Migración Colombia, el cual estará fundamentado en el acto administrativo que expide el Ministerio de Relaciones Exteriores señalando los países exentos de visa y contemplando dos situaciones: i) para los extranjeros que ingresan al país como visitantes y ii) para los extranjeros que deben aclarar al interior del territorio colombiano alguna situación administrativa y judicial. La presencia en el territorio nacional de un extranjero siempre deberá contar previamente con la autorización de entrada y permanencia expedida por el Ministerio de Relaciones Exteriores u obedecerá a que su nacionalidad se encuentra incluida en el acto administrativo sobre exención de visas. En los casos señalados en la presente norma en los que no fuere así, procederá la expedición del Permiso Temporal de Permanencia, pero en ningún caso tal permiso podrá entenderse, asimilarse o equipararse a la expedición de una visa.
+
+En los casos anteriormente señalados se otorgará un plazo legal de permanencia en el país hasta por noventa (90) días calendario, el cual solo podrá prorrogarse para la segunda condición del presente artículo de conformidad con las normas establecidas
+
+En virtud del principio de reciprocidad la autoridad de control migratorio podrá reservarse el derecho de otorgar un permiso de ingreso y permanencia por un término menor de los noventa (90) días calendario, sin perjuicio de lo establecido por acuerdos internacionales en materia de exención de visado suscritos por el Estado colombiano.
 
 **CAPITULOIV**
 
