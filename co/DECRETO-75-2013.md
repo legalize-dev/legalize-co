@@ -4,7 +4,7 @@ identifier: "DECRETO-75-2013"
 country: "co"
 rank: "decreto"
 publication_date: "2013-01-23"
-last_updated: "2013-01-23"
+last_updated: "2021-11-10"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1016628"
 department: "MINISTERIO DE VIVIENDA, CIUDAD Y TERRITORIO"
@@ -273,7 +273,7 @@ En caso que no esté definido el portafolio de los proyectos VIS o VIP, la compr
 
 ##### **Artículo 16.** *Licencias de urbanización por etapas.* En los proyectos de urbanización por etapas se deberá garantizar para cada una de ellas el cumplimiento autónomo de los porcentajes de VIS o VIP según el tratamiento a que esté sometido el respectivo predio. En caso que el cumplimiento del porcentaje de VIS o VIP se proponga en una sola etapa y cubra las exigencias de las demás, dicho suelo deberá hacer parte de la licencia de urbanización de la primera etapa.
 
-##### **Artículo 17.***Licencias de construcción*. La exigencia del cumplimiento de suelo para VIS y/o VIP no serán exigibles en trámites de licencias de construcción en ninguna de sus modalidades.
+##### **Artículo 17.** Se declara la nulidad de este artìculo.
 
 ##### **Artículo 18.** *Régimen de transición*. Las disposiciones contenidas en el presente decreto se aplicarán teniendo en cuenta el siguiente régimen de transición:
 
