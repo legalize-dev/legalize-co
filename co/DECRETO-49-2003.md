@@ -4,7 +4,7 @@ identifier: "DECRETO-49-2003"
 country: "co"
 rank: "decreto"
 publication_date: "2003-01-14"
-last_updated: "2021-12-30"
+last_updated: "2022-01-24"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1010726"
 department: "MINISTERIO DE DEFENSA NACIONAL"
@@ -85,149 +85,59 @@ El Presidente de la República de Colombia, en ejercicio de sus atribuciones con
 
 6.4 Fuerza Aérea
 
-- **7. Dirección General de la Policía Nacional**
+- **7. Dirección General de la Policía Nacional de Colombia.**
 
-7.1 Subdirección General
+- 7.1. Subdirección General.
 
-7.1.1 Dirección Operativa
+7.1.1. Jefatura Nacional de Desarrollo Humano.
 
-7.1.2 Dirección Central de la Policía Judicial
+7.1.1.1. Dirección de Incorporación.
 
-7.1.3 Dirección Central de Inteligencia
+7.1.1.2. Dirección de Talento Humano.
 
-7.1.4 Dirección Antinarcóticos
+7.1.1.3. Dirección de Educación Policial.
 
-7.1.5 Dirección de Servicios Especializados
+7.1.1.4. Dirección de Bienestar Social y Familia.
 
-7.1.6 Dirección Antisecuestro y Extorsión
+7.1.1.5. Dirección de Sanidad.
 
-7.1.7 Dirección Escuela Nacional de Policía "General Santander"
+7.1.2. Jefatura Nacional de Servicio de Policía.
 
-7.1.8 Dirección de Recursos Humanos
+7.1.2.1. Dirección de Investigación Criminal e Interpol.
 
-7.1.9 Dirección Administrativa y Financiera
+7.1.2.2. Dirección de Inteligencia Policial.
 
-7.1.10 Dirección de Sanidad
+7.1.2.3. Dirección de Carabineros y Protección Ambiental.
 
-7.1.11 Dirección de Bienestar Social
+7.1.2.4. Dirección de Antinarcóticos.
 
-7.2 Inspección General
+7.1.2.5. Dirección de Tránsito y Transporte.
 
-7.3 Secretaría General
+7.1.2.6. Dirección de Protección y Servicios Especiales.
 
-- 7.4. Oficina de Gestión Institucional
+7.1.2.7. Dirección de Antisecuestro y Antiextorsión.
 
-- 7.5. Oficina de Telemática
+7.1.3. Jefatura Nacional de Administración de Recursos.
 
-- **8. Organos de Asesoría y Coordinación**
+7.1.3.1. Dirección Logística y Financiera.
 
-8.1 Consejo Superior de Defensa y Seguridad Nacional
+7.1.3.2. Dirección de Infraestructura.
 
-8.2 Juntas Asesoras de las Fuerzas Militares y de la Policía Nacional
+- 7.2. Inspección General y Responsabilidad Profesional.
 
-8.3 Consejo Asesor de la Justicia Penal Militar
+- 7.3. Comisionado de Derechos Humanos para la Policía Nacional.
 
-8.4 Consejo Nacional de Lucha Contra el Secuestro y demás Atentados contra la Libertad Personal, Conase
+- 7.4. Secretaría General.
 
-8.5 Consejo de Salud Superior de las Fuerzas Militares y la Policía Nacional
+- 7.5. Oficina de Planeación.
 
-8.6 Comité Sectorial de Desarrollo Administrativo
+- 7.6. Oficina de Tecnologías de la Información y las Comunicaciones.
 
-8.7 Comité de Coordinación del Sistema de Control Interno
+- 7.7. Oficina de Relaciones y Cooperación Internacional.
 
-8.8 Comisión de Personal
+- 7.8. Oficina de Comunicaciones Estratégicas.
 
-- 9. Dirección Ejecutiva del Grupo Social Empresarial del Sector Defensa
-
-**Artículo 1º**. La estructura del Ministerio de Defensa Nacional será la siguiente:
-
-- **1. Despacho del Ministro**
-
-1.1 Oficina Comisionado Nacional para la Policía Nacional
-
-1.1.1 Dirección de Quejas y Denuncias
-
-1.1.2 Dirección de Control y Vigilancia
-
-1.1.3 Dirección de Evaluación y Prevención
-
-- **2. Despacho del Viceministro de Asuntos Políticos y Temática Internacional**
-
-2.1 Dirección de Derechos Humanos, Derecho Internacional Humanitario, DIH, y Asuntos Internacionales.
-
-2.2 Dirección de Comunicación Corporativa.
-
-- **3. Despacho del Viceministro de Gestión Institucional**
-
-3.1 Dirección de Finanzas
-
-3.2 Oficina de Control Interno
-
-3.3 Oficina Asesora de Planeación
-
-- **4. Secretaría General**
-
-4.1 Obispado Castrense
-
-4.2 Dirección Administrativa
-
-4.3 Oficina de Control Disciplinario Interno
-
-4.4 Oficina de Informática
-
-4.5 Oficina Asesora de Jurídica
-
-- **5. Dirección Ejecutiva de la Justicia Penal Militar**
-
-- **6. Fuerzas Militares**
-
-6.1 Comando General
-
-6.1.1 Dirección General de Sanidad Militar
-
-6.1.2 Federación Colombiana Deportiva Militar
-
-6.2 Ejército
-
-6.3 Armada Nacional
-
-6.3.1 Dirección General Marítima, Dimar
-
-6.4 Fuerza Aérea
-
-- **7. Dirección General de la Policía Nacional**
-
-7.1 Subdirección General
-
-7.1.1 Dirección Operativa
-
-7.1.2 Dirección Central de la Policía Judicial
-
-7.1.3 Dirección Central de Inteligencia
-
-7.1.4 Dirección Antinarcóticos
-
-7.1.5 Dirección de Servicios Especializados
-
-7.1.6 Dirección Antisecuestro y Extorsión
-
-7.1.7 Dirección Escuela Nacional de Policía "General Santander"
-
-7.1.8 Dirección de Recursos Humanos
-
-7.1.9 Dirección Administrativa y Financiera
-
-7.1.10 Dirección de Sanidad
-
-7.1.11 Dirección de Bienestar Social
-
-7.2 Inspección General
-
-7.3 Secretaría General
-
-- 7.4. Oficina de Gestión Institucional
-
-- 7.5. Oficina de Telemática
+- 7.9. Oficina de Control Interno.
 
 - **8. Organos de Asesoría y Coordinación**
 
