@@ -4,7 +4,7 @@ identifier: "DECRETO-16-2014"
 country: "co"
 rank: "decreto"
 publication_date: "2014-09-01"
-last_updated: "2017-05-29"
+last_updated: "2022-01-24"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1003812"
 department: "DEPARTAMENTO ADMINISTRATIVO DE LA FUNCION PUBLICA"
@@ -95,7 +95,7 @@ Que en el presente decreto ley se modifica y define la estructura orgánica y fu
 
 2.2.3. Dirección Especializada de Investigaciones Financieras.
 
-- 2.3. Delegada para la Seguridad Ciudadana.
+- 2.3. Delegada para la Seguridad Territorial.
 
 2.3.1. Dirección de Atención al Usuario, Intervención Temprana y Asignaciones.
 
@@ -136,112 +136,6 @@ Que en el presente decreto ley se modifica y define la estructura orgánica y fu
 **PARÁGRAFO**. El Fiscal General de la Nación podrá organizar, de acuerdo con las necesidades del servicio, el funcionamiento de las direcciones seccionales y determinar las secciones de fiscalías y seguridad ciudadana, secciones de policía judicial y secciones de atención al usuario, que se requieran para fortalecer la gestión investigativa y mejorar la prestación del servicio.
 
 El Fiscal General de la Nación, mediante resolución, determinará el número de subdirecciones regionales de apoyo, su ubicación, sede y jurisdicción, en concordancia con las necesidades e intereses de la entidad.
-
-**Artículo 2°.***Estructura*. Para el cumplimiento de las funciones constitucionales y legales, la Fiscalía General de la Nación tiene la siguiente estructura:
-
-- 1. Despacho del Fiscal General de la Nación.
-
-- 1.1. Fiscalía Delegada ante la Corte Suprema de Justicia.
-
-- 1.2. Dirección Nacional de Políticas Públicas y Planeación.
-
-1.2.1. Subdirección de Políticas Públicas
-
-1.2.2. Subdirección de Planeación
-
-- 1.3. Dirección Nacional de Estrategia en Asuntos Constitucionales.
-
-- 1.4. Dirección Nacional de Comunicaciones, Prensa y Protocolo.
-
-- 1.5. Dirección Jurídica.
-
-- 1.6. Dirección de Gestión Internacional.
-
-- 1.7. Dirección de Control Interno.
-
-- 1.8. Dirección de Control Disciplinario.
-
-- 2. Despacho del Vicefiscal General de la Nación.
-
-- 2.1. Dirección Nacional de Análisis y Contextos.
-
-- 2.2. Dirección de Fiscalías Nacionales.
-
-- 2.3. Dirección de Articulación de Fiscalías Nacionales Especializadas.
-
-2.3.1. Dirección de Fiscalía Nacional Especializada de Derechos Humanos y Derecho Internacional Humanitario.
-
-2.3.2. Dirección de Fiscalía Nacional Especializada Contra el Crimen Organizado.
-
-2.3.3. Dirección de Fiscalía Nacional Especializada Contra el Terrorismo
-
-2.3.4. Dirección de Fiscalía Nacional Especializada Contra la Corrupción.
-
-2.3.5. Dirección de Fiscalía Nacional Especializada de Justicia Transicional.
-
-2.3.6. Dirección de Fiscalía Nacional Especializada Antinarcóticos y Lavado de Activos.
-
-2.3.7. Dirección de Fiscalía Nacional Especializada de Extinción del Derecho de Dominio.
-
-- 2.4. Dirección Nacional del Cuerpo Técnico de Investigación (CTI).
-
-- 2.5. Dirección Nacional de Articulación de Policías Judiciales Especializadas.
-
-2.5.1. Dirección Especializada de Policía Judicial Económico Financiera.
-
-2.5.2. Dirección Especializada de Policía Judicial de Extinción del Derecho de Dominio.
-
-2.5.3. Dirección Especializada de Policía Judicial de Derechos Humanos y de Derecho Internacional Humanitario.
-
-2.5.4. Dirección Especializada de Policía Judicial de Crimen Organizado.
-
-2.5.5. Dirección Especializada de Policía Judicial de Aforados Constitucionales.
-
-- 2.6. Dirección Nacional del Sistema Penal Acusatorio y de la Articulación Interinstitucional en Materia Penal.
-
-2.6.1. Subdirección de Articulación externa de Policías Judiciales.
-
-2.6.2. Subdirección de Articulación Interinstitucional.
-
-- 2.7. Dirección Nacional de Protección y Asistencia
-
-- 2.8. Dirección Nacional de Seccionales y de Seguridad Ciudadana.
-
-2.8.1. Subdirección Nacional de Atención a Víctimas y Usuarios.
-
-2.8.2. Direcciones Seccionales.
-
-2.8.2.1. Subdirección Seccional de Fiscalías y de Seguridad Ciudadana.
-
-2.8.2.2. Subdirección Seccional de Policía Judicial (CTI).
-
-2.8.2.3. Subdirección Seccional de Atención a Víctimas y Usuarios.
-
-2.8.2.4. Subdirección Seccional de Apoyo a la Gestión.
-
-- 3. Dirección Nacional de Apoyo a la Gestión.
-
-- 3.1. Subdirección de Talento Humano.
-
-- 3.2. Subdirección de Tecnologías de la Información y de las Comunicaciones.
-
-- 3.3. Subdirección de Gestión Contractual.
-
-- 3.4. Subdirección Financiera.
-
-- 3.5. Subdirección de Bienes.
-
-- 3.6. Subdirección de Gestión Documental.
-
-- 3.7. Subdirección de Apoyo a la Comisión de la Carrera Especial de la Fiscalía General de la Nación.
-
-- 4. Órganos y Comités de Asesoría y Coordinación
-
-- 5. Entidades Adscritas.
-
-- 5.1. Establecimiento Público - Instituto Nacional de Medicina Legal y Ciencias Forenses.
-
-- 5.2. Establecimiento Público de Educación Superior.
 
 ## **TÍTULO II**
 
@@ -995,57 +889,7 @@ B. delegada para las Finanzas Criminales:
 
 - 25. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal o Vicefiscal General de la Nación.
 
-**Artículo 29.***Dirección Nacional de Seccionales y de Seguridad Ciudadana*. La Dirección Nacional de Seccionales y de Seguridad Ciudadana cumplirá las siguientes funciones:
-
-- 1. Dirigir, coordinar, controlar y evaluar el ejercicio de las funciones a cargo de las Direcciones Seccionales de la Fiscalía General de la Nación.
-
-- 2. Dirigir, coordinar y controlar la incorporación y aplicación de políticas públicas en el desarrollo de las actividades que cumplen las Direcciones Seccionales de la Fiscalía General de la Nación, de acuerdo con los lineamientos y las orientaciones que impartan las dependencias competentes.
-
-- 3. Dirigir, coordinar y controlar el desarrollo de la función investigativa y acusatoria en los casos y situaciones que le sean asignados y en los casos y situaciones a cargo de las Direcciones Seccionales, según los lineamientos de priorización y la construcción de contextos, cuando haya lugar.
-
-- 4. Identificar y delimitar situaciones y casos de las Direcciones Seccionales que sean susceptibles de ser priorizados a nivel nacional y proponerlos al Comité Nacional de Priorización de Situaciones y Casos.
-
-- 5. Hacer seguimiento a la ejecución de los planes de priorización a cargo de las Direcciones Seccionales.
-
-- 6. Apoyar, en el marco de sus competencias, a la Dirección Nacional de Políticas Públicas y Planeación en el análisis de la información que se requiera para sustentar la formulación de la política en materia criminal.
-
-- 7. Autorizar la utilización de agentes encubiertos y las entregas vigiladas solicitadas por los fiscales de esta Dirección, en los términos y condiciones establecidos en el Código de Procedimiento Penal.
-
-- 8. Organizar y adelantar comités técnico-jurídicos de revisión de las situaciones y los casos para la ejecución de acciones en el desarrollo efectivo y eficiente de las investigaciones penales de su competencia. Si el fiscal del caso se aparta de la decisión del Comité deberá motivar su posición, la cual será estudiada nuevamente por este. En todo caso, en virtud de los principios de unidad de gestión y de jerarquía, prevalecerá el criterio y la posición de la Fiscalía señalada por el Comité, en aplicación del numeral 3 del artículo 251 de la Constitución.
-
-- 9. Mantener actualizada la información que se registre, en los sistemas de información de la entidad, en los temas de su competencia.
-
-- 10. Consolidar y clasificar la información de las investigaciones y acusaciones adelantadas por las Direcciones Seccionales y remitirla a la Dirección Nacional de Políticas Públicas y Planeación para la formulación de la política criminal, de la Fiscalía General de la Nación.
-
-- 11. Dirimir, de conformidad con la Constitución y la Ley, los conflictos de competencia que se presenten entre la Fiscalía General de la Nación y los demás organismos que desempeñen funciones de Policía Judicial, en el ámbito de su competencia.
-
-- 12. Dirimir los conflictos administrativos que se presenten al interior de la Fiscalía en el ejercicio de las funciones o en la asignación de investigaciones, en los casos y según las directrices y lineamientos impartidos por el Fiscal General de la Nación.
-
-- 13. Planear, dirigir, coordinar y controlar las funciones de análisis criminal y de Policía Judicial de la Fiscalía General de la Nación a nivel seccional, a través de las Direcciones Seccionales.
-
-- 14. Adelantar el intercambio de información entre los distintos organismos de investigación, de seguridad e inteligencia a nivel nacional e internacional, para la programación y el desarrollo de operaciones contra la delincuencia a nivel seccional, bajo las directrices del Vicefiscal General de la Nación.
-
-- 15. Velar porque en el desarrollo de las competencias de las Direcciones Seccionales se apliquen las políticas de aseguramiento y cadena de custodia de los elementos materiales probatorios y evidencia física.
-
-- 16. Proponer, en coordinación con las dependencias que cumplan funciones de policía judicial en las seccionales de la Fiscalía General de la Nación, metodologías y protocolos de investigación, para aprobación del Fiscal General de la Nación.
-
-- 17. Dirigir, coordinar, controlar, evaluar y hacer seguimiento a los procesos de atención a las víctimas y usuarios.
-
-- 18. Diseñar e implementar estrategias dirigidas a fortalecer las investigaciones que se adelanten contra los delitos que afecten la seguridad ciudadana, para lo cual podrá conformar grupos internos de trabajo, bajo los lineamientos del Fiscal General de la Nación.
-
-- 19. Gestionar la aplicación de sistemas de filtros en la recepción de denuncias y órdenes de trabajo, siguiendo los lineamientos del Fiscal General de la Nación.
-
-- 20. Dar lineamientos para la administración del registro de antecedentes judiciales que debe llevar la Fiscalía General de la Nación.
-
-- 21. Realizar seguimiento y control a las Direcciones Seccionales en el cumplimiento de las directrices y orientaciones que en materia de apoyo a la gestión imparta la Dirección Nacional de Apoyo a la Gestión.
-
-- 22. Mantener canales de comunicación y coordinación con las dependencias misionales de la entidad.
-
-- 23. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
-
-- 24. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
-
-- 25. Las demás que le sean asignadas por la ley, o delegadas por el Fiscal o Vicefiscal General de la Nación.
+NOTA: Todas las referencias que hagan las disposiciones-legales y reglamentarias vigentes a la Delegada para la Seguridad Ciudadana, deben entenderse referidas a la Delegada para la Seguridad Territorial. (Artículo 64. Ley 2197 de 2022)
 
 ##### **ARTÍCULO 30. DIRECCIÓN DE ATENCIÓN AL USUARIO**, **INTERVENCIÓN TEMPRANA Y ASIGNACIONES**. La Dirección Nacional de Atención al Usuario, Intervención Temprana y Asignaciones tiene las siguientes funciones:
 
@@ -1221,39 +1065,7 @@ Si el fiscal del caso se aparta de la decisión del Comité deberá motivar su p
 
 - 6. Las demás que le sean asignadas por la ley, por la delegada para la Seguridad Ciudadana o por el Fiscal General de la Nación o el Vicefiscal General de la Nación.
 
-##### **ARTÍCULO 36**. La Fiscalía delegada ante la Corte Suprema de Justicia a través de su coordinador, la delegada para la Seguridad Ciudadana, la delegada Contra la Criminalidad Organizada, la delegada para las Finanzas Criminales, las Direcciones Especializadas y las Direcciones Seccionales podrán autorizar la utilización' de agentes encubiertos y de entregas vigiladas solicitadas por los fiscales de la dependencia correspondiente, en los términos y condiciones establecidos en el Código de Procedimiento Penal”
-
-**Artículo 36.***Subdirección Seccional de Apoyo a la Gestión*. La Subdirección Seccional de Apoyo a la Gestión tiene las siguientes funciones:
-
-- 1. Ejecutar las políticas, objetivos y estrategias adoptadas por el Fiscal General de la Nación para la administración de la entidad.
-
-- 2. Ejecutar e implementar en la seccional los programas y actividades relacionadas con los asuntos financieros y contables, tecnologías de la información y de las comunicaciones, soporte técnico informático, gestión documental y servicios administrativos, de conformidad con los lineamientos impartidos por el Director Seccional y el Director Nacional de Apoyo a la Gestión.
-
-- 3. Elaborar y ejecutar, en coordinación con las diferentes dependencias de la Dirección Seccional, el Plan Anual de Adquisiciones de la Dirección Seccional.
-
-- 4. Suministrar, al Director Nacional de Apoyo a la Gestión, la información para la elaboración de los estados contables y de ejecución del presupuesto correspondiente a la Dirección Seccional.
-
-- 5. Adelantar las acciones requeridas para que las Direcciones Seccionales cuenten con los recursos, tanto humanos como físicos, para el cumplimiento de sus funciones.
-
-- 6. Dirigir el proceso de talento humano en sus componentes de planeación, gestión y desarrollo, de conformidad con la delegación respectiva y los lineamientos y directrices impartidas por el Director Seccional y por el Director Nacional de Apoyo a la Gestión.
-
-- 7. Implementar en la Dirección Seccional los modelos de gestión, de administración, de evaluación de personal y la política de estímulos adoptados para los servidores de la Fiscalía General de la Nación.
-
-- 8. Mantener actualizada la información de la planta de personal a nivel seccional y reportar periódicamente al Director Nacional de Apoyo a la Gestión, a través del Director Seccional.
-
-- 9. Registrar en las historias laborales de los servidores de la Dirección Seccional las sanciones disciplinarias impuestas, las decisiones que impliquen declaración de responsabilidad penal o privación de la libertad, y las de responsabilidad penal que le sean informadas, con el fin de informar al nominador sobre las inhabilidades sobrevinientes.
-
-- 10. Custodiar y actualizar las historias laborales de los servidores de la Dirección Seccional.
-
-- 11. Dirigir y controlar las actividades y procesos de contratación administrativa, y suscribir los actos y contratos requeridos para el buen funcionamiento de la Dirección Seccional, de conformidad con la delegación respectiva.
-
-- 12. Administrar y aplicar medidas para la conservación de los bienes propios, incautados o puestos a disposición de la Dirección Seccional, así como las bodegas y almacenes generales y transitorios de evidencia física a cargo de la Dirección Seccional.
-
-- 13. Elaborar e implementar los planes operativos anuales en el ámbito de su competencia, de acuerdo con la metodología diseñada por la Subdirección de Planeación.
-
-- 14. Aplicar las directrices y lineamientos del Sistema de Gestión Integral de la Fiscalía General de la Nación.
-
-- 15. Las demás que le sean asignadas por la ley o delegadas por el Fiscal General de la Nación.
+##### **ARTÍCULO 36**. La Fiscalía delegada ante la Corte Suprema de Justicia a través de su coordinador, la delegada para la Seguridad Terrtorial, la delegada Contra la Criminalidad Organizada, la delegada para las Finanzas Criminales, las Direcciones Especializadas y las Direcciones Seccionales podrán autorizar la utilización' de agentes encubiertos y de entregas vigiladas solicitadas por los fiscales de la dependencia correspondiente, en los términos y condiciones establecidos en el Código de Procedimiento Penal”
 
 ### **CAPÍTULO VI**
 
