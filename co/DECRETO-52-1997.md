@@ -4,7 +4,7 @@ identifier: "DECRETO-52-1997"
 country: "co"
 rank: "decreto"
 publication_date: "1997-01-17"
-last_updated: "2005-03-02"
+last_updated: "2022-09-20"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1899860"
 department: "DEPARTAMENTO ADMINISTRATIVO DE LA FUNCIÓN PÚBLICA"
@@ -185,7 +185,7 @@ Los servidores públicos que tomaron la opción establecida en los Decretos 53 y
 
 ##### **Artículo 16.** La Fiscalía General de la Nación en uso de las atribuciones consagradas en el presente decreto no podrá exceder las apropiaciones presupuestales vigentes.
 
-##### **Artículo 17.** Ninguna autoridad podrá establecer o modificar el régimen salarial o prestacional estatuido por las normas del presente decreto, en concordancia con lo establecido en el artículo 10 de la Ley 4º de 1992. Cualquier disposición en contrario carecerá de todo efecto y no creará derechos adquiridos.
+##### **Artículo 17.** Declarado Nulo por el Consejo de Estado en Sentencia 001032500020180110100 de 21/09/2022
 
 ##### **Artículo 18.** Nadie podrá desempeñar simultáneamente más de un empleo público, ni recibir más de una asignación que provenga del Tesoro Público, o de empresas o de instituciones en las que tenga parte mayoritaria el Estado. Exceptúanse las asignaciones de que trata el artículo 19 de la Ley 4º de 1992.
 
