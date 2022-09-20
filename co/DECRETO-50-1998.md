@@ -4,7 +4,7 @@ identifier: "DECRETO-50-1998"
 country: "co"
 rank: "decreto"
 publication_date: "1998-01-10"
-last_updated: "1998-01-10"
+last_updated: "2022-09-20"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1010967"
 department: "MINISTERIO DE JUSTICIA Y DEL DERECHO"
@@ -144,41 +144,7 @@ Las cesantías se regirán por las normas establecidas en el Decreto Extraordina
 
 ##### **Artículo 6°.** Los empleos de la Fiscalía General de la Nación conservarán el porcentaje de la remuneración mensual que tiene el carácter de gastos de representación fijados en las normas vigentes que regulan la materia. Dicho porcentaje se aplicará a la remuneración mensual excluyendo las primas establecidas en los artículos siguientes.
 
-##### **Artículo 7°.** El treinta por ciento (30%) del salario básico mensual de los siguientes servidores públicos se considera como prima especial de servicios sin carácter salarial.
-
-Jefe Unidad de Fiscalía ante Tribunal Nacional
-
-Jefe Unidad de Fiscalía ante Tribunal de Distrito
-
-Fiscal ante Tribunal Nacional
-
-Jefe Unidad Regional de Fiscalía
-
-Fiscal ante Tribunal de Distrito
-
-Fiscal Regional
-
-Jefe de Unidad Seccional de Fiscalía
-
-Fiscal Seccional
-
-Secretario General
-
-Directores Nacionales
-
-Directores Regionales
-
-Directores Seccionales
-
-Jefes de Oficina
-
-Jefes de Unidad de Policía Judicial
-
-Jefe de Unidad Local de Fiscalía
-
-Fiscal Auxiliar ante la Corte Suprema de Justicia
-
-Fiscal Local
+##### **Artículo 7°.** Declarado Nulo por el Consejo de Estado en Sentencia 001032500020180110100 de 21/09/2022 y Declarado Nulo por el Consejo de Estado Sentencia 11001032500020030011301(47803) de 2007.
 
 ##### **Artículo 8°.** El Fiscal General de la Nación podrá asignar prima técnica sin carácter salarial hasta por un treinta por ciento (30%) del sueldo básico con el lleno de los requisitos que establezca mediante reglamentación interna y conforme al Decreto 1724 de 1997.
 
@@ -216,9 +182,9 @@ Los servidores públicos que tomaron la opción establecida en los Decretos 53 y
 
 ##### **Artículo 16.** La Fiscalía General de la Nación en uso de las atribuciones consagradas en el presente decreto no podrá exceder las apropiaciones presupuestales vigentes.
 
-##### **Artículo 17.** En la remuneración mensual fijada en el presente decreto, queda incorporada la prima de nivelación establecida en los Decretos números 246 y 804 de 1997.
+##### **Artículo 17.** Declarado Nulo por el Consejo de Estado en Sentencia 001032500020180110100 de 21/09/2022.
 
-##### **Artículo 18.** Ninguna autoridad podrá establecer o modificar el régimen salarial o prestacional estatuido por las normas del presente decreto, en concordancia con lo establecido en el artículo 10 de la Ley 4ª de 1992. Cualquier disposición en contrario carecerá de todo efecto y no creará derechos adquiridos.
+##### **Artículo 18.** Declarado Nulo por el Consejo de Estado en Sentencia 001032500020180110100 de 21/09/2022.
 
 ##### **Artículo 19.** Nadie podrá desempeñar simultáneamente más de un empleo público, ni recibir más de una asignación que provenga del Tesoro Público, o de empresas o de instituciones en las que tenga parte mayoritaria el Estado. Exceptúanse las asignaciones de que trata el artículo 19 de la Ley 4ª de 1992.
 
