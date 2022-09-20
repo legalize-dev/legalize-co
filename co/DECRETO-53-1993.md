@@ -4,7 +4,7 @@ identifier: "DECRETO-53-1993"
 country: "co"
 rank: "decreto"
 publication_date: "1993-01-07"
-last_updated: "2005-03-02"
+last_updated: "2022-09-20"
 status: "partially_repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1899915"
 department: "DEPARTAMENTO ADMINISTRATIVO DE LA FUNCIÓN PÚBLICA"
@@ -300,7 +300,7 @@ No se tendrá derecho a este subsidio durante el tiempo que el empleado disfrute
 
 ##### **ARTICULO 15.** La Fiscalía General de la Nación en uso de las atribuciones consagradas en el presente Decreto no podrá exceder las apropiaciones presupuestales vigentes.
 
-##### **ARTICULO 16.** Ninguna autoridad podrá establecer o modificar el régimen salarial o prestacional estatuido por las normas del presente Decreto, en concordancia con lo establecido en el artículo 10 de la Ley 4a. de 1992. Cualquier disposición en contrario carecerá de todo efecto y no creará derechos adquiridos.
+##### **ARTICULO 16.** Declarado Nulo por la sentencia del Consejo de Estado 11001032500020180110100 del 21/09/2022
 
 ##### **ARTICULO 17.** Nadie podrá desempeñar simultáneamente más de un empleo público, ni recibir más de una asignación que provenga del Tesoro Público, o de empresas o de instituciones en las que tenga parte mayoritaria el Estado. Exceptúanse las asignaciones de que trata el artículo 19 de la Ley 4a. de 1992.
 
