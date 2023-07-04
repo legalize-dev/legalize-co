@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2021-09-01"
+last_updated: "2023-07-04"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -368,7 +368,17 @@ El Gobierno fiscalizará el manejo y la inversión de tales donaciones.
 
 ##### **Artículo 63.** Los bienes de uso público, los parques naturales, las tierras comunales de grupos étnicos, las tierras de resguardo, el patrimonio arqueológico de la Nación y los demás bienes que determine la ley, son inalienables, imprescriptibles e inembargables.
 
-##### **Artículo 64.** Es deber del Estado promover el acceso progresivo a la propiedad de la tierra de los trabajadores agrarios, en forma individual o asociativa, y a los servicios de educación, salud, vivienda, seguridad social, recreación, crédito, comunicaciones, comercialización de los productos, asistencia técnica y empresarial, con el fin de mejorar el ingreso y calidad de vida de los campesinos.
+##### **Artículo 64.** Es deber del Estado promover el acceso progresivo a la propiedad de la tierra del campesinado y de los trabajadores agrarios, en forma individual o asociativa.
+
+El campesinado es sujeto de derechos y de especial protección, tiene un particular relacionamiento con la tierra basado en la producción de alimentos en garantía de la soberanía alimentaria, sus formas de territorialidad campesina, condiciones geográficas, demográficas, organizativas y culturales que lo distingue de otros grupos sociales.
+
+El Estado reconoce la dimensión económica, social, cultural, política y ambiental del campesinado, así como aquellas que le sean reconocidas y velará por la protección, respeto y garantía de sus derechos individuales y colectivos, con el objetivo de lograr la igualdad material desde un enfoque de género, etario y territorial, el acceso a bienes y derechos como a la educación de calidad con pertinencia, la vivienda, la salud, los servicios públicos domiciliarios, vías terciarias, la tierra, el territorio, un ambiente sano, el acceso e intercambio de semillas, los recursos naturales y la diversidad biológica, el agua, la participación reforzada, la conectividad digital: la mejora de la infraestructura rural, la extensión agropecuaria y empresarial, asistencia técnica y tecnológica para generar valor agregado y medios de comercialización para sus productos.
+
+Los campesinos y las campesinas son libres e iguales a todas las demás poblaciones y tienen derecho a no ser objeto de ningún tipo de discriminación en el ejercicio de sus derechos, en particular las fundadas en su situación económica, social, cultural y política.
+
+**Parágrafo 1**°**.** La ley reglamentará la institucionalidad necesaria para lograr los fines del presente artículo y establecerá los mecanismos presupuestales que se requieran, así como el derecho de los campesinos a retirarse de la colectividad, conservando el porcentaje de tierra que le corresponda en casos de territorios campesinos donde la propiedad de la tierra sea colectiva.
+
+**Parágrafo 2**°**.** Se creará el trazador presupuestal de campesinado como herramienta para el seguimiento del gasto y la inversión realizada por múltiples sectores y entidades, dirigida a atender a la población campesina ubicada en zona rural y rural dispersa.
 
 ##### **Artículo 65.** La producción de alimentos gozará de la especial protección del Estado. Para tal efecto, se otorgará prioridad al desarrollo integral de las actividades agrícolas, pecuarias, pesqueras, forestales y agroindustriales, así como también a la construcción de obras de infraestructura física y adecuación de tierras.
 
