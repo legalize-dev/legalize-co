@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2023-07-04"
+last_updated: "2023-07-05"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -984,13 +984,15 @@ Si en el desarrollo de la investigación se requiere, para su perfeccionamiento,
 
 **DE LA REUNION Y EL FUNCIONAMIENTO**
 
-##### **Artículo 138.** El Congreso, por derecho propio, se reunirá en sesiones ordinarias, durante dos períodos por año, que constituirán una sola legislatura. El primer período de sesiones comenzará el 20 de julio y terminará el 16 de diciembre; el segundo el 16 de marzo y concluirá el 20 de junio.
+##### **Artículo 138**. El Congreso, por derecho propio se reunirá en sesiones ordinarias, durante dos periodos por año, que constituirán una sola legislatura. El primer periodo de sesiones comenzará el 20 de julio y terminará el 16 de diciembre; el segundo periodo iniciará el 16 de febrero y concluirá el 20 de junio.
 
-Si por cualquier causa no pudiere reunirse en las fechas indicadas, lo hará tan pronto como fuere posible, dentro de los períodos respectivos.
+Entre el 16 de febrero y el 15 de marzo no podrán tramitarse proyectos de leyes estatutarias ni reformas a la Constitución.
 
-También se reunirá el Congreso en sesiones extraordinarias, por convocatoria del Gobierno y durante el tiempo que éste señale.
+En el periodo de sesiones en el que se lleven a cabo las elecciones al Congreso de la República, este periodo iniciará el 16 de marzo y concluirá el 20 de junio.
 
-En el curso de ellas sólo podrá ocuparse en los asuntos que el Gobierno someta a su consideración, sin perjuicio de la función de control político que le es propia, la cual podrá ejercer en todo tiempo.
+Si por cualquier causa el Congreso no pudiese reunirse en las fechas indicadas, lo hará tan pronto como fuese posible, dentro de los periodos respectivos.
+
+También se reunirá el Congreso en sesiones extraordinarias, por convocatoria del Gobierno y durante el tiempo que éste señale. En el curso de ellas sólo podrá ocuparse de los asuntos que el Gobierno someta a su consideración, sin perjuicio de la función de control político que le es propia, la cual podrá ejercer en todo tiempo.
 
 ##### **Artículo 139.** Las sesiones del Congreso serán instaladas y clausuradas conjunta y públicamente por el Presidente de la República, sin que esta ceremonia, en el primer evento, sea esencial para que el Congreso ejerza legítimamente sus funciones.
 
