@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2023-07-05"
+last_updated: "2023-07-23"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -758,61 +758,15 @@ Ningún acto del Presidente, excepto el de nombramiento y remoción de Ministros
 
 Las gobernaciones y las alcaldías, así como las superintendencias, los establecimientos públicos y las empresas industriales o comerciales del Estado, forman parte de la Rama Ejecutiva.
 
-##### **Artículo 116.**La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, Comisión Nacional de Disciplina Judicial, la Fiscalía General de la Nación, los Tribunales y los Jueces, administran Justicia. También lo hace la Justicia Penal Militar.
+##### **Artículo 116.** La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, la Comisión Nacional de Disciplina Judicial, la Fiscalía General de la Nación, los Tribunales y los Jueces, administran Justicia. También lo hace la Justicia Penal Militar y la Jurisdicción Agraria y Rural.
+
+El órgano de cierre de la Jurisdicción Agraria y Rural será la Sala de Casación Civil, Agraria y Rural de la Corte Suprema de Justicia, sin perjuicio de las competencias atribuidas al Consejo de Estado en los términos del artículo 237 de la Constitución Política de Colombia.
 
 El Congreso ejercerá determinadas funciones judiciales.
 
 Excepcionalmente la ley podrá atribuir función jurisdiccional en materias precisas a determinadas autoridades administrativas. Sin embargo no les será permitido adelantar la instrucción de sumarios ni juzgar delitos.
 
 Los particulares pueden ser investidos transitoriamente de la función de administrar justicia en la condición de jurados en las causas criminales, conciliadores o en la de árbitros habilitados por las partes para proferir fallos en derecho o en equidad, en los términos que determine la ley.
-
-**Artículo 116.**La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado,Consejo Superior de la Judicatura, la Fiscalía General de la Nación, los Tribunales y los Jueces, administran Justicia. También lo hace la Justicia Penal Militar.
-
-El Congreso ejercerá determinadas funciones judiciales.
-
-Excepcionalmente la ley podrá atribuir función jurisdiccional en materias precisas a determinadas autoridades administrativas. Sin embargo no les será permitido adelantar la instrucción de sumarios ni juzgar delitos.
-
-Los particulares pueden ser investidos transitoriamente de la función de administrar justicia en la condición de jurados en las causas criminales, conciliadores o en la de árbitros habilitados por las partes para proferir fallos en derecho o en equidad, en los términos que determine la ley.
-
-Créase un Tribunal de Garantías Penales que tendrá competencia en todo el territorio nacional y en cualquier jurisdicción penal, y ejercerá las siguientes funciones:
-
-- 1. De manera preferente, servir de juez de control de garantías en cualquier investigación o proceso penal que se adelante contra miembros de la Fuerza Pública.
-
-- 2. De manera preferente, controlar la acusación penal contra miembros de la Fuerza Pública, con el fin de garantizar que se cumplan los presupuestos materiales y formales para iniciar el juicio oral.
-
-- 3. De manera permanente, dirimir los conflictos de competencia que ocurran entre la Jurisdicción Ordinaria y la Jurisdicción Penal Militar.
-
-- 4. Las demás funciones que le asigne la ley.
-
-El Tribunal de Garantías estará integrado por ocho (8) Magistrados, cuatro (4) de los cuales serán miembros de la Fuerza Pública en retiro. Sus miembros serán elegidos por la Sala de Gobierno de la Corte Suprema de Justicia, la Sala de Gobierno del Consejo de Estado y la Corte Constitucional en pleno. Los miembros de la Fuerza Pública en retiro de este Tribunal serán elegidos de cuatro (4) ternas que enviará el Presidente de la República. Una ley estatutaria establecerá los requisitos exigidos para ser magistrado, el régimen de inhabilidades e incompatibilidades, el mecanismo de postulación de candidatos, el procedimiento para su selección y demás aspectos de organización y funcionamiento del Tribunal de Garantías Penales.
-
-**Parágrafo** Transitorio. El Tribunal de Garantías Penales empezará a ejercer las funciones asignadas en este artículo, una vez entre en vigencia la ley estatutaria que lo reglamente.
-
-**Artículo 116.** La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Superior de la Judicatura, la Fiscalía General de la Nación, los Tribunales y los Jueces, administran Justicia. También lo hace la Justicia Penal Militar.
-
-El Congreso ejercerá determinadas funciones judiciales.
-
-Excepcionalmente la ley podrá atribuir función jurisdiccional en materias precisas a determinadas autoridades administrativas. Sin embargo no les será permitido adelantar la instrucción de sumarios ni juzgar delitos.
-
-Los particulares pueden ser investidos transitoriamente de la función de administrar justicia en la condición de jurados en las causas criminales, conciliadores o en la de árbitros habilitados por las partes para proferir fallos en derecho o en equidad, en los términos que determine la ley.
-
-Créase un Tribunal de Garantías Penales que tendrá competencia en todo el territorio nacional y en cualquier jurisdicción penal, y ejercerá las siguientes funciones:
-
-- 1. De manera preferente, servir de juez de control de garantías en cualquier investigación o proceso penal que se adelante contra miembros de la Fuerza Pública.
-
-- 2. De manera preferente, controlar la acusación penal contra miembros de la Fuerza Pública, con el fin de garantizar que se cumplan los presupuestos materiales y formales para iniciar el juicio oral.
-
-- 3. De manera permanente, dirimir los conflictos de competencia que ocurran entre la Jurisdicción Ordinaria y la Jurisdicción Penal Militar.
-
-- 4. Las demás funciones que le asigne la ley.
-
-El Tribunal de Garantías estará integrado por ocho (8) Magistrados, cuatro (4) de los cuales serán miembros de la Fuerza Pública en retiro. Sus miembros serán elegidos por la Sala de Gobierno de la Corte Suprema de Justicia, la Sala de Gobierno del Consejo de Estado y la Corte Constitucional en pleno. Los miembros de la Fuerza Pública en retiro de este Tribunal serán elegidos de cuatro (4) ternas que enviará el Presidente de la República. Una ley estatutaria establecerá los requisitos exigidos para ser magistrado, el régimen de inhabilidades e incompatibilidades, el mecanismo de postulación de candidatos, el procedimiento para su selección y demás aspectos de organización y funcionamiento del Tribunal de Garantías Penales.
-
-**Parágrafo** Transitorio. El Tribunal de Garantías Penales empezará a ejercer las funciones asignadas en este artículo, una vez entre en vigencia la ley estatutaria que lo reglamente.
-
-**Artículo 116**. La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Superior de la Judicatura, la Fiscalía General de la Nación, los Tribunales y los Jueces, administran Justicia. También lo hace la Justicia Penal Militar. El Congreso ejercerá determinadas funciones judiciales. Excepcionalmente la ley podrá atribuir función jurisdiccional en materias precisas a determinadas autoridades administrativas. Sin embargo no les será permitido adelantar la instrucción de sumarios ni juzgar delitos. Los particulares pueden ser investidos transitoriamente de la función de administrar justicia en la condición de jurados en las causas criminales, conciliadores o en la de árbitros habilitados por las partes para proferir fallos en derecho o en equidad, en los términos que determine la ley.
-
-**Artículo 116.** La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Superior de la Judicatura, la Fiscalía General de la Nación, los Tribunales y los Jueces, administran Justicia. También lo hace la Justicia Penal Militar. El Congreso ejercerá determinadas funciones judiciales. Excepcionalmente la ley podrá atribuir función jurisdiccional en materias precisas a determinadas autoridades administrativas. Sin embargo no les será permitido adelantar la instrucción de sumarios ni juzgar delitos. Los particulares pueden ser investidos transitoriamente de la función de administrar justicia en la condición de jurados en las causas criminales, conciliadores o en la de árbitros habilitados por las partes para proferir fallos en derecho o en equidad, en los términos que determine la ley.
 
 ##### **Artículo 117.** El Ministerio Público y la Controlaría General de la República son órganos de control.
 
