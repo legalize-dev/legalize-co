@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2023-07-23"
+last_updated: "2024-07-15"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -266,6 +266,8 @@ La ley establecerá un procedimiento breve para la revisión de las pensiones re
 
 **Parágrafo 2º.** A partir de la vigencia del presente Acto Legislativo no podrán establecerse en pactos, convenciones colectivas de trabajo, laudos o acto jurídico alguno, condiciones pensionales diferentes a las establecidas en las leyes del Sistema General de Pensiones.
 
+**Parágrafo 3°.** Los miembros de la Fuerza Pública que se encuentren o llegaren a estar en goce de asignación de retiro, goce de pensión o sus beneficiarios, tienen derecho a recibir la mesada catorce.
+
 **Parágrafo transitorio 1º.** El régimen pensional de los docentes nacionales, nacionalizados y territoriales, vinculados al servicio público educativo oficial es el establecido para el Magisterio en las disposiciones legales vigentes con anterioridad a la entrada en vigencia de la Ley 812 de 2003, y lo preceptuado en el artículo 81 de esta. Los docentes que se hayan vinculado o se vinculen a partir de la vigencia de la citada ley, tendrán los derechos de prima media establecidos en las leyes del Sistema General de Pensiones, en los términos del artículo 81 de la Ley 812 de 2003.
 
 **Parágrafo transitorio 2º.** Sin perjuicio de los derechos adquiridos, el régimen aplicable a los miembros de la Fuerza Pública y al Presidente de la República, y lo establecido en los parágrafos del presente artículo, la vigencia de los regímenes pensionales especiales, los exceptuados, así como cualquier otro distinto al establecido de manera permanente en las leyes del Sistema General de Pensiones expirará el 31 de julio del año 2010.
@@ -280,17 +282,7 @@ Los requisitos y beneficios pensionales para las personas cobijadas por este ré
 
 **Parágrafo transitorio 6º.** Se exceptúan de lo establecido por el inciso 8º del presente artículo, aquellas personas que perciban una pensión igual o inferior a tres (3) salarios mínimos legales mensuales vigentes, si la misma se causa antes del 31 de julio de 2011, quienes recibirán catorce (14) mesadas pensionales al año.
 
-**Artículo 48.** La Seguridad Social es un servicio público de carácter obligatorio que se prestará bajo la dirección, coordinación y control del Estado, en sujeción a los principios de eficiencia, universalidad y solidaridad, en los términos que establezca la Ley.
-
-Se garantiza a todos los habitantes el derecho irrenunciable a la Seguridad Social.
-
-El Estado, con la participación de los particulares, ampliara progresivamente la cobertura de la Seguridad Social que comprenderá la prestación de los servicios en la forma que determine la Ley.
-
-La Seguridad Social podrá ser prestada por entidades públicas o privadas, de conformidad con la ley.
-
-No se podrán destinar ni utilizar los recursos de las instituciones de la Seguridad Social para fines diferentes a ella.
-
-La ley definirá los medios para que los recursos destinados a pensiones mantengan su poder adquisitivo constante.
+**Parágrafo transitorio 7°.** Accederá a la mesada catorce el personal civil y no uniformado del Ministerio de Defensa Nacional y la Policía Nacional pensionado en virtud del régimen especial y exceptuado del Sistema General de Pensiones.
 
 ##### **Artículo 49.** La atención de la salud y el saneamiento ambiental son servicios públicos a cargo del Estado. Se garantiza a todas las personas el acceso a los servicios de promoción, protección y recuperación de la salud.
 
