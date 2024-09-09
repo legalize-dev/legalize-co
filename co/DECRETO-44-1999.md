@@ -4,7 +4,7 @@ identifier: "DECRETO-44-1999"
 country: "co"
 rank: "decreto"
 publication_date: "1999-01-08"
-last_updated: "1999-01-08"
+last_updated: "2024-09-09"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1899080"
 department: "DEPARTAMENTO ADMINISTRATIVO DE LA FUNCIÓN PÚBLICA"
@@ -215,13 +215,7 @@ Director Seccional
 
 Abogado Asesor
 
-##### Artículo 8º. A partir del 1º de enero de 1999, los citadores que presten sus servicios en las Corporaciones judiciales, incluidos los Tribunales Superiores y Administrativos, los Juzgados Penales, Civiles, Laborales, de Familia, Promiscuos de Familia y los Juzgados de Menores y los Asistentes Sociales de los Juzgados de Menores, de Familia yPromiscuos de Familia, tendrán derecho a un auxilio especial de transporte, de conformidad con loestablecido en el artículo 32 del Decreto 717 de 1978, así:
-
-Para ciudades de más de un millón de habitantes, veintiocho mil novecientos treinta y cuatro pesos ($28.934) moneda corriente, mensuales.
-
-Para ciudades entre seiscientos mil y un millón de habitantes dieciocho mil doscientos treinta y siete pesos ($18.237) moneda corriente, mensuales.
-
-Para ciudades entre trescientos mil y menos de seiscientos mil habitantes, once mil quinientos ochenta y cuatro pesos ($11.584) moneda corriente, mensuales.
+##### Artículo 8º. Declarado Nulo.
 
 ##### Artículo 9º. Los servidores públicos de que trata este decreto, tendrán derecho a un auxilio de transporte en los mismos términos y cuantías que establezca el Gobierno para los trabajadores particulares y empleados y trabajadores del Estado, sin perjuicio de lo dispuesto en el artículo anterior.
 
