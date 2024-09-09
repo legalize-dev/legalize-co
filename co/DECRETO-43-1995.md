@@ -4,7 +4,7 @@ identifier: "DECRETO-43-1995"
 country: "co"
 rank: "decreto"
 publication_date: "1995-01-10"
-last_updated: "1995-01-10"
+last_updated: "2024-09-09"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1839652"
 department: "DEPARTAMENTO ADMINISTRATIVO DE LA FUNCIÓN PÚBLICA"
@@ -143,43 +143,7 @@ La Sala Administrativa del Consejo Superior de la Judicatura asignará a cada un
 
 ##### **Artículo 7º**. En cumplimiento de lo dispuesto en el artículo 14 de la Ley 4º de 1992, se considerará como Prima, sin carácter salarial, el treinta por ciento (30%) del salario básico mensual de los Magistrados de todo orden de los Tribunales Superiores de Distrito Judicial y Contencioso Administrativo, de los Jueces de la República, de los Coordinadores de Juzgado Regional, de los Magistrados y Fiscales del Tribunal Superior Militar, los Auditores de Guerra y Jueces de Instrucción Penal Militar.
 
-##### **Artículo 8º.** El treinta por ciento (30%) de la remuneración mensual de los siguientes servidores públicos se considera como prima especial, sin carácter salarial:
-
-- 1. Del Consejo Superior de la Judicatura, de la Corte Constitucional, de la Corte Suprema de Justicia y del Consejo de Estado.
-
-Secretario Judicial del Consejo Superior de la Judicatura
-
-Secretario General
-
-Magistrado Auxiliar
-
-Jefe de Control Interno
-
-Director Administrativo
-
-Director de Planeación
-
-Director de Registro Nacional de Abogados
-
-Director de Unidad
-
-Secretario de Sala o Sección
-
-Relator
-
-Secretario de Presidencia del Consejo de Estado
-
-- 2. De la Dirección Nacional de Administración Judicial.
-
-Director Nacional
-
-Director Administrativo
-
-Director Seccional
-
-- 3. De los Tribunales Judiciales.
-
-Abogado Asesor
+##### **Artículo 8º.** Declarado Nulo.
 
 ##### **Artículo 9º**. Las pensiones de la Rama Judicial no estarán sometidas a lo dispuesto en el artículo 2º de la Ley 71 de 1988. En todo caso las pensiones se liquidarán sobre los mismos factores que hayan servido de base para calcular los aportes.
 
