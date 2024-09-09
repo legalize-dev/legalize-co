@@ -4,7 +4,7 @@ identifier: "DECRETO-76-1997"
 country: "co"
 rank: "decreto"
 publication_date: "1997-01-22"
-last_updated: "1997-01-22"
+last_updated: "2024-09-09"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1901196"
 department: "DEPARTAMENTO ADMINISTRATIVO DE LA FUNCIÓN PÚBLICA"
@@ -169,41 +169,7 @@ Parágrafo.Los funcionarios y empleados de la Rama Judicial que no optaron por e
 
 ##### **Artículo 6º.** En cumplimiento de lo dispuesto en el artículo 14 de la Ley 4º de 1992, se considerará como prima, sin carácter salarial, el treinta por ciento (30%) del salario básico mensual de los Magistrados de todo orden de los Tribunales Superiores de Distrito Judicial y Contencioso Administrativo, de los Jueces de la República, de los Coordinadores de Juzgado Regional, de los Magistrados y Fiscales del Tribunal Superior Militar, los Auditores de Guerra y Jueces de Instrucción Penal Militar.
 
-##### **Artículo 7º.** El treinta por ciento (30%) de la remuneración mensual de los siguientes servidores públicos se considera como prima especial, sin carácter salarial:
-
-- 1. Del Consejo Superior de la Judicatura, de la Corte Constitucional, de la Corte Suprema de Justicia y del Consejo de Estado.
-
-Secretario Judicial del Consejo Superior de la Judicatura
-
-Secretario General
-
-Magistrado Auxiliar
-
-Jefe de Control Interno
-
-Director Administrativo
-
-Director de Planeación
-
-Director de Registro Nacional de Abogados
-
-Director de Unidad
-
-Secretario de Sala o Sección
-
-Relator
-
-Secretario de Presidencia del Consejo de Estado
-
-- 2. De la Dirección Ejecutiva de Administración Judicial
-
-Director Administrativo
-
-Director Seccional
-
-- 3. De los Tribunales Judiciales
-
-Abogado Asesor
+##### **Artículo 7º.** Declarado Nulo.
 
 ##### **Artículo 8º.** A partir del 1º de enero de 1997, los Citadores quepresten sus servicios en los Tribunales Superiores y Administrativos, en los Juzgados Penales, Civiles, Laborales, de Familia y Promiscuos de Familia y los Asistentes Sociales de los Juzgados de Menores, tendrán derecho a un auxilio especial de transporte, de conformidad con lo establecido en el artículo 32 del Decreto 717 de 1978, así:
 
