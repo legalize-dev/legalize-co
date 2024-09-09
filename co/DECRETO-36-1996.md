@@ -4,7 +4,7 @@ identifier: "DECRETO-36-1996"
 country: "co"
 rank: "decreto"
 publication_date: "1996-01-17"
-last_updated: "1996-01-17"
+last_updated: "2024-09-09"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1898489"
 department: "DEPARTAMENTO ADMINISTRATIVO DE LA FUNCIÓN PÚBLICA"
@@ -166,43 +166,7 @@ La Sala Administrativa del Consejo Superior de la Judicatura asignará a cada un
 
 ##### **Artículo Sexto.** En cumplimiento de los dispuesto en el artículo 14 de la Ley 4a. de 1992, se considerará como Prima, sin carácter salarial, el treinta por ciento (30%) del salario básico mensual de los Magistrados de todo orden de los Tribunales Superiores de Distrito Judicial y Contencioso Administrativo, de los Jueces de la República, de los Coordinadores de Juzgado Regional, de los Magistrados y Fiscales del Tribunal Superior Militar, los Auditores de Guerra y Jueces de Instrucción Penal Militar.
 
-##### **Artículo Séptimo.** El treinta por ciento (30%) de la remuneración mensual de los siguientes servidores públicos se considera como prima especial, sin carácter salarial:
-
-- 1. Del Consejo Superior de la Judicatura, de la Corte Constitucional, de la Corte Suprema de Justicia y del Consejo de Estado.
-
-Secretario Judicial del Consejo Superior de la Judicatura
-
-Secretario General
-
-Magistrado Auxiliar
-
-Jefe de Control Interno
-
-Director Administrativo
-
-Director de Planeación
-
-Director de Registro Nacional de Abogados
-
-Director de Unidad
-
-Secretario de Sala o Sección
-
-Relator
-
-Secretario de Presidencia del Consejo de Estado.
-
-- 2. De la Dirección Nacional de Administración Judicial
-
-Director Nacional
-
-Director Administrativo
-
-Director Seccional
-
-- 3. De los Tribunales Judiciales
-
-Abogado Asesor
+##### **Artículo Séptimo.** Declarado Nulo.
 
 ##### **Artículo Octavo.** A partir del 1o. de enero de 1996, los citadores que presten sus servicios en los Juzgados Penales, Civiles, Laborales y los Asistentes Sociales de los Juzgados de Menores, tendrán derecho a un auxilio especial de transporte, de conformidad con lo establecido en el artículo 32 del Decreto 717 de 1978, así:
 
