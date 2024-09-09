@@ -4,7 +4,7 @@ identifier: "DECRETO-57-1993"
 country: "co"
 rank: "decreto"
 publication_date: "1993-01-07"
-last_updated: "1993-01-07"
+last_updated: "2024-09-09"
 status: "repealed"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1900228"
 department: "DEPARTAMENTO ADMINISTRATIVO DE LA FUNCIÓN PÚBLICA"
@@ -141,37 +141,7 @@ El Consejo Superior de la Judicatura establecerá las equivalencias del cargo de
 
 ##### **ARTICULO 6o.** En cumplimiento de lo dispuesto en al artículo 14 de la Ley 4° de 1992, se considerará como Prima, sin carácter salarial, el treinta por ciento (30%) del salario básico mensual de los Magistrados de todo orden de los Tribunales Superiores de Distrito Judicial y Contencioso Administrativo, de los Jueces de la República, de los Magistrados y Fiscales del Tribunal Superior Militar, los Auditores de Guerra y Jueces de Instrucción Penal Militar.
 
-##### **ARTICULO 7o.** El treinta por ciento (30%) de la remuneración mensual de los siguientes servidores públicos se considera como Prima Especial, sin carácter salarial:
-
-- 1. Del Consejo Superior de la Judicatura, de la Corte Constitucional, de la Corte Suprema de Justicia y del Consejo de Estado.
-
-Secretario General
-
-Magistrado Auxiliar
-
-Jefe de Control Interno
-
-Director Administrativo
-
-Director de Planeación
-
-Director de Registro Nacional de Abogados
-
-Director de Unidad Secretario de Sala o Sección
-
-Relator
-
-- 2. De la Dirección Nacional de Administración Judicial
-
-Director Nacional
-
-Director Administrativo
-
-Director Seccional
-
-- 3. De los Tribunales Judiciales
-
-Abogado Asesor
+##### **ARTICULO 7o.** Declarado Nulo.
 
 ##### **ARTICULO 8o.** A los funcionarios que optaron por el régimen establecido en el artículo 2° del Decreto 903 de 1992 se les liquidarán las cesantías causadas con base en la remuneración salarial establecida en dicho artículo para el año de 1992.
 
