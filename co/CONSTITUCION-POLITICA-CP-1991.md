@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2024-07-15"
+last_updated: "2024-11-07"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -1572,7 +1572,7 @@ Todos los colombianos están obligados a tomar las armas cuando las necesidades 
 
 La Ley determinará las condiciones que en todo tiempo eximen del servicio militar y las prerrogativas por la prestación del mismo.
 
-##### **Artículo 217.** La Nación tendrá para su defensa unas Fuerzas Militares permanentes constituidas por el Ejército, la Armada y la Fuerza Aérea.
+##### **Artículo 217.** La Nación tendrá para su defensa unas Fuerzas Militares permanentes constituidas por el Ejército, la Armada y la Fuerza Aeroespacial.
 
 Las Fuerzas Militares tendrán como finalidad primordial la defensa de la soberanía, la independencia, la integridad del territorio nacional y del orden constitucional.
 
