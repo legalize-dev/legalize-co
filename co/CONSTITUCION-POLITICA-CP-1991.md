@@ -4,7 +4,7 @@ identifier: "CONSTITUCION-POLITICA-CP-1991"
 country: "co"
 rank: "constitucion_politica"
 publication_date: "1991-07-07"
-last_updated: "2024-12-26"
+last_updated: "2025-02-05"
 status: "in_force"
 source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988"
 department: "ASAMBLEA NACIONAL CONSTITUYENTE"
@@ -372,9 +372,7 @@ Los campesinos y las campesinas son libres e iguales a todas las demás poblacio
 
 **Parágrafo 2**°**.** Se creará el trazador presupuestal de campesinado como herramienta para el seguimiento del gasto y la inversión realizada por múltiples sectores y entidades, dirigida a atender a la población campesina ubicada en zona rural y rural dispersa.
 
-##### **Artículo 65.** La producción de alimentos gozará de la especial protección del Estado. Para tal efecto, se otorgará prioridad al desarrollo integral de las actividades agrícolas, pecuarias, pesqueras, forestales y agroindustriales, así como también a la construcción de obras de infraestructura física y adecuación de tierras.
-
-De igual manera, el Estado promoverá la investigación y la transferencia de tecnología para la producción de alimentos y materias primas de origen agropecuario, con el propósito de incrementar la productividad.
+##### **Artículo 65.** El Estado garantizará el derecho humano a la alimentación adecuada, de manera progresiva, con un enfoque intercultural y territorial, y a estar protegido contra el hambre y las distintas formas de malnutrición. Así mismo, promoverá condiciones de seguridad, soberanía y autonomías alimentarias en el territorio nacional y generará acciones para minimizar la pérdida de alimentos. La producción y acceso a alimentos gozará de la especial protección del Estado. Para tal efecto, se otorgará prioridad al desarrollo sostenible e integral de las actividades agrícolas, agroalimentarias, agroindustriales, agroecológicas, pecuarias, pesqueras, acuáticas, forestales y campesinas, así como también a la adecuación de tierras, construcción de obras de infraestructura física y logística que facilite la disponibilidad de alimentos en todo el territorio nacional. De igual manera, el Estado promoverá la investigación y la transferencia de conocimiento y tecnología para la producción de alimentos y materias primas de origen agropecuario y acuícola, con el propósito de incrementar la productividad y disponibilidad, así como proteger y salvaguardar la biodiversidad y los medios e insumos de la actividad. Parágrafo Transitorio. Dentro de los 6 meses siguientes a la promulgación del presente Acto Legislativo, el Gobierno nacional presentará ante el Congreso de la República para su trámite un proyecto de ley estatutaria que desarrolle y reglamente lo dispuesto en este artículo.
 
 ##### **Artículo 66.** Las disposiciones que se dicten en materia crediticia podrán reglamentar las condiciones especiales del crédito agropecuario, teniendo en cuenta los ciclos de las cosechas y de los precios, como también los riesgos inherentes a la actividad y las calamidades ambientales.
 
