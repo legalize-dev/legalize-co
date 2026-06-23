@@ -1,111 +1,41 @@
-# Legalize CO
+# legalize-co
 
-### Legislación colombiana consolidada en Markdown, versionada con Git.
+Legislación de Colombia en formato Markdown, versionada como repositorio git.
 
-Cada norma es un fichero. Cada reforma documentada es un commit.
+Cada ley es un archivo; cada reforma es un commit con la fecha real de publicación oficial. El `git log` de cada ley te muestra su historia completa — cuándo se sancionó, qué artículos se modificaron y por qué norma.
 
-**Fuente oficial:** [SUIN-Juriscol](https://www.suin-juriscol.gov.co) — Sistema Único de Información Normativa del Ministerio de Justicia y del Derecho de la República de Colombia.
+Cobertura de la normativa nacional colombiana publicada en SUIN-Juriscol, con texto consolidado por norma. SUIN no expone API ni catálogo: las normas se descubren enumerando identificadores numéricos internos del portal (viewDocument.asp?id=...). Cada archivo es una norma; el historial de reformas se reconstruye a partir de los bloques "LEGISLACIÓN ANTERIOR" que SUIN incrusta por artículo, con su rango de vigencia.
 
-**Cobertura:** Leyes · Decretos · Actos Legislativos · Resoluciones · 1887–presente
+## Qué contiene
 
-Forma parte del proyecto [Legalize](https://github.com/legalize-dev/legalize) · [legalize.dev](https://legalize.dev)
+- **Ley** (`LEY-XX-AAAA.md`) — `co/LEY-57-1887.md`
+- **Decreto** (`DECRETO-XX-AAAA.md`) — `co/DECRETO-453-1981.md`
+- **Acto Legislativo** (`ACTO-LEGISLATIVO-XX-AAAA.md`) — Reformas a la Constitución Política.
+- **Otros tipos normativos** (`{TIPO}-XX-AAAA.md`) — SUIN-Juriscol también publica acuerdos, resoluciones, circulares, instrucciones, constituciones y jurisprudencia (Corte Constitucional, Consejo de Estado, Corte Suprema); el rango del nombre de archivo se deriva del campo tipo de cada norma.
 
-> **Fase inicial** — Este repositorio está en desarrollo activo. La estructura de los ficheros, el historial de commits y el contenido pueden cambiar significativamente, incluyendo regeneraciones completas.
+## Fuente de los datos
 
-## Inicio rápido
+- **SUIN-Juriscol — Sistema Único de Información Normativa, Ministerio de Justicia y del Derecho de Colombia**
+  - Portal: https://www.suin-juriscol.gov.co
+  - Documento: https://www.suin-juriscol.gov.co/viewDocument.asp?id={id}
+  - Dataset (Datos Abiertos Colombia): https://www.datos.gov.co/Justicia-y-Derecho/Lista-de-normas-cargadas-en-el-Sistema-nico-de-Inf/fiev-nid6
 
-```bash
-# Clonar la legislación colombiana
-git clone https://github.com/legalize-dev/legalize-co.git
+## Limitaciones conocidas
 
-# Leer la Ley 57 de 1887 — adopción de los Códigos nacionales
-less co/LEY-57-1887.md
+- Las imágenes incrustadas en las normas se omiten deliberadamente (no se procesan activos binarios).
+- Las fechas de publicación provienen de campos editados manualmente por SUIN y ocasionalmente contienen años futuros erróneos; el parser los descarta y recurre a otras fechas (vigencia, expedición) cuando la fecha del Diario Oficial es implausible.
+- SUIN-Juriscol sirve una cadena de certificados TLS rota, por lo que la descarga deshabilita la verificación de TLS.
+- El identificador del archivo se construye a partir de los campos tipo/número/año de la norma; cuando faltan, se intenta derivar del título y, en última instancia, se usa el id numérico interno de SUIN.
 
-# Buscar un artículo
-grep -A 5 "Artículo 1" co/LEY-57-1887.md
+## Otros países
 
-# Ver el historial de reformas de una ley (commits por artículo modificado)
-git log --oneline -- co/LEY-57-1887.md
+Este repositorio es parte del proyecto **Legalize**, que mantiene legislación de múltiples países como repos git. Ver https://legalize.dev para el catálogo completo.
 
-# Ver el diff de la reforma de 1976
-git log -p --grep "1976" -- co/LEY-57-1887.md
-```
+## Apoyar
 
-## Estructura
-
-```
-co/
-  LEY-57-1887.md               — Ley 57 de 1887 (adopción de Códigos)
-  ACTO-LEGISLATIVO-1-1910.md   — Acto Legislativo 1 de 1910
-  DECRETO-2900-1966.md         — Decreto 2900 de 1966
-  DECRETO-54-1993.md           — Decreto 54 de 1993
-  ...                          — ~ decenas de miles de normas
-```
-
-La estructura es **plana** — un solo directorio por país, sin subdirectorios por rango. El identificador sigue la plantilla `{TIPO}-{número}-{año}` (por ejemplo `LEY-100-1993`, `DECRETO-1072-2015`, `ACTO-LEGISLATIVO-2-2020`). El tipo de norma está en el frontmatter YAML de cada fichero:
-
-| Rank (frontmatter) | Tipo |
-|---|---|
-| `ley` | Ley del Congreso |
-| `acto_legislativo` | Acto Legislativo (reforma constitucional) |
-| `decreto` | Decreto del Ejecutivo |
-| `resolucion` | Resolución |
-| `otro` | Otras categorías SUIN |
-
-## Formato
-
-Cada fichero es Markdown con frontmatter YAML:
-
-```yaml
----
-title: "Sobre adopción de Códigos y unificación de la legislación nacional"
-identifier: "LEY-57-1887"
-country: "co"
-rank: "ley"
-publication_date: "1887-04-22"
-last_updated: "1976-01-18"
-status: "in_force"
-source: "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1789030"
-department: "CONSEJO NACIONAL LEGISLATIVO"
-document_status_raw: "Vigente"
-gazette_reference: "DIARIO OFICIAL. AÑO XXIII. N.7019. 20, ABRIL, 1887. PÁG.1"
-gazette_number: "7021"
-gazette_page: "445"
-subtype: "LEY ORDINARIA"
-subjects: "Administración de justicia | Penal"
-modification_count: "102"
-modification_summary: "Reformado [Artículo 49 LEY 153 de 1887](...) · Derogado [Artículo 31 LEY 1 de 1976](...) · ..."
----
-```
-
-El cuerpo del Markdown contiene el texto normativo consolidado (títulos, capítulos, secciones, artículos y firmas).
-
-### Historial de reformas por artículo
-
-SUIN-Juriscol embebe, para cada artículo que ha sido modificado, un bloque `LEGISLACIÓN ANTERIOR` con el texto vigente antes de la última reforma y el rango de vigencia (`Vigente desde: D1 y hasta el: D2`). El pipeline extrae estos bloques y genera **un commit `[reforma]` por artículo y fecha de corte**, además del commit `[bootstrap]` inicial.
-
-Cobertura típica: ~93% de las reformas documentadas quedan reconstruidas como commits reales con su diff correspondiente; el resto queda preservado como índice de referencias cruzadas en el campo `modification_summary` del frontmatter.
-
-### Fechas pre-1970
-
-GitHub rechaza commits con timestamps anteriores al epoch Unix (1970-01-02). Los commits con fechas reales anteriores a 1970 se publican con `git-date = 1970-01-02`, pero el valor real está preservado en el trailer `Source-Date: YYYY-MM-DD` del mensaje del commit y en los campos `publication_date` / `last_updated` del frontmatter. El orden cronológico está garantizado por la secuencia del `git log`.
-
-### Tipos de commit
-
-- `[bootstrap]` — primera publicación de la norma en el repositorio
-- `[reforma]` — modificación de uno o más artículos
-- `[nueva]` / `[derogacion]` / `[correccion]` — detectadas por actualizaciones posteriores
-
-Cada commit trae los trailers `Source-Id`, `Source-Date` y `Norm-Id` para reconstruir la trazabilidad con `git log`.
-
-## Fuente
-
-Los datos provienen de [SUIN-Juriscol](https://www.suin-juriscol.gov.co), el Sistema Único de Información Normativa operado por el Ministerio de Justicia y del Derecho de la República de Colombia. Es el sistema oficial de consulta normativa del Estado colombiano.
+Legalize es libre y abierto. Si este trabajo te resulta útil, puedes ayudar a sostener su alojamiento y desarrollo: [Apoya este proyecto](https://buymeacoffee.com/legalizedev).
 
 ## Licencia
 
-[MIT](LICENSE) — el contenido de las normas es del dominio público colombiano; el código del pipeline es MIT.
-
----
-
-Generado por el pipeline [legalize-pipeline](https://github.com/legalize-dev/legalize-pipeline).
+- **Código del pipeline**: MIT (https://github.com/legalize-dev/legalize-pipeline)
+- **Datos**: Dominio público (textos oficiales del Estado, libre reproducción)
