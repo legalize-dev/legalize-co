@@ -38,4 +38,4 @@ Legalize es libre y abierto. Si este trabajo te resulta útil, puedes ayudar a s
 ## Licencia
 
 - **Código del pipeline**: MIT (https://github.com/legalize-dev/legalize-pipeline)
-- **Datos**: Dominio público (textos oficiales del Estado, libre reproducción)
+- **Datos**: Textos normativos oficiales del Estado colombiano, reproducibles conforme al art. 41 de la Ley 23 de 1982, con la obligación de conformarse con la edición oficial. Los campos editoriales que acompañan a cada norma (vigencia, subtipo, sector, materia) y el historial de reformas provienen de la anotación de SUIN-Juriscol (Ministerio de Justicia y del Derecho); Legalize no reclama derechos sobre ellos, ni reproduce el formato, el diseño ni la marca del portal. La licencia MIT cubre el código del pipeline, nunca el contenido normativo.
